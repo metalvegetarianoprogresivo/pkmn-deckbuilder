@@ -6,7 +6,7 @@
 
 **Herramienta profesional de construcción y optimización de decks para Pokémon TCG formato Standard (SVI-ASC)**
 
-🔗 **[Ver Aplicación en Vivo](https://tu-usuario.github.io/tu-repo/)**
+🔗 **[Ver Aplicación en Vivo](https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/)**
 
 ---
 
@@ -172,10 +172,10 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/metalvegetarianoprogresivo/pkmn-deckbuilder.git
 
 # Entrar al directorio
-cd tu-repo
+cd pkmn-deckbuilder
 
 # Abrir index.html en tu navegador
 open index.html
@@ -198,7 +198,7 @@ No requiere servidor local ni instalación de dependencias.
 4. Branch: `main` / Folder: `/ (root)`
 5. Click **Save**
 6. Espera 1-2 minutos
-7. Tu sitio estará en: `https://tu-usuario.github.io/tu-repo/`
+7. Tu sitio estará en: `https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/`
 
 ### Opción 2: Con GitHub Actions
 
@@ -267,7 +267,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-Creado con ❤️ por [Tu Nombre]
+Creado con ❤️ por [metalvegetarianoprogresivo](https://github.com/metalvegetarianoprogresivo)
+
+**🔗 Repositorio:** [github.com/metalvegetarianoprogresivo/pkmn-deckbuilder](https://github.com/metalvegetarianoprogresivo/pkmn-deckbuilder)
 
 ---
 
@@ -282,9 +284,9 @@ Creado con ❤️ por [Tu Nombre]
 
 ## 📊 Estadísticas del Proyecto
 
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario/tu-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tu-usuario/tu-repo?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/tu-usuario/tu-repo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/metalvegetarianoprogresivo/pkmn-deckbuilder?style=social)
+![GitHub forks](https://img.shields.io/github/forks/metalvegetarianoprogresivo/pkmn-deckbuilder?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/metalvegetarianoprogresivo/pkmn-deckbuilder?style=social)
 
 ---
 

@@ -15,7 +15,7 @@ Esta guía te llevará paso a paso para publicar tu Universal Deckbuilder Pro en
 1. Ve a [github.com](https://github.com)
 2. Click en el botón **"+"** (arriba derecha) → **"New repository"**
 3. Completa:
-   - **Repository name**: `pokemon-deckbuilder` (o el nombre que prefieras)
+   - **Repository name**: `pkmn-deckbuilder`
    - **Description**: "Universal Deckbuilder Pro para Pokémon TCG"
    - **Public** (debe ser público para GitHub Pages gratis)
    - ✅ **Add a README file** (desmarca esto, ya tenemos uno)
@@ -51,7 +51,7 @@ git add .
 git commit -m "Initial commit: Universal Deckbuilder Pro"
 
 # Conecta con tu repositorio de GitHub
-git remote add origin https://github.com/TU-USUARIO/pokemon-deckbuilder.git
+git remote add origin https://github.com/metalvegetarianoprogresivo/pkmn-deckbuilder.git
 
 # Renombra la branch a main (si es necesario)
 git branch -M main
@@ -71,7 +71,7 @@ git push -u origin main
    - Folder: `/ (root)`
 5. Click **"Save"**
 6. ⏳ **Espera 1-2 minutos** mientras GitHub despliega tu sitio
-7. 🎉 Verás un mensaje: **"Your site is live at https://TU-USUARIO.github.io/pokemon-deckbuilder/"**
+7. 🎉 Verás un mensaje: **"Your site is live at https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/"**
 
 ### Paso 4: Verificar
 
@@ -195,7 +195,7 @@ Para agregar Google Analytics:
 ## 🎉 ¡Listo!
 
 Tu Universal Deckbuilder Pro está ahora en vivo en:
-**https://TU-USUARIO.github.io/pokemon-deckbuilder/**
+**https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/**
 
 Comparte el link con la comunidad! 🎴
 

@@ -6,7 +6,7 @@
 ```
 1. Ve a github.com
 2. Click en "+" → "New repository"
-3. Nombre: pokemon-deckbuilder
+3. Nombre: pkmn-deckbuilder
 4. Public ✅
 5. Create repository
 ```
@@ -36,7 +36,7 @@
 ### 4️⃣ ¡Listo!
 ```
 Tu sitio estará en:
-https://TU-USUARIO.github.io/pokemon-deckbuilder/
+https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/
 ```
 
 ---
@@ -59,7 +59,7 @@ git add .
 git commit -m "Initial commit"
 
 # 5. Conecta con GitHub (REEMPLAZA CON TU URL)
-git remote add origin https://github.com/TU-USUARIO/pokemon-deckbuilder.git
+git remote add origin https://github.com/metalvegetarianoprogresivo/pkmn-deckbuilder.git
 
 # 6. Sube
 git branch -M main
@@ -97,7 +97,7 @@ chmod +x deploy.sh
 
 Después de 2 minutos, visita:
 ```
-https://TU-USUARIO.github.io/TU-REPO/
+https://metalvegetarianoprogresivo.github.io/pkmn-deckbuilder/
 ```
 
 Deberías ver el deckbuilder funcionando! 🎉
