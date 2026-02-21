@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write # Necesario para hacer commit y push al repo
+  actions: write  # Necesario para habilitar el workflow con gh CLI
 
 jobs:
   fetch-data:
@@ -51,6 +52,9 @@ jobs:
             echo "✅ Cambios commiteados y pusheados."
           fi
 
-      # Acción para evitar que el workflow se desactive tras 60 días de inactividad
+      # Evita que el workflow se desactive tras 60 días de inactividad
       - name: Keep workflow alive
-        uses: gautamkrishnar/keepalive-workflow@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow enable fetch-cards.yaml || true
