@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-tcg-deck-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deck builder estático para Pokémon TCG usando TCGDex API",
+  "scripts": {
+    "fetch-data": "node scripts/fetchCards.js",
+    "fetch-data:en": "TCGDEX_LANG=en node scripts/fetchCards.js",
+    "fetch-data:es": "TCGDEX_LANG=es node scripts/fetchCards.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {}
+}
