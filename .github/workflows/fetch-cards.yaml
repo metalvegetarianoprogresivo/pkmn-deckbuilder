@@ -1,0 +1,56 @@
+name: Fetch Pokémon TCG Data (TCGDex)
+
+on:
+  schedule:
+    # Ejecuta cada día a las 6:17 UTC
+    # (offset de :00 para evitar picos de carga en GitHub)
+    - cron: '17 6 * * *'
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+
+permissions:
+  contents: write # Necesario para hacer commit y push al repo
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch Pokémon TCG data from TCGDex
+        run: node scripts/fetchCards.js
+        # ✅ No se necesita API Key — TCGDex es completamente gratuita
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --quiet --cached; then
+            echo "✅ Sin cambios detectados, omitiendo commit."
+          else
+            CARD_COUNT=$(node -e "
+              const fs = require('fs');
+              try {
+                const meta = JSON.parse(fs.readFileSync('data/metadata.json', 'utf-8'));
+                console.log(meta.totalCards + ' cartas, ' + meta.standardLegalCards + ' en Standard');
+              } catch(e) { console.log('datos actualizados'); }
+            ")
+            git commit -m "chore: actualizar datos TCGDex — $CARD_COUNT [$(date -u '+%Y-%m-%d')]"
+            git push
+            echo "✅ Cambios commiteados y pusheados."
+          fi
+
+      # Acción para evitar que el workflow se desactive tras 60 días de inactividad
+      - name: Keep workflow alive
+        uses: gautamkrishnar/keepalive-workflow@v2
