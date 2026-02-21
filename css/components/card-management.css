@@ -1,0 +1,91 @@
+.card-category {
+    margin-bottom: 2rem;
+}
+
+.category-header {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-count {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.card-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem;
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(217, 70, 239, 0.1);
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.card-item:hover {
+    background: rgba(217, 70, 239, 0.1);
+    border-color: var(--primary);
+    transform: translateX(4px);
+}
+
+.card-controls {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.card-btn {
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--border);
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+}
+
+.card-btn:hover {
+    background: var(--primary);
+    border-color: var(--primary);
+    transform: scale(1.1);
+}
+
+.card-btn.delete {
+    background: rgba(239, 68, 68, 0.2);
+    border-color: var(--danger);
+}
+
+.card-btn.delete:hover {
+    background: var(--danger);
+}
+
+.card-count-display {
+    min-width: 24px;
+    text-align: center;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.card-name {
+    flex: 1;
+    font-weight: 500;
+}
+
+.card-set {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.4);
+    text-transform: uppercase;
+}
