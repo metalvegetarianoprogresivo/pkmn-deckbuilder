@@ -1,0 +1,8336 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-1",
+    "illustrator": "tetsuya koizumi",
+    "localId": "1",
+    "name": "Charmander",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Colmillo Ígneo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363474,
+        "avg": 1.7,
+        "low": 0.5,
+        "trend": 1.91,
+        "avg1": 0.95,
+        "avg7": 1.52,
+        "avg30": 1.91,
+        "avg-holo": 14.6,
+        "low-holo": 5.99,
+        "trend-holo": 11.28,
+        "avg1-holo": 11.97,
+        "avg7-holo": 12.37,
+        "avg30-holo": 9.45
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175263,
+          "lowPrice": 10,
+          "midPrice": 24.73,
+          "highPrice": 29.99,
+          "marketPrice": 16.2,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175263,
+          "lowPrice": 0.99,
+          "midPrice": 1.81,
+          "highPrice": 96.95,
+          "marketPrice": 1.86,
+          "directLowPrice": 1.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-2",
+    "illustrator": "kodama",
+    "localId": "2",
+    "name": "Charmeleon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      5
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Luchador Ardiente",
+        "effect": "Cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes descartar las 5 primeras cartas de tu baraja. Si entre esas cartas hay cartas de Energía Fire, únelas a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Lanzallamas",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363475,
+        "avg": 0.93,
+        "low": 0.05,
+        "trend": 0.99,
+        "avg1": 0.9,
+        "avg7": 0.64,
+        "avg30": 0.92,
+        "avg-holo": 3.38,
+        "low-holo": 1,
+        "trend-holo": 4.85,
+        "avg1-holo": 4.35,
+        "avg7-holo": 3.61,
+        "avg30-holo": 4.05
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175269,
+          "lowPrice": 1.75,
+          "midPrice": 2.51,
+          "highPrice": 5,
+          "marketPrice": 2.85,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175269,
+          "lowPrice": 0.3,
+          "midPrice": 0.75,
+          "highPrice": 1.75,
+          "marketPrice": 0.77,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-3",
+    "illustrator": "Ryota Murayama",
+    "localId": "3",
+    "name": "Charizard",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 160,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Llama Firme",
+        "effect": "Los ataques de este Pokémon hacen 30 puntos de daño más al Pokémon Activo de tu rival por cada uno de sus Pokémon-GX y Pokémon-EX en juego."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Explosión Ardiente",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 361549,
+        "avg": 5.64,
+        "low": 0.98,
+        "trend": 5.73,
+        "avg1": 9.9,
+        "avg7": 6,
+        "avg30": 5.4,
+        "avg-holo": 10,
+        "low-holo": 4.99,
+        "trend-holo": 12.29,
+        "avg1-holo": 19.45,
+        "avg7-holo": 12.36,
+        "avg30-holo": 16.49
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175270,
+          "lowPrice": 18.99,
+          "midPrice": 23.08,
+          "highPrice": 39.99,
+          "marketPrice": 20.91,
+          "directLowPrice": null
+        },
+        "holofoil": {
+          "productId": 175270,
+          "lowPrice": 5,
+          "midPrice": 7.91,
+          "highPrice": 14.99,
+          "marketPrice": 7.57,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-4",
+    "illustrator": "Kouki Saitou",
+    "localId": "4",
+    "name": "Torchic",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      255
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Quemadura",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Quemado."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363476,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.05,
+        "avg7": 0.2,
+        "avg30": 0.21,
+        "avg-holo": 0.99,
+        "low-holo": 0.12,
+        "trend-holo": 1.1,
+        "avg1-holo": 1.99,
+        "avg7-holo": 0.97,
+        "avg30-holo": 1.25
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175272,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.23
+        },
+        "reverse-holofoil": {
+          "productId": 175272,
+          "lowPrice": 0.6,
+          "midPrice": 0.85,
+          "highPrice": 1.24,
+          "marketPrice": 0.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-5",
+    "illustrator": "Ken Sugimori",
+    "localId": "5",
+    "name": "Combusken",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      256
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cura Natural",
+        "effect": "Cada vez que unas 1 carta de Energía de tu mano a este Pokémon, elimina todas sus Condiciones Especiales."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Plancha",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363477,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.27,
+        "avg1": 0.19,
+        "avg7": 0.19,
+        "avg30": 0.23,
+        "avg-holo": 1.5,
+        "low-holo": 0.1,
+        "trend-holo": 0.76,
+        "avg1-holo": 1.04,
+        "avg7-holo": 0.89,
+        "avg30-holo": 0.89
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175273,
+          "lowPrice": 0.03,
+          "midPrice": 0.33,
+          "highPrice": 1.49,
+          "marketPrice": 0.32,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175273,
+          "lowPrice": 0.4,
+          "midPrice": 0.7,
+          "highPrice": 96.95,
+          "marketPrice": 0.74,
+          "directLowPrice": 0.56
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-6",
+    "illustrator": "Kouki Saitou",
+    "localId": "6",
+    "name": "Blaziken",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      257
+    ],
+    "hp": 150,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Encendedor",
+        "effect": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía Fire de tu pila de descartes a 1 de tus Pokémon en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Corriente de Fuego",
+        "effect": "Descarta 1 Energía Fire de este Pokémon. Este ataque hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363478,
+        "avg": 1.62,
+        "low": 0.2,
+        "trend": 1.5,
+        "avg1": 1.49,
+        "avg7": 1.55,
+        "avg30": 1.52,
+        "avg-holo": 10,
+        "low-holo": 1.2,
+        "trend-holo": 10.45,
+        "avg1-holo": 7.99,
+        "avg7-holo": 9.43,
+        "avg30-holo": 6.54
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175274,
+          "lowPrice": 5.26,
+          "midPrice": 8.22,
+          "highPrice": 17.42,
+          "marketPrice": 8.45,
+          "directLowPrice": null
+        },
+        "holofoil": {
+          "productId": 175274,
+          "lowPrice": 0.79,
+          "midPrice": 1.5,
+          "highPrice": 8.95,
+          "marketPrice": 1.56,
+          "directLowPrice": 1.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-7",
+    "illustrator": "Shin Nagasawa",
+    "localId": "7",
+    "name": "Victini ◇",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      494
+    ],
+    "hp": 90,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Infinidad",
+        "effect": "Este ataque hace 20 puntos de daño por cada carta de Energía Básica en tu pila de descartes. Después, pon esas cartas en tu baraja y barájalas todas.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363479,
+        "avg": 5.02,
+        "low": 0.6,
+        "trend": 5.02,
+        "avg1": 4.29,
+        "avg7": 4.68,
+        "avg30": 4.51,
+        "avg-holo": 1.6,
+        "low-holo": 3.5,
+        "trend-holo": 2.46,
+        "avg1-holo": 1.6,
+        "avg7-holo": 2.66,
+        "avg30-holo": 2.68
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-8",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "8",
+    "name": "Darumaka",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      554
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Embestida Dañina",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño más por cada cara.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363480,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.1,
+        "avg7": 0.22,
+        "avg30": 0.19,
+        "avg-holo": 1.9,
+        "low-holo": 0.15,
+        "trend-holo": 1.04,
+        "avg1-holo": 0.85,
+        "avg7-holo": 0.97,
+        "avg30-holo": 0.74
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175276,
+          "lowPrice": 0.3,
+          "midPrice": 0.5,
+          "highPrice": 2,
+          "marketPrice": 0.4,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175276,
+          "lowPrice": 0.05,
+          "midPrice": 0.22,
+          "highPrice": 1.49,
+          "marketPrice": 0.22,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-9",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "9",
+    "name": "Darmanitan",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      555
+    ],
+    "hp": 130,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Asistencia de Calor",
+        "effect": "Une hasta 3 cartas de Energía Fire de tu mano a tus Pokémon de la manera que desees."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Puños Darmanitas",
+        "effect": "Lanza 4 monedas. Este ataque hace 50 puntos de daño más por cada cara.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363481,
+        "avg": 0.49,
+        "low": 0.02,
+        "trend": 0.4,
+        "avg1": 0.28,
+        "avg7": 0.32,
+        "avg30": 0.36,
+        "avg-holo": 0.61,
+        "low-holo": 0.1,
+        "trend-holo": 0.85,
+        "avg1-holo": 0.95,
+        "avg7-holo": 0.79,
+        "avg30-holo": 0.87
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175277,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.21
+        },
+        "reverse-holofoil": {
+          "productId": 175277,
+          "lowPrice": 0.18,
+          "midPrice": 0.6,
+          "highPrice": 2,
+          "marketPrice": 0.51,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-10",
+    "illustrator": "Ken Sugimori",
+    "localId": "10",
+    "name": "Heatmor",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      631
+    ],
+    "hp": 110,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Quemadura",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Aliento Incendiario",
+        "effect": "Si el Pokémon Activo de tu rival no está Quemado, este ataque no hace nada.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363482,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.28,
+        "avg7": 0.42,
+        "avg30": 0.3,
+        "avg-holo": 0.77,
+        "low-holo": 0.16,
+        "trend-holo": 0.56,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.69,
+        "avg30-holo": 0.77
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175312,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.21
+        },
+        "reverse-holofoil": {
+          "productId": 175312,
+          "lowPrice": 0.2,
+          "midPrice": 0.76,
+          "highPrice": 2,
+          "marketPrice": 0.78,
+          "directLowPrice": 0.78
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-11",
+    "illustrator": "PLANETA Otani",
+    "localId": "11",
+    "name": "Reshiram GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Nitrocarga",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Fire y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Columna Abrasadora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Bermellón-GX",
+        "effect": "Puedes unir hasta 5 cartas de Energía Fire de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida).",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363483,
+        "avg": 5.7,
+        "low": 3.49,
+        "trend": 6.09,
+        "avg1": 6.76,
+        "avg7": 5.67,
+        "avg30": 9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.6,
+        "avg1-holo": 4,
+        "avg7-holo": 4.28,
+        "avg30-holo": 5.59
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175347,
+          "lowPrice": 4.99,
+          "midPrice": 6.98,
+          "highPrice": 96.95,
+          "marketPrice": 6.53,
+          "directLowPrice": 14.82
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-12",
+    "illustrator": "Ryota Murayama",
+    "localId": "12",
+    "name": "Litten",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      725
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363484,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.24,
+        "avg7": 0.09,
+        "avg30": 0.17,
+        "avg-holo": 2.16,
+        "low-holo": 0.14,
+        "trend-holo": 1.48,
+        "avg1-holo": 0.1,
+        "avg7-holo": 1.9,
+        "avg30-holo": 1.33
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175348,
+          "lowPrice": 0.3,
+          "midPrice": 0.73,
+          "highPrice": 1.79,
+          "marketPrice": 0.7,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175348,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 1.95,
+          "marketPrice": 0.26,
+          "directLowPrice": 0.25
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-13",
+    "illustrator": "MAHOU",
+    "localId": "13",
+    "name": "Salandit",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      757
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Llamar a la Familia",
+        "effect": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Hundir Garras",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363485,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.05,
+        "avg7": 0.11,
+        "avg30": 0.14,
+        "avg-holo": 2.92,
+        "low-holo": 0.09,
+        "trend-holo": 1.95,
+        "avg1-holo": 1.1,
+        "avg7-holo": 2.03,
+        "avg30-holo": 1.25
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175365,
+          "lowPrice": 0.06,
+          "midPrice": 0.3,
+          "highPrice": 1.49,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175365,
+          "lowPrice": 0.5,
+          "midPrice": 0.89,
+          "highPrice": 6,
+          "marketPrice": 0.69,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-14",
+    "illustrator": "Naoki Saito",
+    "localId": "14",
+    "name": "Salazzle",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      758
+    ],
+    "hp": 110,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Anillo de Fuego",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado. No puede retirarse durante el próximo turno de tu rival.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Lanzallamas",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363486,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.4,
+        "avg1": 0.28,
+        "avg7": 0.26,
+        "avg30": 0.3,
+        "avg-holo": 0.72,
+        "low-holo": 0.2,
+        "trend-holo": 0.67,
+        "avg1-holo": 1.1,
+        "avg7-holo": 0.77,
+        "avg30-holo": 0.65
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175366,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.24,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175366,
+          "lowPrice": 0.3,
+          "midPrice": 0.61,
+          "highPrice": 2,
+          "marketPrice": 0.58,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-15",
+    "illustrator": "Yukiko Baba",
+    "localId": "15",
+    "name": "Horsea",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      116
+    ],
+    "hp": 40,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Esparcido",
+        "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363487,
+        "avg": 0.18,
+        "low": 0.02,
+        "trend": 0.28,
+        "avg1": 0.28,
+        "avg7": 0.33,
+        "avg30": 0.19,
+        "avg-holo": 1.27,
+        "low-holo": 0.25,
+        "trend-holo": 1.08,
+        "avg1-holo": 3,
+        "avg7-holo": 1.28,
+        "avg30-holo": 0.86
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175369,
+          "lowPrice": 0.5,
+          "midPrice": 0.84,
+          "highPrice": 2,
+          "marketPrice": 0.78,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175369,
+          "lowPrice": 0.05,
+          "midPrice": 0.23,
+          "highPrice": 3,
+          "marketPrice": 0.17,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-16",
+    "illustrator": "Mizue",
+    "localId": "16",
+    "name": "Horsea",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      116
+    ],
+    "hp": 50,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 10 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363487,
+        "avg": 0.18,
+        "low": 0.02,
+        "trend": 0.28,
+        "avg1": 0.28,
+        "avg7": 0.33,
+        "avg30": 0.19,
+        "avg-holo": 1.27,
+        "low-holo": 0.25,
+        "trend-holo": 1.08,
+        "avg1-holo": 3,
+        "avg7-holo": 1.28,
+        "avg30-holo": 0.86
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175371,
+          "lowPrice": 0.79,
+          "midPrice": 0.97,
+          "highPrice": 2,
+          "marketPrice": 0.95,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175371,
+          "lowPrice": 0.05,
+          "midPrice": 0.24,
+          "highPrice": 9.73,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.2
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-17",
+    "illustrator": "Yumi",
+    "localId": "17",
+    "name": "Seadra",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      117
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363489,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.25,
+        "avg7": 0.27,
+        "avg30": 0.26,
+        "avg-holo": 3.06,
+        "low-holo": 0.29,
+        "trend-holo": 2.65,
+        "avg1-holo": 1.99,
+        "avg7-holo": 2.38,
+        "avg30-holo": 1.85
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175379,
+          "lowPrice": 0.06,
+          "midPrice": 0.32,
+          "highPrice": 1.49,
+          "marketPrice": 0.3,
+          "directLowPrice": 0.33
+        },
+        "reverse-holofoil": {
+          "productId": 175379,
+          "lowPrice": 0.3,
+          "midPrice": 1.19,
+          "highPrice": 3.32,
+          "marketPrice": 1.4,
+          "directLowPrice": 0.75
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-18",
+    "illustrator": "5ban Graphics",
+    "localId": "18",
+    "name": "Kingdra GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      230
+    ],
+    "hp": 230,
+    "types": [
+      "Agua"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 50 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Invertir Impulso",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Vorágine-GX",
+        "effect": "Este ataque hace 40 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363490,
+        "avg": 6.97,
+        "low": 1.7,
+        "trend": 5.69,
+        "avg1": 12.43,
+        "avg7": 6.28,
+        "avg30": 4.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.78,
+        "avg1-holo": 2.99,
+        "avg7-holo": 4.09,
+        "avg30-holo": 3.9
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175380,
+          "lowPrice": 2.74,
+          "midPrice": 3.5,
+          "highPrice": 11.52,
+          "marketPrice": 3.22,
+          "directLowPrice": 4.17
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-19",
+    "illustrator": "Sekio",
+    "localId": "19",
+    "name": "Magikarp",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Chapoteo Agua",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 10 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363491,
+        "avg": 0.45,
+        "low": 0.05,
+        "trend": 0.56,
+        "avg1": 0.1,
+        "avg7": 0.22,
+        "avg30": 0.39,
+        "avg-holo": 2.49,
+        "low-holo": 0.7,
+        "trend-holo": 3.62,
+        "avg1-holo": 1.99,
+        "avg7-holo": 3.26,
+        "avg30-holo": 2.91
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175381,
+          "lowPrice": 0.09,
+          "midPrice": 0.45,
+          "highPrice": 2.49,
+          "marketPrice": 0.45,
+          "directLowPrice": 0.43
+        },
+        "reverse-holofoil": {
+          "productId": 175381,
+          "lowPrice": 3.38,
+          "midPrice": 3.51,
+          "highPrice": 8.21,
+          "marketPrice": 5.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-20",
+    "illustrator": "kawayoo",
+    "localId": "20",
+    "name": "Gyarados",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 160,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Conmoción",
+        "effect": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 2 contadores de daño en cada uno de tus Pokémon en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Cola Salvaje",
+        "effect": "Puedes descartar cualquier carta de Estadio en juego.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363492,
+        "avg": 1.54,
+        "low": 0.6,
+        "trend": 1.52,
+        "avg1": 0.99,
+        "avg7": 1.39,
+        "avg30": 1.58,
+        "avg-holo": 11.5,
+        "low-holo": 1.5,
+        "trend-holo": 8.71,
+        "avg1-holo": 4.5,
+        "avg7-holo": 7.85,
+        "avg30-holo": 5.4
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175382,
+          "lowPrice": 0.94,
+          "midPrice": 1.85,
+          "highPrice": 5.99,
+          "marketPrice": 1.94,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175382,
+          "lowPrice": 3.03,
+          "midPrice": 4.79,
+          "highPrice": 8.87,
+          "marketPrice": 4.5,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-21",
+    "illustrator": "Saya Tsuruta",
+    "localId": "21",
+    "name": "Lapras",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Bala Agua",
+        "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 10 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363493,
+        "avg": 0.53,
+        "low": 0.05,
+        "trend": 0.49,
+        "avg1": 0.27,
+        "avg7": 0.28,
+        "avg30": 0.58,
+        "avg-holo": 5.75,
+        "low-holo": 0.1,
+        "trend-holo": 4.84,
+        "avg1-holo": 1.2,
+        "avg7-holo": 4.32,
+        "avg30-holo": 4.33
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175383,
+          "lowPrice": 0.15,
+          "midPrice": 0.5,
+          "highPrice": 2.49,
+          "marketPrice": 0.49,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175383,
+          "lowPrice": 3.8,
+          "midPrice": 5.99,
+          "highPrice": 14.17,
+          "marketPrice": 6.18,
+          "directLowPrice": 4.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-22",
+    "illustrator": "Hironobu Yoshida",
+    "localId": "22",
+    "name": "Totodile",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      158
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Malicioso",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363494,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.27,
+        "avg1": 0.2,
+        "avg7": 0.17,
+        "avg30": 0.26,
+        "avg-holo": 3.25,
+        "low-holo": 0.12,
+        "trend-holo": 2.63,
+        "avg1-holo": 2.88,
+        "avg7-holo": 2.75,
+        "avg30-holo": 2.19
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175384,
+          "lowPrice": 0.1,
+          "midPrice": 0.37,
+          "highPrice": 1.49,
+          "marketPrice": 0.32,
+          "directLowPrice": 0.35
+        },
+        "reverse-holofoil": {
+          "productId": 175384,
+          "lowPrice": 1.19,
+          "midPrice": 11.49,
+          "highPrice": 96.95,
+          "marketPrice": 1.48,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-23",
+    "illustrator": "Ken Sugimori",
+    "localId": "23",
+    "name": "Croconaw",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      159
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Barrido",
+        "effect": "Descarta las 3 primeras cartas de tu baraja.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363495,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.34,
+        "avg7": 0.33,
+        "avg30": 0.26,
+        "avg-holo": 3.17,
+        "low-holo": 0.5,
+        "trend-holo": 1.83,
+        "avg1-holo": 1.99,
+        "avg7-holo": 2.74,
+        "avg30-holo": 1.94
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175385,
+          "lowPrice": 0.07,
+          "midPrice": 0.35,
+          "highPrice": 1.66,
+          "marketPrice": 0.28,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175385,
+          "lowPrice": 0.5,
+          "midPrice": 0.95,
+          "highPrice": 2,
+          "marketPrice": 0.92,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-24",
+    "illustrator": "Ken Sugimori",
+    "localId": "24",
+    "name": "Feraligatr",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      160
+    ],
+    "hp": 160,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Diluvio",
+        "effect": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía Water de tu mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Aguas Revueltas",
+        "effect": "Este ataque hace 20 puntos de daño más por cada carta de Energía Water en tu pila de descartes. Después, pon esas cartas en tu baraja y barájalas todas.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363496,
+        "avg": 1.17,
+        "low": 0.3,
+        "trend": 1.03,
+        "avg1": 0.25,
+        "avg7": 0.85,
+        "avg30": 1.09,
+        "avg-holo": 0.8,
+        "low-holo": 1.3,
+        "trend-holo": 5.73,
+        "avg1-holo": 2.9,
+        "avg7-holo": 4.57,
+        "avg30-holo": 4.19
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175386,
+          "lowPrice": 4.48,
+          "midPrice": 10,
+          "highPrice": 12,
+          "marketPrice": 4.75,
+          "directLowPrice": null
+        },
+        "holofoil": {
+          "productId": 175386,
+          "lowPrice": 0.5,
+          "midPrice": 1.13,
+          "highPrice": 11,
+          "marketPrice": 1.13,
+          "directLowPrice": 1.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-25",
+    "illustrator": "Shibuzoh.",
+    "localId": "25",
+    "name": "Wooper",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363497,
+        "avg": 0.31,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.5,
+        "avg7": 0.4,
+        "avg30": 0.32,
+        "avg-holo": 4.5,
+        "low-holo": 0.7,
+        "trend-holo": 4.64,
+        "avg1-holo": 0.8,
+        "avg7-holo": 3.97,
+        "avg30-holo": 2.58
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175387,
+          "lowPrice": 0.86,
+          "midPrice": 1,
+          "highPrice": 2.18,
+          "marketPrice": 1.09,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175387,
+          "lowPrice": 3.23,
+          "midPrice": 3.23,
+          "highPrice": 3.23,
+          "marketPrice": 5.64,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-26",
+    "illustrator": "Ken Sugimori",
+    "localId": "26",
+    "name": "Quagsire",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      195
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Hacer Limpieza",
+        "effect": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes mover 1 Energía Water de 1 de tus Pokémon en Banca a tu Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363498,
+        "avg": 0.71,
+        "low": 0.05,
+        "trend": 0.66,
+        "avg1": 0.99,
+        "avg7": 0.82,
+        "avg30": 0.73,
+        "avg-holo": 2.07,
+        "low-holo": 0.19,
+        "trend-holo": 2.27,
+        "avg1-holo": 1.98,
+        "avg7-holo": 1.93,
+        "avg30-holo": 2.37
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175392,
+          "lowPrice": 3.5,
+          "midPrice": 4.03,
+          "highPrice": 28.69,
+          "marketPrice": 5.31,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175392,
+          "lowPrice": 0.27,
+          "midPrice": 0.84,
+          "highPrice": 4.5,
+          "marketPrice": 0.87,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-27",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "27",
+    "name": "Corsola",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      222
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Disparo Burbuja",
+        "effect": "Este ataque hace 20 puntos de daño por cada Energía Water unida a este Pokémon a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363499,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.79,
+        "avg7": 0.25,
+        "avg30": 0.23,
+        "avg-holo": 2.89,
+        "low-holo": 0.29,
+        "trend-holo": 2.24,
+        "avg1-holo": 9.5,
+        "avg7-holo": 1.92,
+        "avg30-holo": 1.65
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175400,
+          "lowPrice": 0.05,
+          "midPrice": 0.27,
+          "highPrice": 1.49,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.22
+        },
+        "reverse-holofoil": {
+          "productId": 175400,
+          "lowPrice": 0.82,
+          "midPrice": 0.99,
+          "highPrice": 2.25,
+          "marketPrice": 1.06,
+          "directLowPrice": 0.86
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-28",
+    "illustrator": "Shin Nagasawa",
+    "localId": "28",
+    "name": "Feebas",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      349
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Hundir",
+        "effect": "Mientras este Pokémon esté en tu Banca, evita todo el daño infligido a este Pokémon por ataques (tanto tuyos como de tu rival)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363500,
+        "avg": 0.3,
+        "low": 0.02,
+        "trend": 0.29,
+        "avg1": 0.3,
+        "avg7": 0.21,
+        "avg30": 0.35,
+        "avg-holo": 1.26,
+        "low-holo": 0.2,
+        "trend-holo": 1.15,
+        "avg1-holo": 1,
+        "avg7-holo": 1.17,
+        "avg30-holo": 0.86
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175403,
+          "lowPrice": 0.09,
+          "midPrice": 0.37,
+          "highPrice": 1.49,
+          "marketPrice": 0.38,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175403,
+          "lowPrice": 1.75,
+          "midPrice": 2.7,
+          "highPrice": 29.99,
+          "marketPrice": 2.72,
+          "directLowPrice": 2.77
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-29",
+    "illustrator": "hatachu",
+    "localId": "29",
+    "name": "Milotic",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      350
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Ola Aurora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Isoaqua",
+        "effect": "Este ataque hace 40 puntos de daño a 2 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363501,
+        "avg": 0.5,
+        "low": 0.04,
+        "trend": 0.54,
+        "avg1": 0.38,
+        "avg7": 0.49,
+        "avg30": 0.41,
+        "avg-holo": 1.5,
+        "low-holo": 0.5,
+        "trend-holo": 1.86,
+        "avg1-holo": 1.5,
+        "avg7-holo": 1.5,
+        "avg30-holo": 1.52
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175412,
+          "lowPrice": 0.59,
+          "midPrice": 0.99,
+          "highPrice": 4,
+          "marketPrice": 1.36,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175412,
+          "lowPrice": 0.15,
+          "midPrice": 0.3,
+          "highPrice": 1.49,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.29
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-30",
+    "illustrator": "kawayoo",
+    "localId": "30",
+    "name": "Phione",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      489
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Murmullo del Mar",
+        "effect": "Tus Pokémon Water no pueden pasar a estar Confundidos. Si esos Pokémon ya están Confundidos, elimina esa Condición Especial."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Hidropulso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363502,
+        "avg": 0.29,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.28,
+        "avg7": 0.37,
+        "avg30": 0.27,
+        "avg-holo": 2.65,
+        "low-holo": 0.15,
+        "trend-holo": 1.31,
+        "avg1-holo": 0.5,
+        "avg7-holo": 1.58,
+        "avg30-holo": 0.89
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175416,
+          "lowPrice": 0.35,
+          "midPrice": 0.7,
+          "highPrice": 2.99,
+          "marketPrice": 0.53,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175416,
+          "lowPrice": 0.06,
+          "midPrice": 0.36,
+          "highPrice": 2,
+          "marketPrice": 0.36,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-31",
+    "illustrator": "Kouki Saitou",
+    "localId": "31",
+    "name": "Wishiwashi",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      746
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Agrupación",
+        "effect": "Tus Wishiwashi-GX en juego obtienen 20 PS más, y sus ataques hacen 20 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363503,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.15,
+        "avg7": 0.11,
+        "avg30": 0.13,
+        "avg-holo": 0.84,
+        "low-holo": 0.22,
+        "trend-holo": 1.08,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.77,
+        "avg30-holo": 0.97
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175417,
+          "lowPrice": 0.3,
+          "midPrice": 0.49,
+          "highPrice": 2,
+          "marketPrice": 0.44,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175417,
+          "lowPrice": 0.03,
+          "midPrice": 0.21,
+          "highPrice": 1.49,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-32",
+    "illustrator": "Naoyo Kimura",
+    "localId": "32",
+    "name": "Trapinch",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      328
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Miniterremoto",
+        "effect": "Este ataque hace 10 puntos de daño a cada uno de tus Pokémon en Banca. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363504,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.16,
+        "avg1": 0.05,
+        "avg7": 0.13,
+        "avg30": 0.13,
+        "avg-holo": 0.73,
+        "low-holo": 0.15,
+        "trend-holo": 0.74,
+        "avg1-holo": 0.99,
+        "avg7-holo": 0.58,
+        "avg30-holo": 0.74
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175425,
+          "lowPrice": 0.2,
+          "midPrice": 0.51,
+          "highPrice": 2,
+          "marketPrice": 0.5,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175425,
+          "lowPrice": 0.03,
+          "midPrice": 0.2,
+          "highPrice": 1.49,
+          "marketPrice": 0.18,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-33",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "33",
+    "name": "Hydreigon",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      635
+    ],
+    "hp": 160,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Saneamiento",
+        "effect": "Una vez durante tu turno (antes de tu ataque), puedes elegir 3 de tus Pokémon en Banca. Después, descarta tus otros Pokémon en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Destrucción Siniestra",
+        "effect": "Puedes descartar 1 Energía de este Pokémon. Si lo haces, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363505,
+        "avg": 0.58,
+        "low": 0.1,
+        "trend": 0.52,
+        "avg1": 1.5,
+        "avg7": 0.73,
+        "avg30": 0.74,
+        "avg-holo": 4.74,
+        "low-holo": 0.87,
+        "trend-holo": 3.93,
+        "avg1-holo": 4.74,
+        "avg7-holo": 4.29,
+        "avg30-holo": 2.22
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175431,
+          "lowPrice": 0.2,
+          "midPrice": 0.56,
+          "highPrice": 2,
+          "marketPrice": 0.59,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175431,
+          "lowPrice": 0.99,
+          "midPrice": 2.34,
+          "highPrice": 4.47,
+          "marketPrice": 2.16,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-34",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "34",
+    "name": "Dratini",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      147
+    ],
+    "hp": 60,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Constricción",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363506,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.1,
+        "avg7": 0.23,
+        "avg30": 0.25,
+        "avg-holo": 2.98,
+        "low-holo": 0.48,
+        "trend-holo": 3.19,
+        "avg1-holo": 2.9,
+        "avg7-holo": 2.97,
+        "avg30-holo": 2.62
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175438,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.25,
+          "directLowPrice": 0.25
+        },
+        "reverse-holofoil": {
+          "productId": 175438,
+          "lowPrice": 1.25,
+          "midPrice": 2.64,
+          "highPrice": 3.47,
+          "marketPrice": 2.02,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-35",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "35",
+    "name": "Dratini",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      147
+    ],
+    "hp": 70,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Coletón",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363506,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.1,
+        "avg7": 0.23,
+        "avg30": 0.25,
+        "avg-holo": 2.98,
+        "low-holo": 0.48,
+        "trend-holo": 3.19,
+        "avg1-holo": 2.9,
+        "avg7-holo": 2.97,
+        "avg30-holo": 2.62
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175439,
+          "lowPrice": 1.9,
+          "midPrice": 2.23,
+          "highPrice": 3.99,
+          "marketPrice": 2.05,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175439,
+          "lowPrice": 0.1,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.01
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-36",
+    "illustrator": "sui",
+    "localId": "36",
+    "name": "Dragonair",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      148
+    ],
+    "hp": 100,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cola Dragón",
+        "effect": "Lanza 2 monedas. Este ataque hace 60 puntos de daño por cada cara.",
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cascada",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363508,
+        "avg": 0.66,
+        "low": 0.02,
+        "trend": 0.84,
+        "avg1": 0.15,
+        "avg7": 0.56,
+        "avg30": 0.59,
+        "avg-holo": 4.4,
+        "low-holo": 0.4,
+        "trend-holo": 4.88,
+        "avg1-holo": 0.4,
+        "avg7-holo": 4.45,
+        "avg30-holo": 4.46
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175441,
+          "lowPrice": 0.2,
+          "midPrice": 0.49,
+          "highPrice": 2,
+          "marketPrice": 0.45,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175441,
+          "lowPrice": 2.5,
+          "midPrice": 4.5,
+          "highPrice": 7.79,
+          "marketPrice": 4.76,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-37",
+    "illustrator": "5ban Graphics",
+    "localId": "37",
+    "name": "Dragonite GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 250,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Garra Dragón",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Agua",
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Giga Impacto",
+        "effect": "Este Pokémon no puede atacar durante tu próximo turno.",
+        "damage": 200
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Portadragones-GX",
+        "effect": "Pon 3 Pokémon Dragon de tu pila de descartes en tu Banca. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 361550,
+        "avg": 11.33,
+        "low": 3,
+        "trend": 8.19,
+        "avg1": 7,
+        "avg7": 11.53,
+        "avg30": 10.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.82,
+        "avg1-holo": 5.99,
+        "avg7-holo": 7.11,
+        "avg30-holo": 7.59
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175450,
+          "lowPrice": 9.99,
+          "midPrice": 16.5,
+          "highPrice": 22,
+          "marketPrice": 13.85,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-38",
+    "illustrator": "Ken Sugimori",
+    "localId": "38",
+    "name": "Vibrava",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      329
+    ],
+    "hp": 80,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Tajo Sónico",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363509,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.28,
+        "avg7": 0.17,
+        "avg30": 0.17,
+        "avg-holo": 1,
+        "low-holo": 0.24,
+        "trend-holo": 0.89,
+        "avg1-holo": 0.43,
+        "avg7-holo": 0.78,
+        "avg30-holo": 0.75
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175451,
+          "lowPrice": 0.32,
+          "midPrice": 0.7,
+          "highPrice": 2,
+          "marketPrice": 0.85,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175451,
+          "lowPrice": 0.01,
+          "midPrice": 0.24,
+          "highPrice": 1.49,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-39",
+    "illustrator": "Shigenori Negishi",
+    "localId": "39",
+    "name": "Flygon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      330
+    ],
+    "hp": 140,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Guardia Dragón",
+        "effect": "Evita todos los efectos de los ataques de tu rival, excepto el daño, infligidos a tus Pokémon Dragon. (No se eliminan los efectos ya existentes)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Bucle Arena",
+        "effect": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival.",
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363510,
+        "avg": 0.37,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.07,
+        "avg7": 0.39,
+        "avg30": 0.35,
+        "avg-holo": 0.75,
+        "low-holo": 0.39,
+        "trend-holo": 1.39,
+        "avg1-holo": 0.75,
+        "avg7-holo": 1.67,
+        "avg30-holo": 1.27
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175456,
+          "lowPrice": 0.1,
+          "midPrice": 0.34,
+          "highPrice": 2,
+          "marketPrice": 0.34,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175456,
+          "lowPrice": 0.99,
+          "midPrice": 1.71,
+          "highPrice": 4.99,
+          "marketPrice": 1.29,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-40",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "40",
+    "name": "Altaria",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 80,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Canción Bélica",
+        "effect": "Los ataques de tus Pokémon Dragon hacen 20 puntos de daño más a los Pokémon Activos (antes de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Perforar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363511,
+        "avg": 1.08,
+        "low": 0.15,
+        "trend": 0.81,
+        "avg1": 0.5,
+        "avg7": 0.67,
+        "avg30": 1.19,
+        "avg-holo": 3.83,
+        "low-holo": 0.23,
+        "trend-holo": 3.17,
+        "avg1-holo": 2.95,
+        "avg7-holo": 4.48,
+        "avg30-holo": 2.47
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175459,
+          "lowPrice": 0.49,
+          "midPrice": 0.99,
+          "highPrice": 9.99,
+          "marketPrice": 0.98,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175459,
+          "lowPrice": 4,
+          "midPrice": 4.5,
+          "highPrice": 5,
+          "marketPrice": 2.01,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-41",
+    "illustrator": "5ban Graphics",
+    "localId": "41",
+    "name": "Altaria GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 200,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tono Cristalino",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Agua",
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tajo Sónico",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Euforia-GX",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363512,
+        "avg": 7.51,
+        "low": 0.99,
+        "trend": 7.17,
+        "avg1": 10,
+        "avg7": 6.63,
+        "avg30": 5.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.01,
+        "avg1-holo": 2.99,
+        "avg7-holo": 3.81,
+        "avg30-holo": 3.57
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175467,
+          "lowPrice": 2.8,
+          "midPrice": 3.39,
+          "highPrice": 5.31,
+          "marketPrice": 3.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-42",
+    "illustrator": "Kouki Saitou",
+    "localId": "42",
+    "name": "Bagon",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      371
+    ],
+    "hp": 60,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Patada Arriesgada",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Agua"
+        ],
+        "name": "Ojo de Dragón",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363513,
+        "avg": 0.21,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.25,
+        "avg7": 0.2,
+        "avg30": 0.17,
+        "avg-holo": 1.56,
+        "low-holo": 0.2,
+        "trend-holo": 1.56,
+        "avg1-holo": 0.89,
+        "avg7-holo": 1.41,
+        "avg30-holo": 1.19
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175468,
+          "lowPrice": 0.04,
+          "midPrice": 0.24,
+          "highPrice": 1.49,
+          "marketPrice": 0.22,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175468,
+          "lowPrice": 0.4,
+          "midPrice": 0.85,
+          "highPrice": 2.99,
+          "marketPrice": 0.87,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-43",
+    "illustrator": "Yuka Morii",
+    "localId": "43",
+    "name": "Shelgon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      372
+    ],
+    "hp": 80,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Guardia Energía",
+        "effect": "Si este Pokémon tiene alguna Energía Básica unida a él, los ataques le hacen 20 puntos de daño menos (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Desenrollar",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363514,
+        "avg": 0.31,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.75,
+        "avg7": 0.41,
+        "avg30": 0.36,
+        "avg-holo": 0.5,
+        "low-holo": 0.08,
+        "trend-holo": 2.05,
+        "avg1-holo": 0.5,
+        "avg7-holo": 1.51,
+        "avg30-holo": 1.45
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175469,
+          "lowPrice": 1.5,
+          "midPrice": 4.99,
+          "highPrice": 96.95,
+          "marketPrice": 2.5,
+          "directLowPrice": 13.1
+        },
+        "normal": {
+          "productId": 175469,
+          "lowPrice": 0.3,
+          "midPrice": 0.57,
+          "highPrice": 2,
+          "marketPrice": 0.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-44",
+    "illustrator": "5ban Graphics",
+    "localId": "44",
+    "name": "Salamence GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      373
+    ],
+    "hp": 250,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Impulso Dragón",
+        "effect": "Tus Pokémon en juego no tienen ningún Coste de Retirada, excepto los Pokémon-GX y los Pokémon-EX."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Llama Viva",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 200
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Jet de Fuego-GX",
+        "effect": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363515,
+        "avg": 6.92,
+        "low": 1.9,
+        "trend": 6.27,
+        "avg1": 5,
+        "avg7": 6.34,
+        "avg30": 6.53,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.66,
+        "avg1-holo": 4.5,
+        "avg7-holo": 3.72,
+        "avg30-holo": 4.31
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175472,
+          "lowPrice": 4.99,
+          "midPrice": 7.48,
+          "highPrice": 19.99,
+          "marketPrice": 6.79,
+          "directLowPrice": 7.59
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-45",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "45",
+    "name": "Druddigon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      621
+    ],
+    "hp": 110,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Piel Tosca",
+        "effect": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363516,
+        "avg": 0.38,
+        "low": 0.02,
+        "trend": 0.35,
+        "avg1": 0.15,
+        "avg7": 0.22,
+        "avg30": 0.23,
+        "avg-holo": 0.74,
+        "low-holo": 0.25,
+        "trend-holo": 1.08,
+        "avg1-holo": 0.8,
+        "avg7-holo": 0.86,
+        "avg30-holo": 0.81
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175473,
+          "lowPrice": 0.35,
+          "midPrice": 0.7,
+          "highPrice": 1.99,
+          "marketPrice": 0.54,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175473,
+          "lowPrice": 0.09,
+          "midPrice": 0.36,
+          "highPrice": 2,
+          "marketPrice": 0.38,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-46",
+    "illustrator": "Hasuno",
+    "localId": "46",
+    "name": "Zekrom",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hacer Trizas",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Fulgor",
+        "effect": "Lanza 1 moneda. Si sale cruz, este Pokémon se hace 50 puntos de daño a sí mismo.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363517,
+        "avg": 0.81,
+        "low": 0.2,
+        "trend": 0.62,
+        "avg1": 0.99,
+        "avg7": 0.72,
+        "avg30": 1.04,
+        "avg-holo": 2.22,
+        "low-holo": 0.45,
+        "trend-holo": 4.29,
+        "avg1-holo": 2.99,
+        "avg7-holo": 4.51,
+        "avg30-holo": 2.45
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175476,
+          "lowPrice": 1.6,
+          "midPrice": 1.73,
+          "highPrice": 2.09,
+          "marketPrice": 1.81,
+          "directLowPrice": null
+        },
+        "holofoil": {
+          "productId": 175476,
+          "lowPrice": 0.25,
+          "midPrice": 0.81,
+          "highPrice": 4.95,
+          "marketPrice": 0.81,
+          "directLowPrice": 0.89
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-47",
+    "illustrator": "TOKIYA",
+    "localId": "47",
+    "name": "Kyurem",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 130,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Enfado",
+        "effect": "Este ataque hace 10 puntos de daño más por cada contador de daño en este Pokémon.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Lanza Gélida",
+        "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363518,
+        "avg": 0.81,
+        "low": 0.2,
+        "trend": 0.62,
+        "avg1": 0.75,
+        "avg7": 0.73,
+        "avg30": 0.83,
+        "avg-holo": 2.85,
+        "low-holo": 0.2,
+        "trend-holo": 3.34,
+        "avg1-holo": 8.98,
+        "avg7-holo": 4.31,
+        "avg30-holo": 2.39
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175477,
+          "lowPrice": 0.22,
+          "midPrice": 0.6,
+          "highPrice": 2,
+          "marketPrice": 0.6,
+          "directLowPrice": 0.72
+        },
+        "reverse-holofoil": {
+          "productId": 175477,
+          "lowPrice": 1.37,
+          "midPrice": 1.77,
+          "highPrice": 2.56,
+          "marketPrice": 1.92,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-48",
+    "illustrator": "5ban Graphics",
+    "localId": "48",
+    "name": "Kyurem Blanco GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 190,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Hacer Trizas",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Tajo Furioso",
+        "effect": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Estrella Dragón-GX",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida).",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363519,
+        "avg": 6.91,
+        "low": 2.39,
+        "trend": 7.03,
+        "avg1": 4.48,
+        "avg7": 6.79,
+        "avg30": 5.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 5.03,
+        "avg1-holo": 4,
+        "avg7-holo": 4.27,
+        "avg30-holo": 4.43
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175478,
+          "lowPrice": 3.49,
+          "midPrice": 4.88,
+          "highPrice": 7.99,
+          "marketPrice": 4.51,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-49",
+    "illustrator": "Misa Tsutsui",
+    "localId": "49",
+    "name": "Zygarde",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      718
+    ],
+    "hp": 130,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Retumbar",
+        "effect": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Tajo Furioso",
+        "effect": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 60 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363520,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.3,
+        "avg7": 0.31,
+        "avg30": 0.35,
+        "avg-holo": 9.5,
+        "low-holo": 0.4,
+        "trend-holo": 1.97,
+        "avg1-holo": 1.11,
+        "avg7-holo": 2.01,
+        "avg30-holo": 1.43
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175479,
+          "lowPrice": 0.15,
+          "midPrice": 0.35,
+          "highPrice": 1.49,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.31
+        },
+        "reverse-holofoil": {
+          "productId": 175479,
+          "lowPrice": 0.35,
+          "midPrice": 1.42,
+          "highPrice": 2.25,
+          "marketPrice": 1.4,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-50",
+    "illustrator": "Sumiyoshi Kizuki",
+    "localId": "50",
+    "name": "Turtonator",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      776
+    ],
+    "hp": 110,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Propulsión Explosiva",
+        "effect": "Descarta cualquier cantidad de Energías Fire de tus Pokémon. Este ataque hace 50 puntos de daño por cada carta que hayas descartado de esta manera.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363521,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.1,
+        "avg7": 0.28,
+        "avg30": 0.28,
+        "avg-holo": 0.98,
+        "low-holo": 0.4,
+        "trend-holo": 1.33,
+        "avg1-holo": 0.46,
+        "avg7-holo": 1.46,
+        "avg30-holo": 1.1
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175480,
+          "lowPrice": 0.15,
+          "midPrice": 0.66,
+          "highPrice": 2.4,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175480,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.22,
+          "directLowPrice": 0.23
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-51",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "51",
+    "name": "Drampa",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      780
+    ],
+    "hp": 120,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Sabiduría de Dragón",
+        "effect": "Une 1 carta de Energía Básica de tu pila de descartes a 1 de tus Pokémon Dragon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Vozarrón",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363522,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.34,
+        "avg7": 0.2,
+        "avg30": 0.28,
+        "avg-holo": 1.75,
+        "low-holo": 0.39,
+        "trend-holo": 1.16,
+        "avg1-holo": 1.48,
+        "avg7-holo": 1.06,
+        "avg30-holo": 0.89
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175481,
+          "lowPrice": 0.05,
+          "midPrice": 0.29,
+          "highPrice": 1.49,
+          "marketPrice": 0.26,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175481,
+          "lowPrice": 0.33,
+          "midPrice": 0.83,
+          "highPrice": 2.99,
+          "marketPrice": 0.82,
+          "directLowPrice": 0.89
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-52",
+    "illustrator": "Yusuke Ohmura",
+    "localId": "52",
+    "name": "Jangmo-o",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      782
+    ],
+    "hp": 60,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Rigidez",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363523,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.39,
+        "avg1": 0.29,
+        "avg7": 0.33,
+        "avg30": 0.16,
+        "avg-holo": 0.69,
+        "low-holo": 0.15,
+        "trend-holo": 0.61,
+        "avg1-holo": 0.97,
+        "avg7-holo": 0.66,
+        "avg30-holo": 0.53
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175482,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 1.49,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.18
+        },
+        "reverse-holofoil": {
+          "productId": 175482,
+          "lowPrice": 0.5,
+          "midPrice": 0.85,
+          "highPrice": 2.95,
+          "marketPrice": 0.89,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-53",
+    "illustrator": "hatachu",
+    "localId": "53",
+    "name": "Hakamo-o",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      783
+    ],
+    "hp": 90,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Presión de Guardia",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363524,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.33,
+        "avg1": 0.29,
+        "avg7": 0.26,
+        "avg30": 0.25,
+        "avg-holo": 1.37,
+        "low-holo": 0.2,
+        "trend-holo": 1.33,
+        "avg1-holo": 0.78,
+        "avg7-holo": 1.3,
+        "avg30-holo": 1.23
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175483,
+          "lowPrice": 0.4,
+          "midPrice": 1,
+          "highPrice": 1.97,
+          "marketPrice": 1.27,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175483,
+          "lowPrice": 0.04,
+          "midPrice": 0.21,
+          "highPrice": 1.49,
+          "marketPrice": 0.17,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-54",
+    "illustrator": "so-taro",
+    "localId": "54",
+    "name": "Kommo-o",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      784
+    ],
+    "hp": 160,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Presión de Guardia",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Gancho Furioso",
+        "effect": "Si este Pokémon tiene 8 o más contadores de daño sobre él, este ataque hace 120 puntos de daño más.",
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363525,
+        "avg": 1.06,
+        "low": 0.15,
+        "trend": 0.95,
+        "avg1": 0.99,
+        "avg7": 1.22,
+        "avg30": 1.21,
+        "avg-holo": 7.5,
+        "low-holo": 1.12,
+        "trend-holo": 6.65,
+        "avg1-holo": 4.86,
+        "avg7-holo": 5.95,
+        "avg30-holo": 3.49
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175484,
+          "lowPrice": 0.3,
+          "midPrice": 0.86,
+          "highPrice": 2.41,
+          "marketPrice": 0.88,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175484,
+          "lowPrice": 1,
+          "midPrice": 1.3,
+          "highPrice": 2.5,
+          "marketPrice": 1.28,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-55",
+    "illustrator": "Naoyo Kimura",
+    "localId": "55",
+    "name": "Kangaskhan",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      115
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Buscar",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Puñetazo Uno-Dos",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363526,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.05,
+        "avg7": 0.12,
+        "avg30": 0.17,
+        "avg-holo": 1.75,
+        "low-holo": 0.14,
+        "trend-holo": 1.6,
+        "avg1-holo": 1.5,
+        "avg7-holo": 1.72,
+        "avg30-holo": 0.99
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175485,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175485,
+          "lowPrice": 0.25,
+          "midPrice": 0.54,
+          "highPrice": 19.99,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-56",
+    "illustrator": "Yukiko Baba",
+    "localId": "56",
+    "name": "Swablu",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      333
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Coleccionar",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Picotazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363527,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.29,
+        "avg30": 0.32,
+        "avg-holo": 3.29,
+        "low-holo": 0.25,
+        "trend-holo": 3.03,
+        "avg1-holo": 2,
+        "avg7-holo": 2.67,
+        "avg30-holo": 2.02
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175486,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 1.49,
+          "marketPrice": 0.28,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175486,
+          "lowPrice": 0.5,
+          "midPrice": 0.68,
+          "highPrice": 1,
+          "marketPrice": 0.68,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-57",
+    "illustrator": "Shibuzoh.",
+    "localId": "57",
+    "name": "Swablu",
+    "rarity": "Commún",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      333
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Canto",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363527,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.29,
+        "avg30": 0.32,
+        "avg-holo": 3.29,
+        "low-holo": 0.25,
+        "trend-holo": 3.03,
+        "avg1-holo": 2,
+        "avg7-holo": 2.67,
+        "avg30-holo": 2.02
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175487,
+          "lowPrice": 0.11,
+          "midPrice": 0.32,
+          "highPrice": 2,
+          "marketPrice": 0.37,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 175487,
+          "lowPrice": 0.58,
+          "midPrice": 1.41,
+          "highPrice": 10,
+          "marketPrice": 1.48,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-58",
+    "illustrator": "Ken Sugimori",
+    "localId": "58",
+    "name": "Último Recurso de Blaine",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo cuando es la última carta en tu mano.\n\nRoba 2 cartas por cada Pokémon Fire que tengas en juego.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-06-30T14:12:31+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-59",
+    "illustrator": "Toyste Beach",
+    "localId": "59",
+    "name": "Espolón de Dragón",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Si el Pokémon Dragon al que esté unida esta carta es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante.",
+    "trainerType": "Herramienta",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363530,
+        "avg": 0.31,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.29,
+        "avg7": 0.29,
+        "avg30": 0.37,
+        "avg-holo": 0.52,
+        "low-holo": 0.25,
+        "trend-holo": 1,
+        "avg1-holo": 2.5,
+        "avg7-holo": 0.85,
+        "avg30-holo": 0.7
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175489,
+          "lowPrice": 0.25,
+          "midPrice": 0.77,
+          "highPrice": 1.34,
+          "marketPrice": 0.73,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175489,
+          "lowPrice": 0.12,
+          "midPrice": 0.28,
+          "highPrice": 1.49,
+          "marketPrice": 0.24,
+          "directLowPrice": 0.3
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-60",
+    "illustrator": "Eske Yoshinob",
+    "localId": "60",
+    "name": "Pedernal Ardiente",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si descartas otras 2 cartas de tu mano. \n\nBusca en tu baraja hasta 4 cartas de Energía Fire, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363531,
+        "avg": 0.73,
+        "low": 0.1,
+        "trend": 0.74,
+        "avg1": 0.84,
+        "avg7": 0.81,
+        "avg30": 0.82,
+        "avg-holo": 1.29,
+        "low-holo": 0.43,
+        "trend-holo": 1.02,
+        "avg1-holo": 1.07,
+        "avg7-holo": 1.02,
+        "avg30-holo": 1.64
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175490,
+          "lowPrice": 0.99,
+          "midPrice": 1.4,
+          "highPrice": 2.99,
+          "marketPrice": 1.58,
+          "directLowPrice": 1.18
+        },
+        "normal": {
+          "productId": 175490,
+          "lowPrice": 0.2,
+          "midPrice": 0.53,
+          "highPrice": 2,
+          "marketPrice": 0.5,
+          "directLowPrice": 0.37
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-61",
+    "illustrator": "kodama",
+    "localId": "61",
+    "name": "Lance ◇",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\n\nBusca en tu baraja hasta 2 Pokémon Dragon y ponlos en tu Banca. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-06-30T14:12:31+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-62",
+    "illustrator": "Yoshinobu Saito",
+    "localId": "62",
+    "name": "Cambio Salvavidas",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Cambia tu Pokémon Water Activo por 1 de tus Pokémon en Banca. Si lo haces, cura 30 puntos de daño al Pokémon que has movido a tu Banca.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363533,
+        "avg": 0.84,
+        "low": 0.02,
+        "trend": 0.98,
+        "avg1": 0.49,
+        "avg7": 0.89,
+        "avg30": 0.74,
+        "avg-holo": 2.9,
+        "low-holo": 0.15,
+        "trend-holo": 2.23,
+        "avg1-holo": 1.8,
+        "avg7-holo": 1.76,
+        "avg30-holo": 1.88
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175492,
+          "lowPrice": 2.5,
+          "midPrice": 3.49,
+          "highPrice": 5.59,
+          "marketPrice": 3.5,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175492,
+          "lowPrice": 1.49,
+          "midPrice": 2.11,
+          "highPrice": 3.42,
+          "marketPrice": 2.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-63",
+    "illustrator": "5ban Graphics",
+    "localId": "63",
+    "name": "Área Volcánica del Wela",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Cada vez que 1 jugador lance 1 moneda para la Condición Especial de Quemado entre turnos, esa Condición Especial no se elimina incluso si sale cara.",
+    "trainerType": "Estadio",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363534,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.31,
+        "avg1": 0.29,
+        "avg7": 0.22,
+        "avg30": 0.26,
+        "avg-holo": null,
+        "low-holo": 0.15,
+        "trend-holo": 0.87,
+        "avg1-holo": 0.29,
+        "avg7-holo": 0.8,
+        "avg30-holo": 0.71
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "normal": {
+          "productId": 175493,
+          "lowPrice": 0.1,
+          "midPrice": 0.34,
+          "highPrice": 1.49,
+          "marketPrice": 0.32,
+          "directLowPrice": 0.3
+        },
+        "reverse-holofoil": {
+          "productId": 175493,
+          "lowPrice": 0.25,
+          "midPrice": 0.63,
+          "highPrice": 2,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-64",
+    "illustrator": "Megumi Mizutani",
+    "localId": "64",
+    "name": "Tristana",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\n\nUne hasta 2 cartas de Energía Básica de tu mano a 1 de tus Pokémon Dragon.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363535,
+        "avg": 0.33,
+        "low": 0.02,
+        "trend": 0.29,
+        "avg1": 0.19,
+        "avg7": 0.26,
+        "avg30": 0.3,
+        "avg-holo": 1.1,
+        "low-holo": 0.33,
+        "trend-holo": 1.3,
+        "avg1-holo": 2,
+        "avg7-holo": 1.25,
+        "avg30-holo": 1.12
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "reverse-holofoil": {
+          "productId": 175494,
+          "lowPrice": 0.75,
+          "midPrice": 1,
+          "highPrice": 2.99,
+          "marketPrice": 0.94,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 175494,
+          "lowPrice": 0.18,
+          "midPrice": 0.29,
+          "highPrice": 1.49,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.25
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-65",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "65",
+    "name": "Reshiram GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Nitrocarga",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Fire y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Columna Abrasadora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Bermellón-GX",
+        "effect": "Puedes unir hasta 5 cartas de Energía Fire de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida).",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363483,
+        "avg": 5.7,
+        "low": 3.49,
+        "trend": 6.09,
+        "avg1": 6.76,
+        "avg7": 5.67,
+        "avg30": 9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.6,
+        "avg1-holo": 4,
+        "avg7-holo": 4.28,
+        "avg30-holo": 5.59
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175495,
+          "lowPrice": 23.18,
+          "midPrice": 34.94,
+          "highPrice": 70,
+          "marketPrice": 28.75,
+          "directLowPrice": 29.81
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-66",
+    "illustrator": "5ban Graphics",
+    "localId": "66",
+    "name": "Kingdra GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      230
+    ],
+    "hp": 230,
+    "types": [
+      "Agua"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 50 puntos de daño más por cada Energía Water unida a este Pokémon.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Invertir Impulso",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Vorágine-GX",
+        "effect": "Este ataque hace 40 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363490,
+        "avg": 6.97,
+        "low": 1.7,
+        "trend": 5.69,
+        "avg1": 12.43,
+        "avg7": 6.28,
+        "avg30": 4.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.78,
+        "avg1-holo": 2.99,
+        "avg7-holo": 4.09,
+        "avg30-holo": 3.9
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175496,
+          "lowPrice": 7.41,
+          "midPrice": 8.81,
+          "highPrice": 29.99,
+          "marketPrice": 7.41,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-67",
+    "illustrator": "5ban Graphics",
+    "localId": "67",
+    "name": "Dragonite GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 250,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Garra Dragón",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Agua",
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Giga Impacto",
+        "effect": "Este Pokémon no puede atacar durante tu próximo turno.",
+        "damage": 200
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Portadragones-GX",
+        "effect": "Pon 3 Pokémon Dragon de tu pila de descartes en tu Banca. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 361550,
+        "avg": 11.33,
+        "low": 3,
+        "trend": 8.19,
+        "avg1": 7,
+        "avg7": 11.53,
+        "avg30": 10.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.82,
+        "avg1-holo": 5.99,
+        "avg7-holo": 7.11,
+        "avg30-holo": 7.59
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175497,
+          "lowPrice": 42.99,
+          "midPrice": 63.33,
+          "highPrice": 80,
+          "marketPrice": 50.66,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-68",
+    "illustrator": "5ban Graphics",
+    "localId": "68",
+    "name": "Altaria GX",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 200,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tono Cristalino",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Agua",
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tajo Sónico",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Euforia-GX",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363512,
+        "avg": 7.51,
+        "low": 0.99,
+        "trend": 7.17,
+        "avg1": 10,
+        "avg7": 6.63,
+        "avg30": 5.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.01,
+        "avg1-holo": 2.99,
+        "avg7-holo": 3.81,
+        "avg30-holo": 3.57
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175498,
+          "lowPrice": 7.32,
+          "midPrice": 9.54,
+          "highPrice": 25.3,
+          "marketPrice": 7.98,
+          "directLowPrice": 8.48
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-69",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "69",
+    "name": "Último Recurso de Blaine",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo cuando es la última carta en tu mano.\n\nRoba 2 cartas por cada Pokémon Fire que tengas en juego.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-06-30T14:12:31+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-70",
+    "illustrator": "Hideki Ishikawa",
+    "localId": "70",
+    "name": "Tristana",
+    "rarity": "Rara Ultra",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\n\nUne hasta 2 cartas de Energía Básica de tu mano a 1 de tus Pokémon Dragon.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363535,
+        "avg": 0.33,
+        "low": 0.02,
+        "trend": 0.29,
+        "avg1": 0.19,
+        "avg7": 0.26,
+        "avg30": 0.3,
+        "avg-holo": 1.1,
+        "low-holo": 0.33,
+        "trend-holo": 1.3,
+        "avg1-holo": 2,
+        "avg7-holo": 1.25,
+        "avg30-holo": 1.12
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175500,
+          "lowPrice": 53.15,
+          "midPrice": 63.49,
+          "highPrice": 102.14,
+          "marketPrice": 62.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-71",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "71",
+    "name": "Reshiram GX",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Nitrocarga",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Fire y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Columna Abrasadora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Bermellón-GX",
+        "effect": "Puedes unir hasta 5 cartas de Energía Fire de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida).",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363483,
+        "avg": 5.7,
+        "low": 3.49,
+        "trend": 6.09,
+        "avg1": 6.76,
+        "avg7": 5.67,
+        "avg30": 9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.6,
+        "avg1-holo": 4,
+        "avg7-holo": 4.28,
+        "avg30-holo": 5.59
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175501,
+          "lowPrice": 57.72,
+          "midPrice": 78.62,
+          "highPrice": 277.55,
+          "marketPrice": 75.51,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-72",
+    "illustrator": "5ban Graphics",
+    "localId": "72",
+    "name": "Altaria GX",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 200,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tono Cristalino",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Agua",
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Tajo Sónico",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Hada",
+          "Incolora"
+        ],
+        "name": "Euforia-GX",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363512,
+        "avg": 7.51,
+        "low": 0.99,
+        "trend": 7.17,
+        "avg1": 10,
+        "avg7": 6.63,
+        "avg30": 5.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.01,
+        "avg1-holo": 2.99,
+        "avg7-holo": 3.81,
+        "avg30-holo": 3.57
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175502,
+          "lowPrice": 32.99,
+          "midPrice": 38.42,
+          "highPrice": 53.09,
+          "marketPrice": 36.85,
+          "directLowPrice": 40.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-73",
+    "illustrator": "5ban Graphics",
+    "localId": "73",
+    "name": "Salamence GX",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      373
+    ],
+    "hp": 250,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Impulso Dragón",
+        "effect": "Tus Pokémon en juego no tienen ningún Coste de Retirada, excepto los Pokémon-GX y los Pokémon-EX."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Llama Viva",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 200
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Jet de Fuego-GX",
+        "effect": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363515,
+        "avg": 6.92,
+        "low": 1.9,
+        "trend": 6.27,
+        "avg1": 5,
+        "avg7": 6.34,
+        "avg30": 6.53,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.66,
+        "avg1-holo": 4.5,
+        "avg7-holo": 3.72,
+        "avg30-holo": 4.31
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175503,
+          "lowPrice": 37.49,
+          "midPrice": 43.35,
+          "highPrice": 131.98,
+          "marketPrice": 43.13,
+          "directLowPrice": 48.48
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-74",
+    "illustrator": "5ban Graphics",
+    "localId": "74",
+    "name": "Kyurem Blanco GX",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 190,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Hacer Trizas",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Tajo Furioso",
+        "effect": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Estrella Dragón-GX",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida).",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363519,
+        "avg": 6.91,
+        "low": 2.39,
+        "trend": 7.03,
+        "avg1": 4.48,
+        "avg7": 6.79,
+        "avg30": 5.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 5.03,
+        "avg1-holo": 4,
+        "avg7-holo": 4.27,
+        "avg30-holo": 4.43
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175504,
+          "lowPrice": 49.99,
+          "midPrice": 56.04,
+          "highPrice": 80,
+          "marketPrice": 57.34,
+          "directLowPrice": 59.92
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-75",
+    "illustrator": "Toyste Beach",
+    "localId": "75",
+    "name": "Espolón de Dragón",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Si el Pokémon Dragon al que esté unida esta carta es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante.",
+    "trainerType": "Herramienta",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363530,
+        "avg": 0.31,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.29,
+        "avg7": 0.29,
+        "avg30": 0.37,
+        "avg-holo": 0.52,
+        "low-holo": 0.25,
+        "trend-holo": 1,
+        "avg1-holo": 2.5,
+        "avg7-holo": 0.85,
+        "avg30-holo": 0.7
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175505,
+          "lowPrice": 6.84,
+          "midPrice": 7.69,
+          "highPrice": 14.99,
+          "marketPrice": 7.36,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-76",
+    "illustrator": "Eske Yoshinob",
+    "localId": "76",
+    "name": "Pedernal Ardiente",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si descartas otras 2 cartas de tu mano. \n\nBusca en tu baraja hasta 4 cartas de Energía Fire, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363531,
+        "avg": 0.73,
+        "low": 0.1,
+        "trend": 0.74,
+        "avg1": 0.84,
+        "avg7": 0.81,
+        "avg30": 0.82,
+        "avg-holo": 1.29,
+        "low-holo": 0.43,
+        "trend-holo": 1.02,
+        "avg1-holo": 1.07,
+        "avg7-holo": 1.02,
+        "avg30-holo": 1.64
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175506,
+          "lowPrice": 10,
+          "midPrice": 11.32,
+          "highPrice": 19.99,
+          "marketPrice": 10.81,
+          "directLowPrice": 10.02
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sm7.5-77",
+    "illustrator": "Yoshinobu Saito",
+    "localId": "77",
+    "name": "Cambio Salvavidas",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "effect": "Cambia tu Pokémon Water Activo por 1 de tus Pokémon en Banca. Si lo haces, cura 30 puntos de daño al Pokémon que has movido a tu Banca.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363533,
+        "avg": 0.84,
+        "low": 0.02,
+        "trend": 0.98,
+        "avg1": 0.49,
+        "avg7": 0.89,
+        "avg30": 0.74,
+        "avg-holo": 2.9,
+        "low-holo": 0.15,
+        "trend-holo": 2.23,
+        "avg1-holo": 1.8,
+        "avg7-holo": 1.76,
+        "avg30-holo": 1.88
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175507,
+          "lowPrice": 9.5,
+          "midPrice": 12.71,
+          "highPrice": 19.13,
+          "marketPrice": 12.18,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sm7.5-78",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "78",
+    "name": "Ultra-Necrozma GX",
+    "rarity": "Rara Secreto",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 78
+      },
+      "id": "sm7.5",
+      "name": "Majestad De Dragones"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      800
+    ],
+    "hp": 190,
+    "types": [
+      "Dragón"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Metálica"
+        ],
+        "name": "Géiser Fotónico",
+        "effect": "Descarta todas las Energías Básicas Psychic de este Pokémon. Este ataque hace 80 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Metálica"
+        ],
+        "name": "Luz Apocalíptica-GX",
+        "effect": "Puedes usar este ataque solo si el total de cartas de Premio que les queden a ambos jugadores es de 6 o menos. Pon 6 contadores de daño en cada uno de los Pokémon de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Hada",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 363549,
+        "avg": 94.71,
+        "low": 40,
+        "trend": 104.65,
+        "avg1": 113.99,
+        "avg7": 103.26,
+        "avg30": 110.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 135.4,
+        "avg1-holo": 157,
+        "avg7-holo": 133.54,
+        "avg30-holo": 105.01
+      },
+      "tcgplayer": {
+        "updated": "2026-02-21T20:05:00.000Z",
+        "unit": "USD",
+        "holofoil": {
+          "productId": 175508,
+          "lowPrice": 91.74,
+          "midPrice": 98.62,
+          "highPrice": 227,
+          "marketPrice": 92.44,
+          "directLowPrice": 95.2
+        }
+      }
+    }
+  }
+]

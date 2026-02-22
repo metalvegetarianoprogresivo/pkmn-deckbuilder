@@ -1,0 +1,858 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "mep-001",
+    "illustrator": "Uninori",
+    "localId": "001",
+    "name": "Meganium",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set"
+        ]
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set",
+          "Personal"
+        ]
+      }
+    ],
+    "dexId": [
+      154
+    ],
+    "hp": 160,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Desarrollo Descontrolado",
+        "effect": "Cada Energía {G} Básica unida a cada uno de tus Pokémon proporciona 2 Energías {G}. El efecto de Desarrollo Descontrolado no se acumula."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 140
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851043,
+        "avg": 15.72,
+        "low": 5,
+        "trend": 16.57,
+        "avg1": 10.49,
+        "avg7": 15.32,
+        "avg30": 15.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-002",
+    "illustrator": "Kazumasa Yasukuni",
+    "localId": "002",
+    "name": "Inteleon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set"
+        ]
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set",
+          "Personal"
+        ]
+      }
+    ],
+    "dexId": [
+      818
+    ],
+    "hp": 150,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Derrocar",
+        "effect": "Elige el Pokémon en juego (tuyo o de tu rival) al que le queden menos PS, excepto este Pokémon, y ese Pokémon queda Fuera de Combate. (Si hay varios Pokémon empatados, elige 1)."
+      },
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Disparo Agua",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851045,
+        "avg": 8.53,
+        "low": 3,
+        "trend": 8.67,
+        "avg1": 8.5,
+        "avg7": 7.61,
+        "avg30": 7.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-003",
+    "illustrator": "cochi8i",
+    "localId": "003",
+    "name": "Alakazam",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set"
+        ]
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set",
+          "Personal"
+        ]
+      }
+    ],
+    "dexId": [
+      65
+    ],
+    "hp": 140,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Robo Psíquico",
+        "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes usar esta habilidad. Roba 3 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Mano Poderosa",
+        "effect": "Pon 2 contadores de daño en el Pokémon Activo de tu rival por cada carta en tu mano."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851047,
+        "avg": 15.6,
+        "low": 6.95,
+        "trend": 16.36,
+        "avg1": 14.45,
+        "avg7": 14.81,
+        "avg30": 15.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-004",
+    "illustrator": "Ounishi",
+    "localId": "004",
+    "name": "Lunatone",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set"
+        ]
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "logo del set",
+          "Personal"
+        ]
+      }
+    ],
+    "dexId": [
+      337
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ciclo Lunar",
+        "effect": "Una vez durante tu turno, si tienes a Solrock en juego, puedes descartar 1 carta de Energía {F} Básica de tu mano para poder usar esta habilidad. Roba 3 cartas. No puedes usar más de una habilidad Ciclo Lunar en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Joya de Luz",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851049,
+        "avg": 14.57,
+        "low": 5,
+        "trend": 14.59,
+        "avg1": 10.97,
+        "avg7": 13.6,
+        "avg30": 13.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-005",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "005",
+    "name": "Drifloon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      425
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Jalar",
+        "effect": "Lanza 1 moneda. Si sale cara, cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851051,
+        "avg": 2.71,
+        "low": 0.35,
+        "trend": 2.33,
+        "avg1": 2.15,
+        "avg7": 2.3,
+        "avg30": 2.7,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-006",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "006",
+    "name": "Drifblim",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      426
+    ],
+    "hp": 110,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Viento Perturbador",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Regreso Globo",
+        "effect": "Pon este Pokémon y todas las cartas unidas a él en tu mano.",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851052,
+        "avg": 2.83,
+        "low": 1,
+        "trend": 2.8,
+        "avg1": 2.1,
+        "avg7": 2.7,
+        "avg30": 2.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-007",
+    "illustrator": "Jiro Sasumo",
+    "localId": "007",
+    "name": "Psyduck",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      54
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Humedad",
+        "effect": "Los Pokémon en juego (tanto tuyos como de tu rival) pierden todas las habilidades que requieren que esos Pokémon sean Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colisión",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851053,
+        "avg": 3.92,
+        "low": 1.2,
+        "trend": 3.15,
+        "avg1": 3.04,
+        "avg7": 2.91,
+        "avg30": 3.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-008",
+    "illustrator": "Jiro Sasumo",
+    "localId": "008",
+    "name": "Golduck",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      55
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Humedad",
+        "effect": "Los Pokémon en juego (tanto tuyos como de tu rival) pierden todas las habilidades que requieren que esos Pokémon sean Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía {W} unida a este Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851054,
+        "avg": 0.56,
+        "low": 0.02,
+        "trend": 0.52,
+        "avg1": 0.35,
+        "avg7": 0.5,
+        "avg30": 0.53,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-009",
+    "illustrator": "Aya Kusube",
+    "localId": "009",
+    "name": "Alakazam",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "pokemon-center"
+        ]
+      }
+    ],
+    "dexId": [
+      65
+    ],
+    "hp": 140,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Robo Psíquico",
+        "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes usar esta habilidad. Roba 3 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Mano Poderosa",
+        "effect": "Pon 2 contadores de daño en el Pokémon Activo de tu rival por cada carta en tu mano."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851055,
+        "avg": 8.19,
+        "low": 5,
+        "trend": 7.95,
+        "avg1": 8.46,
+        "avg7": 7.62,
+        "avg30": 8.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "mep-010",
+    "illustrator": "GOSSAN",
+    "localId": "010",
+    "name": "Riolu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 10
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "stamp": [
+          "pokemon-center"
+        ]
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puñalada Acelerada",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Puñalada Acelerada.",
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": false
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-02-22T01:42:45.000Z",
+        "unit": "EUR",
+        "idProduct": 851058,
+        "avg": 6.58,
+        "low": 4.8,
+        "trend": 6.68,
+        "avg1": 7.21,
+        "avg7": 6.7,
+        "avg30": 6.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]
