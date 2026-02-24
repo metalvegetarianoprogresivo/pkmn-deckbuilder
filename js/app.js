@@ -1,4 +1,10 @@
 window.addEventListener('DOMContentLoaded', () => {
+    // Load saved format preference and card data
+    const savedFormat = localStorage.getItem('currentFormat') || 'standard';
+    currentFormat = savedFormat;
+    updateFormatButtons(savedFormat);
+    loadCardData(savedFormat);
+
     loadSavedDeck();
     renderSavedDecks();
     setupEventListeners();
@@ -37,6 +43,14 @@ window.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // Escape key to close card search
+    document.getElementById('cardSearchInput')?.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            hideSearchResults();
+            e.target.value = '';
+        }
+    });
+
     // Close modals on outside click
     document.querySelectorAll('.modal').forEach(modal => {
         modal.addEventListener('click', (e) => {
@@ -70,5 +84,6 @@ function setupEventListeners() {
     setInterval(() => {
         localStorage.setItem('currentDeck', JSON.stringify(currentDeck));
         localStorage.setItem('selectedDeckType', selectedDeckType);
+        localStorage.setItem('currentFormat', currentFormat);
     }, 5000);
 }

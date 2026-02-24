@@ -1,27 +1,32 @@
+function formatDeckEntry(entry) {
+    if (entry.card) {
+        return `${entry.count} ${entry.card.name} ${entry.card.id}`;
+    }
+    return `${entry.count} ${entry.name} ${entry.set}`;
+}
+
 function exportDeck() {
-    // Ensure currentDeck has all required properties
-    if (!currentDeck.pokemon) currentDeck.pokemon = [];
-    if (!currentDeck.trainers) currentDeck.trainers = [];
-    if (!currentDeck.energy) currentDeck.energy = [];
+    ensureDeckArrays();
 
-    let decklist = `Pokémon: ${currentDeck.pokemon.reduce((sum, card) => sum + card.count, 0)}\n`;
-    currentDeck.pokemon.forEach(card => {
-        decklist += `${card.count} ${card.name} ${card.set}\n`;
+    const pokemonTotal = currentDeck.pokemon.reduce((sum, e) => sum + e.count, 0);
+    const trainerTotal = currentDeck.trainers.reduce((sum, e) => sum + e.count, 0);
+    const energyTotal = currentDeck.energy.reduce((sum, e) => sum + e.count, 0);
+    const total = pokemonTotal + trainerTotal + energyTotal;
+
+    let decklist = `Pok\u00E9mon: ${pokemonTotal}\n`;
+    currentDeck.pokemon.forEach(entry => {
+        decklist += formatDeckEntry(entry) + '\n';
     });
 
-    decklist += `\nTrainers: ${currentDeck.trainers.reduce((sum, card) => sum + card.count, 0)}\n`;
-    currentDeck.trainers.forEach(card => {
-        decklist += `${card.count} ${card.name} ${card.set}\n`;
+    decklist += `\nEntrenadores: ${trainerTotal}\n`;
+    currentDeck.trainers.forEach(entry => {
+        decklist += formatDeckEntry(entry) + '\n';
     });
 
-    decklist += `\nEnergy: ${currentDeck.energy.reduce((sum, card) => sum + card.count, 0)}\n`;
-    currentDeck.energy.forEach(card => {
-        decklist += `${card.count} ${card.name} ${card.set}\n`;
+    decklist += `\nEnerg\u00EDa: ${energyTotal}\n`;
+    currentDeck.energy.forEach(entry => {
+        decklist += formatDeckEntry(entry) + '\n';
     });
-
-    const total = currentDeck.pokemon.reduce((sum, card) => sum + card.count, 0) +
-                 currentDeck.trainers.reduce((sum, card) => sum + card.count, 0) +
-                 currentDeck.energy.reduce((sum, card) => sum + card.count, 0);
 
     decklist += `\nTotal: ${total}/60`;
 
@@ -32,7 +37,7 @@ function exportDeck() {
 function copyDecklist() {
     const text = document.getElementById('decklistText').textContent;
     navigator.clipboard.writeText(text).then(() => {
-        showToast('\u2705 \u00A1Decklist copiada!');
+        showToast('\u00A1Decklist copiada!');
         closeModal('exportModal');
     });
 }
@@ -46,7 +51,7 @@ function saveDeck() {
 function confirmSaveDeck() {
     const name = document.getElementById('deckNameInput').value.trim();
     if (!name) {
-        showToast('\u26A0\uFE0F Ingresa un nombre', 'warning');
+        showToast('Ingresa un nombre', 'warning');
         return;
     }
 
@@ -55,12 +60,13 @@ function confirmSaveDeck() {
         name,
         deck: JSON.parse(JSON.stringify(currentDeck)),
         date: new Date().toISOString(),
-        type: selectedDeckType
+        type: selectedDeckType,
+        format: currentFormat
     });
 
     localStorage.setItem('savedDecks', JSON.stringify(savedDecks));
     renderSavedDecks();
-    showToast(`\u2705 Deck "${name}" guardado`);
+    showToast(`Deck "${name}" guardado`);
 }
 
 function renderSavedDecks() {
@@ -72,15 +78,18 @@ function renderSavedDecks() {
         return;
     }
 
-    container.innerHTML = savedDecks.reverse().map((saved, index) => `
+    container.innerHTML = savedDecks.slice().reverse().map((saved, index) => {
+        const realIndex = savedDecks.length - 1 - index;
+        const formatLabel = saved.format ? ` \u2022 ${saved.format}` : '';
+        return `
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem; background: rgba(0,0,0,0.2); border-radius: 8px; margin-bottom: 0.5rem;">
-            <div onclick="loadSavedDeckByIndex(${savedDecks.length - 1 - index})" style="cursor: pointer; flex: 1;">
+            <div onclick="loadSavedDeckByIndex(${realIndex})" style="cursor: pointer; flex: 1;">
                 <div style="font-weight: 600; font-size: 0.9rem;">${saved.name}</div>
-                <div style="font-size: 0.75rem; color: rgba(255,255,255,0.4);">${new Date(saved.date).toLocaleDateString('es-ES')}</div>
+                <div style="font-size: 0.75rem; color: rgba(255,255,255,0.4);">${new Date(saved.date).toLocaleDateString('es-ES')}${formatLabel}</div>
             </div>
-            <button class="card-btn delete" onclick="deleteSavedDeck(${savedDecks.length - 1 - index})">🗑️</button>
-        </div>
-    `).join('');
+            <button class="card-btn delete" onclick="deleteSavedDeck(${realIndex})">🗑\uFE0F</button>
+        </div>`;
+    }).join('');
 }
 
 function loadSavedDeckByIndex(index) {
@@ -88,26 +97,26 @@ function loadSavedDeckByIndex(index) {
     const saved = savedDecks[index];
 
     if (!saved) {
-        showToast('\u26A0\uFE0F Error al cargar deck', 'error');
+        showToast('Error al cargar deck', 'error');
         return;
     }
 
     try {
         currentDeck = JSON.parse(JSON.stringify(saved.deck));
-        // Ensure all properties exist
-        if (!currentDeck.pokemon) currentDeck.pokemon = [];
-        if (!currentDeck.trainers) currentDeck.trainers = [];
-        if (!currentDeck.energy) currentDeck.energy = [];
-
+        ensureDeckArrays();
         selectedDeckType = saved.type || 'custom';
+
+        if (saved.format) {
+            onFormatChange(saved.format);
+        }
 
         renderDeck();
         updateCounts();
         closeModal('saveDeckModal');
-        showToast(`\u2705 Deck "${saved.name}" cargado`);
+        showToast(`Deck "${saved.name}" cargado`);
     } catch (e) {
         console.error('Error loading deck:', e);
-        showToast('\u26A0\uFE0F Error al cargar deck', 'error');
+        showToast('Error al cargar deck', 'error');
     }
 }
 
@@ -118,7 +127,7 @@ function deleteSavedDeck(index) {
     savedDecks.splice(index, 1);
     localStorage.setItem('savedDecks', JSON.stringify(savedDecks));
     renderSavedDecks();
-    showToast('🗑️ Deck eliminado');
+    showToast('Deck eliminado');
 }
 
 function loadDeck() {

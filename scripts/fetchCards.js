@@ -132,6 +132,9 @@ function trimCardForDeckBuilder(card) {
     //   Optimizado:    image + '/low.webp'
     image: card.image || null,
 
+    // Tipo de energía (para distinguir básica de especial)
+    energyType: card.energyType || null,
+
     // Número de carta en el set
     number: card.localId,
     rarity: card.rarity || null,

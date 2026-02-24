@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/components/playtesting.css">
     <link rel="stylesheet" href="css/components/modal.css">
     <link rel="stylesheet" href="css/components/notifications.css">
+    <link rel="stylesheet" href="css/components/card-search.css">
     <!-- Animations -->
     <link rel="stylesheet" href="css/animations.css">
     <!-- Responsive Overrides -->
@@ -32,7 +33,11 @@
     <div class="container">
         <header>
             <h1>⚡ Universal Deckbuilder Pro</h1>
-            <p class="subtitle">Pokémon TCG • Formato Standard 2026</p>
+            <p class="subtitle" id="formatSubtitle">Pokémon TCG &bull; Formato Standard 2026</p>
+            <div class="format-selector">
+                <button class="format-btn active" id="formatStandard" onclick="onFormatChange('standard')">Standard</button>
+                <button class="format-btn" id="formatExpanded" onclick="onFormatChange('expanded')">Expanded</button>
+            </div>
             <div class="badge">🔄 Auto-guardado • 🎲 Playtesting • 🎯 Matchup Optimizer</div>
         </header>
 
@@ -73,26 +78,21 @@
                     <h2 class="section-title">🃏 Constructor de Deck</h2>
 
                     <div class="add-card-section">
-                        <h3 style="font-size: 1rem; margin-bottom: 1rem; color: var(--accent);">➕ Agregar Carta</h3>
-                        <div class="form-row">
-                            <div class="form-group" style="margin: 0;">
-                                <input type="text" class="form-input" id="cardName" placeholder="Nombre de la carta">
-                            </div>
-                            <div class="form-group" style="margin: 0;">
-                                <input type="text" class="form-input" id="cardSet" placeholder="Set (ej: MEG 58)">
-                            </div>
-                            <div class="form-group" style="margin: 0;">
-                                <input type="number" class="form-input" id="cardCount" placeholder="1-4" min="1" max="4" value="1">
-                            </div>
+                        <h3 style="font-size: 1rem; margin-bottom: 1rem; color: var(--accent);">🔍 Buscar y Agregar Carta</h3>
+                        <div id="cardSearchContainer">
+                            <input
+                                type="text"
+                                class="form-input"
+                                id="cardSearchInput"
+                                placeholder="Escribe el nombre de una carta..."
+                                autocomplete="off"
+                                oninput="onCardSearchInput(event)"
+                            >
+                            <div id="cardSearchResults" class="card-search-results" style="display: none;"></div>
                         </div>
-                        <div class="form-group">
-                            <select class="form-select" id="cardType">
-                                <option value="pokemon">Pokémon</option>
-                                <option value="trainer">Trainer</option>
-                                <option value="energy">Energy</option>
-                            </select>
+                        <div id="cardLoadingState" style="display: none; padding: 1rem; text-align: center; color: rgba(255,255,255,0.5); font-size: 0.875rem;">
+                            Cargando datos de cartas...
                         </div>
-                        <button class="btn btn-primary" onclick="addCard()">➕ Agregar Carta</button>
                     </div>
 
                     <div id="deckBuilder">
@@ -319,6 +319,9 @@
 
     <!-- UI utilities -->
     <script src="js/ui-utilities.js"></script>
+
+    <!-- Card search -->
+    <script src="js/card-search.js"></script>
 
     <!-- Core features -->
     <script src="js/deck-management.js"></script>

@@ -1,19 +1,17 @@
 function buildTestingDeck() {
     deckForTesting = [];
-
-    // Ensure currentDeck has all required properties
-    if (!currentDeck.pokemon) currentDeck.pokemon = [];
-    if (!currentDeck.trainers) currentDeck.trainers = [];
-    if (!currentDeck.energy) currentDeck.energy = [];
+    ensureDeckArrays();
 
     ['pokemon', 'trainers', 'energy'].forEach(type => {
-        currentDeck[type].forEach(card => {
-            for (let i = 0; i < card.count; i++) {
-                deckForTesting.push({
-                    name: card.name,
-                    set: card.set,
-                    type: type === 'trainers' ? 'trainer' : type.slice(0, -1)
-                });
+        currentDeck[type].forEach(entry => {
+            const name = entry.card ? entry.card.name : entry.name;
+            const set = entry.card
+                ? `${entry.card.set.id}-${entry.card.localId}`
+                : (entry.set || '');
+            const flatType = type === 'trainers' ? 'trainer' : type.replace(/s$/, '');
+
+            for (let i = 0; i < entry.count; i++) {
+                deckForTesting.push({ name, set, type: flatType });
             }
         });
     });
@@ -29,17 +27,12 @@ function shuffleDeck() {
 }
 
 function drawHand() {
-    // Ensure currentDeck has all required properties
-    if (!currentDeck.pokemon) currentDeck.pokemon = [];
-    if (!currentDeck.trainers) currentDeck.trainers = [];
-    if (!currentDeck.energy) currentDeck.energy = [];
+    ensureDeckArrays();
 
-    const totalCards = currentDeck.pokemon.reduce((sum, card) => sum + card.count, 0) +
-                      currentDeck.trainers.reduce((sum, card) => sum + card.count, 0) +
-                      currentDeck.energy.reduce((sum, card) => sum + card.count, 0);
+    const totalCards = getTotalCardCount();
 
     if (totalCards < 7) {
-        showToast('\u26A0\uFE0F Necesitas al menos 7 cartas', 'warning');
+        showToast('Necesitas al menos 7 cartas', 'warning');
         return;
     }
 
@@ -55,12 +48,12 @@ function drawHand() {
     document.getElementById('mulliganBtn').disabled = false;
     document.getElementById('handDisplay').style.display = 'block';
 
-    showToast('\u{1F3B4} Mano inicial robada');
+    showToast('Mano inicial robada');
 }
 
 function mulligan() {
     if (mulliganCount >= 3) {
-        showToast('\u26A0\uFE0F Máximo 3 mulligans', 'warning');
+        showToast('M\u00E1ximo 3 mulligans', 'warning');
         return;
     }
 
@@ -75,7 +68,7 @@ function mulligan() {
     analyzeHand();
     updateTestingStatsDisplay();
 
-    showToast(`\u{1F504} Mulligan ${mulliganCount}/3`);
+    showToast(`Mulligan ${mulliganCount}/3`);
 }
 
 function displayHand() {
@@ -89,7 +82,7 @@ function displayHand() {
     let html = '';
 
     if (pokemon.length > 0) {
-        html += '<div style="margin-bottom: 0.75rem;"><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Pokémon (' + pokemon.length + ')</div>';
+        html += '<div style="margin-bottom: 0.75rem;"><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Pok\u00E9mon (' + pokemon.length + ')</div>';
         pokemon.forEach(card => {
             html += `<div style="padding: 0.5rem; background: rgba(217, 70, 239, 0.1); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.25rem;">
                 <div style="font-weight: 600;">${card.name}</div>
@@ -100,7 +93,7 @@ function displayHand() {
     }
 
     if (trainers.length > 0) {
-        html += '<div style="margin-bottom: 0.75rem;"><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Trainers (' + trainers.length + ')</div>';
+        html += '<div style="margin-bottom: 0.75rem;"><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Entrenadores (' + trainers.length + ')</div>';
         trainers.forEach(card => {
             html += `<div style="padding: 0.5rem; background: rgba(139, 92, 246, 0.1); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.25rem;">
                 <div style="font-weight: 600;">${card.name}</div>
@@ -111,7 +104,7 @@ function displayHand() {
     }
 
     if (energy.length > 0) {
-        html += '<div><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Energy (' + energy.length + ')</div>';
+        html += '<div><div style="font-size: 0.75rem; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;">Energ\u00EDa (' + energy.length + ')</div>';
         energy.forEach(card => {
             html += `<div style="padding: 0.5rem; background: rgba(236, 72, 153, 0.1); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.25rem;">
                 <div style="font-weight: 600;">${card.name}</div>
@@ -145,14 +138,14 @@ function analyzeHand() {
     if (pokemon.length === 0) {
         analysis.push({
             icon: '\u274C',
-            text: 'Sin Pokémon - \u00A1Mulligan obligatorio!',
+            text: 'Sin Pok\u00E9mon - \u00A1Mulligan obligatorio!',
             type: 'error'
         });
         testingStats.brickHands++;
     } else if (pokemon.length >= 1 && hasSupporter) {
         analysis.push({
             icon: '\u2705',
-            text: 'MANO BUENA - Tienes Pokémon y Supporter',
+            text: 'MANO BUENA - Tienes Pok\u00E9mon y Supporter',
             type: 'success'
         });
         testingStats.perfectHands++;
@@ -183,7 +176,7 @@ function analyzeHand() {
     if (hasSearchBall) {
         analysis.push({
             icon: '\u2705',
-            text: 'Tienes search balls - Puedes buscar Pokémon',
+            text: 'Tienes search balls - Puedes buscar Pok\u00E9mon',
             type: 'info'
         });
     }
@@ -191,7 +184,7 @@ function analyzeHand() {
     if (energy.length >= 1) {
         analysis.push({
             icon: '\u2705',
-            text: `${energy.length} ${energy.length === 1 ? 'energía' : 'energías'} - Puedes attachar`,
+            text: `${energy.length} ${energy.length === 1 ? 'energ\u00EDa' : 'energ\u00EDas'} - Puedes attachar`,
             type: 'success'
         });
         testingStats.energyInHand++;
@@ -250,7 +243,7 @@ function updateTestingStatsDisplay() {
 }
 
 function resetTestingStats() {
-    if (!confirm('\u00BFReiniciar estadísticas?')) return;
+    if (!confirm('\u00BFReiniciar estad\u00EDsticas?')) return;
 
     testingStats = {
         handsDrawn: 0,
@@ -264,5 +257,5 @@ function resetTestingStats() {
 
     localStorage.setItem('testingStats', JSON.stringify(testingStats));
     updateTestingStatsDisplay();
-    showToast('🗑️ Estadísticas reiniciadas');
+    showToast('Estad\u00EDsticas reiniciadas');
 }

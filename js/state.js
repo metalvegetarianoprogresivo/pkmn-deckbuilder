@@ -1,4 +1,7 @@
 let currentDeck = { pokemon: [], trainers: [], energy: [] };
+let currentFormat = 'standard';
+let loadedCards = [];
+let isLoadingCards = false;
 let currentHand = [];
 let deckForTesting = [];
 let mulliganCount = 0;
