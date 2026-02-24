@@ -278,9 +278,14 @@
             <button class="modal-close" onclick="closeModal('exportModal')">×</button>
             <h2 class="section-title">📋 Exportar Decklist</h2>
             <div style="background: rgba(0,0,0,0.3); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; font-family: 'Courier New', monospace; font-size: 0.9rem; white-space: pre-wrap; max-height: 400px; overflow-y: auto; margin: 1rem 0;" id="decklistText"></div>
-            <button class="btn btn-primary" onclick="copyDecklist()">
-                📄 Copiar al Portapapeles
-            </button>
+            <div style="display: flex; gap: 0.75rem;">
+                <button class="btn btn-primary" onclick="copyDecklist()" style="flex: 1;">
+                    📄 Copiar al Portapapeles
+                </button>
+                <button class="btn btn-secondary" onclick="exportToPDF()" style="flex: 1;">
+                    🖨️ Descargar PDF
+                </button>
+            </div>
         </div>
     </div>
 
@@ -320,6 +325,9 @@
     <!-- UI utilities -->
     <script src="js/ui-utilities.js"></script>
 
+    <!-- pdf-lib for PDF export -->
+    <script src="https://unpkg.com/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+
     <!-- Card search -->
     <script src="js/card-search.js"></script>
 
@@ -330,6 +338,7 @@
     <script src="js/meta-stats.js"></script>
     <script src="js/limitless-import.js"></script>
     <script src="js/playtesting.js"></script>
+    <script src="js/pdf-export.js"></script>
 
     <!-- App initialization (must be last) -->
     <script src="js/app.js"></script>
