@@ -132,26 +132,25 @@ function renderSearchResults(results) {
     container.innerHTML = results.map(card => {
         const imgUrl = card.image ? card.image + '/low.webp' : '';
         const catClass = getCategoryClass(card.category);
-        const meta = [
+        const tooltip = [
+            card.name,
             card.set.name,
-            card.set.id + '-' + card.localId,
             card.hp ? card.hp + ' HP' : '',
             card.category === 'Pokémon' && card.stage ? card.stage : '',
         ].filter(Boolean).join(' \u2022 ');
 
         return `
-            <div class="search-result-item ${catClass}" onclick="selectCardFromSearch('${card.id}')">
-                ${imgUrl ? `<img class="search-result-img" src="${imgUrl}" alt="${card.name}" loading="lazy" onerror="this.style.display='none'">` : '<div class="search-result-img-placeholder"></div>'}
-                <div class="search-result-info">
-                    <div class="search-result-name">${card.name}</div>
-                    <div class="search-result-meta">${meta}</div>
-                </div>
-                <div class="search-result-category">${getCategoryIcon(card.category)}</div>
+            <div class="card-grid-item ${catClass}" onclick="selectCardFromSearch('${card.id}')" title="${tooltip}">
+                ${imgUrl
+                    ? `<img class="card-grid-img" src="${imgUrl}" alt="${card.name}" loading="lazy" onerror="this.parentElement.classList.add('no-img')">`
+                    : '<div class="card-grid-img-placeholder"></div>'
+                }
+                <div class="card-grid-name">${card.name}</div>
             </div>
         `;
     }).join('');
 
-    container.style.display = 'block';
+    container.style.display = 'grid';
 }
 
 function hideSearchResults() {
