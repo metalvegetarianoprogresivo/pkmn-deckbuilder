@@ -2,9 +2,9 @@ name: Fetch Pokémon TCG Data (TCGDex)
 
 on:
   schedule:
-    # Ejecuta cada día a las 6:17 UTC
+    # Ejecuta cada dos semanas a las 6:17 UTC (días 1 y 15 de cada mes)
     # (offset de :00 para evitar picos de carga en GitHub)
-    - cron: '17 6 * * *'
+    - cron: '17 6 */14 * *'
   workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
 
 permissions:
