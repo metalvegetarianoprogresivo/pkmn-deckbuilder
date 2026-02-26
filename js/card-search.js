@@ -167,8 +167,12 @@ function selectCardFromSearch(cardId) {
 
     addCardFromData(card);
 
-    document.getElementById('cardSearchInput').value = '';
-    hideSearchResults();
+    // Keep the grid open so users can keep clicking cards
+    const el = document.querySelector(`.card-grid-item[onclick="selectCardFromSearch('${cardId}')"]`);
+    if (el) {
+        el.classList.add('card-added');
+        setTimeout(() => el.classList.remove('card-added'), 600);
+    }
 }
 
 // ── Format Switching ────────────────────────────────────────────────────────

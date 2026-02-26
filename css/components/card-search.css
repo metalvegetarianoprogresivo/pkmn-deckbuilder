@@ -104,6 +104,13 @@
     line-height: 1.3;
 }
 
+/* Flash feedback when a card is added to the deck */
+.card-grid-item.card-added {
+    border-color: #a855f7 !important;
+    box-shadow: 0 0 16px rgba(168, 85, 247, 0.7) !important;
+    transform: scale(1.08) !important;
+}
+
 /* ── Deck Card Thumbnails ────────────────────────────────────────────────── */
 
 .deck-card-thumb {
