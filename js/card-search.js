@@ -101,12 +101,10 @@ function performCardSearch(query) {
 
     const lowerQuery = query.toLowerCase();
 
-    const results = loadedCards
-        .filter(card => card.name.toLowerCase().includes(lowerQuery))
-        .slice(0, 50);
+    const allMatches = loadedCards.filter(card => card.name.toLowerCase().includes(lowerQuery));
 
     // Prioritize starts-with, then alphabetical
-    results.sort((a, b) => {
+    allMatches.sort((a, b) => {
         const aStarts = a.name.toLowerCase().startsWith(lowerQuery);
         const bStarts = b.name.toLowerCase().startsWith(lowerQuery);
         if (aStarts && !bStarts) return -1;
@@ -114,7 +112,30 @@ function performCardSearch(query) {
         return a.name.localeCompare(b.name);
     });
 
-    renderSearchResults(results.slice(0, 20));
+    // Count all versions per Pokémon name across the full match set
+    const pokemonVersionCounts = new Map();
+    for (const card of allMatches) {
+        if (card.category === 'Pokémon') {
+            pokemonVersionCounts.set(card.name, (pokemonVersionCounts.get(card.name) || 0) + 1);
+        }
+    }
+
+    // Build display list: one representative entry per Pokémon name, all non-Pokémon as-is
+    const seenPokemonNames = new Set();
+    const displayResults = [];
+    for (const card of allMatches) {
+        if (card.category === 'Pokémon') {
+            if (!seenPokemonNames.has(card.name)) {
+                seenPokemonNames.add(card.name);
+                displayResults.push({ ...card, _versionCount: pokemonVersionCounts.get(card.name) });
+            }
+        } else {
+            displayResults.push(card);
+        }
+        if (displayResults.length === 20) break;
+    }
+
+    renderSearchResults(displayResults);
 }
 
 // ── Render Search Results ───────────────────────────────────────────────────
@@ -132,15 +153,19 @@ function renderSearchResults(results) {
     container.innerHTML = results.map(card => {
         const imgUrl = card.image ? card.image + '/low.webp' : '';
         const catClass = getCategoryClass(card.category);
-        const tooltip = [
-            card.name,
-            card.set.name,
-            card.hp ? card.hp + ' HP' : '',
-            card.category === 'Pokémon' && card.stage ? card.stage : '',
-        ].filter(Boolean).join(' \u2022 ');
+        const hasVersions = card._versionCount > 1;
+        const tooltip = hasVersions
+            ? `${card.name} \u2022 ${card._versionCount} versiones disponibles`
+            : [
+                card.name,
+                card.set.name,
+                card.hp ? card.hp + ' HP' : '',
+                card.category === 'Pok\u00E9mon' && card.stage ? card.stage : '',
+            ].filter(Boolean).join(' \u2022 ');
 
         return `
             <div class="card-grid-item ${catClass}" onclick="selectCardFromSearch('${card.id}')" title="${tooltip}">
+                ${hasVersions ? `<span class="version-badge">${card._versionCount}</span>` : ''}
                 ${imgUrl
                     ? `<img class="card-grid-img" src="${imgUrl}" alt="${card.name}" loading="lazy" onerror="this.parentElement.classList.add('no-img')">`
                     : '<div class="card-grid-img-placeholder"></div>'
@@ -165,6 +190,15 @@ function selectCardFromSearch(cardId) {
     const card = loadedCards.find(c => c.id === cardId);
     if (!card) return;
 
+    // For Pokémon with multiple versions, open the version picker
+    if (card.category === 'Pok\u00E9mon') {
+        const versions = loadedCards.filter(c => c.name === card.name && c.category === 'Pok\u00E9mon');
+        if (versions.length > 1) {
+            showVersionPicker(versions);
+            return;
+        }
+    }
+
     addCardFromData(card);
 
     // Keep the grid open so users can keep clicking cards
@@ -173,6 +207,47 @@ function selectCardFromSearch(cardId) {
         el.classList.add('card-added');
         setTimeout(() => el.classList.remove('card-added'), 600);
     }
+}
+
+// ── Version Picker ───────────────────────────────────────────────────────────
+
+function showVersionPicker(versions) {
+    const modal = document.getElementById('versionPickerModal');
+    const title = document.getElementById('versionPickerTitle');
+    const grid = document.getElementById('versionPickerGrid');
+    if (!modal || !title || !grid) return;
+
+    title.textContent = `Elige una versi\u00F3n: ${versions[0].name}`;
+
+    const sorted = versions.slice().sort((a, b) =>
+        a.set.id.localeCompare(b.set.id) || a.localId.localeCompare(b.localId)
+    );
+
+    grid.innerHTML = sorted.map(card => {
+        const imgUrl = card.image ? card.image + '/low.webp' : '';
+        return `
+            <div class="version-picker-item" onclick="selectVersion('${card.id}')">
+                ${imgUrl
+                    ? `<img src="${imgUrl}" alt="${card.name}" loading="lazy" onerror="this.style.display='none'">`
+                    : '<div class="version-img-placeholder"></div>'
+                }
+                <div class="version-info">
+                    <div class="version-set">${card.set.name}</div>
+                    <div class="version-number">${card.set.id}-${card.localId}</div>
+                    ${card.rarity ? `<div class="version-rarity">${card.rarity}</div>` : ''}
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    openModal('versionPickerModal');
+}
+
+function selectVersion(cardId) {
+    const card = loadedCards.find(c => c.id === cardId);
+    if (!card) return;
+    addCardFromData(card);
+    closeModal('versionPickerModal');
 }
 
 // ── Format Switching ────────────────────────────────────────────────────────

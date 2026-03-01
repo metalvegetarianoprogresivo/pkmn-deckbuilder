@@ -61,6 +61,7 @@
 /* ── Card Grid Item ──────────────────────────────────────────────────────── */
 
 .card-grid-item {
+    position: relative;
     cursor: pointer;
     border-radius: 6px;
     overflow: hidden;
@@ -119,6 +120,88 @@
     object-fit: cover;
     border-radius: 3px;
     flex-shrink: 0;
+}
+
+/* ── Version Count Badge ─────────────────────────────────────────────────── */
+
+.version-badge {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    background: var(--primary);
+    color: white;
+    font-size: 0.55rem;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 8px;
+    z-index: 1;
+    line-height: 1.4;
+    pointer-events: none;
+}
+
+/* ── Version Picker Modal ────────────────────────────────────────────────── */
+
+.version-picker-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1rem;
+    max-height: 60vh;
+    overflow-y: auto;
+}
+
+.version-picker-item {
+    cursor: pointer;
+    border-radius: 8px;
+    border: 2px solid transparent;
+    overflow: hidden;
+    transition: all 0.15s ease;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.version-picker-item:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(217, 70, 239, 0.3);
+}
+
+.version-picker-item img,
+.version-img-placeholder {
+    width: 100%;
+    aspect-ratio: 2.5 / 3.5;
+    object-fit: cover;
+    display: block;
+}
+
+.version-img-placeholder {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.version-info {
+    padding: 0.25rem 0.35rem;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.version-set {
+    font-size: 0.6rem;
+    color: rgba(255, 255, 255, 0.7);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.version-number {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: var(--accent);
+}
+
+.version-rarity {
+    font-size: 0.55rem;
+    color: rgba(255, 255, 255, 0.5);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 /* ── Loading / Empty States ──────────────────────────────────────────────── */
