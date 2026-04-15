@@ -1,0 +1,1140 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "2023sv-1",
+    "illustrator": "Saya Tsuruta",
+    "localId": "1",
+    "name": "Sprigatito",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Arañazo",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Bomba Germen",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-2",
+    "illustrator": "Akira Komayama",
+    "localId": "2",
+    "name": "Fuecoco",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Llamarada",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-3",
+    "illustrator": "Mizue",
+    "localId": "3",
+    "name": "Quaxly",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      912
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Destructor",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-4",
+    "illustrator": "Kouki Saitou",
+    "localId": "4",
+    "name": "Cetoddle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      974
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Gélido",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-5",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "5",
+    "name": "Cetitan",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      975
+    ],
+    "hp": 160,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Cetoddle",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Gélido",
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Salvaje",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-6",
+    "illustrator": "OKACHEKE",
+    "localId": "6",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-7",
+    "illustrator": "kantaro",
+    "localId": "7",
+    "name": "Pawmi",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Moflete",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Patada Eléctrica",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-8",
+    "illustrator": "Kouki Saitou",
+    "localId": "8",
+    "name": "Kilowattrel",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      941
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Wattrel",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Picotazo",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-9",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "9",
+    "name": "Flittle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      955
+    ],
+    "hp": 50,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Picotazo",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-10",
+    "illustrator": "Yuya Oka",
+    "localId": "10",
+    "name": "Sandaconda",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      844
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Silicobra",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Arena",
+        "effect": "Si el Pokémon Defensor intenta atacar durante el próximo turno de tu rival, tu rival lanza 1 moneda. Si sale cruz, ese ataque no se produce.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aliento de Arena",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-11",
+    "illustrator": "nagimiso",
+    "localId": "11",
+    "name": "Klawf",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      950
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Agarre",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Roca",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-12",
+    "illustrator": "chibi",
+    "localId": "12",
+    "name": "Blissey",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      242
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Chansey",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bofetada Gentil",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Huevo Feliz",
+        "effect": "Cura 60 puntos de daño a este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-13",
+    "illustrator": "yuu",
+    "localId": "13",
+    "name": "Tandemaus",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      924
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Llamar a la Familia",
+        "effect": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-14",
+    "illustrator": "Ryota Murayama",
+    "localId": "14",
+    "name": "Cyclizar",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Giro Rápido",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Veloz",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-15",
+    "illustrator": "kawayoo",
+    "localId": "15",
+    "name": "Kirlia",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      281
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Ralts",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Golpazo",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

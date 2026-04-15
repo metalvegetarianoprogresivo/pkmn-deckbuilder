@@ -18,22 +18,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -71,20 +63,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835903,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
         "avg1": 0.03,
-        "avg7": 0.04,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.11,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.07,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.15,
         "avg30-holo": 0.1
       },
       "tcgplayer": null
@@ -109,22 +101,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -165,21 +149,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835905,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.04,
-        "avg7": 0.04,
-        "avg30": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.15,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.2,
-        "avg30-holo": 0.14
+        "trend-holo": 0.1,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.13
       },
       "tcgplayer": null
     }
@@ -203,22 +187,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -260,15 +236,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835908,
         "avg": 0.44,
         "low": 0.02,
-        "trend": 0.43,
-        "avg1": 0.48,
-        "avg7": 0.46,
-        "avg30": 0.44,
+        "trend": 0.42,
+        "avg1": 0.33,
+        "avg7": 0.42,
+        "avg30": 0.41,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -298,22 +274,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -351,21 +319,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835910,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.1,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.1,
-        "avg30-holo": 0.12
+        "trend-holo": 0.09,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -389,22 +357,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -436,7 +396,7 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835912,
         "avg": 0.03,
@@ -447,10 +407,10 @@
         "avg30": 0.03,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.13,
-        "avg30-holo": 0.16
+        "trend-holo": 0.2,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -474,22 +434,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -526,21 +478,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835914,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.03,
+        "trend": 0.03,
+        "avg1": 0.05,
         "avg7": 0.04,
-        "avg30": 0.03,
+        "avg30": 0.04,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.13
+        "trend-holo": 0.11,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -564,22 +516,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -620,21 +564,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835916,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.04,
         "avg1": 0.02,
-        "avg7": 0.02,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.15,
-        "avg30-holo": 0.16
+        "trend-holo": 0.17,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.15
       },
       "tcgplayer": null
     }
@@ -658,22 +602,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -712,21 +648,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835918,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.02,
         "avg1": 0.02,
-        "avg7": 0.03,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.21,
         "low-holo": 0.02,
-        "trend-holo": 0.22,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.1,
-        "avg30-holo": 0.21
+        "trend-holo": 0.12,
+        "avg1-holo": 0.31,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -750,22 +686,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -802,7 +730,7 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835919,
         "avg": 0.03,
@@ -813,10 +741,10 @@
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.09,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.13
+        "trend-holo": 0.13,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -840,22 +768,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -885,21 +805,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835921,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.03,
-        "avg7": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
         "trend-holo": 0.1,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.1,
-        "avg30-holo": 0.14
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.1
       },
       "tcgplayer": null
     }
@@ -923,22 +843,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -978,21 +890,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835922,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.04,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.25,
         "low-holo": 0.02,
-        "trend-holo": 0.58,
-        "avg1-holo": 0.25,
-        "avg7-holo": 0.48,
-        "avg30-holo": 0.24
+        "trend-holo": 0.24,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.26
       },
       "tcgplayer": null
     }
@@ -1016,22 +928,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1063,21 +967,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835926,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.07,
-        "avg7": 0.04,
-        "avg30": 0.07,
+        "trend": 0.08,
+        "avg1": 0.08,
+        "avg7": 0.08,
+        "avg30": 0.06,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.38,
-        "avg7-holo": 0.23,
-        "avg30-holo": 0.18
+        "trend-holo": 0.24,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.19
       },
       "tcgplayer": null
     }
@@ -1101,22 +1005,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1147,21 +1043,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835928,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.03,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.09,
+        "trend-holo": 0.1,
         "avg1-holo": 0.02,
-        "avg7-holo": 0.12,
-        "avg30-holo": 0.14
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -1185,22 +1081,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1241,24 +1129,24 @@
       "standard": true,
       "expanded": true
     },
-    "updated": "2026-01-24T23:06:55+01:00",
+    "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
-        "idProduct": 836069,
+        "idProduct": 835929,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.03,
+        "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.21,
-        "avg30-holo": 0.17
+        "trend-holo": 0.17,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.16
       },
       "tcgplayer": null
     }
@@ -1282,22 +1170,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1328,21 +1208,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835932,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.02,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.12
+        "trend-holo": 0.1,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -1366,22 +1246,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1421,21 +1293,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835934,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.07,
+        "trend": 0.08,
+        "avg1": 0.12,
+        "avg7": 0.07,
+        "avg30": 0.06,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.19,
-        "avg30-holo": 0.17
+        "trend-holo": 0.23,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -1459,22 +1331,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1512,20 +1376,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835936,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.04,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.08,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.07,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.08,
         "avg30-holo": 0.08
       },
       "tcgplayer": null
@@ -1550,22 +1414,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1597,21 +1453,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835939,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.02,
+        "avg7": 0.04,
         "avg30": 0.03,
         "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.1,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.11,
-        "avg30-holo": 0.13
+        "trend-holo": 0.17,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.18,
+        "avg30-holo": 0.15
       },
       "tcgplayer": null
     }
@@ -1635,22 +1491,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1682,20 +1530,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835940,
         "avg": 0.02,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.03,
         "avg7": 0.03,
-        "avg30": 0.03,
+        "avg30": 0.02,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.08,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.12,
         "avg30-holo": 0.09
       },
       "tcgplayer": null
@@ -1720,22 +1568,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1777,21 +1617,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835942,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.06,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.07,
-        "avg30-holo": 0.13
+        "trend-holo": 0.12,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.08
       },
       "tcgplayer": null
     }
@@ -1815,22 +1655,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1874,20 +1706,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835943,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.02,
-        "avg30": 0.03,
+        "trend": 0.06,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.04,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.19,
-        "avg1-holo": 0.35,
-        "avg7-holo": 0.22,
+        "trend-holo": 0.17,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.2,
         "avg30-holo": 0.18
       },
       "tcgplayer": null
@@ -1912,22 +1744,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -1968,21 +1792,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835945,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.07,
-        "avg7": 0.04,
-        "avg30": 0.03,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
         "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.14,
-        "avg30-holo": 0.15
+        "trend-holo": 0.28,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -2006,22 +1830,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2062,21 +1878,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835947,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.06,
-        "avg7": 0.07,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.06,
         "avg30": 0.07,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.28,
-        "avg1-holo": 0.33,
-        "avg7-holo": 0.27,
-        "avg30-holo": 0.17
+        "trend-holo": 0.24,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -2100,22 +1916,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2154,21 +1962,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835948,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.04,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.26,
-        "avg7-holo": 0.17,
-        "avg30-holo": 0.15
+        "trend-holo": 0.15,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.14
       },
       "tcgplayer": null
     }
@@ -2192,22 +2000,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2238,21 +2038,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835949,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.03,
+        "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.05,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.03,
         "avg7-holo": 0.09,
-        "avg30-holo": 0.13
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -2276,22 +2076,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2334,21 +2126,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835950,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.05,
+        "trend": 0.07,
         "avg1": 0.07,
-        "avg7": 0.05,
+        "avg7": 0.06,
         "avg30": 0.07,
         "avg-holo": 0.2,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.07,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.02,
         "avg7-holo": 0.17,
-        "avg30-holo": 0.18
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -2372,22 +2164,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2421,24 +2205,24 @@
       "standard": true,
       "expanded": true
     },
-    "updated": "2026-01-24T23:06:55+01:00",
+    "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
-        "idProduct": 835994,
+        "idProduct": 835953,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "avg-holo": 0.16,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.02,
+        "avg-holo": 0.15,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.18,
-        "avg30-holo": 0.15
+        "trend-holo": 0.13,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.13
       },
       "tcgplayer": null
     }
@@ -2462,22 +2246,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2518,15 +2294,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835955,
         "avg": 0.43,
         "low": 0.02,
         "trend": 0.43,
-        "avg1": 0.39,
-        "avg7": 0.45,
-        "avg30": 0.43,
+        "avg1": 0.54,
+        "avg7": 0.42,
+        "avg30": 0.41,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -2556,22 +2332,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2608,21 +2376,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835957,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "trend-holo": 0.1,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.1
       },
       "tcgplayer": null
     }
@@ -2646,22 +2414,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2691,21 +2451,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835959,
-        "avg": 0.05,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.04,
+        "trend": 0.04,
+        "avg1": 0.02,
         "avg7": 0.03,
-        "avg30": 0.05,
-        "avg-holo": 0.09,
+        "avg30": 0.04,
+        "avg-holo": 0.08,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.1,
-        "avg30-holo": 0.1
+        "trend-holo": 0.06,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.08
       },
       "tcgplayer": null
     }
@@ -2729,22 +2489,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2784,21 +2536,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835961,
         "avg": 0.06,
         "low": 0.02,
         "trend": 0.06,
-        "avg1": 0.14,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "avg-holo": 0.2,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.23,
         "low-holo": 0.02,
-        "trend-holo": 0.31,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.3,
-        "avg30-holo": 0.2
+        "trend-holo": 0.25,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.23
       },
       "tcgplayer": null
     }
@@ -2822,22 +2574,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2880,21 +2624,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835964,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.07,
-        "avg7": 0.05,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.04,
         "avg30": 0.04,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.16
+        "trend-holo": 0.16,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -2918,22 +2662,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -2973,21 +2709,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835970,
         "avg": 0.07,
         "low": 0.02,
         "trend": 0.05,
-        "avg1": 0.03,
-        "avg7": 0.05,
+        "avg1": 0.09,
+        "avg7": 0.07,
         "avg30": 0.07,
         "avg-holo": 0.21,
         "low-holo": 0.02,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.48,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.2
+        "trend-holo": 0.15,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.19
       },
       "tcgplayer": null
     }
@@ -3011,22 +2747,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3067,15 +2795,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835966,
-        "avg": 0.49,
+        "avg": 0.51,
         "low": 0.05,
-        "trend": 0.5,
-        "avg1": 0.79,
-        "avg7": 0.52,
-        "avg30": 0.49,
+        "trend": 0.54,
+        "avg1": 0.42,
+        "avg7": 0.51,
+        "avg30": 0.5,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -3105,22 +2833,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3157,21 +2877,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835978,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.06,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
+        "trend-holo": 0.14,
         "avg1-holo": 0.1,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "avg7-holo": 0.17,
+        "avg30-holo": 0.1
       },
       "tcgplayer": null
     }
@@ -3195,22 +2915,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3249,21 +2961,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835980,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.06,
-        "avg7": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.12,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.13,
-        "avg30-holo": 0.16
+        "trend-holo": 0.17,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -3287,22 +2999,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3332,21 +3036,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835981,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.06,
-        "avg7": 0.04,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.11,
         "low-holo": 0.02,
-        "trend-holo": 0.09,
-        "avg1-holo": 0.11,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.06,
         "avg7-holo": 0.1,
-        "avg30-holo": 0.13
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -3370,22 +3074,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3423,21 +3119,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835983,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.07,
+        "trend": 0.03,
+        "avg1": 0.03,
         "avg7": 0.04,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.12,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "trend-holo": 0.22,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.14
       },
       "tcgplayer": null
     }
@@ -3461,22 +3157,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3515,21 +3203,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835985,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.06,
-        "avg7": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.12,
+        "trend-holo": 0.19,
         "avg1-holo": 0.02,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.16
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.19
       },
       "tcgplayer": null
     }
@@ -3553,22 +3241,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3607,21 +3287,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835988,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
-        "avg1": 0.02,
+        "trend": 0.04,
+        "avg1": 0.03,
         "avg7": 0.04,
-        "avg30": 0.03,
+        "avg30": 0.04,
         "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.19,
-        "avg30-holo": 0.17
+        "trend-holo": 0.13,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.14
       },
       "tcgplayer": null
     }
@@ -3645,22 +3325,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3701,20 +3373,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835989,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.22,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.18,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.13,
         "avg30-holo": 0.15
       },
       "tcgplayer": null
@@ -3739,22 +3411,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3786,21 +3450,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835992,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.05,
         "avg1": 0.02,
-        "avg7": 0.02,
+        "avg7": 0.05,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
         "trend-holo": 0.09,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.1,
-        "avg30-holo": 0.12
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.1
       },
       "tcgplayer": null
     }
@@ -3824,22 +3488,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3884,21 +3540,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835994,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.02,
         "avg1": 0.02,
         "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.18,
-        "avg30-holo": 0.15
+        "trend-holo": 0.17,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.16
       },
       "tcgplayer": null
     }
@@ -3922,22 +3578,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -3975,15 +3623,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835996,
         "avg": 0.41,
         "low": 0.02,
-        "trend": 0.46,
-        "avg1": 0.54,
-        "avg7": 0.49,
-        "avg30": 0.41,
+        "trend": 0.39,
+        "avg1": 0.26,
+        "avg7": 0.38,
+        "avg30": 0.4,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -4013,22 +3661,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4066,21 +3706,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835998,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
+        "trend": 0.03,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.12,
         "low-holo": 0.02,
         "trend-holo": 0.09,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.11,
-        "avg30-holo": 0.14
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -4104,22 +3744,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4162,15 +3794,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 835999,
         "avg": 0.4,
         "low": 0.02,
-        "trend": 0.41,
-        "avg1": 0.51,
-        "avg7": 0.42,
-        "avg30": 0.39,
+        "trend": 0.35,
+        "avg1": 0.25,
+        "avg7": 0.34,
+        "avg30": 0.36,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -4200,22 +3832,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4254,20 +3878,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836003,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
         "trend-holo": 0.08,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.08,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.07,
         "avg30-holo": 0.09
       },
       "tcgplayer": null
@@ -4292,22 +3916,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4348,7 +3964,7 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836005,
         "avg": 0.03,
@@ -4360,9 +3976,9 @@
         "avg-holo": 0.09,
         "low-holo": 0.02,
         "trend-holo": 0.07,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.08
       },
       "tcgplayer": null
     }
@@ -4386,22 +4002,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4443,21 +4051,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836007,
         "avg": 0.08,
         "low": 0.02,
         "trend": 0.06,
-        "avg1": 0.07,
-        "avg7": 0.07,
-        "avg30": 0.08,
+        "avg1": 0.09,
+        "avg7": 0.06,
+        "avg30": 0.07,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.12,
-        "avg1-holo": 0.1,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.02,
         "avg7-holo": 0.17,
-        "avg30-holo": 0.19
+        "avg30-holo": 0.18
       },
       "tcgplayer": null
     }
@@ -4481,22 +4089,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4528,21 +4128,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836009,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.06,
+        "trend": 0.02,
+        "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.23,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.19
+        "trend-holo": 0.17,
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.15
       },
       "tcgplayer": null
     }
@@ -4566,22 +4166,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4620,20 +4212,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836011,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.11,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.11,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.08,
         "avg30-holo": 0.09
       },
       "tcgplayer": null
@@ -4658,22 +4250,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4714,21 +4298,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836013,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
+        "trend": 0.03,
+        "avg1": 0.06,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.16,
-        "avg7-holo": 0.19,
-        "avg30-holo": 0.18
+        "trend-holo": 0.14,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.16
       },
       "tcgplayer": null
     }
@@ -4752,22 +4336,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4807,21 +4383,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836015,
         "avg": 0.08,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.06,
-        "avg7": 0.16,
-        "avg30": 0.08,
+        "trend": 0.08,
+        "avg1": 0.04,
+        "avg7": 0.08,
+        "avg30": 0.09,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.15,
-        "avg30-holo": 0.18
+        "trend-holo": 0.2,
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -4845,22 +4421,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4890,21 +4458,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836017,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.02,
         "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.02,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.11,
-        "avg1-holo": 0.1,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.07,
         "avg7-holo": 0.11,
-        "avg30-holo": 0.14
+        "avg30-holo": 0.1
       },
       "tcgplayer": null
     }
@@ -4928,22 +4496,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -4975,20 +4535,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836018,
         "avg": 0.04,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.04,
+        "avg1": 0.05,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.08,
         "low-holo": 0.02,
-        "trend-holo": 0.06,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.06,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.08,
         "avg30-holo": 0.08
       },
       "tcgplayer": null
@@ -5013,22 +4573,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5068,21 +4620,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836021,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
+        "trend": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.04,
         "avg-holo": 0.19,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.13,
-        "avg30-holo": 0.18
+        "trend-holo": 0.29,
+        "avg1-holo": 0.26,
+        "avg7-holo": 0.34,
+        "avg30-holo": 0.21
       },
       "tcgplayer": null
     }
@@ -5106,22 +4658,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5152,21 +4696,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836023,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.02,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.11,
         "low-holo": 0.02,
         "trend-holo": 0.07,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.07,
-        "avg30-holo": 0.1
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -5190,22 +4734,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5238,7 +4774,7 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836024,
         "avg": 0.03,
@@ -5249,9 +4785,9 @@
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.11,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.09,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.11,
         "avg30-holo": 0.1
       },
       "tcgplayer": null
@@ -5276,22 +4812,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5334,20 +4862,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836026,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.02,
+        "trend": 0.05,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.04,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.15,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.19,
+        "avg7-holo": 0.2,
         "avg30-holo": 0.17
       },
       "tcgplayer": null
@@ -5372,22 +4900,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5419,21 +4939,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836033,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.15,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.13,
-        "avg30-holo": 0.14
+        "trend-holo": 0.21,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.18
       },
       "tcgplayer": null
     }
@@ -5457,22 +4977,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5503,21 +5015,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836035,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.02,
         "avg1": 0.02,
-        "avg7": 0.03,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.1,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.09
+        "trend-holo": 0.15,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.11
       },
       "tcgplayer": null
     }
@@ -5541,22 +5053,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5589,21 +5093,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836037,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.02,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.12
+        "trend-holo": 0.14,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -5627,22 +5131,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5682,21 +5178,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836039,
         "avg": 0.07,
         "low": 0.02,
         "trend": 0.05,
-        "avg1": 0.08,
+        "avg1": 0.06,
         "avg7": 0.05,
         "avg30": 0.07,
         "avg-holo": 0.19,
         "low-holo": 0.02,
-        "trend-holo": 0.17,
-        "avg1-holo": 0.28,
-        "avg7-holo": 0.19,
-        "avg30-holo": 0.17
+        "trend-holo": 0.42,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.21
       },
       "tcgplayer": null
     }
@@ -5720,22 +5216,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5766,21 +5254,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836041,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.02,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
         "trend-holo": 0.07,
-        "avg1-holo": 0.09,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.08
       },
       "tcgplayer": null
     }
@@ -5804,22 +5292,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5856,24 +5336,24 @@
       "standard": true,
       "expanded": true
     },
-    "updated": "2026-01-24T23:06:55+01:00",
+    "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
-        "idProduct": 836009,
+        "idProduct": 836043,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.06,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.23,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.19
+        "trend-holo": 0.15,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.16
       },
       "tcgplayer": null
     }
@@ -5897,22 +5377,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -5953,21 +5425,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836045,
         "avg": 0.08,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.07,
+        "trend": 0.09,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.09,
         "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.15,
-        "avg30-holo": 0.17
+        "trend-holo": 0.25,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.18
       },
       "tcgplayer": null
     }
@@ -5991,22 +5463,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6046,15 +5510,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836046,
         "avg": 0.55,
-        "low": 0.02,
-        "trend": 0.6,
-        "avg1": 0.57,
-        "avg7": 0.58,
-        "avg30": 0.54,
+        "low": 0.05,
+        "trend": 0.67,
+        "avg1": 0.64,
+        "avg7": 0.64,
+        "avg30": 0.6,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -6084,22 +5548,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6129,21 +5585,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836047,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.04,
         "avg-holo": 0.11,
         "low-holo": 0.02,
-        "trend-holo": 0.09,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.11,
-        "avg30-holo": 0.15
+        "trend-holo": 0.2,
+        "avg1-holo": 0.03,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.14
       },
       "tcgplayer": null
     }
@@ -6167,22 +5623,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6222,21 +5670,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836048,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.04,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.07,
-        "avg30-holo": 0.13
+        "trend-holo": 0.07,
+        "avg1-holo": 0.03,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -6260,22 +5708,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6317,20 +5757,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836050,
         "avg": 0.09,
         "low": 0.02,
-        "trend": 0.1,
-        "avg1": 0.13,
-        "avg7": 0.11,
+        "trend": 0.07,
+        "avg1": 0.03,
+        "avg7": 0.08,
         "avg30": 0.09,
         "avg-holo": 0.2,
         "low-holo": 0.02,
-        "trend-holo": 0.19,
-        "avg1-holo": 0.18,
-        "avg7-holo": 0.18,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.2,
         "avg30-holo": 0.19
       },
       "tcgplayer": null
@@ -6355,22 +5795,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6407,20 +5839,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836052,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.04,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.12,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.22,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.1,
         "avg30-holo": 0.12
       },
       "tcgplayer": null
@@ -6445,22 +5877,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6492,21 +5916,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836055,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.02,
-        "avg7": 0.06,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
-        "avg1-holo": 0.11,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.09
+        "trend-holo": 0.08,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.08,
+        "avg30-holo": 0.07
       },
       "tcgplayer": null
     }
@@ -6530,22 +5954,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6585,21 +6001,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836056,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.07,
-        "avg7": 0.05,
-        "avg30": 0.04,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.15,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.41,
-        "avg7-holo": 0.18,
-        "avg30-holo": 0.15
+        "trend-holo": 0.19,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.18
       },
       "tcgplayer": null
     }
@@ -6623,22 +6039,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6669,19 +6077,19 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836058,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
-        "avg7": 0.03,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
         "avg30": 0.03,
         "avg-holo": 0.11,
         "low-holo": 0.02,
-        "trend-holo": 0.11,
-        "avg1-holo": 0.1,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.03,
         "avg7-holo": 0.09,
         "avg30-holo": 0.11
       },
@@ -6707,22 +6115,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6753,21 +6153,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836060,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.02,
-        "avg1": 0.02,
+        "trend": 0.04,
+        "avg1": 0.06,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.05,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.08,
-        "avg30-holo": 0.13
+        "trend-holo": 0.1,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.08
       },
       "tcgplayer": null
     }
@@ -6791,22 +6191,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6838,21 +6230,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836063,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.26,
-        "avg1-holo": 0.14,
-        "avg7-holo": 0.24,
-        "avg30-holo": 0.18
+        "trend-holo": 0.19,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.18,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -6876,22 +6268,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -6929,21 +6313,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836064,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.07,
+        "trend-holo": 0.09,
         "avg1-holo": 0.02,
-        "avg7-holo": 0.09,
-        "avg30-holo": 0.1
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.09
       },
       "tcgplayer": null
     }
@@ -6967,22 +6351,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7024,21 +6400,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836065,
         "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.21,
         "low-holo": 0.02,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.27,
-        "avg7-holo": 0.17,
-        "avg30-holo": 0.19
+        "trend-holo": 0.13,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -7062,22 +6438,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7091,21 +6459,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836066,
         "avg": 0.3,
         "low": 0.02,
-        "trend": 0.31,
-        "avg1": 0.49,
-        "avg7": 0.29,
-        "avg30": 0.31,
+        "trend": 0.25,
+        "avg1": 0.19,
+        "avg7": 0.27,
+        "avg30": 0.28,
         "avg-holo": 0.72,
         "low-holo": 0.02,
-        "trend-holo": 0.4,
-        "avg1-holo": 0.16,
-        "avg7-holo": 0.4,
-        "avg30-holo": 0.67
+        "trend-holo": 0.58,
+        "avg1-holo": 0.59,
+        "avg7-holo": 0.62,
+        "avg30-holo": 0.59
       },
       "tcgplayer": null
     }
@@ -7129,22 +6497,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7165,20 +6525,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836067,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.05,
         "avg1": 0.03,
-        "avg7": 0.03,
+        "avg7": 0.05,
         "avg30": 0.03,
         "avg-holo": 0.1,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.1,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.08,
         "avg30-holo": 0.09
       },
       "tcgplayer": null
@@ -7203,22 +6563,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7232,21 +6584,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836068,
         "avg": 0.04,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.09,
+        "avg1": 0.02,
         "avg7": 0.04,
         "avg30": 0.04,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.22,
-        "avg1-holo": 0.18,
-        "avg7-holo": 0.23,
-        "avg30-holo": 0.18
+        "trend-holo": 0.2,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -7270,22 +6622,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7299,21 +6643,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836069,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
+        "trend": 0.04,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.04,
         "avg-holo": 0.18,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
+        "trend-holo": 0.14,
         "avg1-holo": 0.02,
-        "avg7-holo": 0.21,
-        "avg30-holo": 0.17
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.16
       },
       "tcgplayer": null
     }
@@ -7337,22 +6681,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7366,21 +6702,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836070,
         "avg": 0.06,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.04,
-        "avg7": 0.07,
-        "avg30": 0.06,
+        "trend": 0.05,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.05,
         "avg-holo": 0.19,
         "low-holo": 0.02,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.15,
-        "avg30-holo": 0.23
+        "trend-holo": 0.2,
+        "avg1-holo": 0.26,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.18
       },
       "tcgplayer": null
     }
@@ -7404,22 +6740,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7433,21 +6761,21 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836073,
         "avg": 0.24,
         "low": 0.02,
-        "trend": 0.2,
-        "avg1": 0.21,
-        "avg7": 0.25,
-        "avg30": 0.24,
+        "trend": 0.29,
+        "avg1": 0.34,
+        "avg7": 0.28,
+        "avg30": 0.26,
         "avg-holo": 0.54,
         "low-holo": 0.02,
-        "trend-holo": 0.55,
-        "avg1-holo": 0.42,
+        "trend-holo": 0.46,
+        "avg1-holo": 0.38,
         "avg7-holo": 0.48,
-        "avg30-holo": 0.51
+        "avg30-holo": 0.52
       },
       "tcgplayer": null
     }
@@ -7471,22 +6799,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7500,20 +6820,20 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836076,
         "avg": 0.05,
         "low": 0.02,
-        "trend": 0.05,
+        "trend": 0.04,
         "avg1": 0.03,
-        "avg7": 0.05,
+        "avg7": 0.04,
         "avg30": 0.05,
         "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.08,
-        "avg1-holo": 0.03,
-        "avg7-holo": 0.08,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.1,
         "avg30-holo": 0.09
       },
       "tcgplayer": null
@@ -7537,22 +6857,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7566,21 +6878,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836078,
         "avg": 0.1,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.13,
-        "avg7": 0.12,
+        "trend": 0.09,
+        "avg1": 0.07,
+        "avg7": 0.08,
         "avg30": 0.1,
         "avg-holo": 0.2,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.23,
-        "avg7-holo": 0.18,
-        "avg30-holo": 0.22
+        "trend-holo": 0.26,
+        "avg1-holo": 0.55,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.24
       },
       "tcgplayer": null
     }
@@ -7604,22 +6916,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7657,15 +6961,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836082,
         "avg": 14.14,
         "low": 12,
-        "trend": 14.44,
-        "avg1": 13.96,
-        "avg7": 14.17,
-        "avg30": 14.08,
+        "trend": 14.3,
+        "avg1": 14.79,
+        "avg7": 14.24,
+        "avg30": 14.26,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -7695,22 +6999,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7751,15 +7047,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836085,
         "avg": 9.7,
-        "low": 5.99,
-        "trend": 10.07,
-        "avg1": 9.5,
-        "avg7": 9.89,
-        "avg30": 9.86,
+        "low": 6.9,
+        "trend": 10.3,
+        "avg1": 10.86,
+        "avg7": 10.21,
+        "avg30": 10.03,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -7789,22 +7085,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7842,15 +7130,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836087,
-        "avg": 7.2,
+        "avg": 7.46,
         "low": 3.8,
-        "trend": 7.6,
-        "avg1": 5.94,
-        "avg7": 7.82,
-        "avg30": 7.4,
+        "trend": 8.51,
+        "avg1": 7.46,
+        "avg7": 8.17,
+        "avg30": 7.65,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -7880,22 +7168,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -7927,15 +7207,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836089,
-        "avg": 5.74,
-        "low": 3,
-        "trend": 5.92,
-        "avg1": 4,
-        "avg7": 5.68,
-        "avg30": 5.62,
+        "avg": 5.77,
+        "low": 4,
+        "trend": 5.71,
+        "avg1": 7,
+        "avg7": 5.55,
+        "avg30": 5.73,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -7965,22 +7245,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8017,15 +7289,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836091,
         "avg": 7.52,
-        "low": 3.9,
-        "trend": 7.35,
-        "avg1": 6.43,
-        "avg7": 7.36,
-        "avg30": 7.34,
+        "low": 4,
+        "trend": 7.76,
+        "avg1": 9.5,
+        "avg7": 8.13,
+        "avg30": 7.54,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8055,22 +7327,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8111,15 +7375,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836093,
-        "avg": 19.06,
-        "low": 10,
-        "trend": 21.16,
-        "avg1": 19.97,
-        "avg7": 20.79,
-        "avg30": 19.64,
+        "avg": 19.97,
+        "low": 12.5,
+        "trend": 21.03,
+        "avg1": 16.77,
+        "avg7": 19.97,
+        "avg30": 19.93,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8149,22 +7413,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8203,15 +7459,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836094,
-        "avg": 3.82,
+        "avg": 3.76,
         "low": 1.69,
-        "trend": 3.81,
-        "avg1": 4.99,
-        "avg7": 3.81,
-        "avg30": 3.84,
+        "trend": 4.09,
+        "avg1": 4.39,
+        "avg7": 4.17,
+        "avg30": 3.85,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8241,22 +7497,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8293,15 +7541,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836096,
         "avg": 8.37,
         "low": 5,
-        "trend": 8.45,
-        "avg1": 7,
-        "avg7": 8.51,
-        "avg30": 8.3,
+        "trend": 9.39,
+        "avg1": 7.15,
+        "avg7": 12.43,
+        "avg30": 10.88,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8331,22 +7579,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8376,15 +7616,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836098,
-        "avg": 7.1,
+        "avg": 6.65,
         "low": 3.7,
-        "trend": 6.27,
-        "avg1": 7.29,
-        "avg7": 6.89,
-        "avg30": 6.88,
+        "trend": 6.85,
+        "avg1": 7.95,
+        "avg7": 6.48,
+        "avg30": 6.67,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8414,22 +7654,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8469,15 +7701,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836100,
         "avg": 15.29,
         "low": 13,
-        "trend": 14.78,
-        "avg1": 16.97,
-        "avg7": 15.3,
-        "avg30": 15.5,
+        "trend": 19.74,
+        "avg1": 26.99,
+        "avg7": 19.94,
+        "avg30": 16.76,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8507,22 +7739,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8553,15 +7777,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836101,
-        "avg": 6.33,
-        "low": 3.8,
-        "trend": 6.75,
-        "avg1": 6.97,
-        "avg7": 6.81,
-        "avg30": 6.47,
+        "avg": 6.53,
+        "low": 4,
+        "trend": 6.44,
+        "avg1": 6.13,
+        "avg7": 6.11,
+        "avg30": 6.48,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8591,22 +7815,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8650,15 +7866,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836102,
         "avg": 6.55,
-        "low": 4,
-        "trend": 6.93,
-        "avg1": 7.49,
-        "avg7": 6.74,
-        "avg30": 6.59,
+        "low": 4.49,
+        "trend": 7.75,
+        "avg1": 6.98,
+        "avg7": 7.54,
+        "avg30": 7.08,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8688,22 +7904,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8734,15 +7942,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836105,
-        "avg": 6.96,
+        "avg": 7.05,
         "low": 4,
-        "trend": 6.46,
-        "avg1": 3.75,
-        "avg7": 6.54,
-        "avg30": 7.07,
+        "trend": 6.96,
+        "avg1": 7.38,
+        "avg7": 7.3,
+        "avg30": 7.13,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8772,22 +7980,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8827,15 +8027,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836107,
-        "avg": 28.42,
-        "low": 20,
-        "trend": 32.09,
-        "avg1": 26.75,
-        "avg7": 30.19,
-        "avg30": 29.5,
+        "avg": 30.35,
+        "low": 19.5,
+        "trend": 30.08,
+        "avg1": 28,
+        "avg7": 30.25,
+        "avg30": 30.49,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8865,22 +8065,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -8918,15 +8110,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836109,
-        "avg": 6.64,
+        "avg": 6.55,
         "low": 3.5,
-        "trend": 6.34,
-        "avg1": 7.22,
-        "avg7": 6.49,
-        "avg30": 6.52,
+        "trend": 6.74,
+        "avg1": 8.5,
+        "avg7": 6.83,
+        "avg30": 6.57,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -8956,22 +8148,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9003,15 +8187,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836111,
-        "avg": 5.88,
-        "low": 3.8,
-        "trend": 5.76,
-        "avg1": 4.75,
-        "avg7": 6.12,
-        "avg30": 6.01,
+        "avg": 5.98,
+        "low": 4.2,
+        "trend": 5.83,
+        "avg1": 5.25,
+        "avg7": 6.16,
+        "avg30": 6.03,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9041,22 +8225,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9088,15 +8264,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836113,
-        "avg": 5.41,
+        "avg": 5.98,
         "low": 3,
-        "trend": 6.47,
-        "avg1": 5.7,
-        "avg7": 6.17,
-        "avg30": 5.81,
+        "trend": 6.43,
+        "avg1": 6.59,
+        "avg7": 5.96,
+        "avg30": 6.08,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9126,22 +8302,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9183,15 +8351,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836115,
-        "avg": 7.41,
+        "avg": 7.81,
         "low": 4,
-        "trend": 8.33,
-        "avg1": 5,
-        "avg7": 8.73,
-        "avg30": 7.65,
+        "trend": 7.03,
+        "avg1": 7.16,
+        "avg7": 7.63,
+        "avg30": 7.74,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9221,22 +8389,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9280,15 +8440,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836117,
-        "avg": 105.57,
-        "low": 60,
-        "trend": 108.67,
-        "avg1": 101.48,
-        "avg7": 105.13,
-        "avg30": 106.95,
+        "avg": 120.2,
+        "low": 89,
+        "trend": 114.48,
+        "avg1": 90,
+        "avg7": 141.57,
+        "avg30": 116.79,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9318,22 +8478,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9374,15 +8526,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836119,
-        "avg": 11.38,
-        "low": 5,
-        "trend": 11.91,
-        "avg1": 9.93,
-        "avg7": 11.83,
-        "avg30": 11.54,
+        "avg": 11.7,
+        "low": 6.5,
+        "trend": 12.43,
+        "avg1": 12,
+        "avg7": 11.93,
+        "avg30": 11.98,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9412,22 +8564,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9468,15 +8612,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836121,
         "avg": 6.26,
-        "low": 3.5,
-        "trend": 6.03,
-        "avg1": 6.16,
-        "avg7": 6.03,
-        "avg30": 6.31,
+        "low": 3,
+        "trend": 6.49,
+        "avg1": 6.13,
+        "avg7": 6.56,
+        "avg30": 6.55,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9506,22 +8650,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9560,15 +8696,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836123,
         "avg": 15.16,
         "low": 7.8,
-        "trend": 16.54,
-        "avg1": 10.49,
-        "avg7": 19.03,
-        "avg30": 15.01,
+        "trend": 15.93,
+        "avg1": 12.7,
+        "avg7": 16.02,
+        "avg30": 15.74,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9598,22 +8734,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9644,15 +8772,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836125,
-        "avg": 9.02,
-        "low": 4.9,
-        "trend": 9.87,
-        "avg1": 9.45,
-        "avg7": 10.6,
-        "avg30": 9.62,
+        "avg": 9.65,
+        "low": 4.8,
+        "trend": 10.34,
+        "avg1": 11.1,
+        "avg7": 9.99,
+        "avg30": 9.93,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9682,22 +8810,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9740,15 +8860,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836127,
-        "avg": 5.07,
-        "low": 2.98,
-        "trend": 4.95,
-        "avg1": 4.66,
-        "avg7": 4.84,
-        "avg30": 4.95,
+        "avg": 4.96,
+        "low": 3.2,
+        "trend": 5.11,
+        "avg1": 4.76,
+        "avg7": 5.96,
+        "avg30": 5.33,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9778,22 +8898,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9830,15 +8942,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836129,
         "avg": 5.64,
-        "low": 3.79,
-        "trend": 6.43,
-        "avg1": 4.93,
-        "avg7": 6.17,
-        "avg30": 5.63,
+        "low": 3.8,
+        "trend": 5.86,
+        "avg1": 4.5,
+        "avg7": 5.94,
+        "avg30": 5.75,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9868,22 +8980,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -9920,15 +9024,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836132,
-        "avg": 6.9,
-        "low": 3.9,
-        "trend": 7.31,
-        "avg1": 7,
-        "avg7": 7.28,
-        "avg30": 6.89,
+        "avg": 6.99,
+        "low": 4,
+        "trend": 8.56,
+        "avg1": 9.95,
+        "avg7": 8.09,
+        "avg30": 7.55,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -9958,22 +9062,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10003,15 +9099,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836135,
         "avg": 11.01,
-        "low": 4.9,
-        "trend": 11.38,
-        "avg1": 9.88,
-        "avg7": 10.14,
-        "avg30": 10.87,
+        "low": 5,
+        "trend": 11.75,
+        "avg1": 10,
+        "avg7": 11.3,
+        "avg30": 11.19,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10041,22 +9137,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10096,15 +9184,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836139,
-        "avg": 12.3,
-        "low": 9.3,
-        "trend": 13.22,
-        "avg1": 10,
-        "avg7": 12.63,
-        "avg30": 12.53,
+        "avg": 12.78,
+        "low": 9.2,
+        "trend": 15.03,
+        "avg1": 22,
+        "avg7": 14.26,
+        "avg30": 13.4,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10134,22 +9222,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10192,15 +9272,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836137,
         "avg": 17.26,
         "low": 13,
-        "trend": 16.13,
-        "avg1": 14.62,
-        "avg7": 15.88,
-        "avg30": 16.89,
+        "trend": 17.71,
+        "avg1": 22.49,
+        "avg7": 17.47,
+        "avg30": 16.81,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10230,22 +9310,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10282,15 +9354,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836144,
-        "avg": 6.86,
-        "low": 3,
-        "trend": 6.06,
-        "avg1": 7,
-        "avg7": 6.57,
-        "avg30": 6.64,
+        "avg": 6.61,
+        "low": 3.5,
+        "trend": 6.64,
+        "avg1": 6.27,
+        "avg7": 6.5,
+        "avg30": 6.57,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10320,22 +9392,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10374,15 +9438,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836146,
-        "avg": 6.09,
-        "low": 3.8,
-        "trend": 5.98,
-        "avg1": 5.44,
-        "avg7": 5.78,
-        "avg30": 6.04,
+        "avg": 6.05,
+        "low": 2.98,
+        "trend": 6.1,
+        "avg1": 4.49,
+        "avg7": 6.11,
+        "avg30": 6.06,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10412,22 +9476,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10457,15 +9513,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836148,
-        "avg": 16.18,
-        "low": 8.99,
-        "trend": 15.24,
-        "avg1": 16.17,
-        "avg7": 15.87,
-        "avg30": 16.47,
+        "avg": 16,
+        "low": 8.98,
+        "trend": 16.86,
+        "avg1": 18,
+        "avg7": 17.04,
+        "avg30": 16.12,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10495,22 +9551,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10548,15 +9596,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836151,
         "avg": 6.73,
-        "low": 4.5,
-        "trend": 6.77,
-        "avg1": 6.93,
-        "avg7": 7,
-        "avg30": 6.72,
+        "low": 4,
+        "trend": 8.95,
+        "avg1": 6.49,
+        "avg7": 8.36,
+        "avg30": 7.95,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10586,22 +9634,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10640,15 +9680,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836154,
         "avg": 6.33,
         "low": 3.99,
-        "trend": 5.9,
-        "avg1": 5.35,
-        "avg7": 6.28,
-        "avg30": 6.23,
+        "trend": 6.48,
+        "avg1": 6.22,
+        "avg7": 6.46,
+        "avg30": 6.24,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10678,22 +9718,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10734,14 +9766,14 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836156,
         "avg": 4.75,
         "low": 2,
-        "trend": 4.65,
-        "avg1": 4,
-        "avg7": 4.7,
+        "trend": 4.78,
+        "avg1": 4.5,
+        "avg7": 4.71,
         "avg30": 4.82,
         "avg-holo": null,
         "low-holo": null,
@@ -10772,22 +9804,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10819,15 +9843,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836160,
         "avg": 4.7,
-        "low": 1.95,
-        "trend": 5.31,
-        "avg1": 4.5,
-        "avg7": 4.88,
-        "avg30": 4.76,
+        "low": 3,
+        "trend": 4.54,
+        "avg1": 5.2,
+        "avg7": 4.52,
+        "avg30": 4.92,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10857,22 +9881,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -10917,15 +9933,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836162,
-        "avg": 5.74,
-        "low": 2.65,
-        "trend": 6.06,
-        "avg1": 5.3,
-        "avg7": 6.06,
-        "avg30": 5.94,
+        "avg": 6.01,
+        "low": 2.7,
+        "trend": 6.41,
+        "avg1": 6.94,
+        "avg7": 6.48,
+        "avg30": 6.17,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -10955,22 +9971,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11008,15 +10016,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836165,
         "avg": 4.28,
         "low": 2.5,
-        "trend": 4.52,
-        "avg1": 4.17,
-        "avg7": 4.59,
-        "avg30": 4.24,
+        "trend": 4.56,
+        "avg1": 4,
+        "avg7": 4.68,
+        "avg30": 4.48,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11046,22 +10054,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11100,15 +10100,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836167,
-        "avg": 8.7,
+        "avg": 7.35,
         "low": 2.8,
-        "trend": 6.62,
-        "avg1": 3,
-        "avg7": 7.18,
-        "avg30": 7.36,
+        "trend": 8.62,
+        "avg1": 8.73,
+        "avg7": 8.52,
+        "avg30": 7.48,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11138,22 +10138,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11194,15 +10186,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836169,
-        "avg": 5.54,
-        "low": 2.4,
-        "trend": 5.44,
-        "avg1": 5.15,
-        "avg7": 4.73,
-        "avg30": 5.34,
+        "avg": 5.21,
+        "low": 3,
+        "trend": 5.04,
+        "avg1": 4.22,
+        "avg7": 5.38,
+        "avg30": 5.31,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11232,22 +10224,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11289,15 +10273,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836170,
-        "avg": 16.43,
+        "avg": 17.3,
         "low": 12,
-        "trend": 17.42,
-        "avg1": 19.99,
-        "avg7": 16.87,
-        "avg30": 16.76,
+        "trend": 18.59,
+        "avg1": 17.32,
+        "avg7": 18.02,
+        "avg30": 18.01,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11327,22 +10311,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11374,15 +10350,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836172,
-        "avg": 4.32,
+        "avg": 4.36,
         "low": 1.5,
-        "trend": 4.48,
-        "avg1": 6.15,
-        "avg7": 4.09,
-        "avg30": 4.33,
+        "trend": 4.76,
+        "avg1": 4.75,
+        "avg7": 4.68,
+        "avg30": 4.45,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11412,22 +10388,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11466,15 +10434,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836174,
         "avg": 14.82,
-        "low": 6.59,
-        "trend": 15.91,
-        "avg1": 14,
-        "avg7": 15.84,
-        "avg30": 14.5,
+        "low": 7,
+        "trend": 14.69,
+        "avg1": 18,
+        "avg7": 14.3,
+        "avg30": 14.64,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11504,22 +10472,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11560,15 +10520,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836176,
-        "avg": 4.46,
-        "low": 2,
-        "trend": 4.31,
-        "avg1": 4.36,
-        "avg7": 4.3,
-        "avg30": 4.3,
+        "avg": 4.37,
+        "low": 2.48,
+        "trend": 4.47,
+        "avg1": 5.5,
+        "avg7": 4.13,
+        "avg30": 4.35,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11598,22 +10558,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11653,15 +10605,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836177,
         "avg": 21.62,
-        "low": 17.45,
-        "trend": 21.4,
-        "avg1": 20,
-        "avg7": 20.8,
-        "avg30": 21.09,
+        "low": 14,
+        "trend": 23.7,
+        "avg1": 18.85,
+        "avg7": 23.92,
+        "avg30": 22.27,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11691,22 +10643,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11736,15 +10680,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836181,
-        "avg": 5.25,
-        "low": 3.25,
-        "trend": 5.7,
-        "avg1": 5.39,
-        "avg7": 5.36,
-        "avg30": 5.4,
+        "avg": 5.44,
+        "low": 3.5,
+        "trend": 5.85,
+        "avg1": 6.5,
+        "avg7": 6.19,
+        "avg30": 5.82,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11774,22 +10718,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11821,15 +10757,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836183,
         "avg": 4.74,
-        "low": 2.49,
-        "trend": 4.77,
-        "avg1": 4.93,
-        "avg7": 4.74,
-        "avg30": 4.73,
+        "low": 2.45,
+        "trend": 4.88,
+        "avg1": 5.89,
+        "avg7": 4.9,
+        "avg30": 4.77,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11859,22 +10795,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11914,15 +10842,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836187,
-        "avg": 16.27,
-        "low": 11.5,
-        "trend": 17.16,
-        "avg1": 15,
-        "avg7": 15.59,
-        "avg30": 16.19,
+        "avg": 16.41,
+        "low": 12,
+        "trend": 17.46,
+        "avg1": 18.25,
+        "avg7": 17.32,
+        "avg30": 16.89,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -11952,22 +10880,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -11998,15 +10918,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836190,
-        "avg": 6.51,
+        "avg": 6.49,
         "low": 3.79,
-        "trend": 6.51,
-        "avg1": 6.5,
-        "avg7": 6.28,
-        "avg30": 6.43,
+        "trend": 7.2,
+        "avg1": 7.81,
+        "avg7": 7.08,
+        "avg30": 6.69,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12036,22 +10956,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12084,15 +10996,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836192,
-        "avg": 5.83,
-        "low": 3,
-        "trend": 6.42,
-        "avg1": 6.7,
-        "avg7": 6.31,
-        "avg30": 6.02,
+        "avg": 6,
+        "low": 2.5,
+        "trend": 6.71,
+        "avg1": 7.24,
+        "avg7": 6.46,
+        "avg30": 6.16,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12122,22 +11034,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12180,15 +11084,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836193,
-        "avg": 20.84,
-        "low": 10,
-        "trend": 22.6,
-        "avg1": 22.73,
-        "avg7": 20.86,
-        "avg30": 21.17,
+        "avg": 22.54,
+        "low": 12.5,
+        "trend": 22.73,
+        "avg1": 23,
+        "avg7": 22.41,
+        "avg30": 22.21,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12218,22 +11122,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12265,15 +11161,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836197,
         "avg": 13.63,
-        "low": 8,
-        "trend": 14.71,
-        "avg1": 15.12,
-        "avg7": 14.02,
-        "avg30": 13.38,
+        "low": 8.5,
+        "trend": 14.94,
+        "avg1": 12.63,
+        "avg7": 14.84,
+        "avg30": 13.89,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12303,22 +11199,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12349,15 +11237,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836199,
         "avg": 13.67,
         "low": 1.99,
-        "trend": 14.14,
-        "avg1": 3.5,
-        "avg7": 16.83,
-        "avg30": 13.1,
+        "trend": 11.32,
+        "avg1": 4.49,
+        "avg7": 5.38,
+        "avg30": 14.68,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12387,22 +11275,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12435,15 +11315,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836206,
-        "avg": 4.25,
-        "low": 2.5,
-        "trend": 4.11,
-        "avg1": 3.81,
-        "avg7": 4.03,
-        "avg30": 4.07,
+        "avg": 4.21,
+        "low": 2.7,
+        "trend": 4.34,
+        "avg1": 4.09,
+        "avg7": 4.44,
+        "avg30": 4.19,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12473,22 +11353,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12528,15 +11400,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836208,
-        "avg": 12.69,
-        "low": 9.89,
-        "trend": 14.68,
-        "avg1": 12.5,
-        "avg7": 12.99,
-        "avg30": 13.09,
+        "avg": 13.15,
+        "low": 9,
+        "trend": 15,
+        "avg1": 15,
+        "avg7": 14.82,
+        "avg30": 13.59,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12566,22 +11438,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12612,15 +11476,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836199,
         "avg": 13.67,
         "low": 1.99,
-        "trend": 14.14,
-        "avg1": 3.5,
-        "avg7": 16.83,
-        "avg30": 13.1,
+        "trend": 11.32,
+        "avg1": 4.49,
+        "avg7": 5.38,
+        "avg30": 14.68,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12650,22 +11514,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12705,15 +11561,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836210,
         "avg": 5.98,
         "low": 2.49,
-        "trend": 6.01,
-        "avg1": 6.5,
-        "avg7": 6.44,
-        "avg30": 6,
+        "trend": 6.7,
+        "avg1": 5.3,
+        "avg7": 6.32,
+        "avg30": 6.13,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12743,22 +11599,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12799,15 +11647,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836212,
-        "avg": 24.12,
-        "low": 13.9,
-        "trend": 25.27,
-        "avg1": 28.08,
-        "avg7": 25.13,
-        "avg30": 24.21,
+        "avg": 25.4,
+        "low": 14,
+        "trend": 28.9,
+        "avg1": 14.3,
+        "avg7": 28.36,
+        "avg30": 26.22,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12837,22 +11685,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12882,15 +11722,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836213,
         "avg": 9.23,
-        "low": 4.4,
-        "trend": 9.69,
-        "avg1": 8,
-        "avg7": 9.1,
-        "avg30": 8.74,
+        "low": 4.5,
+        "trend": 9.92,
+        "avg1": 8.67,
+        "avg7": 8.87,
+        "avg30": 9.79,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -12920,22 +11760,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -12975,15 +11807,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836215,
         "avg": 18.04,
         "low": 13,
-        "trend": 17.23,
-        "avg1": 16.5,
-        "avg7": 18.33,
-        "avg30": 17.84,
+        "trend": 19.31,
+        "avg1": 17.5,
+        "avg7": 18.43,
+        "avg30": 18.52,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13013,22 +11845,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13070,15 +11894,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836217,
         "avg": 28.64,
-        "low": 18,
-        "trend": 28.85,
-        "avg1": 30.5,
-        "avg7": 28.92,
-        "avg30": 28.14,
+        "low": 18.5,
+        "trend": 31.63,
+        "avg1": 30,
+        "avg7": 32.91,
+        "avg30": 29.82,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13108,22 +11932,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13160,15 +11976,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836219,
         "avg": 8.95,
-        "low": 5.5,
-        "trend": 9.32,
-        "avg1": 8.25,
-        "avg7": 9.3,
-        "avg30": 8.77,
+        "low": 6,
+        "trend": 10.35,
+        "avg1": 10.81,
+        "avg7": 10.15,
+        "avg30": 9.58,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13198,22 +12014,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13245,15 +12053,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836221,
-        "avg": 5.11,
-        "low": 2.45,
-        "trend": 4.01,
-        "avg1": 4.94,
-        "avg7": 4.36,
-        "avg30": 4.4,
+        "avg": 4.22,
+        "low": 2.95,
+        "trend": 4.66,
+        "avg1": 5.25,
+        "avg7": 4.54,
+        "avg30": 4.29,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13283,22 +12091,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13338,15 +12138,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836222,
-        "avg": 17.22,
-        "low": 11.99,
-        "trend": 25.27,
-        "avg1": 18,
-        "avg7": 21.02,
-        "avg30": 18.36,
+        "avg": 19.7,
+        "low": 10,
+        "trend": 21.82,
+        "avg1": 17,
+        "avg7": 20.45,
+        "avg30": 19.95,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13376,22 +12176,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13422,15 +12214,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836223,
         "avg": 7.11,
         "low": 4.5,
-        "trend": 6.98,
-        "avg1": 6.19,
-        "avg7": 7.52,
-        "avg30": 7,
+        "trend": 8.23,
+        "avg1": 6.25,
+        "avg7": 7.87,
+        "avg30": 7.41,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13460,22 +12252,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13506,15 +12290,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836224,
         "avg": 9.42,
-        "low": 3.97,
-        "trend": 9.02,
-        "avg1": 10.47,
-        "avg7": 9.48,
-        "avg30": 9.2,
+        "low": 3.99,
+        "trend": 9.76,
+        "avg1": 10.75,
+        "avg7": 9.37,
+        "avg30": 9.35,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13544,22 +12328,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13591,15 +12367,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836226,
         "avg": 7.23,
         "low": 3,
-        "trend": 7.48,
-        "avg1": 4.75,
-        "avg7": 7.5,
-        "avg30": 7.06,
+        "trend": 6.88,
+        "avg1": 5.99,
+        "avg7": 7.32,
+        "avg30": 7.27,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13629,22 +12405,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13682,15 +12450,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836228,
-        "avg": 4.56,
+        "avg": 4.64,
         "low": 1.9,
-        "trend": 4.75,
-        "avg1": 4.5,
-        "avg7": 4.74,
-        "avg30": 4.67,
+        "trend": 4.63,
+        "avg1": 6.16,
+        "avg7": 4.62,
+        "avg30": 4.59,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13720,22 +12488,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13777,15 +12537,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836229,
         "avg": 5.99,
         "low": 4,
-        "trend": 5.76,
-        "avg1": 6.38,
-        "avg7": 5.96,
-        "avg30": 6.22,
+        "trend": 7.08,
+        "avg1": 6.73,
+        "avg7": 6.97,
+        "avg30": 6.21,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13815,22 +12575,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13872,15 +12624,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836230,
         "avg": 1.17,
         "low": 0.3,
-        "trend": 1.14,
-        "avg1": 1.33,
-        "avg7": 1.14,
-        "avg30": 1.16,
+        "trend": 1.16,
+        "avg1": 1.63,
+        "avg7": 1.12,
+        "avg30": 1.11,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -13910,22 +12662,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -13966,15 +12710,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836231,
         "avg": 1.25,
         "low": 0.4,
-        "trend": 1.14,
-        "avg1": 1.21,
-        "avg7": 1.17,
-        "avg30": 1.28,
+        "trend": 1.24,
+        "avg1": 1.65,
+        "avg7": 1.3,
+        "avg30": 1.29,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14004,22 +12748,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14060,14 +12796,14 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836232,
         "avg": 3,
-        "low": 1.1,
-        "trend": 2.99,
-        "avg1": 3.17,
-        "avg7": 2.72,
+        "low": 1,
+        "trend": 2.98,
+        "avg1": 3.47,
+        "avg7": 2.95,
         "avg30": 3.01,
         "avg-holo": null,
         "low-holo": null,
@@ -14098,22 +12834,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14151,15 +12879,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836233,
         "avg": 1.08,
-        "low": 0.2,
-        "trend": 1.11,
-        "avg1": 0.94,
-        "avg7": 1.14,
-        "avg30": 1.06,
+        "low": 0.19,
+        "trend": 1.23,
+        "avg1": 1.2,
+        "avg7": 1.17,
+        "avg30": 1.13,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14189,22 +12917,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14247,15 +12967,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836234,
         "avg": 0.89,
-        "low": 0.18,
-        "trend": 0.83,
-        "avg1": 0.97,
-        "avg7": 0.87,
-        "avg30": 0.89,
+        "low": 0.2,
+        "trend": 0.93,
+        "avg1": 0.86,
+        "avg7": 0.94,
+        "avg30": 0.87,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14285,22 +13005,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14340,15 +13052,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836235,
         "avg": 1.34,
-        "low": 0.3,
-        "trend": 1.42,
-        "avg1": 1.7,
-        "avg7": 1.44,
-        "avg30": 1.35,
+        "low": 0.2,
+        "trend": 1.36,
+        "avg1": 1.52,
+        "avg7": 1.4,
+        "avg30": 1.34,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14378,22 +13090,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14407,15 +13111,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836236,
         "avg": 1.04,
         "low": 0.15,
-        "trend": 1.01,
-        "avg1": 0.86,
-        "avg7": 0.97,
-        "avg30": 1.04,
+        "trend": 0.99,
+        "avg1": 1.08,
+        "avg7": 1.04,
+        "avg30": 1,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14445,22 +13149,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14474,15 +13170,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836237,
         "avg": 2.51,
-        "low": 0.99,
-        "trend": 2.51,
-        "avg1": 2.7,
-        "avg7": 2.45,
-        "avg30": 2.5,
+        "low": 0.9,
+        "trend": 2.48,
+        "avg1": 2.51,
+        "avg7": 2.64,
+        "avg30": 2.48,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14512,22 +13208,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14569,15 +13257,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836238,
-        "avg": 29.1,
+        "avg": 28.1,
         "low": 25,
-        "trend": 25.98,
-        "avg1": 14.95,
-        "avg7": 27.3,
-        "avg30": 28.02,
+        "trend": 30.17,
+        "avg1": 29.75,
+        "avg7": 30.8,
+        "avg30": 28.59,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14607,22 +13295,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14663,15 +13343,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836239,
         "avg": 45.54,
-        "low": 29.45,
-        "trend": 52.75,
-        "avg1": 65,
-        "avg7": 53.76,
-        "avg30": 45.16,
+        "low": 32,
+        "trend": 53.91,
+        "avg1": 45,
+        "avg7": 49.92,
+        "avg30": 49.02,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14701,22 +13381,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14757,15 +13429,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836240,
         "avg": 163.44,
         "low": 80,
-        "trend": 165.4,
-        "avg1": 133.95,
-        "avg7": 186.92,
-        "avg30": 166.83,
+        "trend": 152.92,
+        "avg1": 70,
+        "avg7": 148.4,
+        "avg30": 174.16,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14795,22 +13467,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14848,15 +13512,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836241,
-        "avg": 26.88,
-        "low": 22,
-        "trend": 29.05,
-        "avg1": 40,
-        "avg7": 29.63,
-        "avg30": 27.74,
+        "avg": 27.36,
+        "low": 21.5,
+        "trend": 30.02,
+        "avg1": 32.95,
+        "avg7": 29.24,
+        "avg30": 27.94,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14886,22 +13550,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -14944,15 +13600,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836242,
         "avg": 17.38,
-        "low": 10,
-        "trend": 16.61,
-        "avg1": 16,
-        "avg7": 16.35,
-        "avg30": 17.14,
+        "low": 13,
+        "trend": 15.45,
+        "avg1": 14.99,
+        "avg7": 16.09,
+        "avg30": 16.42,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -14982,22 +13638,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -15037,15 +13685,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836243,
-        "avg": 26.78,
+        "avg": 25.22,
         "low": 20,
-        "trend": 25.07,
-        "avg1": 20.99,
-        "avg7": 25.21,
-        "avg30": 25.14,
+        "trend": 31.51,
+        "avg1": 27.5,
+        "avg7": 32.64,
+        "avg30": 27.54,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -15075,22 +13723,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -15104,15 +13744,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836244,
         "avg": 39.09,
         "low": 28,
-        "trend": 39.99,
-        "avg1": 40.74,
-        "avg7": 38.52,
-        "avg30": 38.98,
+        "trend": 39.97,
+        "avg1": 37.5,
+        "avg7": 44.11,
+        "avg30": 40.25,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -15142,22 +13782,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -15189,15 +13821,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836245,
-        "avg": 294.49,
+        "avg": 340.58,
         "low": 170,
-        "trend": 383.34,
-        "avg1": 1100,
-        "avg7": 374.8,
-        "avg30": 323.07,
+        "trend": 362.79,
+        "avg1": 375,
+        "avg7": 315.39,
+        "avg30": 323.51,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -15227,22 +13859,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -15283,15 +13907,15 @@
     "updated": "2026-01-24T23:06:55+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-01T00:43:42.000Z",
+        "updated": "2026-04-15T00:44:06.000Z",
         "unit": "EUR",
         "idProduct": 836246,
         "avg": 328.22,
         "low": 175,
-        "trend": 369.81,
-        "avg1": 295,
-        "avg7": 349.75,
-        "avg30": 330.44,
+        "trend": 330.26,
+        "avg1": 277.49,
+        "avg7": 301.31,
+        "avg30": 312.84,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,

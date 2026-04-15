@@ -17,22 +17,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -67,22 +59,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -117,22 +101,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -167,22 +143,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -217,22 +185,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -267,22 +227,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -317,22 +269,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -367,22 +311,14 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
         "size": "estándar"
       }
     ],
@@ -417,24 +353,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      25
     ],
     "hp": 60,
     "types": [
@@ -463,7 +394,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -487,24 +418,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      150
     ],
     "hp": 120,
     "types": [
@@ -537,7 +463,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -561,24 +487,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      113
     ],
     "hp": 120,
     "types": [
@@ -609,7 +530,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -633,24 +554,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      52
     ],
     "hp": 60,
     "types": [
@@ -680,7 +596,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -704,24 +620,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      12
     ],
     "hp": 120,
     "types": [
@@ -763,7 +674,7 @@
         "id": "boo_P-A-vol1"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -787,24 +698,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      131
     ],
     "hp": 140,
     "types": [
@@ -840,7 +746,7 @@
         "id": "boo_P-A-vol1"
       }
     ],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -864,24 +770,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      25
     ],
     "hp": 60,
     "types": [
@@ -914,7 +815,7 @@
         "id": "boo_P-A-vol1"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -938,24 +839,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      35
     ],
     "hp": 60,
     "types": [
@@ -988,7 +884,7 @@
         "id": "boo_P-A-vol1"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1012,24 +908,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      56
     ],
     "hp": 50,
     "types": [
@@ -1063,7 +954,7 @@
         "id": "boo_P-A-vol1"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1087,24 +978,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      3
     ],
     "hp": 160,
     "types": [
@@ -1141,7 +1027,7 @@
         "id": "boo_P-A-vol2"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1165,24 +1051,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      658
     ],
     "hp": 120,
     "types": [
@@ -1223,7 +1104,7 @@
         "id": "boo_P-A-vol2"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1247,24 +1128,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      93
     ],
     "hp": 70,
     "types": [
@@ -1298,7 +1174,7 @@
         "id": "boo_P-A-vol2"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1322,24 +1198,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      95
     ],
     "hp": 110,
     "types": [
@@ -1374,7 +1245,7 @@
         "id": "boo_P-A-vol2"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1398,24 +1269,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      39
     ],
     "hp": 50,
     "types": [
@@ -1448,7 +1314,7 @@
         "id": "boo_P-A-vol2"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1472,24 +1338,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      1
     ],
     "hp": 70,
     "types": [
@@ -1519,7 +1380,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1543,24 +1404,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      81
     ],
     "hp": 60,
     "types": [
@@ -1589,7 +1445,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1613,24 +1469,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      146
     ],
     "hp": 140,
     "types": [
@@ -1668,7 +1519,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1692,24 +1543,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      25
     ],
     "hp": 60,
     "types": [
@@ -1738,7 +1584,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1762,24 +1608,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      495
     ],
     "hp": 60,
     "types": [
@@ -1812,7 +1653,7 @@
         "id": "boo_P-A-vol3"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1836,24 +1677,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      637
     ],
     "hp": 120,
     "types": [
@@ -1888,7 +1724,7 @@
         "id": "boo_P-A-vol3"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1912,24 +1748,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      9
     ],
     "hp": 150,
     "types": [
@@ -1965,7 +1796,7 @@
         "id": "boo_P-A-vol3"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1989,24 +1820,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      133
     ],
     "hp": 60,
     "types": [
@@ -2039,7 +1865,7 @@
         "id": "boo_P-A-vol3"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2063,24 +1889,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      573
     ],
     "hp": 90,
     "types": [
@@ -2116,7 +1937,7 @@
         "id": "boo_P-A-vol3"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2140,24 +1961,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      4
     ],
     "hp": 60,
     "types": [
@@ -2187,7 +2003,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2211,24 +2027,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      7
     ],
     "hp": 60,
     "types": [
@@ -2257,7 +2068,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2281,24 +2092,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      393
     ],
     "hp": 60,
     "types": [
@@ -2327,7 +2133,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2351,24 +2157,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      387
     ],
     "hp": 80,
     "types": [
@@ -2402,7 +2203,7 @@
         "id": "boo_P-A-vol4"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2426,24 +2227,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      466
     ],
     "hp": 120,
     "types": [
@@ -2478,7 +2274,7 @@
         "id": "boo_P-A-vol4"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2502,24 +2298,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      488
     ],
     "hp": 140,
     "types": [
@@ -2561,7 +2352,7 @@
         "id": "boo_P-A-vol4"
       }
     ],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2585,24 +2376,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      200
     ],
     "hp": 60,
     "types": [
@@ -2635,7 +2421,7 @@
         "id": "boo_P-A-vol4"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2659,24 +2445,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      227
     ],
     "hp": 80,
     "types": [
@@ -2710,7 +2491,7 @@
         "id": "boo_P-A-vol4"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2734,24 +2515,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      390
     ],
     "hp": 60,
     "types": [
@@ -2780,7 +2556,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2804,24 +2580,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      175
     ],
     "hp": 50,
     "types": [
@@ -2850,7 +2621,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2874,24 +2645,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      491
     ],
     "hp": 140,
     "types": [
@@ -2929,7 +2695,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -2953,24 +2719,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      421
     ],
     "hp": 80,
     "types": [
@@ -3005,7 +2766,7 @@
         "id": "boo_P-A-vol5"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3029,24 +2790,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      26
     ],
     "hp": 90,
     "types": [
@@ -3088,7 +2844,7 @@
         "id": "boo_P-A-vol5"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3112,24 +2868,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      299
     ],
     "hp": 60,
     "types": [
@@ -3163,7 +2914,7 @@
         "id": "boo_P-A-vol5"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3187,24 +2938,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      443
     ],
     "hp": 60,
     "types": [
@@ -3237,7 +2983,7 @@
         "id": "boo_P-A-vol5"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3261,24 +3007,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      398
     ],
     "hp": 140,
     "types": [
@@ -3320,7 +3061,7 @@
         "id": "boo_P-A-vol5"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3344,24 +3085,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      490
     ],
     "hp": 50,
     "types": [
@@ -3390,7 +3126,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3414,24 +3150,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      143
     ],
     "hp": 140,
     "types": [
@@ -3464,7 +3195,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3488,24 +3219,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      150
     ],
     "hp": 150,
     "types": [
@@ -3546,7 +3272,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3570,24 +3296,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      967
     ],
     "hp": 80,
     "types": [
@@ -3617,7 +3338,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3641,24 +3362,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      906
     ],
     "hp": 60,
     "types": [
@@ -3687,7 +3403,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3711,24 +3427,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      419
     ],
     "hp": 100,
     "types": [
@@ -3762,7 +3473,7 @@
         "id": "boo_P-A-vol6"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3786,24 +3497,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      923
     ],
     "hp": 140,
     "types": [
@@ -3844,7 +3550,7 @@
         "id": "boo_P-A-vol6"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3868,24 +3574,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      68
     ],
     "hp": 150,
     "types": [
@@ -3920,7 +3621,7 @@
         "id": "boo_P-A-vol6"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -3944,24 +3645,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      23
     ],
     "hp": 60,
     "types": [
@@ -3994,7 +3690,7 @@
         "id": "boo_P-A-vol6"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4018,24 +3714,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      399
     ],
     "hp": 70,
     "types": [
@@ -4069,7 +3760,7 @@
         "id": "boo_P-A-vol6"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4093,24 +3784,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      417
     ],
     "hp": 70,
     "types": [
@@ -4140,7 +3826,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4164,24 +3850,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      447
     ],
     "hp": 70,
     "types": [
@@ -4211,7 +3892,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4235,24 +3916,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      102
     ],
     "hp": 50,
     "types": [
@@ -4285,7 +3961,7 @@
         "id": "boo_P-A-vol7"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4309,24 +3985,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      656
     ],
     "hp": 60,
     "types": [
@@ -4359,7 +4030,7 @@
         "id": "boo_P-A-vol7"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4383,24 +4054,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      83
     ],
     "hp": 60,
     "types": [
@@ -4433,7 +4099,7 @@
         "id": "boo_P-A-vol7"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4457,24 +4123,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      384
     ],
     "hp": 100,
     "types": [
@@ -4511,7 +4172,7 @@
         "id": "boo_P-A-vol7"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4535,24 +4196,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      384
     ],
     "hp": 140,
     "types": [
@@ -4588,7 +4244,7 @@
         "id": "boo_P-A-vol7"
       }
     ],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4612,24 +4268,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      384
     ],
     "hp": 140,
     "types": [
@@ -4661,7 +4312,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4685,24 +4336,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      778
     ],
     "hp": 70,
     "types": [
@@ -4733,7 +4379,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4757,24 +4403,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      789
     ],
     "hp": 60,
     "types": [
@@ -4803,7 +4444,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4827,24 +4468,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      745
     ],
     "hp": 100,
     "types": [
@@ -4876,7 +4512,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4900,24 +4536,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      103
     ],
     "hp": 150,
     "types": [
@@ -4953,7 +4584,7 @@
         "id": "boo_P-A-vol8"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -4977,24 +4608,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      38
     ],
     "hp": 110,
     "types": [
@@ -5030,7 +4656,7 @@
         "id": "boo_P-A-vol8"
       }
     ],
-    "updated": "2025-05-18T00:53:26+02:00",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5054,24 +4680,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      739
     ],
     "hp": 70,
     "types": [
@@ -5104,7 +4725,7 @@
         "id": "boo_P-A-vol8"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5128,24 +4749,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      88
     ],
     "hp": 70,
     "types": [
@@ -5178,7 +4794,7 @@
         "id": "boo_P-A-vol8"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5202,24 +4818,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      733
     ],
     "hp": 140,
     "types": [
@@ -5254,7 +4865,7 @@
         "id": "boo_P-A-vol8"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5277,24 +4888,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      807
     ],
     "hp": 90,
     "types": [
@@ -5330,7 +4936,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5353,24 +4959,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      798
     ],
     "hp": 60,
     "types": [
@@ -5403,7 +5004,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5426,24 +5027,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      806
     ],
     "hp": 100,
     "types": [
@@ -5479,7 +5075,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5502,24 +5098,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      796
     ],
     "hp": 100,
     "types": [
@@ -5555,7 +5146,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5578,24 +5169,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      800
     ],
     "hp": 110,
     "types": [
@@ -5631,7 +5217,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5654,24 +5240,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      800
     ],
     "hp": 110,
     "types": [
@@ -5707,7 +5288,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5730,24 +5311,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      805
     ],
     "hp": 110,
     "types": [
@@ -5782,7 +5358,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5805,24 +5381,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      800
     ],
     "hp": 150,
     "types": [
@@ -5868,7 +5439,7 @@
         "id": "boo_P-A-vol9"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5891,24 +5462,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      803
     ],
     "hp": 60,
     "types": [
@@ -5938,7 +5504,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -5961,24 +5527,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      759
     ],
     "hp": 70,
     "types": [
@@ -6008,7 +5569,7 @@
       "expanded": false
     },
     "boosters": [],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6031,24 +5592,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      785
     ],
     "hp": 130,
     "types": [
@@ -6086,7 +5642,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6109,24 +5665,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      582
     ],
     "hp": 60,
     "types": [
@@ -6160,7 +5711,7 @@
         "id": "boo_P-A-vol10"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6183,24 +5734,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      135
     ],
     "hp": 90,
     "types": [
@@ -6235,7 +5781,7 @@
         "id": "boo_P-A-vol10"
       }
     ],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6258,24 +5804,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      869
     ],
     "hp": 80,
     "types": [
@@ -6310,7 +5851,7 @@
         "id": "boo_P-A-vol10"
       }
     ],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6333,24 +5874,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      148
     ],
     "hp": 100,
     "types": [
@@ -6384,7 +5920,7 @@
         "id": "boo_P-A-vol10"
       }
     ],
-    "updated": "2025-07-31T14:53:35Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6407,24 +5943,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      531
     ],
     "hp": 100,
     "types": [
@@ -6459,7 +5990,7 @@
         "id": "boo_P-A-vol10"
       }
     ],
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6482,24 +6013,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      777
     ],
     "hp": 80,
     "types": [
@@ -6529,7 +6055,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6552,24 +6078,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      820
     ],
     "hp": 120,
     "types": [
@@ -6601,7 +6122,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -6624,24 +6145,19 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
-      "reverse": true,
+      "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
         "type": "normal",
         "size": "estándar"
-      },
-      {
-        "type": "reverse",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
       }
+    ],
+    "dexId": [
+      133
     ],
     "hp": 60,
     "types": [
@@ -6669,7 +6185,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-07-31T08:23:41Z",
+    "updated": "2026-03-06T14:10:14Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null

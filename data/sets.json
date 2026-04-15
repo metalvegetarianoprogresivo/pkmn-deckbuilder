@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "tk-ex-m",
-    "name": "Kit de Entrenador EX (Ninun)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 12,
-      "total": 12
-    }
-  },
-  {
     "id": "tk-ex-p",
     "name": "Kit de Entrenador EX (Plusle)",
     "serie": {
@@ -176,6 +162,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol",
+    "cardCount": {
+      "official": 12,
+      "total": 12
+    }
+  },
+  {
+    "id": "tk-ex-m",
+    "name": "Kit de Entrenador EX (Ninun)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": null,
     "cardCount": {
       "official": 12,
       "total": 12
@@ -238,8 +238,8 @@
     }
   },
   {
-    "id": "tk-bw-e",
-    "name": "Kit de Entrenador BW (Excadrill)",
+    "id": "tk-bw-z",
+    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
@@ -252,8 +252,8 @@
     }
   },
   {
-    "id": "tk-bw-z",
-    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+    "id": "tk-bw-e",
+    "name": "Kit de Entrenador BW (Excadrill)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": "tk-xy-latio",
-    "name": "Kit de Entrenador XY (Latios)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-latia",
     "name": "Kit de Entrenador XY (Latias)",
     "serie": {
@@ -350,14 +336,14 @@
     }
   },
   {
-    "id": "tk-xy-su",
-    "name": "Kit de Entrenador XY (Suicune)",
+    "id": "tk-xy-latio",
+    "name": "Kit de Entrenador XY (Latios)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -372,6 +358,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-su",
+    "name": "Kit de Entrenador XY (Suicune)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -781,6 +781,48 @@
     "cardCount": {
       "official": 25,
       "total": 25
+    }
+  },
+  {
+    "id": "2022swsh",
+    "name": "Colección de McDonald's 2022",
+    "serie": {
+      "id": "mc",
+      "name": "Colección de McDonald's"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 15,
+      "total": 15
+    }
+  },
+  {
+    "id": "2023sv",
+    "name": "Colección de McDonald's 2023",
+    "serie": {
+      "id": "mc",
+      "name": "Colección de McDonald's"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 15,
+      "total": 15
+    }
+  },
+  {
+    "id": "2024sv",
+    "name": "Colección de McDonald's 2024",
+    "serie": {
+      "id": "mc",
+      "name": "Colección de McDonald's"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 15,
+      "total": 15
     }
   },
   {
@@ -1204,20 +1246,6 @@
     }
   },
   {
-    "id": "sma",
-    "name": "Cartas alternativas",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
-    "cardCount": {
-      "official": 94,
-      "total": 94
-    }
-  },
-  {
     "id": "sm115",
     "name": "Destinos Ocultos",
     "serie": {
@@ -1229,6 +1257,20 @@
     "cardCount": {
       "official": 68,
       "total": 68
+    }
+  },
+  {
+    "id": "sma",
+    "name": "Destinos Ocultos Tesoro Brillante",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
+    "cardCount": {
+      "official": 94,
+      "total": 94
     }
   },
   {
@@ -1256,7 +1298,7 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol",
     "cardCount": {
       "official": 107,
-      "total": 285
+      "total": 286
     }
   },
   {
@@ -1498,17 +1540,17 @@
     }
   },
   {
-    "id": "sv01",
-    "name": "Escarlata y Púrpura",
+    "id": "sve",
+    "name": "Escarlata y Púrpura Energía",
     "serie": {
       "id": "sv",
       "name": "Escarlata y Púrpura"
     },
-    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
+    "logo": null,
+    "symbol": null,
     "cardCount": {
-      "official": 198,
-      "total": 258
+      "official": 24,
+      "total": 24
     }
   },
   {
@@ -1521,8 +1563,22 @@
     "logo": null,
     "symbol": null,
     "cardCount": {
-      "official": 0,
-      "total": 192
+      "official": 225,
+      "total": 225
+    }
+  },
+  {
+    "id": "sv01",
+    "name": "Escarlata y Púrpura",
+    "serie": {
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
+    },
+    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
+    "cardCount": {
+      "official": 198,
+      "total": 258
     }
   },
   {
@@ -1876,8 +1932,22 @@
     }
   },
   {
-    "id": "mep",
-    "name": "MEP Black Star Promos",
+    "id": "B2a",
+    "name": "Paldean Wonders",
+    "serie": {
+      "id": "tcgp",
+      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 93,
+      "total": 129
+    }
+  },
+  {
+    "id": "mee",
+    "name": "Megaevolución Energía",
     "serie": {
       "id": "me",
       "name": "Megaevolución"
@@ -1885,8 +1955,8 @@
     "logo": null,
     "symbol": null,
     "cardCount": {
-      "official": 0,
-      "total": 10
+      "official": 8,
+      "total": 8
     }
   },
   {
@@ -1901,6 +1971,20 @@
     "cardCount": {
       "official": 132,
       "total": 188
+    }
+  },
+  {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 28
     }
   },
   {
@@ -1929,6 +2013,20 @@
     "cardCount": {
       "official": 217,
       "total": 295
+    }
+  },
+  {
+    "id": "me03",
+    "name": "Equilibrio Perfecto",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": "https://assets.tcgdex.net/es/me/me03/logo",
+    "symbol": "https://assets.tcgdex.net/univ/me/me03/symbol",
+    "cardCount": {
+      "official": 88,
+      "total": 124
     }
   }
 ]

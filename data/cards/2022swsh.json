@@ -1,0 +1,1109 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-1",
+    "illustrator": "Naoyo Kimura",
+    "localId": "1",
+    "name": "Ledyba",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      165
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Llamar a la Familia",
+        "effect": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Picadura",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-2",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "2",
+    "name": "Rowlet",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      722
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Picotazo",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Hoja Afilada",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-3",
+    "illustrator": "Mizue",
+    "localId": "3",
+    "name": "Gossifleur",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      829
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Canto",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      },
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Hoja Afilada",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-4",
+    "illustrator": "Narumi Sato",
+    "localId": "4",
+    "name": "Growlithe",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      58
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Llamarada",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-5",
+    "illustrator": "Teeziro",
+    "localId": "5",
+    "name": "Victini",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      494
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "V-Llama",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Giro Fuego",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-6",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "6",
+    "name": "Lapras",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Surf",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-7",
+    "illustrator": "chibi",
+    "localId": "7",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-8",
+    "illustrator": "sowsow",
+    "localId": "8",
+    "name": "Chinchou",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      170
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Bofetada Gentil",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Patada Eléctrica",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-9",
+    "illustrator": "sui",
+    "localId": "9",
+    "name": "Flaaffy",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      180
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Mareep",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Electrochoque",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-10",
+    "illustrator": "sowsow",
+    "localId": "10",
+    "name": "Tynamo",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      602
+    ],
+    "hp": 40,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Onda Trueno",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-11",
+    "illustrator": "Yukiko Baba",
+    "localId": "11",
+    "name": "Cutiefly",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      742
+    ],
+    "hp": 40,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Viento Feérico",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-12",
+    "illustrator": "Shigenori Negishi",
+    "localId": "12",
+    "name": "Bewear",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      760
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Stufful",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Embestida",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Machada",
+        "effect": "Descarta la primera carta de la baraja de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-13",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "13",
+    "name": "Pangoro",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      675
+    ],
+    "hp": 130,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Pancham",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Puñetazo",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Martillazo",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-14",
+    "illustrator": "Tomokazu Komiya",
+    "localId": "14",
+    "name": "Drampa",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      780
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Pulso Dragón",
+        "effect": "Descarta la primera carta de tu baraja.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ciclón de Poder",
+        "effect": "Mueve 1 Energía de este Pokémon a 1 de tus Pokémon en Banca.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2022swsh-15",
+    "illustrator": "Kouki Saitou",
+    "localId": "15",
+    "name": "Smeargle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "Colección de McDonald's 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar"
+      },
+      {
+        "type": "holo",
+        "size": "estándar"
+      }
+    ],
+    "dexId": [
+      235
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Esquema",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe de Cola",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-25T09:27:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]
