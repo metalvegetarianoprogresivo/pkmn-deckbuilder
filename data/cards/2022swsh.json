@@ -24,11 +24,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -98,11 +100,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -172,11 +176,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -245,11 +251,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -319,11 +327,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -394,11 +404,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -469,11 +481,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -543,11 +557,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -617,11 +633,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -693,11 +711,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -759,11 +779,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -825,11 +847,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -903,11 +927,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -972,19 +998,16 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": true,
+      "holo": false,
       "normal": true,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar"
-      },
-      {
-        "type": "holo",
-        "size": "estándar"
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq"
       }
     ],
     "dexId": [
@@ -1026,7 +1049,7 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-14T21:54:07Z",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null
@@ -1057,11 +1080,13 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       },
       {
         "type": "holo",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [

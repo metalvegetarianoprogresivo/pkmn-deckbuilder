@@ -26,7 +26,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -61,21 +62,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299408,
-        "avg": 0.04,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.1,
-        "avg7": 0.05,
-        "avg30": 0.1,
-        "avg-holo": 0.3,
-        "low-holo": 0.1,
-        "trend-holo": 0.35,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.31,
-        "avg30-holo": 0.33
+        "trend": 0.13,
+        "avg1": 0.05,
+        "avg7": 0.1,
+        "avg30": 0.09,
+        "avg-holo": 0.37,
+        "low-holo": 0.05,
+        "trend-holo": 0.37,
+        "avg1-holo": 0.65,
+        "avg7-holo": 0.33,
+        "avg30-holo": 0.35
       },
       "tcgplayer": null
     }
@@ -107,7 +108,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -149,21 +151,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299409,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.12,
+        "trend": 0.05,
+        "avg1": 0.04,
         "avg7": 0.06,
-        "avg30": 0.08,
+        "avg30": 0.07,
         "avg-holo": 0.4,
-        "low-holo": 0.05,
-        "trend-holo": 0.33,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.36,
-        "avg30-holo": 0.3
+        "low-holo": 0.04,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.31
       },
       "tcgplayer": null
     }
@@ -195,7 +197,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -239,21 +242,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299410,
         "avg": 0.18,
         "low": 0.02,
-        "trend": 0.21,
-        "avg1": 0.29,
+        "trend": 0.22,
+        "avg1": 0.35,
         "avg7": 0.19,
-        "avg30": 0.2,
-        "avg-holo": 0.39,
-        "low-holo": 0.2,
-        "trend-holo": 0.37,
-        "avg1-holo": 0.25,
-        "avg7-holo": 0.39,
-        "avg30-holo": 0.43
+        "avg30": 0.19,
+        "avg-holo": 0.43,
+        "low-holo": 0.15,
+        "trend-holo": 0.44,
+        "avg1-holo": 1.5,
+        "avg7-holo": 0.54,
+        "avg30-holo": 0.45
       },
       "tcgplayer": null
     }
@@ -285,7 +288,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -319,21 +323,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299411,
-        "avg": 0.06,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.1,
-        "avg-holo": 0.27,
+        "trend": 0.08,
+        "avg1": 0.2,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "avg-holo": 0.33,
         "low-holo": 0.05,
-        "trend-holo": 0.33,
-        "avg1-holo": 0.35,
-        "avg7-holo": 0.31,
-        "avg30-holo": 0.35
+        "trend-holo": 0.32,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.36
       },
       "tcgplayer": null
     }
@@ -365,7 +369,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -407,18 +412,18 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299412,
         "avg": 0.11,
         "low": 0.02,
         "trend": 0.13,
-        "avg1": 0.03,
-        "avg7": 0.12,
+        "avg1": 0.3,
+        "avg7": 0.1,
         "avg30": 0.11,
-        "avg-holo": 0.3,
+        "avg-holo": 0.24,
         "low-holo": 0.05,
-        "trend-holo": 0.3,
+        "trend-holo": 0.27,
         "avg1-holo": 0.15,
         "avg7-holo": 0.3,
         "avg30-holo": 0.33
@@ -453,7 +458,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -497,21 +503,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299413,
-        "avg": 0.55,
+        "avg": 0.6,
         "low": 0.02,
-        "trend": 0.5,
+        "trend": 0.61,
         "avg1": 0.5,
-        "avg7": 0.61,
-        "avg30": 0.56,
-        "avg-holo": 0.59,
+        "avg7": 0.62,
+        "avg30": 0.53,
+        "avg-holo": 0.41,
         "low-holo": 0.1,
-        "trend-holo": 0.56,
+        "trend-holo": 0.46,
         "avg1-holo": 0.4,
-        "avg7-holo": 0.6,
-        "avg30-holo": 0.57
+        "avg7-holo": 0.38,
+        "avg30-holo": 0.54
       },
       "tcgplayer": null
     }
@@ -543,7 +549,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -578,20 +585,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299414,
-        "avg": 0.11,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "avg-holo": 0.36,
+        "trend": 0.03,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.09,
+        "avg-holo": 0.32,
         "low-holo": 0.02,
-        "trend-holo": 0.28,
-        "avg1-holo": 0.04,
-        "avg7-holo": 0.2,
+        "trend-holo": 0.31,
+        "avg1-holo": 0.54,
+        "avg7-holo": 0.21,
         "avg30-holo": 0.35
       },
       "tcgplayer": null
@@ -624,7 +631,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -670,21 +678,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299415,
-        "avg": 0.59,
+        "avg": 0.28,
         "low": 0.02,
-        "trend": 0.49,
-        "avg1": 1.5,
-        "avg7": 0.39,
+        "trend": 0.37,
+        "avg1": 0.12,
+        "avg7": 0.34,
         "avg30": 0.23,
-        "avg-holo": 0.4,
+        "avg-holo": 0.43,
         "low-holo": 0.05,
-        "trend-holo": 0.4,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.42,
-        "avg30-holo": 0.37
+        "trend-holo": 0.48,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.45,
+        "avg30-holo": 0.31
       },
       "tcgplayer": null
     }
@@ -716,7 +724,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -751,20 +760,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299416,
-        "avg": 0.1,
+        "avg": 0.08,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.06,
-        "avg7": 0.11,
-        "avg30": 0.07,
-        "avg-holo": 0.25,
-        "low-holo": 0.02,
-        "trend-holo": 0.23,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.24,
+        "trend": 0.05,
+        "avg1": 0.03,
+        "avg7": 0.08,
+        "avg30": 0.08,
+        "avg-holo": 0.18,
+        "low-holo": 0.04,
+        "trend-holo": 0.16,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.18,
         "avg30-holo": 0.28
       },
       "tcgplayer": null
@@ -797,7 +806,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -842,20 +852,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299417,
         "avg": 0.2,
         "low": 0.02,
-        "trend": 0.18,
-        "avg1": 0.25,
-        "avg7": 0.24,
+        "trend": 0.19,
+        "avg1": 0.15,
+        "avg7": 0.2,
         "avg30": 0.2,
-        "avg-holo": 0.52,
+        "avg-holo": 0.44,
         "low-holo": 0.1,
-        "trend-holo": 0.54,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.44,
+        "trend-holo": 0.49,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.46,
         "avg30-holo": 0.42
       },
       "tcgplayer": null
@@ -888,7 +898,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -931,21 +942,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299418,
-        "avg": 0.27,
+        "avg": 0.39,
         "low": 0.02,
-        "trend": 0.28,
+        "trend": 0.42,
         "avg1": 0.1,
-        "avg7": 0.28,
-        "avg30": 0.24,
-        "avg-holo": 0.53,
+        "avg7": 0.42,
+        "avg30": 0.28,
+        "avg-holo": 0.47,
         "low-holo": 0.05,
-        "trend-holo": 0.41,
-        "avg1-holo": 0.18,
-        "avg7-holo": 0.52,
-        "avg30-holo": 0.5
+        "trend-holo": 0.35,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.46,
+        "avg30-holo": 0.48
       },
       "tcgplayer": null
     }
@@ -977,7 +988,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1011,19 +1023,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299419,
-        "avg": 0.05,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.02,
-        "avg7": 0.04,
+        "trend": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.02,
         "avg30": 0.05,
-        "avg-holo": 0.16,
+        "avg-holo": 0.2,
         "low-holo": 0.06,
         "trend-holo": 0.27,
-        "avg1-holo": 0.09,
+        "avg1-holo": 0.24,
         "avg7-holo": 0.29,
         "avg30-holo": 0.26
       },
@@ -1057,7 +1069,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1100,19 +1113,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299420,
         "avg": 0.05,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.05,
+        "trend": 0.03,
+        "avg1": 0.04,
+        "avg7": 0.04,
         "avg30": 0.06,
-        "avg-holo": 0.25,
+        "avg-holo": 0.22,
         "low-holo": 0.05,
         "trend-holo": 0.23,
-        "avg1-holo": 0.1,
+        "avg1-holo": 0.19,
         "avg7-holo": 0.24,
         "avg30-holo": 0.24
       },
@@ -1146,7 +1159,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1181,21 +1195,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299421,
-        "avg": 0.06,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.02,
-        "avg7": 0.05,
+        "trend": 0.07,
+        "avg1": 0.03,
+        "avg7": 0.06,
         "avg30": 0.05,
-        "avg-holo": 0.26,
-        "low-holo": 0.02,
-        "trend-holo": 0.22,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.26,
-        "avg30-holo": 0.23
+        "avg-holo": 0.22,
+        "low-holo": 0.04,
+        "trend-holo": 0.21,
+        "avg1-holo": 0.18,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -1227,7 +1241,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1272,21 +1287,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299422,
-        "avg": 0.24,
+        "avg": 0.21,
         "low": 0.02,
-        "trend": 0.22,
-        "avg1": 0.2,
-        "avg7": 0.26,
+        "trend": 0.17,
+        "avg1": 0.15,
+        "avg7": 0.19,
         "avg30": 0.18,
-        "avg-holo": 0.42,
-        "low-holo": 0.07,
+        "avg-holo": 0.36,
+        "low-holo": 0.1,
         "trend-holo": 0.38,
-        "avg1-holo": 0.75,
-        "avg7-holo": 0.46,
-        "avg30-holo": 0.33
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.32
       },
       "tcgplayer": null
     }
@@ -1318,7 +1333,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1361,16 +1377,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299423,
-        "avg": 0.08,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.1,
+        "trend": 0.03,
+        "avg1": 0.02,
         "avg7": 0.06,
         "avg30": 0.06,
-        "avg-holo": 0.23,
+        "avg-holo": 0.19,
         "low-holo": 0.03,
         "trend-holo": 0.19,
         "avg1-holo": 0.1,
@@ -1407,7 +1423,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1462,15 +1479,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 298779,
-        "avg": 1.77,
+        "avg": 1.8,
         "low": 0.33,
-        "trend": 1.99,
-        "avg1": 1,
-        "avg7": 1.96,
-        "avg30": 1.54,
+        "trend": 1.81,
+        "avg1": 1.23,
+        "avg7": 1.68,
+        "avg30": 1.63,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 1.62,
@@ -1508,7 +1525,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1550,21 +1568,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299424,
-        "avg": 0.33,
+        "avg": 0.26,
         "low": 0.02,
-        "trend": 0.3,
-        "avg1": 0.05,
-        "avg7": 0.24,
-        "avg30": 0.23,
-        "avg-holo": 0.64,
+        "trend": 0.35,
+        "avg1": 0.23,
+        "avg7": 0.14,
+        "avg30": 0.28,
+        "avg-holo": 0.77,
         "low-holo": 0.15,
-        "trend-holo": 0.79,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.8,
-        "avg30-holo": 0.82
+        "trend-holo": 0.77,
+        "avg1-holo": 0.22,
+        "avg7-holo": 0.75,
+        "avg30-holo": 0.84
       },
       "tcgplayer": null
     }
@@ -1596,7 +1614,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1640,21 +1659,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299425,
-        "avg": 0.42,
+        "avg": 0.39,
         "low": 0.02,
-        "trend": 0.27,
-        "avg1": 0.25,
-        "avg7": 0.21,
-        "avg30": 0.29,
-        "avg-holo": 0.58,
+        "trend": 0.34,
+        "avg1": 0.1,
+        "avg7": 0.5,
+        "avg30": 0.35,
+        "avg-holo": 0.54,
         "low-holo": 0.05,
-        "trend-holo": 0.66,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.53,
-        "avg30-holo": 0.62
+        "trend-holo": 0.45,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.58
       },
       "tcgplayer": null
     }
@@ -1686,7 +1705,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1743,15 +1763,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299426,
-        "avg": 18.4,
+        "avg": 13.9,
         "low": 3.9,
-        "trend": 16.04,
-        "avg1": 18.33,
-        "avg7": 12.82,
-        "avg30": 15.91,
+        "trend": 14.69,
+        "avg1": 7.99,
+        "avg7": 15.64,
+        "avg30": 16.61,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 10.82,
@@ -1789,7 +1809,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1851,15 +1872,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299427,
-        "avg": 4.96,
+        "avg": 4.65,
         "low": 1.4,
-        "trend": 4.85,
-        "avg1": 5,
-        "avg7": 5,
-        "avg30": 4.88,
+        "trend": 4.55,
+        "avg1": 5.32,
+        "avg7": 4.43,
+        "avg30": 4.85,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 3.91,
@@ -1897,7 +1918,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -1931,20 +1953,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299428,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.1,
-        "avg7": 0.09,
+        "trend": 0.06,
+        "avg1": 0.03,
+        "avg7": 0.05,
         "avg30": 0.06,
-        "avg-holo": 0.17,
+        "avg-holo": 0.18,
         "low-holo": 0.04,
-        "trend-holo": 0.15,
-        "avg1-holo": 0.25,
-        "avg7-holo": 0.18,
+        "trend-holo": 0.16,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.19,
         "avg30-holo": 0.14
       },
       "tcgplayer": null
@@ -1977,7 +1999,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2020,20 +2043,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299429,
         "avg": 0.05,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
+        "trend": 0.05,
+        "avg1": 0.03,
         "avg7": 0.05,
         "avg30": 0.05,
-        "avg-holo": 0.16,
-        "low-holo": 0.08,
+        "avg-holo": 0.17,
+        "low-holo": 0.04,
         "trend-holo": 0.22,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.18,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.16,
         "avg30-holo": 0.24
       },
       "tcgplayer": null
@@ -2066,7 +2089,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2111,16 +2135,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299430,
         "avg": 0.04,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.06,
-        "avg-holo": 0.26,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.25,
         "low-holo": 0.05,
         "trend-holo": 0.23,
         "avg1-holo": 0.12,
@@ -2157,7 +2181,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2209,15 +2234,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299431,
-        "avg": 1.76,
+        "avg": 1.78,
         "low": 0.15,
-        "trend": 1.75,
-        "avg1": 1,
-        "avg7": 1.77,
-        "avg30": 1.74,
+        "trend": 1.82,
+        "avg1": 1.8,
+        "avg7": 1.94,
+        "avg30": 1.79,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 1.81,
@@ -2255,7 +2280,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2300,16 +2326,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299432,
         "avg": 0.12,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.19,
-        "avg-holo": 0.44,
+        "trend": 0.04,
+        "avg1": 0.14,
+        "avg7": 0.12,
+        "avg30": 0.18,
+        "avg-holo": 0.5,
         "low-holo": 0.05,
         "trend-holo": 0.37,
         "avg1-holo": 0.14,
@@ -2346,7 +2372,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2385,21 +2412,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299433,
-        "avg": 0.09,
+        "avg": 0.12,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.17,
-        "avg7": 0.12,
-        "avg30": 0.09,
-        "avg-holo": 0.35,
+        "trend": 0.15,
+        "avg1": 0.33,
+        "avg7": 0.18,
+        "avg30": 0.12,
+        "avg-holo": 0.29,
         "low-holo": 0.05,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.12,
-        "avg7-holo": 0.33,
-        "avg30-holo": 0.42
+        "trend-holo": 0.2,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.39
       },
       "tcgplayer": null
     }
@@ -2431,7 +2458,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2474,21 +2502,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299434,
-        "avg": 0.83,
+        "avg": 0.88,
         "low": 0.02,
-        "trend": 0.74,
-        "avg1": 0.2,
-        "avg7": 0.66,
-        "avg30": 0.84,
-        "avg-holo": 1.68,
+        "trend": 0.83,
+        "avg1": 1.43,
+        "avg7": 1.31,
+        "avg30": 0.98,
+        "avg-holo": 1.57,
         "low-holo": 0.1,
-        "trend-holo": 1.78,
-        "avg1-holo": 0.49,
-        "avg7-holo": 1.69,
-        "avg30-holo": 1.27
+        "trend-holo": 1.57,
+        "avg1-holo": 0.99,
+        "avg7-holo": 1.38,
+        "avg30-holo": 1.35
       },
       "tcgplayer": null
     }
@@ -2520,7 +2548,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2554,21 +2583,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299435,
-        "avg": 0.06,
+        "avg": 0.07,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.17,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "avg-holo": 0.26,
+        "trend": 0.08,
+        "avg1": 0.2,
+        "avg7": 0.09,
+        "avg30": 0.07,
+        "avg-holo": 0.27,
         "low-holo": 0.02,
-        "trend-holo": 0.29,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.24,
-        "avg30-holo": 0.31
+        "trend-holo": 0.3,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.32
       },
       "tcgplayer": null
     }
@@ -2600,7 +2629,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2634,21 +2664,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299436,
-        "avg": 0.08,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.02,
-        "avg7": 0.06,
+        "trend": 0.05,
+        "avg1": 0.05,
+        "avg7": 0.05,
         "avg30": 0.08,
-        "avg-holo": 0.19,
+        "avg-holo": 0.17,
         "low-holo": 0.05,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.21,
-        "avg30-holo": 0.29
+        "trend-holo": 0.22,
+        "avg1-holo": 0.19,
+        "avg7-holo": 0.17,
+        "avg30-holo": 0.28
       },
       "tcgplayer": null
     }
@@ -2680,7 +2710,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2722,21 +2753,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299568,
-        "avg": 0.55,
-        "low": 0.05,
-        "trend": 0.79,
-        "avg1": 1.95,
-        "avg7": 0.78,
+        "avg": 0.64,
+        "low": 0.02,
+        "trend": 0.7,
+        "avg1": 0.39,
+        "avg7": 0.72,
         "avg30": 0.5,
-        "avg-holo": 0.6,
+        "avg-holo": 0.77,
         "low-holo": 0.2,
-        "trend-holo": 0.6,
-        "avg1-holo": 0.3,
-        "avg7-holo": 0.57,
-        "avg30-holo": 0.53
+        "trend-holo": 0.79,
+        "avg1-holo": 0.93,
+        "avg7-holo": 0.73,
+        "avg30-holo": 0.59
       },
       "tcgplayer": null
     }
@@ -2768,7 +2799,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2803,21 +2835,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299437,
         "avg": 0.1,
         "low": 0.02,
-        "trend": 0.1,
-        "avg1": 0.1,
-        "avg7": 0.09,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.1,
         "avg30": 0.1,
-        "avg-holo": 0.28,
+        "avg-holo": 0.49,
         "low-holo": 0.05,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.3,
-        "avg30-holo": 0.46
+        "trend-holo": 0.52,
+        "avg1-holo": 0.9,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.49
       },
       "tcgplayer": null
     }
@@ -2849,7 +2881,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2896,21 +2929,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299438,
-        "avg": 1.16,
+        "avg": 1.14,
         "low": 0.2,
-        "trend": 1.17,
-        "avg1": 0.35,
-        "avg7": 1.05,
+        "trend": 1.03,
+        "avg1": 0.29,
+        "avg7": 1.22,
         "avg30": 1.15,
-        "avg-holo": 1.55,
-        "low-holo": 0.25,
-        "trend-holo": 1.42,
-        "avg1-holo": 0.99,
-        "avg7-holo": 1.9,
-        "avg30-holo": 1.43
+        "avg-holo": 1.38,
+        "low-holo": 0.3,
+        "trend-holo": 1.09,
+        "avg1-holo": 1.39,
+        "avg7-holo": 0.96,
+        "avg30-holo": 1.34
       },
       "tcgplayer": null
     }
@@ -2942,7 +2975,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -2984,21 +3018,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299439,
-        "avg": 0.12,
+        "avg": 0.13,
         "low": 0.02,
-        "trend": 0.15,
-        "avg1": 0.08,
-        "avg7": 0.1,
-        "avg30": 0.12,
-        "avg-holo": 0.39,
+        "trend": 0.09,
+        "avg1": 0.12,
+        "avg7": 0.12,
+        "avg30": 0.13,
+        "avg-holo": 0.45,
         "low-holo": 0.1,
-        "trend-holo": 0.36,
-        "avg1-holo": 0.3,
-        "avg7-holo": 0.31,
-        "avg30-holo": 0.35
+        "trend-holo": 0.51,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.41,
+        "avg30-holo": 0.37
       },
       "tcgplayer": null
     }
@@ -3030,7 +3064,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3073,21 +3108,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299440,
-        "avg": 0.2,
+        "avg": 0.16,
         "low": 0.02,
-        "trend": 0.23,
-        "avg1": 0.1,
-        "avg7": 0.22,
+        "trend": 0.18,
+        "avg1": 0.23,
+        "avg7": 0.15,
         "avg30": 0.18,
-        "avg-holo": 0.33,
+        "avg-holo": 0.52,
         "low-holo": 0.09,
-        "trend-holo": 0.44,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.55,
-        "avg30-holo": 0.31
+        "trend-holo": 0.46,
+        "avg1-holo": 0.36,
+        "avg7-holo": 0.47,
+        "avg30-holo": 0.32
       },
       "tcgplayer": null
     }
@@ -3119,7 +3154,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3153,17 +3189,17 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299441,
-        "avg": 0.03,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.03,
+        "trend": 0.05,
         "avg1": 0.04,
         "avg7": 0.04,
         "avg30": 0.04,
-        "avg-holo": 0.18,
-        "low-holo": 0.08,
+        "avg-holo": 0.26,
+        "low-holo": 0.07,
         "trend-holo": 0.27,
         "avg1-holo": 0.26,
         "avg7-holo": 0.34,
@@ -3199,7 +3235,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3242,16 +3279,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299442,
         "avg": 0.04,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.02,
+        "trend": 0.07,
+        "avg1": 0.03,
         "avg7": 0.04,
         "avg30": 0.05,
-        "avg-holo": 0.11,
+        "avg-holo": 0.15,
         "low-holo": 0.05,
         "trend-holo": 0.2,
         "avg1-holo": 0.08,
@@ -3288,7 +3325,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3332,19 +3370,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299443,
-        "avg": 0.12,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.12,
-        "avg1": 0.2,
-        "avg7": 0.11,
+        "trend": 0.07,
+        "avg1": 0.07,
+        "avg7": 0.06,
         "avg30": 0.11,
-        "avg-holo": 0.33,
+        "avg-holo": 0.26,
         "low-holo": 0.04,
-        "trend-holo": 0.45,
-        "avg1-holo": 0.41,
+        "trend-holo": 0.41,
+        "avg1-holo": 0.2,
         "avg7-holo": 0.31,
         "avg30-holo": 0.32
       },
@@ -3378,7 +3416,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3423,15 +3462,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 298780,
-        "avg": 2.71,
+        "avg": 2.38,
         "low": 0.48,
-        "trend": 2.43,
-        "avg1": 1.8,
-        "avg7": 2.05,
-        "avg30": 2.47,
+        "trend": 2.39,
+        "avg1": 2.95,
+        "avg7": 2.24,
+        "avg30": 2.51,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.21,
@@ -3469,7 +3508,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3518,21 +3558,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299444,
-        "avg": 0.5,
+        "avg": 1.21,
         "low": 0.02,
-        "trend": 0.56,
-        "avg1": 0.25,
-        "avg7": 0.66,
-        "avg30": 0.53,
-        "avg-holo": 2.34,
+        "trend": 3.57,
+        "avg1": 1.28,
+        "avg7": 3.09,
+        "avg30": 1.2,
+        "avg-holo": 2.47,
         "low-holo": 0.35,
-        "trend-holo": 2.41,
-        "avg1-holo": 3.7,
-        "avg7-holo": 2.51,
-        "avg30-holo": 2.42
+        "trend-holo": 2.98,
+        "avg1-holo": 4,
+        "avg7-holo": 2.93,
+        "avg30-holo": 2.46
       },
       "tcgplayer": null
     }
@@ -3564,7 +3604,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3614,21 +3655,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299445,
-        "avg": 1.39,
+        "avg": 1.49,
         "low": 0.1,
-        "trend": 2,
-        "avg1": 4.95,
-        "avg7": 1.67,
-        "avg30": 1.29,
-        "avg-holo": 1.04,
+        "trend": 1.66,
+        "avg1": 0.65,
+        "avg7": 1.51,
+        "avg30": 1.32,
+        "avg-holo": 1.07,
         "low-holo": 0.1,
-        "trend-holo": 0.9,
-        "avg1-holo": 0.1,
-        "avg7-holo": 1.11,
-        "avg30-holo": 1.02
+        "trend-holo": 0.88,
+        "avg1-holo": 1.5,
+        "avg7-holo": 0.84,
+        "avg30-holo": 1.06
       },
       "tcgplayer": null
     }
@@ -3660,7 +3701,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3711,21 +3753,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299446,
-        "avg": 0.08,
+        "avg": 0.07,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.1,
-        "avg7": 0.11,
-        "avg30": 0.08,
-        "avg-holo": 0.28,
+        "trend": 0.1,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "avg-holo": 0.41,
         "low-holo": 0.05,
-        "trend-holo": 0.3,
-        "avg1-holo": 0.59,
-        "avg7-holo": 0.27,
-        "avg30-holo": 0.32
+        "trend-holo": 0.32,
+        "avg1-holo": 0.45,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.33
       },
       "tcgplayer": null
     }
@@ -3757,7 +3799,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3811,21 +3854,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299447,
-        "avg": 0.17,
+        "avg": 0.14,
         "low": 0.02,
-        "trend": 0.18,
-        "avg1": 0.02,
+        "trend": 0.13,
+        "avg1": 0.09,
         "avg7": 0.13,
         "avg30": 0.18,
-        "avg-holo": 0.52,
+        "avg-holo": 0.48,
         "low-holo": 0.05,
-        "trend-holo": 0.5,
-        "avg1-holo": 0.62,
-        "avg7-holo": 0.48,
-        "avg30-holo": 0.42
+        "trend-holo": 0.42,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.47,
+        "avg30-holo": 0.43
       },
       "tcgplayer": null
     }
@@ -3857,7 +3900,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3898,21 +3942,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299448,
-        "avg": 0.11,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.15,
-        "avg1": 0.07,
-        "avg7": 0.12,
+        "trend": 0.09,
+        "avg1": 0.14,
+        "avg7": 0.07,
         "avg30": 0.1,
-        "avg-holo": 0.29,
+        "avg-holo": 0.35,
         "low-holo": 0.09,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.35,
-        "avg7-holo": 0.25,
-        "avg30-holo": 0.34
+        "trend-holo": 0.38,
+        "avg1-holo": 0.47,
+        "avg7-holo": 0.36,
+        "avg30-holo": 0.37
       },
       "tcgplayer": null
     }
@@ -3944,7 +3988,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -3986,21 +4031,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299449,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.02,
-        "avg7": 0.09,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.06,
         "avg30": 0.08,
-        "avg-holo": 0.22,
+        "avg-holo": 0.26,
         "low-holo": 0.05,
-        "trend-holo": 0.23,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.23,
-        "avg30-holo": 0.24
+        "trend-holo": 0.22,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.25
       },
       "tcgplayer": null
     }
@@ -4032,7 +4077,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4084,21 +4130,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299450,
-        "avg": 0.39,
+        "avg": 0.29,
         "low": 0.02,
-        "trend": 0.37,
-        "avg1": 0.3,
-        "avg7": 0.35,
-        "avg30": 0.2,
-        "avg-holo": 0.31,
+        "trend": 0.3,
+        "avg1": 0.02,
+        "avg7": 0.2,
+        "avg30": 0.23,
+        "avg-holo": 0.16,
         "low-holo": 0.05,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.34,
-        "avg30-holo": 0.37
+        "trend-holo": 0.29,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.35
       },
       "tcgplayer": null
     }
@@ -4130,7 +4176,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4179,20 +4226,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299451,
         "avg": 0.06,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.2,
-        "avg7": 0.07,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.05,
         "avg30": 0.05,
         "avg-holo": 0.24,
         "low-holo": 0.05,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.3,
-        "avg7-holo": 0.26,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.18,
+        "avg7-holo": 0.25,
         "avg30-holo": 0.26
       },
       "tcgplayer": null
@@ -4225,7 +4272,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4269,21 +4317,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299452,
-        "avg": 0.25,
-        "low": 0.02,
-        "trend": 0.22,
-        "avg1": 0.04,
-        "avg7": 0.3,
-        "avg30": 0.3,
-        "avg-holo": 0.83,
+        "avg": 0.24,
+        "low": 0.03,
+        "trend": 0.17,
+        "avg1": 0.5,
+        "avg7": 0.2,
+        "avg30": 0.29,
+        "avg-holo": 0.62,
         "low-holo": 0.1,
-        "trend-holo": 0.84,
-        "avg1-holo": 2,
-        "avg7-holo": 0.82,
-        "avg30-holo": 0.78
+        "trend-holo": 0.6,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.54,
+        "avg30-holo": 0.67
       },
       "tcgplayer": null
     }
@@ -4315,7 +4363,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4352,20 +4401,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299453,
-        "avg": 0.12,
+        "avg": 0.13,
         "low": 0.02,
-        "trend": 0.21,
-        "avg1": 0.31,
-        "avg7": 0.23,
+        "trend": 0.13,
+        "avg1": 0.04,
+        "avg7": 0.07,
         "avg30": 0.12,
-        "avg-holo": 0.45,
+        "avg-holo": 0.38,
         "low-holo": 0.02,
-        "trend-holo": 0.41,
-        "avg1-holo": 0.35,
-        "avg7-holo": 0.5,
+        "trend-holo": 0.42,
+        "avg1-holo": 0.29,
+        "avg7-holo": 0.43,
         "avg30-holo": 0.29
       },
       "tcgplayer": null
@@ -4398,7 +4447,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4442,19 +4492,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299454,
-        "avg": 0.06,
+        "avg": 0.07,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.09,
-        "avg7": 0.06,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.07,
         "avg30": 0.08,
-        "avg-holo": 0.57,
+        "avg-holo": 0.24,
         "low-holo": 0.05,
-        "trend-holo": 0.43,
-        "avg1-holo": 0.3,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.15,
         "avg7-holo": 0.39,
         "avg30-holo": 0.31
       },
@@ -4488,7 +4538,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4536,21 +4587,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299455,
-        "avg": 0.05,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
-        "avg7": 0.04,
+        "trend": 0.07,
+        "avg1": 0.07,
+        "avg7": 0.08,
         "avg30": 0.05,
-        "avg-holo": 0.26,
+        "avg-holo": 0.22,
         "low-holo": 0.05,
         "trend-holo": 0.23,
         "avg1-holo": 0.2,
-        "avg7-holo": 0.25,
-        "avg30-holo": 0.28
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.27
       },
       "tcgplayer": null
     }
@@ -4582,7 +4633,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4632,21 +4684,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299456,
-        "avg": 0.06,
+        "avg": 0.07,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "avg-holo": 0.36,
+        "trend": 0.08,
+        "avg1": 0.08,
+        "avg7": 0.11,
+        "avg30": 0.07,
+        "avg-holo": 0.21,
         "low-holo": 0.04,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.49,
-        "avg7-holo": 0.24,
-        "avg30-holo": 0.23
+        "trend-holo": 0.25,
+        "avg1-holo": 0.29,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.22
       },
       "tcgplayer": null
     }
@@ -4678,7 +4730,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4728,20 +4781,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299457,
-        "avg": 0.48,
+        "avg": 0.52,
         "low": 0.05,
-        "trend": 0.5,
-        "avg1": 0.65,
-        "avg7": 0.54,
+        "trend": 0.38,
+        "avg1": 0.45,
+        "avg7": 0.55,
         "avg30": 0.42,
         "avg-holo": 0.49,
         "low-holo": 0.05,
-        "trend-holo": 0.45,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.57,
+        "trend-holo": 0.3,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.43,
         "avg30-holo": 0.51
       },
       "tcgplayer": null
@@ -4774,7 +4827,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4817,21 +4871,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299458,
-        "avg": 0.06,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.06,
-        "avg7": 0.05,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.04,
         "avg30": 0.05,
-        "avg-holo": 0.19,
+        "avg-holo": 0.28,
         "low-holo": 0.02,
-        "trend-holo": 0.24,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.2
+        "trend-holo": 0.28,
+        "avg1-holo": 0.18,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.24
       },
       "tcgplayer": null
     }
@@ -4863,7 +4917,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4909,21 +4964,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299459,
         "avg": 0.2,
         "low": 0.02,
         "trend": 0.2,
         "avg1": 0.1,
-        "avg7": 0.23,
+        "avg7": 0.18,
         "avg30": 0.18,
-        "avg-holo": 0.37,
+        "avg-holo": 0.39,
         "low-holo": 0.05,
-        "trend-holo": 0.33,
-        "avg1-holo": 0.12,
-        "avg7-holo": 0.31,
-        "avg30-holo": 0.37
+        "trend-holo": 0.39,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.35,
+        "avg30-holo": 0.4
       },
       "tcgplayer": null
     }
@@ -4955,7 +5010,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -4998,21 +5054,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299460,
         "avg": 0.05,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "avg-holo": 0.19,
+        "trend": 0.05,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.18,
         "low-holo": 0.04,
-        "trend-holo": 0.24,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.23,
-        "avg30-holo": 0.22
+        "trend-holo": 0.22,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.21
       },
       "tcgplayer": null
     }
@@ -5044,7 +5100,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5089,20 +5146,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299461,
         "avg": 0.06,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.12,
+        "trend": 0.05,
+        "avg1": 0.05,
         "avg7": 0.06,
         "avg30": 0.07,
         "avg-holo": 0.21,
         "low-holo": 0.02,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.2,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.26,
+        "avg7-holo": 0.19,
         "avg30-holo": 0.26
       },
       "tcgplayer": null
@@ -5135,7 +5192,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5183,20 +5241,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299462,
-        "avg": 0.16,
+        "avg": 0.2,
         "low": 0.02,
-        "trend": 0.14,
-        "avg1": 0.08,
-        "avg7": 0.16,
+        "trend": 0.16,
+        "avg1": 0.1,
+        "avg7": 0.18,
         "avg30": 0.14,
-        "avg-holo": 0.41,
+        "avg-holo": 0.37,
         "low-holo": 0.02,
-        "trend-holo": 0.45,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.44,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.3,
         "avg30-holo": 0.37
       },
       "tcgplayer": null
@@ -5229,7 +5287,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5263,21 +5322,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299463,
-        "avg": 0.09,
+        "avg": 0.08,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "avg-holo": 0.23,
+        "trend": 0.08,
+        "avg1": 0.04,
+        "avg7": 0.09,
+        "avg30": 0.07,
+        "avg-holo": 0.33,
         "low-holo": 0.02,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.27,
-        "avg30-holo": 0.32
+        "trend-holo": 0.36,
+        "avg1-holo": 0.99,
+        "avg7-holo": 0.44,
+        "avg30-holo": 0.35
       },
       "tcgplayer": null
     }
@@ -5309,7 +5368,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5352,20 +5412,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299464,
         "avg": 0.13,
         "low": 0.02,
         "trend": 0.13,
-        "avg1": 0.02,
-        "avg7": 0.13,
-        "avg30": 0.14,
-        "avg-holo": 0.51,
+        "avg1": 0.25,
+        "avg7": 0.09,
+        "avg30": 0.12,
+        "avg-holo": 0.42,
         "low-holo": 0.1,
-        "trend-holo": 0.57,
-        "avg1-holo": 0.77,
-        "avg7-holo": 0.44,
+        "trend-holo": 0.51,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.47,
         "avg30-holo": 0.48
       },
       "tcgplayer": null
@@ -5398,7 +5458,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5439,20 +5500,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299465,
-        "avg": 0.06,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.07,
+        "trend": 0.05,
         "avg1": 0.02,
-        "avg7": 0.06,
+        "avg7": 0.04,
         "avg30": 0.05,
-        "avg-holo": 0.32,
+        "avg-holo": 0.3,
         "low-holo": 0.04,
-        "trend-holo": 0.3,
-        "avg1-holo": 0.49,
-        "avg7-holo": 0.33,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.3,
         "avg30-holo": 0.25
       },
       "tcgplayer": null
@@ -5485,7 +5546,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5539,21 +5601,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299466,
-        "avg": 0.43,
+        "avg": 0.35,
         "low": 0.02,
-        "trend": 0.5,
-        "avg1": 0.65,
-        "avg7": 0.42,
+        "trend": 0.35,
+        "avg1": 0.35,
+        "avg7": 0.32,
         "avg30": 0.4,
-        "avg-holo": 0.41,
+        "avg-holo": 0.34,
         "low-holo": 0.02,
-        "trend-holo": 0.38,
-        "avg1-holo": 0.23,
-        "avg7-holo": 0.42,
-        "avg30-holo": 0.28
+        "trend-holo": 0.36,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.31
       },
       "tcgplayer": null
     }
@@ -5585,7 +5647,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5638,15 +5701,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 298781,
-        "avg": 1.99,
-        "low": 0.5,
-        "trend": 2.17,
-        "avg1": 2.98,
-        "avg7": 1.96,
-        "avg30": 2.14,
+        "avg": 1.94,
+        "low": 0.6,
+        "trend": 1.96,
+        "avg1": 1.85,
+        "avg7": 2,
+        "avg30": 2.09,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.1,
@@ -5684,7 +5747,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5740,15 +5804,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299467,
-        "avg": 2.84,
+        "avg": 3.04,
         "low": 0.45,
-        "trend": 2.83,
-        "avg1": 3.25,
-        "avg7": 3.49,
-        "avg30": 2.98,
+        "trend": 2.9,
+        "avg1": 1.2,
+        "avg7": 2.61,
+        "avg30": 2.87,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.52,
@@ -5786,7 +5850,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5830,21 +5895,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299468,
         "avg": 0.05,
         "low": 0.02,
-        "trend": 0.07,
+        "trend": 0.06,
         "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.06,
-        "avg-holo": 0.31,
-        "low-holo": 0.04,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.3,
-        "avg30-holo": 0.29
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.26,
+        "low-holo": 0.03,
+        "trend-holo": 0.26,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.18,
+        "avg30-holo": 0.28
       },
       "tcgplayer": null
     }
@@ -5876,7 +5941,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -5924,17 +5990,17 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299569,
-        "avg": 0.1,
+        "avg": 0.08,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.02,
-        "avg7": 0.11,
+        "trend": 0.08,
+        "avg1": 0.05,
+        "avg7": 0.06,
         "avg30": 0.07,
-        "avg-holo": 0.17,
-        "low-holo": 0.1,
+        "avg-holo": 0.15,
+        "low-holo": 0.05,
         "trend-holo": 0.28,
         "avg1-holo": 0.06,
         "avg7-holo": 0.18,
@@ -5970,7 +6036,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6015,21 +6082,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299469,
-        "avg": 0.37,
+        "avg": 0.45,
         "low": 0.04,
-        "trend": 0.37,
-        "avg1": 0.65,
-        "avg7": 0.45,
-        "avg30": 0.36,
-        "avg-holo": 0.52,
+        "trend": 0.38,
+        "avg1": 0.45,
+        "avg7": 0.48,
+        "avg30": 0.38,
+        "avg-holo": 0.43,
         "low-holo": 0.05,
-        "trend-holo": 0.44,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.44,
-        "avg30-holo": 0.46
+        "trend-holo": 0.39,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.44
       },
       "tcgplayer": null
     }
@@ -6061,7 +6128,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6103,19 +6171,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299470,
-        "avg": 0.06,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.05,
+        "trend": 0.04,
         "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "avg-holo": 0.26,
+        "avg7": 0.02,
+        "avg30": 0.06,
+        "avg-holo": 0.28,
         "low-holo": 0.08,
         "trend-holo": 0.22,
-        "avg1-holo": 0.24,
+        "avg1-holo": 0.29,
         "avg7-holo": 0.27,
         "avg30-holo": 0.27
       },
@@ -6149,7 +6217,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6191,20 +6260,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299471,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.07,
+        "trend": 0.04,
         "avg1": 0.05,
-        "avg7": 0.08,
+        "avg7": 0.06,
         "avg30": 0.07,
-        "avg-holo": 0.32,
+        "avg-holo": 0.3,
         "low-holo": 0.05,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.14,
-        "avg7-holo": 0.32,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.31,
         "avg30-holo": 0.3
       },
       "tcgplayer": null
@@ -6237,7 +6306,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6279,21 +6349,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299472,
-        "avg": 0.09,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.06,
-        "avg7": 0.07,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.06,
         "avg30": 0.09,
-        "avg-holo": 0.31,
+        "avg-holo": 0.39,
         "low-holo": 0.1,
-        "trend-holo": 0.33,
-        "avg1-holo": 0.17,
-        "avg7-holo": 0.31,
-        "avg30-holo": 0.33
+        "trend-holo": 0.39,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.38,
+        "avg30-holo": 0.34
       },
       "tcgplayer": null
     }
@@ -6325,7 +6395,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6368,21 +6439,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299473,
-        "avg": 0.62,
+        "avg": 0.71,
         "low": 0.05,
-        "trend": 0.48,
-        "avg1": 0.39,
-        "avg7": 0.65,
-        "avg30": 0.65,
-        "avg-holo": 1,
+        "trend": 0.59,
+        "avg1": 0.67,
+        "avg7": 0.8,
+        "avg30": 0.67,
+        "avg-holo": 0.9,
         "low-holo": 0.1,
-        "trend-holo": 0.73,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.88,
-        "avg30-holo": 0.97
+        "trend-holo": 0.93,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.71,
+        "avg30-holo": 0.87
       },
       "tcgplayer": null
     }
@@ -6414,7 +6485,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6457,21 +6529,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299474,
-        "avg": 0.04,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.06,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "avg-holo": 0.28,
-        "low-holo": 0.02,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.26,
-        "avg30-holo": 0.23
+        "trend": 0.06,
+        "avg1": 0.03,
+        "avg7": 0.07,
+        "avg30": 0.05,
+        "avg-holo": 0.13,
+        "low-holo": 0.05,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.22
       },
       "tcgplayer": null
     }
@@ -6503,7 +6575,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6538,19 +6611,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299475,
-        "avg": 0.06,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.06,
+        "trend": 0.04,
         "avg1": 0.02,
         "avg7": 0.04,
         "avg30": 0.04,
         "avg-holo": 0.13,
         "low-holo": 0.04,
-        "trend-holo": 0.12,
-        "avg1-holo": 0.1,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.19,
         "avg7-holo": 0.13,
         "avg30-holo": 0.16
       },
@@ -6584,7 +6657,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6629,21 +6703,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299476,
-        "avg": 0.07,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.07,
+        "trend": 0.11,
         "avg1": 0.1,
-        "avg7": 0.11,
-        "avg30": 0.1,
-        "avg-holo": 0.2,
+        "avg7": 0.1,
+        "avg30": 0.11,
+        "avg-holo": 0.45,
         "low-holo": 0.04,
-        "trend-holo": 0.28,
+        "trend-holo": 0.32,
         "avg1-holo": 0.2,
-        "avg7-holo": 0.23,
-        "avg30-holo": 0.34
+        "avg7-holo": 0.34,
+        "avg30-holo": 0.35
       },
       "tcgplayer": null
     }
@@ -6675,7 +6749,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6720,21 +6795,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299477,
-        "avg": 0.38,
+        "avg": 0.36,
         "low": 0.04,
-        "trend": 0.43,
-        "avg1": 0.59,
-        "avg7": 0.39,
-        "avg30": 0.38,
-        "avg-holo": 0.45,
+        "trend": 0.33,
+        "avg1": 0.49,
+        "avg7": 0.42,
+        "avg30": 0.39,
+        "avg-holo": 0.42,
         "low-holo": 0.08,
-        "trend-holo": 0.39,
-        "avg1-holo": 0.13,
-        "avg7-holo": 0.38,
-        "avg30-holo": 0.41
+        "trend-holo": 0.45,
+        "avg1-holo": 0.75,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.39
       },
       "tcgplayer": null
     }
@@ -6766,7 +6841,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6810,21 +6886,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299477,
-        "avg": 0.38,
+        "avg": 0.36,
         "low": 0.04,
-        "trend": 0.43,
-        "avg1": 0.59,
-        "avg7": 0.39,
-        "avg30": 0.38,
-        "avg-holo": 0.45,
+        "trend": 0.33,
+        "avg1": 0.49,
+        "avg7": 0.42,
+        "avg30": 0.39,
+        "avg-holo": 0.42,
         "low-holo": 0.08,
-        "trend-holo": 0.39,
-        "avg1-holo": 0.13,
-        "avg7-holo": 0.38,
-        "avg30-holo": 0.41
+        "trend-holo": 0.45,
+        "avg1-holo": 0.75,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.39
       },
       "tcgplayer": null
     }
@@ -6856,7 +6932,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6892,20 +6969,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299479,
-        "avg": 0.05,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.05,
+        "avg7": 0.04,
         "avg30": 0.04,
-        "avg-holo": 0.25,
+        "avg-holo": 0.26,
         "low-holo": 0.02,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.29,
+        "trend-holo": 0.3,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.24,
         "avg30-holo": 0.24
       },
       "tcgplayer": null
@@ -6938,7 +7015,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -6986,18 +7064,18 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299480,
-        "avg": 0.12,
+        "avg": 0.16,
         "low": 0.02,
-        "trend": 0.12,
-        "avg1": 0.08,
-        "avg7": 0.12,
+        "trend": 0.2,
+        "avg1": 0.5,
+        "avg7": 0.16,
         "avg30": 0.16,
-        "avg-holo": 0.3,
+        "avg-holo": 0.26,
         "low-holo": 0.1,
-        "trend-holo": 0.34,
+        "trend-holo": 0.32,
         "avg1-holo": 0.4,
         "avg7-holo": 0.27,
         "avg30-holo": 0.32
@@ -7032,7 +7110,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7076,20 +7155,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299481,
-        "avg": 0.13,
+        "avg": 0.14,
         "low": 0.02,
         "trend": 0.16,
-        "avg1": 0.54,
-        "avg7": 0.17,
-        "avg30": 0.2,
-        "avg-holo": 0.66,
+        "avg1": 0.2,
+        "avg7": 0.19,
+        "avg30": 0.17,
+        "avg-holo": 0.35,
         "low-holo": 0.02,
-        "trend-holo": 0.64,
-        "avg1-holo": 0.37,
-        "avg7-holo": 0.65,
+        "trend-holo": 0.47,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.27,
         "avg30-holo": 0.43
       },
       "tcgplayer": null
@@ -7122,7 +7201,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7173,15 +7253,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299482,
-        "avg": 1.94,
+        "avg": 2.33,
         "low": 0.5,
-        "trend": 2.13,
-        "avg1": 3,
-        "avg7": 2.17,
-        "avg30": 2.1,
+        "trend": 2.44,
+        "avg1": 2.97,
+        "avg7": 2.54,
+        "avg30": 2.21,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.31,
@@ -7219,7 +7299,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7263,21 +7344,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299483,
-        "avg": 0.05,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.15,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "avg-holo": 0.28,
+        "trend": 0.08,
+        "avg1": 0.25,
+        "avg7": 0.09,
+        "avg30": 0.05,
+        "avg-holo": 0.35,
         "low-holo": 0.02,
-        "trend-holo": 0.32,
-        "avg1-holo": 0.24,
-        "avg7-holo": 0.34,
-        "avg30-holo": 0.26
+        "trend-holo": 0.3,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.27,
+        "avg30-holo": 0.25
       },
       "tcgplayer": null
     }
@@ -7309,7 +7390,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7355,21 +7437,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299484,
-        "avg": 0.21,
+        "avg": 0.17,
         "low": 0.02,
         "trend": 0.18,
-        "avg1": 0.2,
-        "avg7": 0.22,
-        "avg30": 0.17,
-        "avg-holo": 0.42,
+        "avg1": 0.06,
+        "avg7": 0.14,
+        "avg30": 0.15,
+        "avg-holo": 0.32,
         "low-holo": 0.1,
-        "trend-holo": 0.35,
-        "avg1-holo": 0.4,
-        "avg7-holo": 0.37,
-        "avg30-holo": 0.38
+        "trend-holo": 0.36,
+        "avg1-holo": 0.49,
+        "avg7-holo": 0.38,
+        "avg30-holo": 0.36
       },
       "tcgplayer": null
     }
@@ -7401,7 +7483,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7446,20 +7529,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299485,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
         "trend": 0.06,
-        "avg1": 0.02,
-        "avg7": 0.04,
+        "avg1": 0.05,
+        "avg7": 0.08,
         "avg30": 0.06,
-        "avg-holo": 0.21,
+        "avg-holo": 0.24,
         "low-holo": 0.05,
-        "trend-holo": 0.21,
-        "avg1-holo": 0.29,
-        "avg7-holo": 0.21,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.2,
         "avg30-holo": 0.27
       },
       "tcgplayer": null
@@ -7492,7 +7575,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7550,15 +7634,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299486,
-        "avg": 2.47,
+        "avg": 2.24,
         "low": 0.25,
-        "trend": 2.27,
-        "avg1": 1.73,
-        "avg7": 1.8,
-        "avg30": 2.25,
+        "trend": 2.32,
+        "avg1": 2.19,
+        "avg7": 2.2,
+        "avg30": 2.34,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 1.87,
@@ -7596,7 +7680,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7644,19 +7729,19 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299487,
-        "avg": 0.06,
+        "avg": 0.04,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.02,
+        "avg1": 0.03,
         "avg7": 0.04,
         "avg30": 0.05,
-        "avg-holo": 0.25,
+        "avg-holo": 0.26,
         "low-holo": 0.03,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.1,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.39,
         "avg7-holo": 0.24,
         "avg30-holo": 0.31
       },
@@ -7690,7 +7775,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7738,21 +7824,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299488,
-        "avg": 0.19,
+        "avg": 0.22,
         "low": 0.02,
-        "trend": 0.27,
-        "avg1": 1,
-        "avg7": 0.25,
-        "avg30": 0.17,
-        "avg-holo": 0.45,
+        "trend": 0.25,
+        "avg1": 0.19,
+        "avg7": 0.28,
+        "avg30": 0.19,
+        "avg-holo": 0.43,
         "low-holo": 0.1,
-        "trend-holo": 0.54,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.48,
-        "avg30-holo": 0.37
+        "trend-holo": 0.46,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.38,
+        "avg30-holo": 0.38
       },
       "tcgplayer": null
     }
@@ -7784,7 +7870,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7836,21 +7923,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299489,
-        "avg": 1.04,
+        "avg": 0.9,
         "low": 0.1,
-        "trend": 0.92,
-        "avg1": 0.44,
-        "avg7": 0.89,
-        "avg30": 0.78,
-        "avg-holo": 0.84,
+        "trend": 0.94,
+        "avg1": 0.99,
+        "avg7": 0.87,
+        "avg30": 0.76,
+        "avg-holo": 0.7,
         "low-holo": 0.15,
-        "trend-holo": 0.7,
-        "avg1-holo": 0.34,
-        "avg7-holo": 0.85,
-        "avg30-holo": 0.69
+        "trend-holo": 0.58,
+        "avg1-holo": 1.19,
+        "avg7-holo": 0.5,
+        "avg30-holo": 0.67
       },
       "tcgplayer": null
     }
@@ -7882,7 +7969,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -7941,15 +8029,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299490,
-        "avg": 4.16,
-        "low": 0.1,
-        "trend": 3.79,
-        "avg1": 1.5,
-        "avg7": 3.88,
-        "avg30": 4.09,
+        "avg": 4.07,
+        "low": 1,
+        "trend": 3.4,
+        "avg1": 4.59,
+        "avg7": 3.92,
+        "avg30": 4.06,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.82,
@@ -7987,7 +8075,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8035,16 +8124,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299491,
-        "avg": 0.08,
+        "avg": 0.16,
         "low": 0.02,
-        "trend": 0.1,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.06,
-        "avg-holo": 0.34,
+        "trend": 0.17,
+        "avg1": 0.04,
+        "avg7": 0.27,
+        "avg30": 0.09,
+        "avg-holo": 0.21,
         "low-holo": 0.02,
         "trend-holo": 0.4,
         "avg1-holo": 0.1,
@@ -8081,7 +8170,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8132,21 +8222,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299492,
-        "avg": 0.11,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.17,
-        "avg7": 0.13,
-        "avg30": 0.18,
-        "avg-holo": 0.24,
+        "trend": 0.02,
+        "avg1": 0.04,
+        "avg7": 0.09,
+        "avg30": 0.17,
+        "avg-holo": 0.22,
         "low-holo": 0.02,
-        "trend-holo": 0.26,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.27
+        "trend-holo": 0.23,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.25
       },
       "tcgplayer": null
     }
@@ -8178,7 +8268,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8219,21 +8310,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299493,
-        "avg": 0.08,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.1,
-        "avg7": 0.12,
+        "trend": 0.09,
+        "avg1": 0.08,
+        "avg7": 0.08,
         "avg30": 0.08,
-        "avg-holo": 0.6,
+        "avg-holo": 0.39,
         "low-holo": 0.03,
-        "trend-holo": 0.54,
-        "avg1-holo": 0.39,
-        "avg7-holo": 0.56,
-        "avg30-holo": 0.44
+        "trend-holo": 0.51,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.42
       },
       "tcgplayer": null
     }
@@ -8265,7 +8356,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8313,21 +8405,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299494,
         "avg": 0.16,
         "low": 0.02,
-        "trend": 0.25,
-        "avg1": 0.45,
-        "avg7": 0.14,
-        "avg30": 0.15,
-        "avg-holo": 0.63,
+        "trend": 0.08,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.14,
+        "avg-holo": 0.66,
         "low-holo": 0.1,
-        "trend-holo": 0.7,
-        "avg1-holo": 0.4,
-        "avg7-holo": 0.67,
-        "avg30-holo": 0.49
+        "trend-holo": 0.65,
+        "avg1-holo": 0.59,
+        "avg7-holo": 0.7,
+        "avg30-holo": 0.52
       },
       "tcgplayer": null
     }
@@ -8359,7 +8451,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8414,15 +8507,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 298802,
-        "avg": 3.67,
+        "avg": 4.23,
         "low": 1.2,
-        "trend": 5.04,
-        "avg1": 9.5,
-        "avg7": 4.86,
-        "avg30": 3.65,
+        "trend": 4.82,
+        "avg1": 3.79,
+        "avg7": 4.09,
+        "avg30": 3.86,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 2.81,
@@ -8460,7 +8553,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8509,20 +8603,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299495,
-        "avg": 0.53,
+        "avg": 0.69,
         "low": 0.05,
-        "trend": 0.73,
-        "avg1": 0.4,
-        "avg7": 0.59,
-        "avg30": 0.52,
-        "avg-holo": 0.54,
+        "trend": 0.58,
+        "avg1": 0.5,
+        "avg7": 0.7,
+        "avg30": 0.6,
+        "avg-holo": 0.53,
         "low-holo": 0.05,
-        "trend-holo": 0.61,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.51,
+        "trend-holo": 0.47,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.54,
         "avg30-holo": 0.64
       },
       "tcgplayer": null
@@ -8555,7 +8649,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8595,21 +8690,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299496,
-        "avg": 0.08,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.11,
-        "avg1": 0.45,
-        "avg7": 0.1,
-        "avg30": 0.07,
-        "avg-holo": 0.32,
+        "trend": 0.08,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.08,
+        "avg-holo": 0.38,
         "low-holo": 0.02,
-        "trend-holo": 0.36,
-        "avg1-holo": 0.18,
-        "avg7-holo": 0.3,
-        "avg30-holo": 0.35
+        "trend-holo": 0.45,
+        "avg1-holo": 0.6,
+        "avg7-holo": 0.36,
+        "avg30-holo": 0.34
       },
       "tcgplayer": null
     }
@@ -8641,7 +8736,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8688,21 +8784,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299497,
-        "avg": 0.08,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.08,
-        "avg7": 0.07,
-        "avg30": 0.07,
-        "avg-holo": 0.31,
-        "low-holo": 0.04,
-        "trend-holo": 0.35,
-        "avg1-holo": 0.2,
-        "avg7-holo": 0.35,
-        "avg30-holo": 0.34
+        "trend": 0.09,
+        "avg1": 0.03,
+        "avg7": 0.1,
+        "avg30": 0.08,
+        "avg-holo": 0.23,
+        "low-holo": 0.09,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.27,
+        "avg7-holo": 0.18,
+        "avg30-holo": 0.32
       },
       "tcgplayer": null
     }
@@ -8734,7 +8830,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8774,21 +8871,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299498,
-        "avg": 0.06,
+        "avg": 0.08,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "avg-holo": 0.27,
+        "trend": 0.1,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "avg-holo": 0.2,
         "low-holo": 0.02,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.29,
-        "avg30-holo": 0.31
+        "trend-holo": 0.25,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.32
       },
       "tcgplayer": null
     }
@@ -8820,7 +8917,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8872,21 +8970,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299499,
-        "avg": 0.2,
+        "avg": 0.23,
         "low": 0.02,
-        "trend": 0.24,
-        "avg1": 0.24,
-        "avg7": 0.26,
-        "avg30": 0.22,
-        "avg-holo": 0.41,
+        "trend": 0.21,
+        "avg1": 0.5,
+        "avg7": 0.2,
+        "avg30": 0.23,
+        "avg-holo": 0.39,
         "low-holo": 0.1,
-        "trend-holo": 0.46,
-        "avg1-holo": 0.95,
-        "avg7-holo": 0.51,
-        "avg30-holo": 0.43
+        "trend-holo": 0.49,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.42
       },
       "tcgplayer": null
     }
@@ -8918,7 +9016,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -8973,15 +9072,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299500,
-        "avg": 1.75,
-        "low": 0.48,
-        "trend": 1.75,
-        "avg1": 0.3,
-        "avg7": 1.47,
-        "avg30": 1.52,
+        "avg": 1.57,
+        "low": 0.35,
+        "trend": 1.69,
+        "avg1": 1.45,
+        "avg7": 1.6,
+        "avg30": 1.6,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 1.69,
@@ -9019,7 +9118,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9066,21 +9166,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299501,
-        "avg": 0.38,
+        "avg": 0.65,
         "low": 0.09,
-        "trend": 0.39,
-        "avg1": 0.57,
-        "avg7": 0.42,
-        "avg30": 0.43,
-        "avg-holo": 0.46,
+        "trend": 0.51,
+        "avg1": 0.92,
+        "avg7": 0.72,
+        "avg30": 0.53,
+        "avg-holo": 0.42,
         "low-holo": 0.09,
-        "trend-holo": 0.37,
-        "avg1-holo": 0.32,
-        "avg7-holo": 0.44,
-        "avg30-holo": 0.51
+        "trend-holo": 0.38,
+        "avg1-holo": 0.35,
+        "avg7-holo": 0.34,
+        "avg30-holo": 0.46
       },
       "tcgplayer": null
     }
@@ -9112,7 +9212,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9147,21 +9248,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299502,
-        "avg": 0.14,
+        "avg": 0.15,
         "low": 0.02,
-        "trend": 0.19,
-        "avg1": 0.57,
-        "avg7": 0.2,
-        "avg30": 0.12,
-        "avg-holo": 0.25,
+        "trend": 0.23,
+        "avg1": 0.99,
+        "avg7": 0.17,
+        "avg30": 0.15,
+        "avg-holo": 0.28,
         "low-holo": 0.02,
         "trend-holo": 0.27,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.27,
-        "avg30-holo": 0.24
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.23
       },
       "tcgplayer": null
     }
@@ -9193,7 +9294,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9234,21 +9336,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299503,
         "avg": 0.27,
         "low": 0.02,
-        "trend": 0.26,
-        "avg1": 0.2,
-        "avg7": 0.29,
-        "avg30": 0.17,
-        "avg-holo": 0.42,
+        "trend": 0.27,
+        "avg1": 0.35,
+        "avg7": 0.25,
+        "avg30": 0.19,
+        "avg-holo": 0.39,
         "low-holo": 0.09,
-        "trend-holo": 0.43,
-        "avg1-holo": 0.49,
-        "avg7-holo": 0.36,
-        "avg30-holo": 0.44
+        "trend-holo": 0.41,
+        "avg1-holo": 0.7,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.41
       },
       "tcgplayer": null
     }
@@ -9280,7 +9382,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9321,21 +9424,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299504,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.05,
-        "avg7": 0.07,
-        "avg30": 0.07,
-        "avg-holo": 0.41,
+        "trend": 0.05,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "avg-holo": 0.5,
         "low-holo": 0.05,
-        "trend-holo": 0.5,
+        "trend-holo": 0.44,
         "avg1-holo": 0.25,
-        "avg7-holo": 0.4,
-        "avg30-holo": 0.38
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.39
       },
       "tcgplayer": null
     }
@@ -9367,7 +9470,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9410,20 +9514,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299505,
         "avg": 0.07,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.11,
-        "avg-holo": 0.21,
+        "trend": 0.07,
+        "avg1": 0.12,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "avg-holo": 0.19,
         "low-holo": 0.05,
-        "trend-holo": 0.3,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.2,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.22,
         "avg30-holo": 0.33
       },
       "tcgplayer": null
@@ -9456,7 +9560,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9500,20 +9605,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299506,
-        "avg": 0.35,
+        "avg": 0.46,
         "low": 0.05,
-        "trend": 0.29,
-        "avg1": 0.4,
-        "avg7": 0.37,
-        "avg30": 0.47,
-        "avg-holo": 0.35,
+        "trend": 0.37,
+        "avg1": 0.05,
+        "avg7": 0.59,
+        "avg30": 0.46,
+        "avg-holo": 0.41,
         "low-holo": 0.1,
-        "trend-holo": 0.43,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.38,
+        "trend-holo": 0.38,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.41,
         "avg30-holo": 0.49
       },
       "tcgplayer": null
@@ -9546,7 +9651,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9594,20 +9700,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299507,
-        "avg": 0.06,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.04,
-        "avg7": 0.06,
+        "trend": 0.04,
+        "avg1": 0.07,
+        "avg7": 0.04,
         "avg30": 0.06,
-        "avg-holo": 0.26,
+        "avg-holo": 0.23,
         "low-holo": 0.03,
-        "trend-holo": 0.24,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.21,
+        "trend-holo": 0.26,
+        "avg1-holo": 0.39,
+        "avg7-holo": 0.23,
         "avg30-holo": 0.23
       },
       "tcgplayer": null
@@ -9640,7 +9746,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9691,20 +9798,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299508,
-        "avg": 0.07,
+        "avg": 0.08,
         "low": 0.02,
-        "trend": 0.07,
-        "avg1": 0.07,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "avg-holo": 0.23,
+        "trend": 0.08,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.09,
+        "avg-holo": 0.29,
         "low-holo": 0.03,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.17,
-        "avg7-holo": 0.29,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.27,
         "avg30-holo": 0.24
       },
       "tcgplayer": null
@@ -9737,7 +9844,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9783,17 +9891,17 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299509,
-        "avg": 0.05,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.05,
-        "avg-holo": 0.49,
-        "low-holo": 0.05,
+        "trend": 0.03,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "avg-holo": 0.16,
+        "low-holo": 0.1,
         "trend-holo": 0.27,
         "avg1-holo": 0.14,
         "avg7-holo": 0.44,
@@ -9829,7 +9937,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9870,20 +9979,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299510,
-        "avg": 0.06,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.02,
-        "avg7": 0.07,
+        "trend": 0.05,
+        "avg1": 0.03,
+        "avg7": 0.04,
         "avg30": 0.05,
-        "avg-holo": 0.2,
+        "avg-holo": 0.27,
         "low-holo": 0.02,
-        "trend-holo": 0.24,
-        "avg1-holo": 0.26,
-        "avg7-holo": 0.24,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.21,
         "avg30-holo": 0.23
       },
       "tcgplayer": null
@@ -9916,7 +10025,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -9958,20 +10068,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299511,
-        "avg": 0.04,
+        "avg": 0.06,
         "low": 0.02,
         "trend": 0.05,
-        "avg1": 0.06,
-        "avg7": 0.04,
-        "avg30": 0.07,
-        "avg-holo": 0.31,
+        "avg1": 0.02,
+        "avg7": 0.1,
+        "avg30": 0.08,
+        "avg-holo": 0.32,
         "low-holo": 0.05,
-        "trend-holo": 0.27,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.31,
+        "trend-holo": 0.31,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.3,
         "avg30-holo": 0.27
       },
       "tcgplayer": null
@@ -10004,7 +10114,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -10049,21 +10160,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299512,
         "avg": 0.11,
         "low": 0.02,
         "trend": 0.11,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.13,
-        "avg-holo": 0.88,
+        "avg1": 0.09,
+        "avg7": 0.13,
+        "avg30": 0.12,
+        "avg-holo": 0.89,
         "low-holo": 0.02,
-        "trend-holo": 0.62,
-        "avg1-holo": 0.29,
-        "avg7-holo": 0.61,
-        "avg30-holo": 0.39
+        "trend-holo": 0.73,
+        "avg1-holo": 0.89,
+        "avg7-holo": 0.71,
+        "avg30-holo": 0.42
       },
       "tcgplayer": null
     }
@@ -10095,7 +10206,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Pon 1 de tus Pokémon que tenga algún contador de daño sobre él y todas las cartas unidas a él en tu mano.",
@@ -10107,20 +10219,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299513,
-        "avg": 0.21,
+        "avg": 0.17,
         "low": 0.02,
-        "trend": 0.2,
-        "avg1": 0.19,
-        "avg7": 0.18,
-        "avg30": 0.19,
-        "avg-holo": 0.27,
+        "trend": 0.14,
+        "avg1": 0.35,
+        "avg7": 0.22,
+        "avg30": 0.21,
+        "avg-holo": 0.55,
         "low-holo": 0.05,
-        "trend-holo": 0.43,
-        "avg1-holo": 0.75,
-        "avg7-holo": 0.32,
+        "trend-holo": 0.52,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.35,
         "avg30-holo": 0.31
       },
       "tcgplayer": null
@@ -10153,7 +10265,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "El Pokémon de Fase 1 al que esté unida esta carta obtiene 40 PS más.",
@@ -10165,21 +10278,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299514,
-        "avg": 0.1,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.08,
+        "trend": 0.06,
         "avg1": 0.05,
-        "avg7": 0.11,
+        "avg7": 0.06,
         "avg30": 0.09,
-        "avg-holo": 0.36,
+        "avg-holo": 0.25,
         "low-holo": 0.02,
-        "trend-holo": 0.24,
+        "trend-holo": 0.26,
         "avg1-holo": 0.24,
         "avg7-holo": 0.28,
-        "avg30-holo": 0.25
+        "avg30-holo": 0.23
       },
       "tcgplayer": null
     }
@@ -10211,7 +10324,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cada jugador cambia su Pokémon Activo por 1 de sus Pokémon en Banca. Tu rival lo cambia primero. (Si algún jugador no tiene ningún Pokémon en Banca, no cambiará su Pokémon).",
@@ -10223,16 +10337,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299515,
-        "avg": 0.13,
+        "avg": 0.1,
         "low": 0.02,
-        "trend": 0.17,
-        "avg1": 0.08,
-        "avg7": 0.1,
-        "avg30": 0.15,
-        "avg-holo": 0.42,
+        "trend": 0.07,
+        "avg1": 0.09,
+        "avg7": 0.08,
+        "avg30": 0.13,
+        "avg-holo": 0.38,
         "low-holo": 0.02,
         "trend-holo": 0.42,
         "avg1-holo": 0.22,
@@ -10269,7 +10383,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. Si lo haces, cambia tu Pokémon Activo por 1 de tus Pokémon en Banca.",
@@ -10281,21 +10396,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 298778,
-        "avg": 1.91,
-        "low": 0.03,
-        "trend": 1.62,
-        "avg1": 2.5,
-        "avg7": 1.66,
-        "avg30": 2.11,
-        "avg-holo": 4.9,
-        "low-holo": 0.29,
-        "trend-holo": 3.45,
-        "avg1-holo": 3.4,
-        "avg7-holo": 4.12,
-        "avg30-holo": 3.3
+        "avg": 1.82,
+        "low": 0.02,
+        "trend": 1.22,
+        "avg1": 0.1,
+        "avg7": 1.32,
+        "avg30": 1.85,
+        "avg-holo": 2.83,
+        "low-holo": 0.2,
+        "trend-holo": 3.28,
+        "avg1-holo": 4,
+        "avg7-holo": 2.98,
+        "avg30-holo": 3.19
       },
       "tcgplayer": null
     }
@@ -10327,7 +10442,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Busca en tu baraja hasta 4 cartas de Energía Fire y únelas a 1 de tus Pokémon. Después, baraja las cartas de tu baraja. Tu turno termina.",
@@ -10339,20 +10455,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299516,
-        "avg": 0.15,
+        "avg": 0.14,
         "low": 0.02,
-        "trend": 0.11,
+        "trend": 0.09,
         "avg1": 0.05,
-        "avg7": 0.17,
+        "avg7": 0.09,
         "avg30": 0.12,
-        "avg-holo": 0.41,
-        "low-holo": 0.02,
-        "trend-holo": 0.3,
-        "avg1-holo": 0.18,
-        "avg7-holo": 0.38,
+        "avg-holo": 0.36,
+        "low-holo": 0.05,
+        "trend-holo": 0.28,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.39,
         "avg30-holo": 0.31
       },
       "tcgplayer": null
@@ -10385,7 +10501,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cura 50 puntos de daño a cada uno de tus Pokémon que tenga alguna Energía Water unida a él.",
@@ -10397,20 +10514,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299517,
         "avg": 0.08,
         "low": 0.02,
         "trend": 0.09,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.06,
-        "avg-holo": 0.35,
+        "avg1": 0.04,
+        "avg7": 0.11,
+        "avg30": 0.07,
+        "avg-holo": 0.38,
         "low-holo": 0.02,
-        "trend-holo": 0.36,
-        "avg1-holo": 0.75,
-        "avg7-holo": 0.35,
+        "trend-holo": 0.38,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.38,
         "avg30-holo": 0.32
       },
       "tcgplayer": null
@@ -10443,7 +10560,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "El Coste de Retirada de cada Pokémon Básico en juego (tanto tuyos como de tu rival) es de Colorless más.",
@@ -10455,20 +10573,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299518,
-        "avg": 0.09,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.06,
-        "avg7": 0.08,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.07,
         "avg30": 0.05,
-        "avg-holo": 0.25,
+        "avg-holo": 0.28,
         "low-holo": 0.09,
-        "trend-holo": 0.35,
-        "avg1-holo": 0.3,
-        "avg7-holo": 0.27,
+        "trend-holo": 0.36,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.25,
         "avg30-holo": 0.25
       },
       "tcgplayer": null
@@ -10501,7 +10619,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Busca en tu baraja hasta 2 Pokémon-GX, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja.",
@@ -10513,20 +10632,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299519,
-        "avg": 0.08,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "avg-holo": 0.31,
+        "trend": 0.05,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "avg-holo": 0.2,
         "low-holo": 0.04,
-        "trend-holo": 0.23,
-        "avg1-holo": 0.08,
-        "avg7-holo": 0.24,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.21,
         "avg30-holo": 0.25
       },
       "tcgplayer": null
@@ -10559,7 +10678,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Descarta 2 cartas de tu mano. Si lo haces, descarta 1 Energía de 1 de los Pokémon de tu rival.",
@@ -10571,15 +10691,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299520,
-        "avg": 0.13,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.13,
+        "trend": 0.11,
         "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.11,
+        "avg7": 0.08,
+        "avg30": 0.1,
         "avg-holo": 0.26,
         "low-holo": 0.08,
         "trend-holo": 0.29,
@@ -10617,7 +10737,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cada vez que algún jugador juegue 1 Pokémon de su mano para hacer evolucionar a 1 de sus Pokémon, pon 3 contadores de daño en ese Pokémon.",
@@ -10629,21 +10750,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299521,
-        "avg": 0.1,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.13,
-        "avg1": 0.08,
-        "avg7": 0.1,
-        "avg30": 0.06,
-        "avg-holo": 0.27,
+        "trend": 0.08,
+        "avg1": 0.04,
+        "avg7": 0.09,
+        "avg30": 0.07,
+        "avg-holo": 0.16,
         "low-holo": 0.03,
-        "trend-holo": 0.24,
-        "avg1-holo": 0.13,
-        "avg7-holo": 0.2,
-        "avg30-holo": 0.27
+        "trend-holo": 0.21,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.26
       },
       "tcgplayer": null
     }
@@ -10675,7 +10796,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Mira las 4 primeras cartas de tu baraja y vuelve a ponerlas en la parte superior de tu baraja en el orden que quieras o ponlas en tu baraja y barájalas todas.",
@@ -10717,7 +10839,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Descarta 2 cartas de tu mano. Si lo haces, roba 4 cartas.",
@@ -10729,20 +10852,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299523,
-        "avg": 0.09,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.1,
+        "trend": 0.08,
         "avg1": 0.04,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "avg-holo": 0.25,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "avg-holo": 0.24,
         "low-holo": 0.05,
-        "trend-holo": 0.2,
-        "avg1-holo": 0.06,
-        "avg7-holo": 0.22,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.21,
         "avg30-holo": 0.22
       },
       "tcgplayer": null
@@ -10775,7 +10898,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Lanza 1 moneda. Si sale cara, pon 1 de tus Pokémon y todas las cartas unidas a él en tu mano.",
@@ -10787,20 +10911,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299524,
-        "avg": 0.1,
+        "avg": 0.09,
         "low": 0.02,
-        "trend": 0.09,
-        "avg1": 0.02,
-        "avg7": 0.09,
+        "trend": 0.08,
+        "avg1": 0.04,
+        "avg7": 0.1,
         "avg30": 0.08,
-        "avg-holo": 0.54,
-        "low-holo": 0.02,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.07,
-        "avg7-holo": 0.34,
+        "avg-holo": 0.11,
+        "low-holo": 0.03,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.3,
         "avg30-holo": 0.27
       },
       "tcgplayer": null
@@ -10833,7 +10957,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Elige 1 carta aleatoria de la mano de tu rival. Tu rival enseña esa carta. Si es una carta de Partidario, descártala.",
@@ -10845,20 +10970,20 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299525,
         "avg": 0.06,
         "low": 0.02,
         "trend": 0.07,
         "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.06,
         "avg-holo": 0.23,
         "low-holo": 0.03,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.22,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.21,
         "avg30-holo": 0.22
       },
       "tcgplayer": null
@@ -10891,7 +11016,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "El Pokémon al que esté unida esta carta no tiene ninguna Debilidad.",
@@ -10903,16 +11029,16 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299526,
-        "avg": 0.08,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.08,
-        "avg1": 0.1,
-        "avg7": 0.07,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.06,
         "avg30": 0.06,
-        "avg-holo": 0.22,
+        "avg-holo": 0.14,
         "low-holo": 0.02,
         "trend-holo": 0.16,
         "avg1-holo": 0.08,
@@ -10949,7 +11075,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cada jugador cuenta las cartas de su mano, pone esas cartas en su baraja y las baraja todas, y después roba ese mismo número de cartas.",
@@ -10961,21 +11088,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299527,
-        "avg": 0.07,
+        "avg": 0.06,
         "low": 0.02,
         "trend": 0.07,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.05,
-        "avg-holo": 0.28,
+        "avg1": 0.25,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.24,
         "low-holo": 0.02,
         "trend-holo": 0.22,
-        "avg1-holo": 0.26,
-        "avg7-holo": 0.3,
-        "avg30-holo": 0.23
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.22
       },
       "tcgplayer": null
     }
@@ -11007,7 +11134,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Si el Pokémon al que está unida esta carta es tu Pokémon Activo y queda Fuera de Combate por el daño de un ataque de tu rival, mueve hasta 3 cartas de Energía Básica de ese Pokémon a 1 de tus Pokémon en Banca.",
@@ -11019,21 +11147,21 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299528,
-        "avg": 0.17,
+        "avg": 0.12,
         "low": 0.02,
-        "trend": 0.18,
-        "avg1": 0.02,
-        "avg7": 0.17,
-        "avg30": 0.12,
-        "avg-holo": 0.32,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.14,
+        "avg-holo": 0.35,
         "low-holo": 0.02,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.19,
-        "avg7-holo": 0.32,
-        "avg30-holo": 0.32
+        "trend-holo": 0.37,
+        "avg1-holo": 0.75,
+        "avg7-holo": 0.37,
+        "avg30-holo": 0.33
       },
       "tcgplayer": null
     }
@@ -11065,7 +11193,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11120,14 +11249,14 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299529,
-        "avg": 2.98,
+        "avg": 2.8,
         "low": 1.44,
-        "trend": 3.47,
-        "avg1": 4,
-        "avg7": 3.39,
+        "trend": 2.96,
+        "avg1": 3.45,
+        "avg7": 2.7,
         "avg30": 3.56,
         "avg-holo": null,
         "low-holo": null,
@@ -11166,7 +11295,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11214,15 +11344,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299530,
-        "avg": 4.14,
+        "avg": 4.09,
         "low": 1.5,
-        "trend": 4.08,
-        "avg1": 4.99,
-        "avg7": 4.26,
-        "avg30": 4.03,
+        "trend": 3.73,
+        "avg1": 2.29,
+        "avg7": 4.11,
+        "avg30": 4,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 5.41,
@@ -11260,7 +11390,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11322,15 +11453,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299531,
-        "avg": 12.18,
+        "avg": 11.14,
         "low": 2,
-        "trend": 11.44,
-        "avg1": 8.98,
-        "avg7": 12.15,
-        "avg30": 9.79,
+        "trend": 11.62,
+        "avg1": 9,
+        "avg7": 10.27,
+        "avg30": 9.5,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 11.28,
@@ -11368,7 +11499,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11420,15 +11552,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299532,
         "avg": 4.4,
         "low": 1.45,
-        "trend": 5.19,
-        "avg1": 4.63,
-        "avg7": 4.71,
-        "avg30": 4.74,
+        "trend": 5.53,
+        "avg1": 4.75,
+        "avg7": 5.13,
+        "avg30": 4.92,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 4.67,
@@ -11466,7 +11598,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11511,15 +11644,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299533,
-        "avg": 4.09,
-        "low": 1.5,
-        "trend": 3.62,
-        "avg1": 1.37,
-        "avg7": 3.73,
-        "avg30": 4.1,
+        "avg": 3.75,
+        "low": 1.3,
+        "trend": 3.52,
+        "avg1": 3.49,
+        "avg7": 3.8,
+        "avg30": 4.09,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 5.87,
@@ -11557,7 +11690,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11610,15 +11744,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299534,
-        "avg": 2.83,
+        "avg": 3.7,
         "low": 1.5,
-        "trend": 2.43,
-        "avg1": 1.49,
-        "avg7": 2.85,
-        "avg30": 4.33,
+        "trend": 2.98,
+        "avg1": 3.9,
+        "avg7": 3.34,
+        "avg30": 4.01,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 4.96,
@@ -11656,7 +11790,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11712,15 +11847,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299535,
-        "avg": 5.83,
+        "avg": 6.23,
         "low": 1.89,
-        "trend": 6.4,
-        "avg1": 6.99,
-        "avg7": 5.73,
-        "avg30": 5.94,
+        "trend": 6.51,
+        "avg1": 5.5,
+        "avg7": 6.27,
+        "avg30": 5.81,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 4.95,
@@ -11758,7 +11893,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11813,15 +11949,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299537,
-        "avg": 4.54,
+        "avg": 3.95,
         "low": 1.99,
-        "trend": 4.43,
-        "avg1": 3,
-        "avg7": 4.39,
-        "avg30": 4.42,
+        "trend": 4.4,
+        "avg1": 4.88,
+        "avg7": 4.23,
+        "avg30": 4.47,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 6.76,
@@ -11859,7 +11995,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -11910,15 +12047,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299570,
-        "avg": 3.99,
+        "avg": 4.3,
         "low": 1.5,
-        "trend": 4.14,
-        "avg1": 3,
-        "avg7": 3.91,
-        "avg30": 3.91,
+        "trend": 4.41,
+        "avg1": 8,
+        "avg7": 4.35,
+        "avg30": 4.09,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 4.38,
@@ -11956,7 +12093,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12014,15 +12152,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299536,
-        "avg": 4.85,
+        "avg": 14.43,
         "low": 1,
-        "trend": 8.34,
-        "avg1": 24.99,
-        "avg7": 7.12,
-        "avg30": 4.61,
+        "trend": 7.16,
+        "avg1": 2,
+        "avg7": 7.01,
+        "avg30": 4.57,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 4.66,
@@ -12060,7 +12198,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12119,15 +12258,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299571,
-        "avg": 13.87,
+        "avg": 13.85,
         "low": 3,
-        "trend": 13.63,
+        "trend": 12.41,
         "avg1": 12,
-        "avg7": 13.51,
-        "avg30": 11.33,
+        "avg7": 14.01,
+        "avg30": 11.73,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 8.73,
@@ -12165,7 +12304,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12220,14 +12360,14 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299538,
-        "avg": 10.28,
-        "low": 3.97,
-        "trend": 11.87,
-        "avg1": 18.99,
-        "avg7": 11.02,
+        "avg": 10.32,
+        "low": 3.96,
+        "trend": 10.15,
+        "avg1": 8,
+        "avg7": 10.45,
         "avg30": 10.25,
         "avg-holo": null,
         "low-holo": null,
@@ -12266,7 +12406,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12321,15 +12462,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299539,
-        "avg": 5.42,
-        "low": 1.79,
-        "trend": 5.24,
-        "avg1": 4.97,
-        "avg7": 5.5,
-        "avg30": 4.59,
+        "avg": 5.1,
+        "low": 1,
+        "trend": 4.98,
+        "avg1": 3,
+        "avg7": 4.52,
+        "avg30": 4.69,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 5.36,
@@ -12367,7 +12508,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Pon 1 de tus Pokémon que tenga algún contador de daño sobre él y todas las cartas unidas a él en tu mano.",
@@ -12379,15 +12521,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299540,
-        "avg": 22.61,
-        "low": 6.95,
-        "trend": 22.54,
-        "avg1": 24.99,
-        "avg7": 23.4,
-        "avg30": 23.93,
+        "avg": 27.35,
+        "low": 6.85,
+        "trend": 24.84,
+        "avg1": 39.99,
+        "avg7": 27.64,
+        "avg30": 25.54,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 34.32,
@@ -12425,7 +12567,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo. Si lo haces, cambia tu Pokémon Activo por 1 de tus Pokémon en Banca.",
@@ -12437,15 +12580,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299541,
-        "avg": 14.59,
+        "avg": 14.44,
         "low": 4,
-        "trend": 15.27,
-        "avg1": 15,
-        "avg7": 14.31,
-        "avg30": 12.68,
+        "trend": 15.69,
+        "avg1": 5.99,
+        "avg7": 15.12,
+        "avg30": 13.26,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 10.59,
@@ -12483,7 +12626,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Busca en tu baraja hasta 4 cartas de Energía Fire y únelas a 1 de tus Pokémon. Después, baraja las cartas de tu baraja. Tu turno termina.",
@@ -12495,15 +12639,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299542,
-        "avg": 5.94,
+        "avg": 5.96,
         "low": 1.75,
-        "trend": 6.28,
-        "avg1": 7.89,
-        "avg7": 5.97,
-        "avg30": 6.09,
+        "trend": 5.87,
+        "avg1": 3.99,
+        "avg7": 4.92,
+        "avg30": 5.99,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 7.49,
@@ -12541,7 +12685,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Descarta 2 cartas de tu mano. Si lo haces, descarta 1 Energía de 1 de los Pokémon de tu rival.",
@@ -12553,15 +12698,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299543,
-        "avg": 12.84,
+        "avg": 11.55,
         "low": 2.2,
-        "trend": 12.73,
+        "trend": 10.02,
         "avg1": 8.49,
-        "avg7": 12.84,
-        "avg30": 11.89,
+        "avg7": 11.04,
+        "avg30": 11.85,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 9.54,
@@ -12599,7 +12744,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Descarta 2 cartas de tu mano. Si lo haces, roba 4 cartas.",
@@ -12611,15 +12757,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299544,
-        "avg": 6.33,
+        "avg": 6.38,
         "low": 2.5,
-        "trend": 6.33,
-        "avg1": 6.95,
-        "avg7": 6.13,
-        "avg30": 7.44,
+        "trend": 6,
+        "avg1": 5,
+        "avg7": 7.05,
+        "avg30": 7.49,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 7,
@@ -12657,7 +12803,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cada jugador cuenta las cartas de su mano, pone esas cartas en su baraja y las baraja todas, y después roba ese mismo número de cartas.",
@@ -12669,15 +12816,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299545,
-        "avg": 21.75,
+        "avg": 26.36,
         "low": 2.99,
-        "trend": 21.87,
-        "avg1": 17.4,
-        "avg7": 21.53,
-        "avg30": 22,
+        "trend": 29.87,
+        "avg1": 11.99,
+        "avg7": 29.22,
+        "avg30": 23.48,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 10.89,
@@ -12715,7 +12862,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12770,10 +12918,10 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299546,
-        "avg": 9.4,
+        "avg": 12.63,
         "low": 2.45,
         "trend": 11.12,
         "avg1": 9,
@@ -12816,7 +12964,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12864,15 +13013,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299547,
-        "avg": 6.32,
-        "low": 1.4,
-        "trend": 7.98,
-        "avg1": 5.74,
-        "avg7": 8.06,
-        "avg30": 7.68,
+        "avg": 5.31,
+        "low": 1.1,
+        "trend": 7.82,
+        "avg1": 3.77,
+        "avg7": 8.03,
+        "avg30": 7.49,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 12.57,
@@ -12910,7 +13059,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -12967,15 +13117,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299548,
-        "avg": 215.73,
+        "avg": 201.97,
         "low": 58.95,
-        "trend": 581.51,
-        "avg1": 3700,
-        "avg7": 725.2,
-        "avg30": 466.51,
+        "trend": 529.82,
+        "avg1": 350,
+        "avg7": 635.54,
+        "avg30": 455.81,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 329.31,
@@ -13013,7 +13163,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13065,15 +13216,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299549,
-        "avg": 8.22,
+        "avg": 8.27,
         "low": 3,
-        "trend": 9.41,
-        "avg1": 8,
-        "avg7": 8.18,
-        "avg30": 10.6,
+        "trend": 9.42,
+        "avg1": 13.8,
+        "avg7": 7.66,
+        "avg30": 10.63,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 13.46,
@@ -13111,7 +13262,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13156,15 +13308,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299550,
-        "avg": 10.5,
+        "avg": 10.79,
         "low": 2.5,
-        "trend": 9.96,
-        "avg1": 9,
-        "avg7": 9.21,
-        "avg30": 10.56,
+        "trend": 9.75,
+        "avg1": 8.99,
+        "avg7": 10.28,
+        "avg30": 10.28,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 11.89,
@@ -13202,7 +13354,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13255,15 +13408,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299551,
-        "avg": 10.09,
+        "avg": 8.79,
         "low": 3,
-        "trend": 10.12,
-        "avg1": 9.49,
-        "avg7": 9.65,
-        "avg30": 9.31,
+        "trend": 9.87,
+        "avg1": 9,
+        "avg7": 8.22,
+        "avg30": 8.96,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 13.48,
@@ -13301,7 +13454,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13357,15 +13511,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299552,
-        "avg": 17.11,
+        "avg": 16.32,
         "low": 4.49,
-        "trend": 16.05,
-        "avg1": 14,
-        "avg7": 16.35,
-        "avg30": 14.45,
+        "trend": 15.51,
+        "avg1": 8,
+        "avg7": 14.63,
+        "avg30": 14.2,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 18.25,
@@ -13403,7 +13557,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13458,15 +13613,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299553,
-        "avg": 10.9,
+        "avg": 7.87,
         "low": 3,
-        "trend": 10.5,
-        "avg1": 4,
-        "avg7": 9.99,
-        "avg30": 11.76,
+        "trend": 9.36,
+        "avg1": 8.99,
+        "avg7": 8.63,
+        "avg30": 11.59,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 12.61,
@@ -13504,7 +13659,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13555,11 +13711,11 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299554,
-        "avg": 9.39,
-        "low": 4.99,
+        "avg": 14.49,
+        "low": 3.5,
         "trend": 12.13,
         "avg1": 19,
         "avg7": 11.64,
@@ -13601,7 +13757,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13659,15 +13816,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299555,
-        "avg": 10.55,
+        "avg": 9.66,
         "low": 2,
-        "trend": 11.08,
-        "avg1": 10.55,
-        "avg7": 10.14,
-        "avg30": 9.25,
+        "trend": 10.86,
+        "avg1": 6.9,
+        "avg7": 10,
+        "avg30": 9.2,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 17.07,
@@ -13705,7 +13862,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13764,15 +13922,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299556,
-        "avg": 22.33,
+        "avg": 21.15,
         "low": 5,
-        "trend": 20.64,
-        "avg1": 8,
-        "avg7": 20.62,
-        "avg30": 21.15,
+        "trend": 20.92,
+        "avg1": 15.99,
+        "avg7": 20.86,
+        "avg30": 20.73,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 25.73,
@@ -13810,7 +13968,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13865,15 +14024,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299557,
-        "avg": 32.25,
-        "low": 10.95,
-        "trend": 33.74,
-        "avg1": 28.99,
-        "avg7": 32.25,
-        "avg30": 25.32,
+        "avg": 32.51,
+        "low": 8,
+        "trend": 33.47,
+        "avg1": 26,
+        "avg7": 31.96,
+        "avg30": 25.92,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 25.71,
@@ -13911,7 +14070,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "dexId": [
@@ -13966,15 +14126,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299558,
         "avg": 11.7,
         "low": 2.3,
-        "trend": 14.26,
-        "avg1": 14.3,
-        "avg7": 11.89,
-        "avg30": 12.57,
+        "trend": 14.34,
+        "avg1": 18.89,
+        "avg7": 12.76,
+        "avg30": 12.88,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 13.09,
@@ -14012,7 +14172,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "El Pokémon de Fase 1 al que esté unida esta carta obtiene 40 PS más.",
@@ -14024,15 +14185,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299559,
-        "avg": 7.48,
-        "low": 2.5,
-        "trend": 7.15,
-        "avg1": 6.9,
+        "avg": 7.47,
+        "low": 1.99,
+        "trend": 7.06,
+        "avg1": 7.99,
         "avg7": 7.55,
-        "avg30": 7.69,
+        "avg30": 7.72,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 9.44,
@@ -14070,7 +14231,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Los ataques del Pokémon al que esté unida esta carta hacen 30 puntos de daño más al Pokémon-GX Activo o Pokémon-EX Activo de tu rival (antes de aplicar Debilidad y Resistencia).",
@@ -14082,15 +14244,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299560,
-        "avg": 4.2,
+        "avg": 4.47,
         "low": 2,
-        "trend": 4.67,
-        "avg1": 3.8,
-        "avg7": 4.51,
-        "avg30": 4.71,
+        "trend": 4.35,
+        "avg1": 3.9,
+        "avg7": 4.47,
+        "avg30": 4.65,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 9.06,
@@ -14128,7 +14290,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Cada jugador cambia su Pokémon Activo por 1 de sus Pokémon en Banca. Tu rival lo cambia primero. (Si algún jugador no tiene ningún Pokémon en Banca, no cambiará su Pokémon).",
@@ -14140,15 +14303,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299561,
         "avg": 15.28,
         "low": 3.99,
-        "trend": 15.11,
-        "avg1": 14,
-        "avg7": 14.28,
-        "avg30": 17.16,
+        "trend": 14.38,
+        "avg1": 15,
+        "avg7": 14.71,
+        "avg30": 16.93,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 16.88,
@@ -14186,7 +14349,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Mueve 1 Energía de 1 de tus Pokémon en Banca a tu Pokémon Activo.",
@@ -14198,15 +14362,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299562,
-        "avg": 5.72,
-        "low": 2.7,
-        "trend": 4.41,
-        "avg1": 5.64,
-        "avg7": 6.05,
-        "avg30": 5.8,
+        "avg": 5.25,
+        "low": 2.94,
+        "trend": 4.01,
+        "avg1": 5.25,
+        "avg7": 5.93,
+        "avg30": 5.77,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 6.29,
@@ -14244,27 +14408,28 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
-    "effect": "Elige 1 opción:• Pon 1 Pokémon de tu pila de descartes en tu mano.• Pon 3 Pokémon de tu pila de descartes en tu baraja y baraja todas las cartas.",
+    "effect": "Elige 1 opción:\n\n• Pon 1 Pokémon de tu pila de descartes en tu mano.\n• Pon 3 Pokémon de tu pila de descartes en tu baraja y baraja todas las cartas.",
     "trainerType": "Objeto",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-04-11T21:45:46+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299563,
-        "avg": 8.84,
-        "low": 3,
-        "trend": 8.11,
-        "avg1": 9.99,
-        "avg7": 8.95,
-        "avg30": 8.17,
+        "avg": 8.96,
+        "low": 4.75,
+        "trend": 8.33,
+        "avg1": 9.73,
+        "avg7": 9.45,
+        "avg30": 8.16,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 8.69,
@@ -14302,7 +14467,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "effect": "Lanza 1 moneda. Si sale cara, pon 1 de tus Pokémon y todas las cartas unidas a él en tu mano.",
@@ -14314,15 +14480,15 @@
     "updated": "2026-03-17T23:24:59Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299564,
-        "avg": 5.35,
+        "avg": 6.36,
         "low": 2,
-        "trend": 7.06,
-        "avg1": 2.37,
-        "avg7": 5.93,
-        "avg30": 6.36,
+        "trend": 7.25,
+        "avg1": 8,
+        "avg7": 6.64,
+        "avg30": 6.42,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 6.97,
@@ -14359,7 +14525,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "stage": "Básico",
@@ -14372,15 +14539,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299565,
-        "avg": 14.24,
-        "low": 7,
-        "trend": 15.31,
-        "avg1": 14.38,
-        "avg7": 13.34,
-        "avg30": 14.78,
+        "avg": 10.69,
+        "low": 8,
+        "trend": 13.83,
+        "avg1": 7,
+        "avg7": 12.03,
+        "avg30": 14.75,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 28.85,
@@ -14417,7 +14584,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "stage": "Básico",
@@ -14430,15 +14598,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299566,
-        "avg": 24.82,
+        "avg": 24.12,
         "low": 6.99,
-        "trend": 22.08,
-        "avg1": 25,
-        "avg7": 17.36,
-        "avg30": 22.88,
+        "trend": 21.45,
+        "avg1": 19,
+        "avg7": 17.06,
+        "avg30": 22.93,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 43.34,
@@ -14475,7 +14643,8 @@
     "variants_detailed": [
       {
         "type": "normal",
-        "size": "estándar"
+        "size": "estándar",
+        "variantId": "generated"
       }
     ],
     "types": [
@@ -14491,15 +14660,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-04-15T00:44:06.000Z",
+        "updated": "2026-04-29T00:43:28.000Z",
         "unit": "EUR",
         "idProduct": 299567,
-        "avg": 40.23,
-        "low": 12,
-        "trend": 41.02,
-        "avg1": 48.51,
-        "avg7": 41.2,
-        "avg30": 37.83,
+        "avg": 26.84,
+        "low": 15,
+        "trend": 37.5,
+        "avg1": 12,
+        "avg7": 36.2,
+        "avg30": 37.32,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 31.03,

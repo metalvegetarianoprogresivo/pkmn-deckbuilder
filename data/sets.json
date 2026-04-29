@@ -84,20 +84,6 @@
     }
   },
   {
-    "id": "ex10",
-    "name": "EX Fuerzas Ocultas",
-    "serie": {
-      "id": "ex",
-      "name": "ex"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol",
-    "cardCount": {
-      "official": 115,
-      "total": 115
-    }
-  },
-  {
     "id": "exu",
     "name": "EX Fuerzas Ocultas Unown",
     "serie": {
@@ -109,6 +95,20 @@
     "cardCount": {
       "official": 28,
       "total": 28
+    }
+  },
+  {
+    "id": "ex10",
+    "name": "EX Fuerzas Ocultas",
+    "serie": {
+      "id": "ex",
+      "name": "ex"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol",
+    "cardCount": {
+      "official": 115,
+      "total": 115
     }
   },
   {
@@ -126,20 +126,6 @@
     }
   },
   {
-    "id": "tk-ex-latia",
-    "name": "Kit de Entrenador EX (Latias)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol",
-    "cardCount": {
-      "official": 10,
-      "total": 10
-    }
-  },
-  {
     "id": "tk-ex-latio",
     "name": "Kit de Entrenador EX (Latios)",
     "serie": {
@@ -154,17 +140,17 @@
     }
   },
   {
-    "id": "tk-ex-p",
-    "name": "Kit de Entrenador EX (Plusle)",
+    "id": "tk-ex-latia",
+    "name": "Kit de Entrenador EX (Latias)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol",
     "cardCount": {
-      "official": 12,
-      "total": 12
+      "official": 10,
+      "total": 10
     }
   },
   {
@@ -176,6 +162,20 @@
     },
     "logo": null,
     "symbol": null,
+    "cardCount": {
+      "official": 12,
+      "total": 12
+    }
+  },
+  {
+    "id": "tk-ex-p",
+    "name": "Kit de Entrenador EX (Plusle)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol",
     "cardCount": {
       "official": 12,
       "total": 12
@@ -266,20 +266,6 @@
     }
   },
   {
-    "id": "tk-xy-n",
-    "name": "Kit de Entrenador XY (Noivern)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-sy",
     "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
     "serie": {
@@ -294,14 +280,14 @@
     }
   },
   {
-    "id": "tk-xy-w",
-    "name": "Kit de Entrenador XY (Wigglytuff)",
+    "id": "tk-xy-n",
+    "name": "Kit de Entrenador XY (Noivern)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -316,6 +302,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-w",
+    "name": "Kit de Entrenador XY (Wigglytuff)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -350,20 +350,6 @@
     }
   },
   {
-    "id": "tk-xy-p",
-    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-su",
     "name": "Kit de Entrenador XY (Suicune)",
     "serie": {
@@ -372,6 +358,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-p",
+    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -406,20 +406,6 @@
     }
   },
   {
-    "id": "dpp",
-    "name": "DP Black Star Promos",
-    "serie": {
-      "id": "dp",
-      "name": "Diamante & Perla"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol",
-    "cardCount": {
-      "official": 56,
-      "total": 56
-    }
-  },
-  {
     "id": "dp1",
     "name": "Diamante & Perla",
     "serie": {
@@ -434,6 +420,20 @@
     }
   },
   {
+    "id": "dpp",
+    "name": "DP Black Star Promos",
+    "serie": {
+      "id": "dp",
+      "name": "Diamante & Perla"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol",
+    "cardCount": {
+      "official": 56,
+      "total": 56
+    }
+  },
+  {
     "id": "dp2",
     "name": "Tesoros Misteriosos",
     "serie": {
@@ -443,8 +443,8 @@
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol",
     "cardCount": {
-      "official": 122,
-      "total": 122
+      "official": 123,
+      "total": 123
     }
   },
   {
@@ -1764,20 +1764,6 @@
     }
   },
   {
-    "id": "sv10.5w",
-    "name": "Llama Blanca",
-    "serie": {
-      "id": "sv",
-      "name": "Escarlata y Púrpura"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
-    "cardCount": {
-      "official": 86,
-      "total": 173
-    }
-  },
-  {
     "id": "sv10.5b",
     "name": "Fulgor Negro",
     "serie": {
@@ -1792,17 +1778,17 @@
     }
   },
   {
-    "id": "P-A",
-    "name": "Promo-A",
+    "id": "sv10.5w",
+    "name": "Llama Blanca",
     "serie": {
-      "id": "tcgp",
-      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
     },
     "logo": null,
-    "symbol": null,
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5w/symbol",
     "cardCount": {
-      "official": 0,
-      "total": 92
+      "official": 86,
+      "total": 173
     }
   },
   {
@@ -1817,6 +1803,20 @@
     "cardCount": {
       "official": 226,
       "total": 286
+    }
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "serie": {
+      "id": "tcgp",
+      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 92
     }
   },
   {
@@ -1984,7 +1984,7 @@
     "symbol": null,
     "cardCount": {
       "official": 0,
-      "total": 28
+      "total": 37
     }
   },
   {
