@@ -17,20 +17,35 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670466,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.17,
+            "avg1": 0.02,
+            "avg7": 0.15,
+            "avg30": 0.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
@@ -45,16 +60,13 @@
       {
         "cost": [
           "Incolora"
-        ],
-        "name": "Llamar a la Familia",
-        "effect": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+        ]
       },
       {
         "cost": [
-          "Planta",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Picadura",
         "damage": 20
       }
     ],
@@ -69,9 +81,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670466,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.02,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -93,45 +121,57 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670467,
+            "avg": 0.36,
+            "low": 0.02,
+            "trend": 0.4,
+            "avg1": 0.4,
+            "avg7": 0.33,
+            "avg30": 0.34,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       722
     ],
-    "hp": 60,
+    "hp": 50,
     "types": [
       "Planta"
     ],
     "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
     "attacks": [
       {
         "cost": [
+          "Incolora",
+          "Incolora",
           "Incolora"
-        ],
-        "name": "Picotazo",
-        "damage": 10
-      },
-      {
-        "cost": [
-          "Planta",
-          "Incolora"
-        ],
-        "name": "Hoja Afilada",
-        "damage": 20
+        ]
       }
     ],
     "weaknesses": [
@@ -145,9 +185,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670467,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.4,
+        "avg1": 0.4,
+        "avg7": 0.33,
+        "avg30": 0.34,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -169,20 +225,35 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670468,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.13,
+            "avg1": 0.12,
+            "avg7": 0.29,
+            "avg30": 0.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
@@ -198,14 +269,6 @@
         "cost": [
           "Incolora"
         ],
-        "name": "Canto",
-        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
-      },
-      {
-        "cost": [
-          "Planta"
-        ],
-        "name": "Hoja Afilada",
         "damage": 10
       }
     ],
@@ -220,9 +283,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670468,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.12,
+        "avg7": 0.29,
+        "avg30": 0.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -244,26 +323,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670469,
+            "avg": 0.34,
+            "low": 0.02,
+            "trend": 0.38,
+            "avg1": 0.2,
+            "avg7": 0.38,
+            "avg30": 0.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       58
     ],
-    "hp": 70,
+    "hp": 80,
     "types": [
       "Fuego"
     ],
@@ -271,18 +365,16 @@
     "attacks": [
       {
         "cost": [
-          "Fuego"
-        ],
-        "name": "Roer",
-        "damage": 10
+          "Incolora"
+        ]
       },
       {
         "cost": [
           "Fuego",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Llamarada",
-        "damage": 20
+        "damage": 30
       }
     ],
     "weaknesses": [
@@ -296,9 +388,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670469,
+        "avg": 0.34,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.2,
+        "avg7": 0.38,
+        "avg30": 0.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -320,26 +428,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670470,
+            "avg": 0.29,
+            "low": 0.02,
+            "trend": 0.29,
+            "avg1": 0.21,
+            "avg7": 0.36,
+            "avg30": 0.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       494
     ],
-    "hp": 70,
+    "hp": 60,
     "types": [
       "Fuego"
     ],
@@ -349,17 +472,7 @@
         "cost": [
           "Fuego"
         ],
-        "name": "V-Llama",
-        "damage": 10
-      },
-      {
-        "cost": [
-          "Fuego",
-          "Incolora"
-        ],
-        "name": "Giro Fuego",
-        "effect": "Descarta 2 Energías de este Pokémon.",
-        "damage": 50
+        "damage": 30
       }
     ],
     "weaknesses": [
@@ -373,9 +486,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670470,
+        "avg": 0.29,
+        "low": 0.02,
+        "trend": 0.29,
+        "avg1": 0.21,
+        "avg7": 0.36,
+        "avg30": 0.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -397,26 +526,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670471,
+            "avg": 0.15,
+            "low": 0.02,
+            "trend": 0.29,
+            "avg1": 0.42,
+            "avg7": 0.26,
+            "avg30": 0.16,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       131
     ],
-    "hp": 100,
+    "hp": 110,
     "types": [
       "Agua"
     ],
@@ -424,35 +568,47 @@
     "attacks": [
       {
         "cost": [
-          "Agua"
-        ],
-        "name": "Surf",
-        "damage": 20
+          "Incolora"
+        ]
       },
       {
         "cost": [
           "Agua",
-          "Agua",
           "Incolora"
         ],
-        "name": "Hidrobomba",
-        "damage": 70
+        "damage": 50
       }
     ],
     "weaknesses": [
       {
-        "type": "Rayo",
+        "type": "Metálica",
         "value": "×2"
       }
     ],
-    "retreat": 2,
+    "retreat": 1,
     "legal": {
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670471,
+        "avg": 0.15,
+        "low": 0.02,
+        "trend": 0.29,
+        "avg1": 0.42,
+        "avg7": 0.26,
+        "avg30": 0.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -474,20 +630,35 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670472,
+            "avg": 1.98,
+            "low": 0.02,
+            "trend": 1.74,
+            "avg1": 1.53,
+            "avg7": 1.97,
+            "avg30": 2,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
@@ -501,14 +672,13 @@
     "attacks": [
       {
         "cost": [
-          "Incolora"
-        ],
-        "name": "Roer",
-        "damage": 10
+          "Rayo"
+        ]
       },
       {
         "cost": [
           "Rayo",
+          "Incolora",
           "Incolora"
         ],
         "name": "Bola Voltio",
@@ -526,9 +696,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670472,
+        "avg": 1.98,
+        "low": 0.02,
+        "trend": 1.74,
+        "avg1": 1.53,
+        "avg7": 1.97,
+        "avg30": 2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -550,26 +736,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670473,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.1,
+            "avg1": 0.06,
+            "avg7": 0.12,
+            "avg30": 0.08,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       170
     ],
-    "hp": 60,
+    "hp": 70,
     "types": [
       "Rayo"
     ],
@@ -577,18 +778,10 @@
     "attacks": [
       {
         "cost": [
-          "Incolora"
+          "Rayo"
         ],
-        "name": "Bofetada Gentil",
+        "name": "Bola Voltio",
         "damage": 10
-      },
-      {
-        "cost": [
-          "Rayo",
-          "Incolora"
-        ],
-        "name": "Patada Eléctrica",
-        "damage": 20
       }
     ],
     "weaknesses": [
@@ -602,9 +795,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670473,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.06,
+        "avg7": 0.12,
+        "avg30": 0.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -626,26 +835,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670474,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.15,
+            "avg1": 0.46,
+            "avg7": 0.17,
+            "avg30": 0.1,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       180
     ],
-    "hp": 90,
+    "hp": 100,
     "types": [
       "Rayo"
     ],
@@ -654,19 +878,11 @@
     "attacks": [
       {
         "cost": [
-          "Rayo"
-        ],
-        "name": "Electrochoque",
-        "damage": 20
-      },
-      {
-        "cost": [
           "Rayo",
-          "Incolora",
           "Incolora"
         ],
         "name": "Bola Voltio",
-        "damage": 60
+        "damage": 50
       }
     ],
     "weaknesses": [
@@ -680,9 +896,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670474,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.15,
+        "avg1": 0.46,
+        "avg7": 0.17,
+        "avg30": 0.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -704,20 +936,35 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670475,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.2,
+            "avg1": 0.02,
+            "avg7": 0.2,
+            "avg30": 0.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
@@ -728,13 +975,17 @@
       "Rayo"
     ],
     "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
     "attacks": [
       {
         "cost": [
-          "Incolora"
+          "Rayo"
         ],
-        "name": "Onda Trueno",
-        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+        "damage": 10
       }
     ],
     "weaknesses": [
@@ -748,9 +999,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670475,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.02,
+        "avg7": 0.2,
+        "avg30": 0.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -772,26 +1039,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670476,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.12,
+            "avg1": 0.02,
+            "avg7": 0.12,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       742
     ],
-    "hp": 40,
+    "hp": 30,
     "types": [
       "Psíquico"
     ],
@@ -801,7 +1083,6 @@
         "cost": [
           "Incolora"
         ],
-        "name": "Viento Feérico",
         "damage": 10
       }
     ],
@@ -816,9 +1097,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670476,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.12,
+        "avg1": 0.02,
+        "avg7": 0.12,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -840,26 +1137,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670477,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.08,
+            "avg1": 0.1,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       760
     ],
-    "hp": 120,
+    "hp": 130,
     "types": [
       "Incolora"
     ],
@@ -868,26 +1180,23 @@
     "attacks": [
       {
         "cost": [
-          "Incolora",
+          "Lucha",
           "Incolora"
         ],
-        "name": "Embestida",
-        "damage": 30
+        "damage": 40
       },
       {
         "cost": [
-          "Incolora",
-          "Incolora",
+          "Lucha",
+          "Lucha",
           "Incolora"
         ],
-        "name": "Machada",
-        "effect": "Descarta la primera carta de la baraja de tu rival.",
-        "damage": 100
+        "damage": 130
       }
     ],
     "weaknesses": [
       {
-        "type": "Lucha",
+        "type": "Psíquico",
         "value": "×2"
       }
     ],
@@ -896,9 +1205,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670477,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.1,
+        "avg7": 0.11,
+        "avg30": 0.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -920,26 +1245,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670478,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.24,
+            "avg1": 0.46,
+            "avg7": 0.2,
+            "avg30": 0.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       675
     ],
-    "hp": 130,
+    "hp": 140,
     "types": [
       "Oscura"
     ],
@@ -949,19 +1289,19 @@
       {
         "cost": [
           "Oscura",
+          "Oscura",
           "Incolora"
         ],
-        "name": "Puñetazo",
-        "damage": 40
+        "damage": 90
       },
       {
         "cost": [
           "Oscura",
-          "Incolora",
+          "Oscura",
+          "Oscura",
           "Incolora"
         ],
-        "name": "Martillazo",
-        "damage": 90
+        "damage": 150
       }
     ],
     "weaknesses": [
@@ -970,14 +1310,30 @@
         "value": "×2"
       }
     ],
-    "retreat": 3,
+    "retreat": 4,
     "legal": {
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670478,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.46,
+        "avg7": 0.2,
+        "avg30": 0.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -998,16 +1354,36 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": false,
-      "normal": true,
+      "holo": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "básico",
+        "type": "holo",
         "size": "estándar",
-        "variantId": "endfynwn4n10gzq"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670479,
+            "avg": 0.16,
+            "low": 0.02,
+            "trend": 0.2,
+            "avg1": 0.17,
+            "avg7": 0.13,
+            "avg30": 0.16,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
@@ -1023,25 +1399,14 @@
         "cost": [
           "Incolora"
         ],
-        "name": "Pulso Dragón",
-        "effect": "Descarta la primera carta de tu baraja.",
-        "damage": 20
+        "damage": 30
       },
       {
         "cost": [
-          "Incolora",
-          "Incolora",
-          "Incolora"
+          "Agua",
+          "Lucha"
         ],
-        "name": "Ciclón de Poder",
-        "effect": "Mueve 1 Energía de este Pokémon a 1 de tus Pokémon en Banca.",
-        "damage": 80
-      }
-    ],
-    "weaknesses": [
-      {
-        "type": "Lucha",
-        "value": "×2"
+        "damage": "70+"
       }
     ],
     "retreat": 2,
@@ -1049,9 +1414,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-04-14T21:54:07Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670479,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.17,
+        "avg7": 0.13,
+        "avg30": 0.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   },
@@ -1073,26 +1454,41 @@
     "variants": {
       "firstEdition": false,
       "holo": true,
-      "normal": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
-        "size": "estándar",
-        "variantId": "generated"
-      },
-      {
         "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-05-15T00:43:51.000Z",
+            "unit": "EUR",
+            "idProduct": 670480,
+            "avg": 0.27,
+            "low": 0.02,
+            "trend": 0.33,
+            "avg1": 0.15,
+            "avg7": 0.37,
+            "avg30": 0.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
       }
     ],
     "dexId": [
       235
     ],
-    "hp": 70,
+    "hp": 80,
     "types": [
       "Incolora"
     ],
@@ -1100,18 +1496,10 @@
     "attacks": [
       {
         "cost": [
-          "Incolora"
-        ],
-        "name": "Esquema",
-        "effect": "Roba 1 carta."
-      },
-      {
-        "cost": [
           "Incolora",
           "Incolora"
         ],
-        "name": "Golpe de Cola",
-        "damage": 30
+        "damage": "30+"
       }
     ],
     "weaknesses": [
@@ -1125,9 +1513,25 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-03-25T09:27:47Z",
+    "updated": "2026-04-19T20:57:59Z",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-05-15T00:43:51.000Z",
+        "unit": "EUR",
+        "idProduct": 670480,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.33,
+        "avg1": 0.15,
+        "avg7": 0.37,
+        "avg30": 0.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
       "tcgplayer": null
     }
   }
