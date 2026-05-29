@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "tk-ex-m",
-    "name": "Kit de Entrenador EX (Ninun)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 12,
-      "total": 12
-    }
-  },
-  {
     "id": "tk-ex-p",
     "name": "Kit de Entrenador EX (Plusle)",
     "serie": {
@@ -182,14 +168,14 @@
     }
   },
   {
-    "id": "tk-dp-m",
-    "name": "Kit de Entrenador Diamante & Perla (Manaphy)",
+    "id": "tk-ex-m",
+    "name": "Kit de Entrenador EX (Ninun)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+    "symbol": null,
     "cardCount": {
       "official": 12,
       "total": 12
@@ -207,6 +193,20 @@
     "cardCount": {
       "official": 11,
       "total": 11
+    }
+  },
+  {
+    "id": "tk-dp-m",
+    "name": "Kit de Entrenador Diamante & Perla (Manaphy)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+    "cardCount": {
+      "official": 12,
+      "total": 12
     }
   },
   {
@@ -266,20 +266,6 @@
     }
   },
   {
-    "id": "tk-xy-sy",
-    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-n",
     "name": "Kit de Entrenador XY (Noivern)",
     "serie": {
@@ -294,14 +280,14 @@
     }
   },
   {
-    "id": "tk-xy-b",
-    "name": "Kit de Entrenador XY (Bisharp)",
+    "id": "tk-xy-sy",
+    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -316,6 +302,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-b",
+    "name": "Kit de Entrenador XY (Bisharp)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -378,20 +378,6 @@
     }
   },
   {
-    "id": "tk-sm-r",
-    "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-sm-l",
     "name": "Kit de Entrenador Sol y Luna (Lycanroc)",
     "serie": {
@@ -400,6 +386,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-sm-r",
+    "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -840,20 +840,6 @@
     }
   },
   {
-    "id": "xya",
-    "name": "Cartas alternativas",
-    "serie": {
-      "id": "xy",
-      "name": "XY"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 6,
-      "total": 6
-    }
-  },
-  {
     "id": "xy1",
     "name": "XY",
     "serie": {
@@ -865,6 +851,20 @@
     "cardCount": {
       "official": 146,
       "total": 146
+    }
+  },
+  {
+    "id": "xya",
+    "name": "Cartas alternativas",
+    "serie": {
+      "id": "xy",
+      "name": "XY"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 6,
+      "total": 6
     }
   },
   {
@@ -1036,20 +1036,6 @@
     }
   },
   {
-    "id": "smp",
-    "name": "SL Cartas de promoción",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
-    "cardCount": {
-      "official": 248,
-      "total": 248
-    }
-  },
-  {
     "id": "sm1",
     "name": "Sol y Luna",
     "serie": {
@@ -1061,6 +1047,20 @@
     "cardCount": {
       "official": 149,
       "total": 163
+    }
+  },
+  {
+    "id": "smp",
+    "name": "SL Cartas de promoción",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol",
+    "cardCount": {
+      "official": 248,
+      "total": 248
     }
   },
   {
@@ -1540,17 +1540,17 @@
     }
   },
   {
-    "id": "sve",
-    "name": "Escarlata y Púrpura Energía",
+    "id": "sv01",
+    "name": "Escarlata y Púrpura",
     "serie": {
       "id": "sv",
       "name": "Escarlata y Púrpura"
     },
-    "logo": null,
-    "symbol": null,
+    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
     "cardCount": {
-      "official": 24,
-      "total": 24
+      "official": 198,
+      "total": 258
     }
   },
   {
@@ -1568,17 +1568,17 @@
     }
   },
   {
-    "id": "sv01",
-    "name": "Escarlata y Púrpura",
+    "id": "sve",
+    "name": "Escarlata y Púrpura Energía",
     "serie": {
       "id": "sv",
       "name": "Escarlata y Púrpura"
     },
-    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
+    "logo": null,
+    "symbol": null,
     "cardCount": {
-      "official": 198,
-      "total": 258
+      "official": 24,
+      "total": 24
     }
   },
   {
@@ -1792,20 +1792,6 @@
     }
   },
   {
-    "id": "A1",
-    "name": "Genes Formidables",
-    "serie": {
-      "id": "tcgp",
-      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tcgp/A1/symbol",
-    "cardCount": {
-      "official": 226,
-      "total": 286
-    }
-  },
-  {
     "id": "P-A",
     "name": "Promo-A",
     "serie": {
@@ -1817,6 +1803,20 @@
     "cardCount": {
       "official": 0,
       "total": 92
+    }
+  },
+  {
+    "id": "A1",
+    "name": "Genes Formidables",
+    "serie": {
+      "id": "tcgp",
+      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tcgp/A1/symbol",
+    "cardCount": {
+      "official": 226,
+      "total": 286
     }
   },
   {
@@ -1960,20 +1960,6 @@
     }
   },
   {
-    "id": "me01",
-    "name": "Megaevolución",
-    "serie": {
-      "id": "me",
-      "name": "Megaevolución"
-    },
-    "logo": "https://assets.tcgdex.net/es/me/me01/logo",
-    "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol",
-    "cardCount": {
-      "official": 132,
-      "total": 188
-    }
-  },
-  {
     "id": "mep",
     "name": "MEP Black Star Promos",
     "serie": {
@@ -1985,6 +1971,20 @@
     "cardCount": {
       "official": 0,
       "total": 52
+    }
+  },
+  {
+    "id": "me01",
+    "name": "Megaevolución",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": "https://assets.tcgdex.net/es/me/me01/logo",
+    "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol",
+    "cardCount": {
+      "official": 132,
+      "total": 188
     }
   },
   {
@@ -2027,6 +2027,20 @@
     "cardCount": {
       "official": 88,
       "total": 124
+    }
+  },
+  {
+    "id": "me04",
+    "name": "Caos Creciente",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": "https://assets.tcgdex.net/es/me/me04/logo",
+    "symbol": "https://assets.tcgdex.net/univ/me/me04/symbol",
+    "cardCount": {
+      "official": 86,
+      "total": 122
     }
   }
 ]

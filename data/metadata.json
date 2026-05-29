@@ -1,11 +1,22 @@
 {
-  "lastUpdated": "2026-05-15T08:10:19.683Z",
+  "lastUpdated": "2026-05-29T09:33:03.107Z",
   "lang": "es",
   "source": "https://api.tcgdex.net/v2",
-  "buildDurationMin": 43.1,
-  "totalSets": 145,
-  "totalCards": 15042,
-  "standardLegalCards": 2950,
-  "expandedLegalCards": 13493,
-  "errors": 0
+  "buildDurationMin": 113.9,
+  "totalSets": 146,
+  "totalCards": 60,
+  "standardLegalCards": 24,
+  "expandedLegalCards": 24,
+  "errors": 9,
+  "errorDetails": [
+    "tk-xy-n-1: fetch failed",
+    "tk-xy-n-2: fetch failed",
+    "tk-xy-n-3: fetch failed",
+    "tk-xy-n-4: fetch failed",
+    "tk-xy-n-5: fetch failed",
+    "tk-xy-n-6: fetch failed",
+    "tk-xy-n-7: fetch failed",
+    "tk-xy-n-8: HTTP 502: Bad Gateway",
+    "tk-xy-n-9: HTTP 502: Bad Gateway"
+  ]
 }
