@@ -154,20 +154,6 @@
     }
   },
   {
-    "id": "tk-ex-p",
-    "name": "Kit de Entrenador EX (Plusle)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol",
-    "cardCount": {
-      "official": 12,
-      "total": 12
-    }
-  },
-  {
     "id": "tk-ex-m",
     "name": "Kit de Entrenador EX (Ninun)",
     "serie": {
@@ -176,6 +162,20 @@
     },
     "logo": null,
     "symbol": null,
+    "cardCount": {
+      "official": 12,
+      "total": 12
+    }
+  },
+  {
+    "id": "tk-ex-p",
+    "name": "Kit de Entrenador EX (Plusle)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol",
     "cardCount": {
       "official": 12,
       "total": 12
@@ -266,20 +266,6 @@
     }
   },
   {
-    "id": "tk-xy-n",
-    "name": "Kit de Entrenador XY (Noivern)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-sy",
     "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
     "serie": {
@@ -294,14 +280,14 @@
     }
   },
   {
-    "id": "tk-xy-w",
-    "name": "Kit de Entrenador XY (Wigglytuff)",
+    "id": "tk-xy-n",
+    "name": "Kit de Entrenador XY (Noivern)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -322,14 +308,14 @@
     }
   },
   {
-    "id": "tk-xy-latia",
-    "name": "Kit de Entrenador XY (Latias)",
+    "id": "tk-xy-w",
+    "name": "Kit de Entrenador XY (Wigglytuff)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -344,6 +330,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-latia",
+    "name": "Kit de Entrenador XY (Latias)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -840,20 +840,6 @@
     }
   },
   {
-    "id": "xy1",
-    "name": "XY",
-    "serie": {
-      "id": "xy",
-      "name": "XY"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol",
-    "cardCount": {
-      "official": 146,
-      "total": 146
-    }
-  },
-  {
     "id": "xya",
     "name": "Cartas alternativas",
     "serie": {
@@ -865,6 +851,20 @@
     "cardCount": {
       "official": 6,
       "total": 6
+    }
+  },
+  {
+    "id": "xy1",
+    "name": "XY",
+    "serie": {
+      "id": "xy",
+      "name": "XY"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol",
+    "cardCount": {
+      "official": 146,
+      "total": 146
     }
   },
   {
@@ -1036,20 +1036,6 @@
     }
   },
   {
-    "id": "sm1",
-    "name": "Sol y Luna",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol",
-    "cardCount": {
-      "official": 149,
-      "total": 163
-    }
-  },
-  {
     "id": "smp",
     "name": "SL Cartas de promoción",
     "serie": {
@@ -1061,6 +1047,20 @@
     "cardCount": {
       "official": 248,
       "total": 248
+    }
+  },
+  {
+    "id": "sm1",
+    "name": "Sol y Luna",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol",
+    "cardCount": {
+      "official": 149,
+      "total": 163
     }
   },
   {
@@ -1246,20 +1246,6 @@
     }
   },
   {
-    "id": "sm115",
-    "name": "Destinos Ocultos",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol",
-    "cardCount": {
-      "official": 68,
-      "total": 68
-    }
-  },
-  {
     "id": "sma",
     "name": "Destinos Ocultos Tesoro Brillante",
     "serie": {
@@ -1271,6 +1257,20 @@
     "cardCount": {
       "official": 94,
       "total": 94
+    }
+  },
+  {
+    "id": "sm115",
+    "name": "Destinos Ocultos",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol",
+    "cardCount": {
+      "official": 68,
+      "total": 68
     }
   },
   {
@@ -1554,20 +1554,6 @@
     }
   },
   {
-    "id": "svp",
-    "name": "SVP Black Star Promos",
-    "serie": {
-      "id": "sv",
-      "name": "Escarlata y Púrpura"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 225,
-      "total": 225
-    }
-  },
-  {
     "id": "sve",
     "name": "Escarlata y Púrpura Energía",
     "serie": {
@@ -1579,6 +1565,20 @@
     "cardCount": {
       "official": 24,
       "total": 24
+    }
+  },
+  {
+    "id": "svp",
+    "name": "SVP Black Star Promos",
+    "serie": {
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 225,
+      "total": 225
     }
   },
   {
@@ -1960,20 +1960,6 @@
     }
   },
   {
-    "id": "mep",
-    "name": "MEP Black Star Promos",
-    "serie": {
-      "id": "me",
-      "name": "Megaevolución"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 0,
-      "total": 52
-    }
-  },
-  {
     "id": "me01",
     "name": "Megaevolución",
     "serie": {
@@ -1985,6 +1971,20 @@
     "cardCount": {
       "official": 132,
       "total": 188
+    }
+  },
+  {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 52
     }
   },
   {
