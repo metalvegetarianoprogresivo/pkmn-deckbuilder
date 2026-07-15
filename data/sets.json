@@ -182,20 +182,6 @@
     }
   },
   {
-    "id": "tk-dp-l",
-    "name": "Kit de Entrenador Diamante & Perla (Lucario)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
-    "cardCount": {
-      "official": 11,
-      "total": 11
-    }
-  },
-  {
     "id": "tk-dp-m",
     "name": "Kit de Entrenador Diamante & Perla (Manaphy)",
     "serie": {
@@ -210,17 +196,17 @@
     }
   },
   {
-    "id": "tk-hs-r",
-    "name": "Kit de Entrenador HeatGold & SoulSilver (Raichu)",
+    "id": "tk-dp-l",
+    "name": "Kit de Entrenador Diamante & Perla (Lucario)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-hs-r/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
     "cardCount": {
-      "official": 30,
-      "total": 30
+      "official": 11,
+      "total": 11
     }
   },
   {
@@ -232,6 +218,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-hs-g/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-hs-r",
+    "name": "Kit de Entrenador HeatGold & SoulSilver (Raichu)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-hs-r/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -294,20 +294,6 @@
     }
   },
   {
-    "id": "tk-xy-b",
-    "name": "Kit de Entrenador XY (Bisharp)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-w",
     "name": "Kit de Entrenador XY (Wigglytuff)",
     "serie": {
@@ -322,14 +308,14 @@
     }
   },
   {
-    "id": "tk-xy-latio",
-    "name": "Kit de Entrenador XY (Latios)",
+    "id": "tk-xy-b",
+    "name": "Kit de Entrenador XY (Bisharp)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -350,14 +336,14 @@
     }
   },
   {
-    "id": "tk-xy-su",
-    "name": "Kit de Entrenador XY (Suicune)",
+    "id": "tk-xy-latio",
+    "name": "Kit de Entrenador XY (Latios)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -378,14 +364,14 @@
     }
   },
   {
-    "id": "tk-sm-l",
-    "name": "Kit de Entrenador Sol y Luna (Lycanroc)",
+    "id": "tk-xy-su",
+    "name": "Kit de Entrenador XY (Suicune)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -406,17 +392,17 @@
     }
   },
   {
-    "id": "dp1",
-    "name": "Diamante & Perla",
+    "id": "tk-sm-l",
+    "name": "Kit de Entrenador Sol y Luna (Lycanroc)",
     "serie": {
-      "id": "dp",
-      "name": "Diamante & Perla"
+      "id": "tk",
+      "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol",
     "cardCount": {
-      "official": 130,
-      "total": 130
+      "official": 30,
+      "total": 30
     }
   },
   {
@@ -431,6 +417,20 @@
     "cardCount": {
       "official": 56,
       "total": 56
+    }
+  },
+  {
+    "id": "dp1",
+    "name": "Diamante & Perla",
+    "serie": {
+      "id": "dp",
+      "name": "Diamante & Perla"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol",
+    "cardCount": {
+      "official": 130,
+      "total": 130
     }
   },
   {
@@ -1246,20 +1246,6 @@
     }
   },
   {
-    "id": "sma",
-    "name": "Destinos Ocultos Tesoro Brillante",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
-    "cardCount": {
-      "official": 94,
-      "total": 94
-    }
-  },
-  {
     "id": "sm115",
     "name": "Destinos Ocultos",
     "serie": {
@@ -1271,6 +1257,20 @@
     "cardCount": {
       "official": 68,
       "total": 68
+    }
+  },
+  {
+    "id": "sma",
+    "name": "Destinos Ocultos Tesoro Brillante",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol",
+    "cardCount": {
+      "official": 94,
+      "total": 94
     }
   },
   {
@@ -1372,6 +1372,20 @@
     }
   },
   {
+    "id": "swsh4.5sv",
+    "name": "Destinos Brillantes Tesoro Brillante",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 122,
+      "total": 122
+    }
+  },
+  {
     "id": "swsh4.5",
     "name": "Destinos Brillantes",
     "serie": {
@@ -1382,7 +1396,7 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol",
     "cardCount": {
       "official": 72,
-      "total": 195
+      "total": 73
     }
   },
   {
@@ -1466,7 +1480,21 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol",
     "cardCount": {
       "official": 172,
-      "total": 216
+      "total": 186
+    }
+  },
+  {
+    "id": "swsh9.5tg",
+    "name": "Astros Brillantes Galería de Entrenador",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 30,
+      "total": 30
     }
   },
   {
@@ -1498,6 +1526,20 @@
     }
   },
   {
+    "id": "swsh11.5tg",
+    "name": "Origen Perdido Galería de Entrenador",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
     "id": "swsh11",
     "name": "Origen Perdido",
     "serie": {
@@ -1508,7 +1550,7 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol",
     "cardCount": {
       "official": 196,
-      "total": 247
+      "total": 217
     }
   },
   {
@@ -1522,7 +1564,35 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol",
     "cardCount": {
       "official": 195,
-      "total": 245
+      "total": 215
+    }
+  },
+  {
+    "id": "swsh12.5tg",
+    "name": "Tempestad Plateada Galería de Entrenador",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "swsh12.5gg",
+    "name": "Cenit Supremo Galería de Galar",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 70,
+      "total": 70
     }
   },
   {
@@ -1536,21 +1606,7 @@
     "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol",
     "cardCount": {
       "official": 159,
-      "total": 230
-    }
-  },
-  {
-    "id": "sv01",
-    "name": "Escarlata y Púrpura",
-    "serie": {
-      "id": "sv",
-      "name": "Escarlata y Púrpura"
-    },
-    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
-    "cardCount": {
-      "official": 198,
-      "total": 258
+      "total": 160
     }
   },
   {
@@ -1579,6 +1635,20 @@
     "cardCount": {
       "official": 225,
       "total": 225
+    }
+  },
+  {
+    "id": "sv01",
+    "name": "Escarlata y Púrpura",
+    "serie": {
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
+    },
+    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
+    "cardCount": {
+      "official": 198,
+      "total": 258
     }
   },
   {
@@ -1764,20 +1834,6 @@
     }
   },
   {
-    "id": "sv10.5b",
-    "name": "Fulgor Negro",
-    "serie": {
-      "id": "sv",
-      "name": "Escarlata y Púrpura"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
-    "cardCount": {
-      "official": 86,
-      "total": 172
-    }
-  },
-  {
     "id": "sv10.5w",
     "name": "Llama Blanca",
     "serie": {
@@ -1792,17 +1848,17 @@
     }
   },
   {
-    "id": "P-A",
-    "name": "Promo-A",
+    "id": "sv10.5b",
+    "name": "Fulgor Negro",
     "serie": {
-      "id": "tcgp",
-      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
     },
     "logo": null,
-    "symbol": null,
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
     "cardCount": {
-      "official": 0,
-      "total": 92
+      "official": 86,
+      "total": 172
     }
   },
   {
@@ -1817,6 +1873,20 @@
     "cardCount": {
       "official": 226,
       "total": 286
+    }
+  },
+  {
+    "id": "P-A",
+    "name": "Promo-A",
+    "serie": {
+      "id": "tcgp",
+      "name": "Juego de Cartas Coleccionables Pokémon Pocket"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 92
     }
   },
   {
@@ -1960,6 +2030,20 @@
     }
   },
   {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 60
+    }
+  },
+  {
     "id": "me01",
     "name": "Megaevolución",
     "serie": {
@@ -1971,20 +2055,6 @@
     "cardCount": {
       "official": 132,
       "total": 188
-    }
-  },
-  {
-    "id": "mep",
-    "name": "MEP Black Star Promos",
-    "serie": {
-      "id": "me",
-      "name": "Megaevolución"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 0,
-      "total": 52
     }
   },
   {

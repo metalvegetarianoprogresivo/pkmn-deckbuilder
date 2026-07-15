@@ -1,0 +1,7340 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG01",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "GG01",
+    "name": "Voltorb de Hisui",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691880,
+            "avg": 3.14,
+            "low": 1,
+            "trend": 3.76,
+            "avg1": 2.8,
+            "avg7": 3.22,
+            "avg30": 3.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      100
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "name": "Carga Feliz",
+        "effect": "Puedes usar este ataque solo si sales segundo, y solo durante tu primer turno. Elige hasta 2 de tus Pokémon en Banca. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía Básica y únela a ese Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Apisonar",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691880,
+        "avg": 3.14,
+        "low": 1,
+        "trend": 3.76,
+        "avg1": 2.8,
+        "avg7": 3.22,
+        "avg30": 3.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG02",
+    "illustrator": "Nurikabe",
+    "localId": "GG02",
+    "name": "Kricketune",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691881,
+            "avg": 6.16,
+            "low": 3.6,
+            "trend": 6.57,
+            "avg1": 6.06,
+            "avg7": 6.5,
+            "avg30": 6.15,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      402
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Kricketot",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Melodía Rebosante",
+        "effect": "Tus Pokémon Grass en juego, excepto los Kricketune, obtienen 40 PS más. No puedes aplicar más de 1 habilidad Melodía Rebosante a la vez."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Cuchillada",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691881,
+        "avg": 6.16,
+        "low": 3.6,
+        "trend": 6.57,
+        "avg1": 6.06,
+        "avg7": 6.5,
+        "avg30": 6.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG03",
+    "illustrator": "Saya Tsuruta",
+    "localId": "GG03",
+    "name": "Magmortar",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691882,
+            "avg": 11.79,
+            "low": 5.5,
+            "trend": 12.46,
+            "avg1": 10.57,
+            "avg7": 11.72,
+            "avg30": 11.93,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      467
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Magmar",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Megapuño",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Rayoexplosión",
+        "effect": "Si Electivire está en tu Banca, este ataque hace 120 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691882,
+        "avg": 11.79,
+        "low": 5.5,
+        "trend": 12.46,
+        "avg1": 10.57,
+        "avg7": 11.72,
+        "avg30": 11.93,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG04",
+    "illustrator": "Tomokazu Komiya",
+    "localId": "GG04",
+    "name": "Oricorio",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691883,
+            "avg": 3.27,
+            "low": 1.95,
+            "trend": 3.92,
+            "avg1": 3.97,
+            "avg7": 3.43,
+            "avg30": 3.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      741
+    ],
+    "hp": 90,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Lección de Fervor",
+        "effect": "Los ataques de los Pokémon de tu rival hacen 20 puntos de daño menos a todos tus Pokémon Golpe Fusión (después de aplicar Debilidad y Resistencia). No puedes aplicar más de 1 habilidad Lección de Fervor a la vez."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Gotas Brillantes",
+        "effect": "Pon 5 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691883,
+        "avg": 3.27,
+        "low": 1.95,
+        "trend": 3.92,
+        "avg1": 3.97,
+        "avg7": 3.43,
+        "avg30": 3.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG05",
+    "illustrator": "zig",
+    "localId": "GG05",
+    "name": "Lapras",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691884,
+            "avg": 31.13,
+            "low": 6.49,
+            "trend": 28.56,
+            "avg1": 33.19,
+            "avg7": 27.53,
+            "avg30": 31.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Congelación Embravecida",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque de los Pokémon de tu rival durante su último turno, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691884,
+        "avg": 31.13,
+        "low": 6.49,
+        "trend": 28.56,
+        "avg1": 33.19,
+        "avg7": 27.53,
+        "avg30": 31.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG06",
+    "illustrator": "Taira Akitsu",
+    "localId": "GG06",
+    "name": "Manaphy",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691885,
+            "avg": 7.04,
+            "low": 2.49,
+            "trend": 6.5,
+            "avg1": 5.75,
+            "avg7": 6.8,
+            "avg30": 7.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      490
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Velo de Olas",
+        "effect": "Evita todo el daño infligido a tus Pokémon en Banca por ataques de los Pokémon de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691885,
+        "avg": 7.04,
+        "low": 2.49,
+        "trend": 6.5,
+        "avg1": 5.75,
+        "avg7": 6.8,
+        "avg30": 7.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG07",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "GG07",
+    "name": "Keldeo",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691886,
+            "avg": 14.96,
+            "low": 6.5,
+            "trend": 15.36,
+            "avg1": 15,
+            "avg7": 15.15,
+            "avg30": 15.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      647
+    ],
+    "hp": 110,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Patada Destrucción",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Fuerza Lineal",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de tus Pokémon en Banca.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691886,
+        "avg": 14.96,
+        "low": 6.5,
+        "trend": 15.36,
+        "avg1": 15,
+        "avg7": 15.15,
+        "avg30": 15.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG08",
+    "illustrator": "Mina Nakai",
+    "localId": "GG08",
+    "name": "Electivire",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691887,
+            "avg": 10.04,
+            "low": 2.89,
+            "trend": 10.23,
+            "avg1": 9.1,
+            "avg7": 10.24,
+            "avg30": 9.16,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      466
+    ],
+    "hp": 140,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Electabuzz",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Rayo Explosivo",
+        "effect": "Si alguno de tus Magmortar en Banca tiene algún contador de daño sobre él, este ataque hace 90 puntos de daño más.",
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Corriente de Alta Tensión",
+        "effect": "Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691887,
+        "avg": 10.04,
+        "low": 2.89,
+        "trend": 10.23,
+        "avg1": 9.1,
+        "avg7": 10.24,
+        "avg30": 9.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG09",
+    "illustrator": "Nelnal",
+    "localId": "GG09",
+    "name": "Toxtricity",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691888,
+            "avg": 2.59,
+            "low": 1,
+            "trend": 2.85,
+            "avg1": 3.26,
+            "avg7": 2.99,
+            "avg30": 2.61,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      849
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Toxel",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Bajonazo Total",
+        "effect": "Si todos tus Pokémon en juego son Pokémon Golpe Fusión, los Pokémon VMAX en juego de tu rival tienen 30 PS menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Rayo de Cabeza",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691888,
+        "avg": 2.59,
+        "low": 1,
+        "trend": 2.85,
+        "avg1": 3.26,
+        "avg7": 2.99,
+        "avg30": 2.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG10",
+    "illustrator": "Ryota Murayama",
+    "localId": "GG10",
+    "name": "Mew",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691889,
+            "avg": 68.12,
+            "low": 20,
+            "trend": 62.91,
+            "avg1": 69.67,
+            "avg7": 62.16,
+            "avg30": 64.72,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cola Misteriosa",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes mirar las 6 primeras cartas de tu baraja, enseñar 1 carta de Objeto que encuentres entre ellas y ponerla en tu mano. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Psi",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691889,
+        "avg": 68.12,
+        "low": 20,
+        "trend": 62.91,
+        "avg1": 69.67,
+        "avg7": 62.16,
+        "avg30": 64.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG11",
+    "illustrator": "sowsow",
+    "localId": "GG11",
+    "name": "Lunatone",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691890,
+            "avg": 8,
+            "low": 4.99,
+            "trend": 8.19,
+            "avg1": 7.5,
+            "avg7": 7.65,
+            "avg30": 8.04,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      337
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Ciclorrobo",
+        "effect": "Descarta 1 carta de tu mano. Si lo haces, roba 3 cartas."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Lunaquinesis",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a este Pokémon.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691890,
+        "avg": 8,
+        "low": 4.99,
+        "trend": 8.19,
+        "avg1": 7.5,
+        "avg7": 7.65,
+        "avg30": 8.04,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG12",
+    "illustrator": "Scav",
+    "localId": "GG12",
+    "name": "Deoxys",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691891,
+            "avg": 20.49,
+            "low": 10,
+            "trend": 20.22,
+            "avg1": 18.8,
+            "avg7": 17.15,
+            "avg30": 20.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      386
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Impulso Fotónico",
+        "effect": "Si este Pokémon tiene alguna Energía Golpe Fusión unida a él, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691891,
+        "avg": 20.49,
+        "low": 10,
+        "trend": 20.22,
+        "avg1": 18.8,
+        "avg7": 17.15,
+        "avg30": 20.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG13",
+    "illustrator": "Haruko Ichikawa",
+    "localId": "GG13",
+    "name": "Diancie",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691892,
+            "avg": 3.94,
+            "low": 1.4,
+            "trend": 3.78,
+            "avg1": 3.33,
+            "avg7": 3.36,
+            "avg30": 3.86,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      719
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cortina de la Princesa",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, cada vez que tu rival juegue 1 carta de Partidario de su mano, evita todos los efectos de esa carta infligidos a tus Pokémon Básicos en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Robo Pico",
+        "effect": "Roba 2 cartas.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691892,
+        "avg": 3.94,
+        "low": 1.4,
+        "trend": 3.78,
+        "avg1": 3.33,
+        "avg7": 3.36,
+        "avg30": 3.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG14",
+    "illustrator": "Yano Keiji",
+    "localId": "GG14",
+    "name": "Comfey",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691893,
+            "avg": 2.18,
+            "low": 0.84,
+            "trend": 2.25,
+            "avg1": 1.76,
+            "avg7": 2.24,
+            "avg30": 2.18,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      764
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Selección Floral",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes mirar las 2 primeras cartas de tu baraja y poner 1 de ellas en tu mano. Pon la otra carta en la Zona Perdida."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Ataque Giratorio",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691893,
+        "avg": 2.18,
+        "low": 0.84,
+        "trend": 2.25,
+        "avg1": 1.76,
+        "avg7": 2.24,
+        "avg30": 2.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG15",
+    "illustrator": "Nobuhiro Imagawa",
+    "localId": "GG15",
+    "name": "Solrock",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691894,
+            "avg": 6.19,
+            "low": 1.3,
+            "trend": 6.86,
+            "avg1": 6.26,
+            "avg7": 6.47,
+            "avg30": 6.2,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      338
+    ],
+    "hp": 90,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Energía Solar",
+        "effect": "Una vez durante tu turno, puedes unir 1 carta de Energía Psychic de tu pila de descartes a 1 de tus Lunatone."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Ataque Giratorio",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691894,
+        "avg": 6.19,
+        "low": 1.3,
+        "trend": 6.86,
+        "avg1": 6.26,
+        "avg7": 6.47,
+        "avg30": 6.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG16",
+    "illustrator": "Uta",
+    "localId": "GG16",
+    "name": "Absol",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691895,
+            "avg": 9.48,
+            "low": 3.2,
+            "trend": 9.22,
+            "avg1": 9.4,
+            "avg7": 8.38,
+            "avg30": 9.5,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      359
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Catástrofe en Espiral",
+        "effect": "Este ataque hace 10 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Quebrantar",
+        "effect": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 70 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691895,
+        "avg": 9.48,
+        "low": 3.2,
+        "trend": 9.22,
+        "avg1": 9.4,
+        "avg7": 8.38,
+        "avg30": 9.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG17",
+    "illustrator": "NC Empire",
+    "localId": "GG17",
+    "name": "Thievul",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691896,
+            "avg": 3.22,
+            "low": 1,
+            "trend": 2.99,
+            "avg1": 2.99,
+            "avg7": 3.01,
+            "avg30": 3.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      828
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Nickit",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Desconcertar",
+        "effect": "Si a tu rival le quedan 2 cartas de Premio o menos, cada vez que tu rival juegue 1 carta de Partidario de su mano, evita todos los efectos de esa carta infligidos a tus Pokémon V en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Colmillo Afilado",
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691896,
+        "avg": 3.22,
+        "low": 1,
+        "trend": 2.99,
+        "avg1": 2.99,
+        "avg7": 3.01,
+        "avg30": 3.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG18",
+    "illustrator": "Shinya Komatsu",
+    "localId": "GG18",
+    "name": "Magnezone",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691897,
+            "avg": 4.46,
+            "low": 2,
+            "trend": 4.28,
+            "avg1": 3.95,
+            "avg7": 4.51,
+            "avg30": 4.42,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      462
+    ],
+    "hp": 150,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Magneton",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Gigaimán",
+        "effect": "Una vez durante tu turno, puedes mirar las 6 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Metal que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo de Luz Poderoso",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691897,
+        "avg": 4.46,
+        "low": 2,
+        "trend": 4.28,
+        "avg1": 3.95,
+        "avg7": 4.51,
+        "avg30": 4.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG19",
+    "illustrator": "Asako Ito",
+    "localId": "GG19",
+    "name": "Altaria",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691898,
+            "avg": 8.16,
+            "low": 0.94,
+            "trend": 8.13,
+            "avg1": 8.24,
+            "avg7": 8.44,
+            "avg30": 8.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 90,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Swablu",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Trino Tentador",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Partidario, enseñarla, barajar las cartas de tu baraja y luego poner esa carta en la parte superior de tu baraja."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Metálica"
+        ],
+        "name": "Planeo",
+        "damage": 60
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691898,
+        "avg": 8.16,
+        "low": 0.94,
+        "trend": 8.13,
+        "avg1": 8.24,
+        "avg7": 8.44,
+        "avg30": 8.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG20",
+    "illustrator": "Teeziro",
+    "localId": "GG20",
+    "name": "Latias",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691899,
+            "avg": 23.6,
+            "low": 10,
+            "trend": 23.83,
+            "avg1": 20.83,
+            "avg7": 22.44,
+            "avg30": 23.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      380
+    ],
+    "hp": 120,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Asistencia Roja",
+        "effect": "Una vez durante tu turno, puedes unir 1 carta de Energía Psychic de tu mano a 1 de tus Latios."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Dinabarrera",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon VMAX.",
+        "damage": 70
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691899,
+        "avg": 23.6,
+        "low": 10,
+        "trend": 23.83,
+        "avg1": 20.83,
+        "avg7": 22.44,
+        "avg30": 23.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG21",
+    "illustrator": "You Iribi",
+    "localId": "GG21",
+    "name": "Goodra de Hisui",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691900,
+            "avg": 3.67,
+            "low": 1.3,
+            "trend": 4.14,
+            "avg1": 3.94,
+            "avg7": 3.85,
+            "avg30": 3.67,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      706
+    ],
+    "hp": 160,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Sliggoo de Hisui",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Guarida Metálica",
+        "effect": "Evita todo el daño infligido por ataques de los Pokémon V de tu rival a cada uno de tus Pokémon Básicos que tenga alguna Energía Metal unida a él."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Impacto Pesado",
+        "damage": 140
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691900,
+        "avg": 3.67,
+        "low": 1.3,
+        "trend": 4.14,
+        "avg1": 3.94,
+        "avg7": 3.85,
+        "avg30": 3.67,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG22",
+    "illustrator": "Miki Tanaka",
+    "localId": "GG22",
+    "name": "Ditto",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691901,
+            "avg": 14.22,
+            "low": 4,
+            "trend": 14.39,
+            "avg1": 13.99,
+            "avg7": 11.92,
+            "avg30": 14.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      132
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Transformación Súbita",
+        "effect": "Este Pokémon puede usar los ataques de cualquier Pokémon Básico en tu pila de descartes, excepto de los Pokémon con un recuadro de regla (Pokémon V, Pokémon-GX, etc. tienen recuadros de regla). (Sigues necesitando la Energía necesaria para usar cada ataque)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691901,
+        "avg": 14.22,
+        "low": 4,
+        "trend": 14.39,
+        "avg1": 13.99,
+        "avg7": 11.92,
+        "avg30": 14.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG23",
+    "illustrator": "Kurata So",
+    "localId": "GG23",
+    "name": "Dunsparce",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691902,
+            "avg": 3.02,
+            "low": 0.9,
+            "trend": 3.35,
+            "avg1": 3,
+            "avg7": 3.06,
+            "avg30": 2.98,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      206
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Nido Misterioso",
+        "effect": "Los Pokémon Colorless en juego (tanto tuyos como de tu rival) no tienen Debilidad."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rodar",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691902,
+        "avg": 3.02,
+        "low": 0.9,
+        "trend": 3.35,
+        "avg1": 3,
+        "avg7": 3.06,
+        "avg30": 2.98,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG24",
+    "illustrator": "Yuu Nishida",
+    "localId": "GG24",
+    "name": "Miltank",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691903,
+            "avg": 8.38,
+            "low": 2.75,
+            "trend": 8.69,
+            "avg1": 8,
+            "avg7": 8.12,
+            "avg30": 8.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      241
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cuerpo Milagroso",
+        "effect": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon V de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Esparcir",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691903,
+        "avg": 8.38,
+        "low": 2.75,
+        "trend": 8.69,
+        "avg1": 8,
+        "avg7": 8.12,
+        "avg30": 8.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG25",
+    "illustrator": "Amelicart",
+    "localId": "GG25",
+    "name": "Bibarel",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691904,
+            "avg": 3.77,
+            "low": 1.44,
+            "trend": 3.52,
+            "avg1": 3.79,
+            "avg7": 3.36,
+            "avg30": 3.73,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      400
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Bidoof",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Incisivos Laboriosos",
+        "effect": "Una vez durante tu turno, puedes robar cartas hasta que tengas 5 cartas en tu mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Coletazo",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691904,
+        "avg": 3.77,
+        "low": 1.44,
+        "trend": 3.52,
+        "avg1": 3.79,
+        "avg7": 3.36,
+        "avg30": 3.73,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG26",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG26",
+    "name": "Riolu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691905,
+            "avg": 10.91,
+            "low": 3,
+            "trend": 11.7,
+            "avg1": 12.57,
+            "avg7": 11.53,
+            "avg30": 10.97,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Patada Baja",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691905,
+        "avg": 10.91,
+        "low": 3,
+        "trend": 11.7,
+        "avg1": 12.57,
+        "avg7": 11.53,
+        "avg30": 10.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG27",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG27",
+    "name": "Swablu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691906,
+            "avg": 7.16,
+            "low": 3.5,
+            "trend": 7.76,
+            "avg1": 8.92,
+            "avg7": 7.93,
+            "avg30": 7.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      333
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Ataque Sorpresa",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691906,
+        "avg": 7.16,
+        "low": 3.5,
+        "trend": 7.76,
+        "avg1": 8.92,
+        "avg7": 7.93,
+        "avg30": 7.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG28",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG28",
+    "name": "Duskull",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691907,
+            "avg": 5.07,
+            "low": 2.99,
+            "trend": 5.29,
+            "avg1": 4.75,
+            "avg7": 5.04,
+            "avg30": 5.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      355
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Desconcierto",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691907,
+        "avg": 5.07,
+        "low": 2.99,
+        "trend": 5.29,
+        "avg1": 4.75,
+        "avg7": 5.04,
+        "avg30": 5.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG29",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG29",
+    "name": "Bidoof",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691908,
+            "avg": 7.23,
+            "low": 2.8,
+            "trend": 8.89,
+            "avg1": 6.8,
+            "avg7": 7.35,
+            "avg30": 7.41,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      399
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Semblante Despreocupado",
+        "effect": "Mientras este Pokémon esté en tu Banca, evita todo el daño infligido a este Pokémon por ataques (tanto tuyos como de tu rival)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hipercolmillo",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691908,
+        "avg": 7.23,
+        "low": 2.8,
+        "trend": 8.89,
+        "avg1": 6.8,
+        "avg7": 7.35,
+        "avg30": 7.41,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG30",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG30",
+    "name": "Pikachu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691909,
+            "avg": 62.04,
+            "low": 30,
+            "trend": 60.46,
+            "avg1": 59.49,
+            "avg7": 55.39,
+            "avg30": 61.18,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pika Carrera",
+        "effect": "Si este Pokémon tiene alguna Energía unida a él, no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Caprichoso",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691909,
+        "avg": 62.04,
+        "low": 30,
+        "trend": 60.46,
+        "avg1": 59.49,
+        "avg7": 55.39,
+        "avg30": 61.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG31",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG31",
+    "name": "Turtwig",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691910,
+            "avg": 12.15,
+            "low": 7,
+            "trend": 12.28,
+            "avg1": 12.94,
+            "avg7": 12.49,
+            "avg30": 11.97,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      387
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Mordisco",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Bote Cabezazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691910,
+        "avg": 12.15,
+        "low": 7,
+        "trend": 12.28,
+        "avg1": 12.94,
+        "avg7": 12.49,
+        "avg30": 11.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG32",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG32",
+    "name": "Paras",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691911,
+            "avg": 12.51,
+            "low": 5,
+            "trend": 13.22,
+            "avg1": 12.62,
+            "avg7": 12.94,
+            "avg30": 12.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      46
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Absorber",
+        "effect": "Cura 10 puntos de daño a este Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691911,
+        "avg": 12.51,
+        "low": 5,
+        "trend": 13.22,
+        "avg1": 12.62,
+        "avg7": 12.94,
+        "avg30": 12.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG33",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG33",
+    "name": "Poochyena",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691912,
+            "avg": 7.35,
+            "low": 1.99,
+            "trend": 8.08,
+            "avg1": 8.44,
+            "avg7": 8.34,
+            "avg30": 7.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      261
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ligera Intromisión",
+        "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691912,
+        "avg": 7.35,
+        "low": 1.99,
+        "trend": 8.08,
+        "avg1": 8.44,
+        "avg7": 8.34,
+        "avg30": 7.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG34",
+    "illustrator": "Kouki Saitou",
+    "localId": "GG34",
+    "name": "Mareep",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691913,
+            "avg": 10.6,
+            "low": 2.9,
+            "trend": 11.43,
+            "avg1": 11.58,
+            "avg7": 11.16,
+            "avg30": 10.82,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      179
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Patada Trasera",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691913,
+        "avg": 10.6,
+        "low": 2.9,
+        "trend": 11.43,
+        "avg1": 11.58,
+        "avg7": 11.16,
+        "avg30": 10.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG35",
+    "illustrator": "Jiro Sasumo",
+    "localId": "GG35",
+    "name": "Leafeon V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691915,
+            "avg": 79.56,
+            "low": 40,
+            "trend": 78.18,
+            "avg1": 55,
+            "avg7": 77.51,
+            "avg30": 80.38,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 260,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Leafeon V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Defensa Hoja",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691915,
+        "avg": 79.56,
+        "low": 40,
+        "trend": 78.18,
+        "avg1": 55,
+        "avg7": 77.51,
+        "avg30": 80.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG36",
+    "illustrator": "Shigenori Negishi",
+    "localId": "GG36",
+    "name": "Entei V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691916,
+            "avg": 56.16,
+            "low": 29.99,
+            "trend": 52.93,
+            "avg1": 74.9,
+            "avg7": 52,
+            "avg30": 60.66,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      244
+    ],
+    "hp": 230,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Celeridad",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Rondó Ardiente",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691916,
+        "avg": 56.16,
+        "low": 29.99,
+        "trend": 52.93,
+        "avg1": 74.9,
+        "avg7": 52,
+        "avg30": 60.66,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG37",
+    "illustrator": "nagano",
+    "localId": "GG37",
+    "name": "Simisear V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691917,
+            "avg": 23.05,
+            "low": 12.5,
+            "trend": 24.25,
+            "avg1": 19,
+            "avg7": 21.45,
+            "avg30": 22.8,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      514
+    ],
+    "hp": 260,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Simisear V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fiebre Ígnea",
+        "effect": "Puedes descartar hasta 5 cartas de la parte superior de tu baraja. Este ataque hace 40 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Astro Lumbre",
+        "effect": "Este ataque hace 30 puntos de daño por cada carta de Energía en tu pila de descartes. (No puedes usar más de 1 Poder V-ASTRO en una partida).",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691917,
+        "avg": 23.05,
+        "low": 12.5,
+        "trend": 24.25,
+        "avg1": 19,
+        "avg7": 21.45,
+        "avg30": 22.8,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG38",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "GG38",
+    "name": "Suicune V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691918,
+            "avg": 75.55,
+            "low": 29.95,
+            "trend": 116.54,
+            "avg1": 419.95,
+            "avg7": 102.7,
+            "avg30": 81.67,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      245
+    ],
+    "hp": 210,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Celeridad",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Rondó Ventisca",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691918,
+        "avg": 75.55,
+        "low": 29.95,
+        "trend": 116.54,
+        "avg1": 419.95,
+        "avg7": 102.7,
+        "avg30": 81.67,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG39",
+    "illustrator": "Jerky",
+    "localId": "GG39",
+    "name": "Lumineon V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691919,
+            "avg": 25.34,
+            "low": 10,
+            "trend": 24.28,
+            "avg1": 24,
+            "avg7": 25.2,
+            "avg30": 25.63,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      457
+    ],
+    "hp": 170,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Señal Luminosa",
+        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes buscar en tu baraja 1 carta de Partidario, enseñarla y ponerla en tu mano. Después, baraja las cartas de tu baraja."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Retorno Acuático",
+        "effect": "Pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691919,
+        "avg": 25.34,
+        "low": 10,
+        "trend": 24.28,
+        "avg1": 24,
+        "avg7": 25.2,
+        "avg30": 25.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG40",
+    "illustrator": "Gemi",
+    "localId": "GG40",
+    "name": "Glaceon V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691920,
+            "avg": 79.16,
+            "low": 34.95,
+            "trend": 79.01,
+            "avg1": 64,
+            "avg7": 69.28,
+            "avg30": 78.31,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 260,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Glaceon V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Disparo Témpano",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 180
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Astro Cristal",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon. (No puedes usar más de 1 Poder V-ASTRO en una partida).",
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691920,
+        "avg": 79.16,
+        "low": 34.95,
+        "trend": 79.01,
+        "avg1": 64,
+        "avg7": 69.28,
+        "avg30": 78.31,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG41",
+    "illustrator": "nagimiso",
+    "localId": "GG41",
+    "name": "Raikou V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691921,
+            "avg": 59.91,
+            "low": 27,
+            "trend": 62.73,
+            "avg1": 60,
+            "avg7": 62.96,
+            "avg30": 59.63,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      243
+    ],
+    "hp": 200,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Celeridad",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Rondó Relámpago",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691921,
+        "avg": 59.91,
+        "low": 27,
+        "trend": 62.73,
+        "avg1": 60,
+        "avg7": 62.96,
+        "avg30": 59.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG42",
+    "illustrator": "aoki",
+    "localId": "GG42",
+    "name": "Zeraora VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691922,
+            "avg": 36.54,
+            "low": 14.95,
+            "trend": 35.98,
+            "avg1": 31,
+            "avg7": 34.67,
+            "avg30": 36.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      807
+    ],
+    "hp": 320,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Zeraora V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Pulso Reactivo",
+        "effect": "Este ataque hace 60 puntos de daño por cada uno de los Pokémon en juego de tu rival que tenga una habilidad.",
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Maxipuñetazo",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691922,
+        "avg": 36.54,
+        "low": 14.95,
+        "trend": 35.98,
+        "avg1": 31,
+        "avg7": 34.67,
+        "avg30": 36.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG43",
+    "illustrator": "Ligton",
+    "localId": "GG43",
+    "name": "Zeraora V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691923,
+            "avg": 34.46,
+            "low": 15,
+            "trend": 51.43,
+            "avg1": 31.99,
+            "avg7": 53.88,
+            "avg30": 33.72,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      807
+    ],
+    "hp": 270,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Zeraora V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Golpe Demoledor",
+        "effect": "Puedes descartar un Estadio en juego.",
+        "damage": 190
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Astro Tempestad de Rayos",
+        "effect": "Elige 1 de los Pokémon de tu rival 4 veces. (Puedes elegir el mismo Pokémon más de una vez). Por cada vez que elijas 1 Pokémon, hazle 60 puntos de daño a ese Pokémon. Este daño no se ve afectado por Debilidad o Resistencia. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691923,
+        "avg": 34.46,
+        "low": 15,
+        "trend": 51.43,
+        "avg1": 31.99,
+        "avg7": 53.88,
+        "avg30": 33.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG44",
+    "illustrator": "GOSSAN",
+    "localId": "GG44",
+    "name": "Mewtwo V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691924,
+            "avg": 269.38,
+            "low": 99.99,
+            "trend": 252.18,
+            "avg1": 280,
+            "avg7": 246.2,
+            "avg30": 271.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 280,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Mewtwo V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Psicopurga",
+        "effect": "Descarta hasta 3 Energías Psychic de tus Pokémon. Este ataque hace 90 puntos de daño por cada carta que hayas descartado de esta manera.",
+        "damage": "90×"
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Incursión Astro",
+        "effect": "Este ataque hace 120 puntos de daño a cada uno de los Pokémon V de tu rival. Este daño no se ve afectado por Debilidad o Resistencia. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691924,
+        "avg": 269.38,
+        "low": 99.99,
+        "trend": 252.18,
+        "avg1": 280,
+        "avg7": 246.2,
+        "avg30": 271.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG45",
+    "illustrator": "Akira Komayama",
+    "localId": "GG45",
+    "name": "Deoxys VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691925,
+            "avg": 57.92,
+            "low": 17,
+            "trend": 53.82,
+            "avg1": 43,
+            "avg7": 46.93,
+            "avg30": 56.78,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      386
+    ],
+    "hp": 330,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Deoxys V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Protección ADN",
+        "effect": "Los ataques de los Pokémon V-ASTRO de tu rival hacen 30 puntos de daño menos a todos tus Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxidrenaje",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691925,
+        "avg": 57.92,
+        "low": 17,
+        "trend": 53.82,
+        "avg1": 43,
+        "avg7": 46.93,
+        "avg30": 56.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG46",
+    "illustrator": "DOM",
+    "localId": "GG46",
+    "name": "Deoxys V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691926,
+            "avg": 59.59,
+            "low": 30,
+            "trend": 72.59,
+            "avg1": 75,
+            "avg7": 65.9,
+            "avg30": 58.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      386
+    ],
+    "hp": 270,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Deoxys V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Jabalina Psíquica",
+        "effect": "Este ataque también hace 60 puntos de daño a 1 de los Pokémon V en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 190
+      },
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Fuerza Astro",
+        "effect": "Este ataque hace 60 puntos de daño por cada Energía unida a ambos Pokémon Activos. (No puedes usar más de 1 Poder V-ASTRO en una partida).",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691926,
+        "avg": 59.59,
+        "low": 30,
+        "trend": 72.59,
+        "avg1": 75,
+        "avg7": 65.9,
+        "avg30": 58.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG47",
+    "illustrator": "sui",
+    "localId": "GG47",
+    "name": "Hatterene VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 691927,
+            "avg": 8.04,
+            "low": 4.5,
+            "trend": 9.05,
+            "avg1": 8.47,
+            "avg7": 7.99,
+            "avg30": 7.97,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      858
+    ],
+    "hp": 320,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Hatterene V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Dominio de la Hechicera",
+        "effect": "Una vez durante tu turno, puedes mover hasta 2 contadores de daño de tus Pokémon al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Gigacastigo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 691927,
+        "avg": 8.04,
+        "low": 4.5,
+        "trend": 9.05,
+        "avg1": 8.47,
+        "avg7": 7.99,
+        "avg30": 7.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG48",
+    "illustrator": "Hataya",
+    "localId": "GG48",
+    "name": "Zacian V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691928,
+            "avg": 27.5,
+            "low": 16,
+            "trend": 25.43,
+            "avg1": 28.75,
+            "avg7": 24.76,
+            "avg30": 27.03,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      888
+    ],
+    "hp": 220,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rugido de la Espada",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Energía Psychic y unirla a 1 de tus Pokémon. Después, baraja las cartas de tu baraja. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estocada Tormentosa",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a este Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691928,
+        "avg": 27.5,
+        "low": 16,
+        "trend": 25.43,
+        "avg1": 28.75,
+        "avg7": 24.76,
+        "avg30": 27.03,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG49",
+    "illustrator": "Yuka Morii",
+    "localId": "GG49",
+    "name": "Drapion V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691929,
+            "avg": 8.8,
+            "low": 3.95,
+            "trend": 9.57,
+            "avg1": 10.93,
+            "avg7": 9.7,
+            "avg30": 8.92,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      452
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Estilo Salvaje",
+        "effect": "Los ataques de este Pokémon cuestan Colorless menos por cada uno de los Pokémon Golpe Brusco, Golpe Fluido y Golpe Fusión en juego de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cola Dinámica",
+        "effect": "Este ataque también hace 60 puntos de daño a 1 de tus Pokémon. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691929,
+        "avg": 8.8,
+        "low": 3.95,
+        "trend": 9.57,
+        "avg1": 10.93,
+        "avg7": 9.7,
+        "avg30": 8.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG50",
+    "illustrator": "Pani Kobayashi",
+    "localId": "GG50",
+    "name": "Darkrai V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691930,
+            "avg": 119.89,
+            "low": 74.95,
+            "trend": 103.77,
+            "avg1": 100,
+            "avg7": 104,
+            "avg30": 117.92,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      491
+    ],
+    "hp": 270,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Darkrai V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Pulso Umbrío",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Darkness unida a todos tus Pokémon.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691930,
+        "avg": 119.89,
+        "low": 74.95,
+        "trend": 103.77,
+        "avg1": 100,
+        "avg7": 104,
+        "avg30": 117.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG51",
+    "illustrator": "kodama",
+    "localId": "GG51",
+    "name": "Samurott de Hisui V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691931,
+            "avg": 22.17,
+            "low": 7,
+            "trend": 20.62,
+            "avg1": 18,
+            "avg7": 20.8,
+            "avg30": 21.88,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      503
+    ],
+    "hp": 220,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Cesta al Suelo",
+        "effect": "Descarta hasta 2 Herramientas Pokémon de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Tajo Sombrío",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691931,
+        "avg": 22.17,
+        "low": 7,
+        "trend": 20.62,
+        "avg1": 18,
+        "avg7": 20.8,
+        "avg30": 21.88,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG52",
+    "illustrator": "Shibuzoh.",
+    "localId": "GG52",
+    "name": "Samurott de Hisui V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691932,
+            "avg": 14.31,
+            "low": 8,
+            "trend": 16.8,
+            "avg1": 21.5,
+            "avg7": 15.75,
+            "avg30": 14.62,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      503
+    ],
+    "hp": 270,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Samurott de Hisui V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Filo Despiadado",
+        "effect": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 110 puntos de daño más.",
+        "damage": "110+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691932,
+        "avg": 14.31,
+        "low": 8,
+        "trend": 16.8,
+        "avg1": 21.5,
+        "avg7": 15.75,
+        "avg30": 14.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG53",
+    "illustrator": "OKACHEKE",
+    "localId": "GG53",
+    "name": "Hoopa V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691933,
+            "avg": 14.4,
+            "low": 4.88,
+            "trend": 17.24,
+            "avg1": 29.85,
+            "avg7": 16.16,
+            "avg30": 14.57,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      720
+    ],
+    "hp": 220,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Dos Rostros",
+        "effect": "Mientras este Pokémon esté en juego, es de tipo Psychic y Darkness."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Impacto Sombra",
+        "effect": "Pon 3 contadores de daño en 1 de tus Pokémon.",
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691933,
+        "avg": 14.4,
+        "low": 4.88,
+        "trend": 17.24,
+        "avg1": 29.85,
+        "avg7": 16.16,
+        "avg30": 14.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG54",
+    "illustrator": "Haru Akasaka",
+    "localId": "GG54",
+    "name": "Zamazenta V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691934,
+            "avg": 27.17,
+            "low": 17.5,
+            "trend": 33.93,
+            "avg1": 28.72,
+            "avg7": 32.83,
+            "avg30": 27.27,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      889
+    ],
+    "hp": 220,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Posición Regia",
+        "effect": "Una vez durante tu turno, puedes descartar las cartas de tu mano y robar 5 cartas. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estallido Venganza",
+        "effect": "Este ataque hace 30 puntos de daño más por cada carta de Premio que haya cogido tu rival.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691934,
+        "avg": 27.17,
+        "low": 17.5,
+        "trend": 33.93,
+        "avg1": 28.72,
+        "avg7": 32.83,
+        "avg30": 27.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG55",
+    "illustrator": "Aya Kusube",
+    "localId": "GG55",
+    "name": "Regigigas V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691935,
+            "avg": 29.71,
+            "low": 14.32,
+            "trend": 36.02,
+            "avg1": 30,
+            "avg7": 31.44,
+            "avg30": 29.75,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      486
+    ],
+    "hp": 300,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Regigigas V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Gigaimpacto",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 230
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691935,
+        "avg": 29.71,
+        "low": 14.32,
+        "trend": 36.02,
+        "avg1": 30,
+        "avg7": 31.44,
+        "avg30": 29.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG56",
+    "illustrator": "SIE NANAHARA",
+    "localId": "GG56",
+    "name": "Zoroark de Hisui V-ASTRO",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691936,
+            "avg": 56.41,
+            "low": 25,
+            "trend": 56.84,
+            "avg1": 38.29,
+            "avg7": 48.03,
+            "avg30": 55.38,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      571
+    ],
+    "hp": 270,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Zoroark de Hisui V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maldición Inminente",
+        "effect": "Este ataque hace 50 puntos de daño por cada uno de tus Pokémon que tenga algún contador de daño sobre él.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691936,
+        "avg": 56.41,
+        "low": 25,
+        "trend": 56.84,
+        "avg1": 38.29,
+        "avg7": 48.03,
+        "avg30": 55.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG57",
+    "illustrator": "Naoki Saito",
+    "localId": "GG57",
+    "name": "Adamas",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691937,
+            "avg": 5.91,
+            "low": 3,
+            "trend": 6,
+            "avg1": 5.75,
+            "avg7": 5.94,
+            "avg30": 5.91,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Puedes usar esta carta solo si descartas 2 cartas de Energía Metal de tu mano.\nBusca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691937,
+        "avg": 5.91,
+        "low": 3,
+        "trend": 6,
+        "avg1": 5.75,
+        "avg7": 5.94,
+        "avg30": 5.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG58",
+    "illustrator": "chibi",
+    "localId": "GG58",
+    "name": "Cuidados de Cheren",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691938,
+            "avg": 5.4,
+            "low": 2.3,
+            "trend": 5.57,
+            "avg1": 6.5,
+            "avg7": 5.54,
+            "avg30": 5.43,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Pon 1 de tus Pokémon Colorless que tenga algún contador de daño y todas las cartas unidas a él en tu mano.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691938,
+        "avg": 5.4,
+        "low": 2.3,
+        "trend": 5.57,
+        "avg1": 6.5,
+        "avg7": 5.54,
+        "avg30": 5.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG59",
+    "illustrator": "kantaro",
+    "localId": "GG59",
+    "name": "Experimento de Acromo",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691939,
+            "avg": 4.61,
+            "low": 1.95,
+            "trend": 4.9,
+            "avg1": 3.48,
+            "avg7": 4.63,
+            "avg30": 4.6,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Mira las 5 primeras cartas de tu baraja y pon 3 de ellas en tu mano. Pon el resto de las cartas en la Zona Perdida.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691939,
+        "avg": 4.61,
+        "low": 1.95,
+        "trend": 4.9,
+        "avg1": 3.48,
+        "avg7": 4.63,
+        "avg30": 4.6,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG60",
+    "illustrator": "Atsuya Uki",
+    "localId": "GG60",
+    "name": "Ambición de Cintia",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691940,
+            "avg": 27.56,
+            "low": 10,
+            "trend": 28.59,
+            "avg1": 35,
+            "avg7": 28.24,
+            "avg30": 27.89,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Roba cartas hasta que tengas 5 cartas en tu mano. Si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival, roba cartas hasta que tengas 8 cartas en tu mano en vez de 5.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691940,
+        "avg": 27.56,
+        "low": 10,
+        "trend": 28.59,
+        "avg1": 35,
+        "avg7": 28.24,
+        "avg30": 27.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG61",
+    "illustrator": "Yoriyuki Ikegami",
+    "localId": "GG61",
+    "name": "Vigor de Gardenia",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691941,
+            "avg": 12.66,
+            "low": 6,
+            "trend": 12.93,
+            "avg1": 10,
+            "avg7": 12.03,
+            "avg30": 12.73,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Roba 2 cartas. Si has robado alguna carta de esta manera, une hasta 2 cartas de Energía Grass de tu mano a 1 de tus Pokémon en Banca.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691941,
+        "avg": 12.66,
+        "low": 6,
+        "trend": 12.93,
+        "avg1": 10,
+        "avg7": 12.03,
+        "avg30": 12.73,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG62",
+    "illustrator": "Oswaldo KATO",
+    "localId": "GG62",
+    "name": "Lino",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691942,
+            "avg": 3.79,
+            "low": 1.3,
+            "trend": 4.15,
+            "avg1": 3.19,
+            "avg7": 3.98,
+            "avg30": 3.72,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tus Pokémon Fighting hacen 30 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia).\nDurante tu turno, si esta carta de Lino está en tu pila de descartes, puedes descartar 2 cartas, excepto las de Lino, de tu mano. Si lo haces, pon esta carta de Lino en tu mano.\n(Este efecto no cuenta como tu carta de Partidario por turno).",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691942,
+        "avg": 3.79,
+        "low": 1.3,
+        "trend": 4.15,
+        "avg1": 3.19,
+        "avg7": 3.98,
+        "avg30": 3.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG63",
+    "illustrator": "Naoki Saito",
+    "localId": "GG63",
+    "name": "Nákara",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691943,
+            "avg": 8.62,
+            "low": 3.49,
+            "trend": 8.72,
+            "avg1": 8.5,
+            "avg7": 8.8,
+            "avg30": 8.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Busca en tu baraja 1 carta de Pokémon Water y 1 carta de Objeto, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691943,
+        "avg": 8.62,
+        "low": 3.49,
+        "trend": 8.72,
+        "avg1": 8.5,
+        "avg7": 8.8,
+        "avg30": 8.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG64",
+    "illustrator": "saino misaki",
+    "localId": "GG64",
+    "name": "Mel",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691944,
+            "avg": 6.03,
+            "low": 2.5,
+            "trend": 6.39,
+            "avg1": 8,
+            "avg7": 6.36,
+            "avg30": 6.04,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Une 1 carta de Energía Water de tu pila de descartes a 1 de tus Pokémon V. Si lo haces, roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691944,
+        "avg": 6.03,
+        "low": 2.5,
+        "trend": 6.39,
+        "avg1": 8,
+        "avg7": 6.36,
+        "avg30": 6.04,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG65",
+    "illustrator": "GIDORA",
+    "localId": "GG65",
+    "name": "Roy",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 691945,
+            "avg": 7.44,
+            "low": 2.99,
+            "trend": 5.33,
+            "avg1": 4,
+            "avg7": 5.35,
+            "avg30": 5.42,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\nUne 1 carta de Energía Básica de tu pila de descartes a 1 de tus Pokémon. Si lo haces, busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 691945,
+        "avg": 7.44,
+        "low": 2.99,
+        "trend": 5.33,
+        "avg1": 4,
+        "avg7": 5.35,
+        "avg30": 5.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5gg-GG66",
+    "illustrator": "Toshinao Aoki",
+    "localId": "GG66",
+    "name": "Petra",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691946,
+            "avg": 6.99,
+            "low": 2.59,
+            "trend": 10.23,
+            "avg1": 27.97,
+            "avg7": 8.85,
+            "avg30": 7.62,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Puedes usar esta carta solo si a tu rival le quedan 3 cartas de Premio o menos.\nCada jugador pone las cartas de su mano en su baraja y las baraja todas. Después, robas 6 cartas, y tu rival roba 2 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691946,
+        "avg": 6.99,
+        "low": 2.59,
+        "trend": 10.23,
+        "avg1": 27.97,
+        "avg7": 8.85,
+        "avg30": 7.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG67",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "GG67",
+    "name": "Palkia Origen V-ASTRO",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691947,
+            "avg": 168.36,
+            "low": 70,
+            "trend": 229.82,
+            "avg1": 162.99,
+            "avg7": 186.5,
+            "avg30": 157.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      484
+    ],
+    "hp": 280,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Palkia Origen V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Oleaje Subespacial",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691947,
+        "avg": 168.36,
+        "low": 70,
+        "trend": 229.82,
+        "avg1": 162.99,
+        "avg7": 186.5,
+        "avg30": 157.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG68",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "GG68",
+    "name": "Dialga Origen V-ASTRO",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691948,
+            "avg": 150.51,
+            "low": 72.99,
+            "trend": 148.58,
+            "avg1": 135,
+            "avg7": 138.27,
+            "avg30": 140.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      483
+    ],
+    "hp": 280,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Dialga Origen V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Explosión Metálica",
+        "effect": "Este ataque hace 40 puntos de daño más por cada Energía Metal unida a este Pokémon.",
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Astro Cronos",
+        "effect": "Toma otro turno después de este. (Sáltate el Chequeo Pokémon).(No puedes usar más de 1 Poder V-ASTRO en una partida).",
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691948,
+        "avg": 150.51,
+        "low": 72.99,
+        "trend": 148.58,
+        "avg1": 135,
+        "avg7": 138.27,
+        "avg30": 140.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG69",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "GG69",
+    "name": "Giratina V-ASTRO",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691949,
+            "avg": 407.83,
+            "low": 160,
+            "trend": 428,
+            "avg1": 522.5,
+            "avg7": 410.05,
+            "avg30": 383.75,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 280,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Giratina V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Impacto Perdido",
+        "effect": "Pon 2 Energías unidas a tus Pokémon en la Zona Perdida.",
+        "damage": 280
+      },
+      {
+        "cost": [
+          "Planta",
+          "Psíquico"
+        ],
+        "name": "Astro Réquiem",
+        "effect": "Puedes usar este ataque solo si tienes 10 cartas o más en la Zona Perdida. El Pokémon Activo de tu rival queda Fuera de Combate. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691949,
+        "avg": 407.83,
+        "low": 160,
+        "trend": 428,
+        "avg1": 522.5,
+        "avg7": 410.05,
+        "avg30": 383.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5gg-GG70",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "GG70",
+    "name": "Arceus V-ASTRO",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 70,
+        "total": 70
+      },
+      "id": "swsh12.5gg",
+      "name": "Cenit Supremo Galería de Galar"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 691950,
+            "avg": 204.78,
+            "low": 110,
+            "trend": 216.23,
+            "avg1": 180,
+            "avg7": 211.07,
+            "avg30": 210.05,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 280,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Arceus V",
+    "stage": "V-ASTRO",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Lucero Trinidad",
+        "effect": "Busca en tu baraja hasta 3 cartas de Energía Básica y únelas a tus Pokémon V de la manera que desees. Después, baraja las cartas de tu baraja.",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:55:06+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 691950,
+        "avg": 204.78,
+        "low": 110,
+        "trend": 216.23,
+        "avg1": 180,
+        "avg7": 211.07,
+        "avg30": 210.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

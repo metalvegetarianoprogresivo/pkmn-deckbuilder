@@ -19282,13 +19282,20 @@
     "attacks": [
       {
         "cost": [
-          "Rayo",
-          "Rayo",
-          "Incolora"
+          "Rayo"
         ],
-        "name": "Trueno Rabioso",
-        "effect": "Este ataque también hace 30 puntos de daño a 1 de tus Pokémon en Banca.",
-        "damage": "100"
+        "name": "Picotazo",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Huracán Atronador",
+        "effect": "Lanza 4 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
       }
     ],
     "weaknesses": [
@@ -19308,7 +19315,7 @@
         "name": "Pikachu"
       }
     ],
-    "updated": "2026-03-06T14:10:14Z",
+    "updated": "2026-06-29T13:22:58+01:00",
     "pricing": {
       "cardmarket": null,
       "tcgplayer": null

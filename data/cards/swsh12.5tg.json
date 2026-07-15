@@ -1,0 +1,3095 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG01",
+    "illustrator": "Naoki Saito",
+    "localId": "TG01",
+    "name": "Braixen",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682265,
+            "avg": 3.95,
+            "low": 1.5,
+            "trend": 4.17,
+            "avg1": 4.37,
+            "avg7": 4.1,
+            "avg30": 3.98,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      654
+    ],
+    "hp": 90,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Fennekin",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Combustión",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Desfile de Antorchas",
+        "effect": "Este ataque hace 60 puntos de daño por cada carta de Serena en tu pila de descartes.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682265,
+        "avg": 3.95,
+        "low": 1.5,
+        "trend": 4.17,
+        "avg1": 4.37,
+        "avg7": 4.1,
+        "avg30": 3.98,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG02",
+    "illustrator": "chibi",
+    "localId": "TG02",
+    "name": "Milotic",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 682266,
+            "avg": 9.94,
+            "low": 3,
+            "trend": 8.31,
+            "avg1": 7.95,
+            "avg7": 9.2,
+            "avg30": 10.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      350
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Feebas",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Flecha de Agua",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Onda Apacible",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 682266,
+        "avg": 9.94,
+        "low": 3,
+        "trend": 8.31,
+        "avg1": 7.95,
+        "avg7": 9.2,
+        "avg30": 10.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG03",
+    "illustrator": "saino misaki",
+    "localId": "TG03",
+    "name": "Flaaffy",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.795Z",
+            "unit": "EUR",
+            "idProduct": 682267,
+            "avg": 3.8,
+            "low": 1.49,
+            "trend": 4.33,
+            "avg1": 3.62,
+            "avg7": 4.48,
+            "avg30": 3.97,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      180
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Mareep",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Dinamotor",
+        "effect": "Una vez durante tu turno (antes de tu ataque), puedes unir una carta de Energía Lightning de tu pila de descartes a 1 de tus Pokémon en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Bola Voltio",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.795Z",
+        "unit": "EUR",
+        "idProduct": 682267,
+        "avg": 3.8,
+        "low": 1.49,
+        "trend": 4.33,
+        "avg1": 3.62,
+        "avg7": 4.48,
+        "avg30": 3.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG04",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "TG04",
+    "name": "Jynx",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682268,
+            "avg": 3.48,
+            "low": 0.6,
+            "trend": 3.46,
+            "avg1": 3.42,
+            "avg7": 3.43,
+            "avg30": 3.5,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      124
+    ],
+    "hp": 100,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Labios Egoístas",
+        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon V de tu rival, tu rival no puede coger ninguna carta de Premio por ello."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Asalto Psíquico",
+        "effect": "Este ataque hace 10 puntos de daño más por cada contador de daño en el Pokémon Activo de tu rival.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682268,
+        "avg": 3.48,
+        "low": 0.6,
+        "trend": 3.46,
+        "avg1": 3.42,
+        "avg7": 3.43,
+        "avg30": 3.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG05",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "TG05",
+    "name": "Gardevoir",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682269,
+            "avg": 9.44,
+            "low": 2.85,
+            "trend": 13.98,
+            "avg1": 8.74,
+            "avg7": 7.85,
+            "avg30": 9.76,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Kirlia",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Refinamiento",
+        "effect": "Debes descartar 1 carta de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 2 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682269,
+        "avg": 9.44,
+        "low": 2.85,
+        "trend": 13.98,
+        "avg1": 8.74,
+        "avg7": 7.85,
+        "avg30": 9.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG06",
+    "illustrator": "Fumie Kittaka",
+    "localId": "TG06",
+    "name": "Malamar",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682270,
+            "avg": 1.78,
+            "low": 0.8,
+            "trend": 1.61,
+            "avg1": 2.16,
+            "avg7": 1.6,
+            "avg30": 1.62,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      687
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Inkay",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Tentáculos Golpe Fluido",
+        "effect": "Enseña cualquier cantidad de cartas de Golpe Fluido de tu mano. Este ataque hace 40 puntos de daño por cada carta que hayas enseñado de esta manera. Después, pon esas cartas en tu baraja y barájalas todas.",
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682270,
+        "avg": 1.78,
+        "low": 0.8,
+        "trend": 1.61,
+        "avg1": 2.16,
+        "avg7": 1.6,
+        "avg30": 1.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG07",
+    "illustrator": "Hideki Ishikawa",
+    "localId": "TG07",
+    "name": "Rockruff",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682271,
+            "avg": 3.62,
+            "low": 1,
+            "trend": 3.76,
+            "avg1": 3.5,
+            "avg7": 3.59,
+            "avg30": 3.63,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      744
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Triturar",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682271,
+        "avg": 3.62,
+        "low": 1,
+        "trend": 3.76,
+        "avg1": 3.5,
+        "avg7": 3.59,
+        "avg30": 3.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG08",
+    "illustrator": "nagimiso",
+    "localId": "TG08",
+    "name": "Passimian",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682272,
+            "avg": 1.65,
+            "low": 0.3,
+            "trend": 1.53,
+            "avg1": 1.55,
+            "avg7": 1.55,
+            "avg30": 1.49,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      766
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Entrenador de Lanzamiento",
+        "effect": "Los ataques de tus Pokémon Golpe Fluido hacen 30 puntos de daño más a los Pokémon V en Banca y Pokémon-GX en Banca de tu rival (antes de aplicar Debilidad y Resistencia). No puedes aplicar más de 1 habilidad Entrenador de Lanzamiento a la vez."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Lanzamiento",
+        "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682272,
+        "avg": 1.65,
+        "low": 0.3,
+        "trend": 1.53,
+        "avg1": 1.55,
+        "avg7": 1.55,
+        "avg30": 1.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG09",
+    "illustrator": "Teeziro",
+    "localId": "TG09",
+    "name": "Druddigon",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682273,
+            "avg": 3.36,
+            "low": 0.95,
+            "trend": 3.18,
+            "avg1": 3.36,
+            "avg7": 3.27,
+            "avg30": 3.37,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      621
+    ],
+    "hp": 120,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Agua"
+        ],
+        "name": "Desquite",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque de los Pokémon de tu rival durante su último turno, este ataque hace 120 puntos de daño más.",
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 120
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682273,
+        "avg": 3.36,
+        "low": 0.95,
+        "trend": 3.18,
+        "avg1": 3.36,
+        "avg7": 3.27,
+        "avg30": 3.37,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG10",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "TG10",
+    "name": "Smeargle",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682274,
+            "avg": 3.07,
+            "low": 1,
+            "trend": 3.26,
+            "avg1": 3.32,
+            "avg7": 3.17,
+            "avg30": 3.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      235
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Paleta de Colores",
+        "effect": "Mira las 5 primeras cartas de tu baraja. Puedes unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a 1 de tus Pokémon. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682274,
+        "avg": 3.07,
+        "low": 1,
+        "trend": 3.26,
+        "avg1": 3.32,
+        "avg7": 3.17,
+        "avg30": 3.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG11",
+    "illustrator": "Yuu Nishida",
+    "localId": "TG11",
+    "name": "Altaria",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682275,
+            "avg": 5.9,
+            "low": 3.45,
+            "trend": 5.97,
+            "avg1": 8.1,
+            "avg7": 5.81,
+            "avg30": 5.9,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Swablu",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Eco Mágico",
+        "effect": "Mueve todos los contadores de daño de 1 de tus Pokémon en Banca al Pokémon Activo de tu rival."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Vientos Explosivos",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682275,
+        "avg": 5.9,
+        "low": 3.45,
+        "trend": 5.97,
+        "avg1": 8.1,
+        "avg7": 5.81,
+        "avg30": 5.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG12",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "TG12",
+    "name": "Kricketune V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 682276,
+            "avg": 6.18,
+            "low": 3,
+            "trend": 5.92,
+            "avg1": 5.5,
+            "avg7": 5.51,
+            "avg30": 5.91,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      402
+    ],
+    "hp": 180,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Escenario Emocionante",
+        "effect": "Una vez durante tu turno, puedes robar cartas hasta que tengas 3 cartas en tu mano. Si este Pokémon está en el Puesto Activo, puedes robar cartas hasta que tengas 4 cartas en tu mano en vez de 3. No puedes usar más de 1 habilidad Escenario Emocionante en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Tijera X",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 682276,
+        "avg": 6.18,
+        "low": 3,
+        "trend": 5.92,
+        "avg1": 5.5,
+        "avg7": 5.51,
+        "avg30": 5.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG13",
+    "illustrator": "Teeziro",
+    "localId": "TG13",
+    "name": "Serperior V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682277,
+            "avg": 21.01,
+            "low": 12,
+            "trend": 23.1,
+            "avg1": 18.75,
+            "avg7": 21.39,
+            "avg30": 21.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      497
+    ],
+    "hp": 210,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Luz Noble",
+        "effect": "Cura 30 puntos de daño a cada Pokémon (tanto tuyos como de tu rival)."
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682277,
+        "avg": 21.01,
+        "low": 12,
+        "trend": 23.1,
+        "avg1": 18.75,
+        "avg7": 21.39,
+        "avg30": 21.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG14",
+    "illustrator": "nagimiso",
+    "localId": "TG14",
+    "name": "Blaziken V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 682278,
+            "avg": 28.1,
+            "low": 9.98,
+            "trend": 27.34,
+            "avg1": 23.48,
+            "avg7": 27.34,
+            "avg30": 28.35,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      257
+    ],
+    "hp": 210,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Patada Salto Alta",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Giro Fuego",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 210
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 682278,
+        "avg": 28.1,
+        "low": 9.98,
+        "trend": 27.34,
+        "avg1": 23.48,
+        "avg7": 27.34,
+        "avg30": 28.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG15",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "TG15",
+    "name": "Blaziken VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 682279,
+            "avg": 24.52,
+            "low": 13.75,
+            "trend": 22.31,
+            "avg1": 26,
+            "avg7": 23.98,
+            "avg30": 23.84,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      257
+    ],
+    "hp": 320,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Blaziken V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Embrague",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxillamas",
+        "effect": "Elige hasta 2 de tus Pokémon Golpe Fluido en Banca y une 1 carta de Energía de tu pila de descartes a cada uno de ellos.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 682279,
+        "avg": 24.52,
+        "low": 13.75,
+        "trend": 22.31,
+        "avg1": 26,
+        "avg7": 23.98,
+        "avg30": 23.84,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG16",
+    "illustrator": "yuu",
+    "localId": "TG16",
+    "name": "Zeraora V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682280,
+            "avg": 12.98,
+            "low": 4.89,
+            "trend": 12.95,
+            "avg1": 14,
+            "avg7": 13.1,
+            "avg30": 12.92,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      807
+    ],
+    "hp": 210,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Puño Cruzado",
+        "effect": "Si 1 de tus otros Pokémon Golpe Fluido usó un ataque durante tu último turno, este ataque también hace 160 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682280,
+        "avg": 12.98,
+        "low": 4.89,
+        "trend": 12.95,
+        "avg1": 14,
+        "avg7": 13.1,
+        "avg30": 12.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG17",
+    "illustrator": "saino misaki",
+    "localId": "TG17",
+    "name": "Mawile V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682281,
+            "avg": 11.25,
+            "low": 5.9,
+            "trend": 15.49,
+            "avg1": 12.84,
+            "avg7": 18.27,
+            "avg30": 13.77,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      303
+    ],
+    "hp": 200,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Bofetada Morros",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Dar un Mordisco",
+        "effect": "Descarta 1 carta aleatoria de la mano de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682281,
+        "avg": 11.25,
+        "low": 5.9,
+        "trend": 15.49,
+        "avg1": 12.84,
+        "avg7": 18.27,
+        "avg30": 13.77,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG18",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "TG18",
+    "name": "Corviknight V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682282,
+            "avg": 11.31,
+            "low": 4.5,
+            "trend": 10.99,
+            "avg1": 8.5,
+            "avg7": 15.04,
+            "avg30": 11.05,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      823
+    ],
+    "hp": 210,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Embrague",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Vendaval de los Cielos",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Vendaval de los Cielos.",
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682282,
+        "avg": 11.31,
+        "low": 4.5,
+        "trend": 10.99,
+        "avg1": 8.5,
+        "avg7": 15.04,
+        "avg30": 11.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG19",
+    "illustrator": "Shigenori Negishi",
+    "localId": "TG19",
+    "name": "Corviknight VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682283,
+            "avg": 8.63,
+            "low": 3.48,
+            "trend": 7.9,
+            "avg1": 5.58,
+            "avg7": 7.72,
+            "avg30": 8.3,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      823
+    ],
+    "hp": 320,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Corviknight V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cuerpo Lustroso",
+        "effect": "Evita todos los efectos de las habilidades de los Pokémon de tu rival infligidos a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Gigavendaval",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Gigavendaval.",
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682283,
+        "avg": 8.63,
+        "low": 3.48,
+        "trend": 7.9,
+        "avg1": 5.58,
+        "avg7": 7.72,
+        "avg30": 8.3,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG20",
+    "illustrator": "Hideki Ishikawa",
+    "localId": "TG20",
+    "name": "Rayquaza VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682284,
+            "avg": 211.45,
+            "low": 50,
+            "trend": 240.04,
+            "avg1": 225,
+            "avg7": 202.8,
+            "avg30": 215.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 320,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Rayquaza V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pulso Celeste",
+        "effect": "Una vez durante tu turno, puedes descartar las cartas de tu mano y robar 3 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Rayo"
+        ],
+        "name": "Maxiexplosivo",
+        "effect": "Puedes descartar cualquier cantidad de Energías Fire Básicas o cualquier cantidad de Energías Lightning Básicas de este Pokémon. Este ataque hace 80 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "20+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682284,
+        "avg": 211.45,
+        "low": 50,
+        "trend": 240.04,
+        "avg1": 225,
+        "avg7": 202.8,
+        "avg30": 215.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG21",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "TG21",
+    "name": "Duraludon VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682285,
+            "avg": 11.44,
+            "low": 5,
+            "trend": 12.07,
+            "avg1": 11.22,
+            "avg7": 11.52,
+            "avg30": 11.42,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      884
+    ],
+    "hp": 330,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Duraludon V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rascacielos",
+        "effect": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon de tu rival que tengan alguna Energía Especial unida a ellos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Gigapulverización",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 220
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682285,
+        "avg": 11.44,
+        "low": 5,
+        "trend": 12.07,
+        "avg1": 11.22,
+        "avg7": 11.52,
+        "avg30": 11.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG22",
+    "illustrator": "You Iribi",
+    "localId": "TG22",
+    "name": "Blissey V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682286,
+            "avg": 17.66,
+            "low": 4,
+            "trend": 22.69,
+            "avg1": 17,
+            "avg7": 19.19,
+            "avg30": 17.52,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      242
+    ],
+    "hp": 250,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cura Natural",
+        "effect": "Cada vez que unas 1 carta de Energía de tu mano a este Pokémon, elimina todas sus Condiciones Especiales."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Explosión Feliz",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía unida a este Pokémon. Si has infligido daño con este ataque, puedes unir hasta 3 cartas de Energía de tu pila de descartes a este Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682286,
+        "avg": 17.66,
+        "low": 4,
+        "trend": 22.69,
+        "avg1": 17,
+        "avg7": 19.19,
+        "avg30": 17.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG23",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "TG23",
+    "name": "Amigos de Galar",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682287,
+            "avg": 6.59,
+            "low": 2.4,
+            "trend": 7.71,
+            "avg1": 9.25,
+            "avg7": 7.89,
+            "avg30": 6.86,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682287,
+        "avg": 6.59,
+        "low": 2.4,
+        "trend": 7.71,
+        "avg1": 9.25,
+        "avg7": 7.89,
+        "avg30": 6.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG24",
+    "illustrator": "Ryuta Fuse",
+    "localId": "TG24",
+    "name": "Morris",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682288,
+            "avg": 1.83,
+            "low": 1,
+            "trend": 2.25,
+            "avg1": 2.99,
+            "avg7": 1.89,
+            "avg30": 1.87,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar cualquier cantidad de cartas de Energía que encuentres entre ellas y ponerlas en tu mano. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682288,
+        "avg": 1.83,
+        "low": 1,
+        "trend": 2.25,
+        "avg1": 2.99,
+        "avg7": 1.89,
+        "avg30": 1.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG25",
+    "illustrator": "Ryuta Fuse",
+    "localId": "TG25",
+    "name": "Juez",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682289,
+            "avg": 6,
+            "low": 2.95,
+            "trend": 6.42,
+            "avg1": 5.7,
+            "avg7": 5.78,
+            "avg30": 5.99,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Cada jugador pone las cartas de su mano en su baraja, las baraja todas y roba 4 cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682289,
+        "avg": 6,
+        "low": 2.95,
+        "trend": 6.42,
+        "avg1": 5.7,
+        "avg7": 5.78,
+        "avg30": 5.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG26",
+    "illustrator": "kirisAki",
+    "localId": "TG26",
+    "name": "Profesora Pimpinela",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682290,
+            "avg": 3.65,
+            "low": 1.5,
+            "trend": 4.02,
+            "avg1": 5.67,
+            "avg7": 4.02,
+            "avg30": 3.76,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Busca en tu baraja hasta 2 cartas y descártalas. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682290,
+        "avg": 3.65,
+        "low": 1.5,
+        "trend": 4.02,
+        "avg1": 5.67,
+        "avg7": 4.02,
+        "avg30": 3.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG27",
+    "illustrator": "take",
+    "localId": "TG27",
+    "name": "Roy",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682291,
+            "avg": 2.91,
+            "low": 0.99,
+            "trend": 2.76,
+            "avg1": 4.5,
+            "avg7": 3.44,
+            "avg30": 2.99,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Puedes jugar esta carta solo si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\nUne 1 carta de Energía Básica de tu pila de descartes a 1 de tus Pokémon. Si lo haces, busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682291,
+        "avg": 2.91,
+        "low": 0.99,
+        "trend": 2.76,
+        "avg1": 4.5,
+        "avg7": 3.44,
+        "avg30": 2.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh12.5tg-TG28",
+    "illustrator": "nagimiso",
+    "localId": "TG28",
+    "name": "Tizonio y Dargo",
+    "rarity": "Entrenador de arte completo",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682292,
+            "avg": 2.19,
+            "low": 0.49,
+            "trend": 2.96,
+            "avg1": 1.5,
+            "avg7": 2.09,
+            "avg30": 2.1,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Elige 1 carta de Entrenador de tu pila de descartes. Después, pregúntale a tu rival si puedes ponerla en tu mano. Si contesta que sí, pon esa carta en tu mano. Si contesta que no, roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682292,
+        "avg": 2.19,
+        "low": 0.49,
+        "trend": 2.96,
+        "avg1": 1.5,
+        "avg7": 2.09,
+        "avg30": 2.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG29",
+    "illustrator": "PLANETA Mochizuki",
+    "localId": "TG29",
+    "name": "Rayquaza VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682293,
+            "avg": 25.18,
+            "low": 9.99,
+            "trend": 28.17,
+            "avg1": 30,
+            "avg7": 24.54,
+            "avg30": 26.27,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 320,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Rayquaza V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pulso Celeste",
+        "effect": "Una vez durante tu turno, puedes descartar las cartas de tu mano y robar 3 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Rayo"
+        ],
+        "name": "Maxiexplosivo",
+        "effect": "Puedes descartar cualquier cantidad de Energías Fire Básicas o cualquier cantidad de Energías Lightning Básicas de este Pokémon. Este ataque hace 80 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "20+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682293,
+        "avg": 25.18,
+        "low": 9.99,
+        "trend": 28.17,
+        "avg1": 30,
+        "avg7": 24.54,
+        "avg30": 26.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh12.5tg-TG30",
+    "illustrator": "PLANETA Mochizuki",
+    "localId": "TG30",
+    "name": "Duraludon VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh12.5tg",
+      "name": "Tempestad Plateada Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.504Z",
+            "unit": "EUR",
+            "idProduct": 682294,
+            "avg": 2.19,
+            "low": 0.99,
+            "trend": 2.31,
+            "avg1": 2,
+            "avg7": 2.39,
+            "avg30": 2.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      884
+    ],
+    "hp": 330,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Duraludon V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rascacielos",
+        "effect": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon de tu rival que tengan alguna Energía Especial unida a ellos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Gigapulverización",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 220
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-01T21:21:13+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.504Z",
+        "unit": "EUR",
+        "idProduct": 682294,
+        "avg": 2.19,
+        "low": 0.99,
+        "trend": 2.31,
+        "avg1": 2,
+        "avg7": 2.39,
+        "avg30": 2.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

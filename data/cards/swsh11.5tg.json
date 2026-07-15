@@ -1,0 +1,2957 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG01",
+    "illustrator": "Oswaldo KATO",
+    "localId": "TG01",
+    "name": "Parasect",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 670826,
+            "avg": 2.89,
+            "low": 1,
+            "trend": 3.16,
+            "avg1": 4.34,
+            "avg7": 3.01,
+            "avg30": 2.94,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      47
+    ],
+    "hp": 120,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Paras",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Esporas Letargo",
+        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes dejar a ambos Pokémon Activos Dormidos y Envenenados."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Tijera X",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 50 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 670826,
+        "avg": 2.89,
+        "low": 1,
+        "trend": 3.16,
+        "avg1": 4.34,
+        "avg7": 3.01,
+        "avg30": 2.94,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG02",
+    "illustrator": "saino misaki",
+    "localId": "TG02",
+    "name": "Roserade",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674224,
+            "avg": 2.58,
+            "low": 0.9,
+            "trend": 2.49,
+            "avg1": 2,
+            "avg7": 2.71,
+            "avg30": 2.61,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      407
+    ],
+    "hp": 120,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Roselia",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Látigo Venenoso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Rosa Asesina",
+        "effect": "Si el Pokémon Activo de tu rival se ve afectado por una Condición Especial, este ataque también hace 60 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 60
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674224,
+        "avg": 2.58,
+        "low": 0.9,
+        "trend": 2.49,
+        "avg1": 2,
+        "avg7": 2.71,
+        "avg30": 2.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG03",
+    "illustrator": "GIDORA",
+    "localId": "TG03",
+    "name": "Charizard",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 670827,
+            "avg": 33.93,
+            "low": 14.9,
+            "trend": 33.11,
+            "avg1": 29.03,
+            "avg7": 40.76,
+            "avg30": 36.81,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 170,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Instinto de Combate",
+        "effect": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y poner 1 de ellas en tu mano. Descarta el resto de las cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Ascuas Regias",
+        "effect": "Este ataque hace 50 puntos de daño más por cada carta de Lionel en tu pila de descartes.",
+        "damage": "100+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 670827,
+        "avg": 33.93,
+        "low": 14.9,
+        "trend": 33.11,
+        "avg1": 29.03,
+        "avg7": 40.76,
+        "avg30": 36.81,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG04",
+    "illustrator": "chibi",
+    "localId": "TG04",
+    "name": "Chandelure",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 670828,
+            "avg": 2.26,
+            "low": 0.49,
+            "trend": 2.39,
+            "avg1": 2.7,
+            "avg7": 2.42,
+            "avg30": 2.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      609
+    ],
+    "hp": 150,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Lampent",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Abrasamontañas",
+        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes descartar las 3 primeras cartas de la baraja de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Explosión de Calor",
+        "damage": 90
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 670828,
+        "avg": 2.26,
+        "low": 0.49,
+        "trend": 2.39,
+        "avg1": 2.7,
+        "avg7": 2.42,
+        "avg30": 2.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG05",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "TG05",
+    "name": "Pikachu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674225,
+            "avg": 44.9,
+            "low": 19.5,
+            "trend": 31.8,
+            "avg1": 49,
+            "avg7": 37.2,
+            "avg30": 44.35,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pika Carrera",
+        "effect": "Si este Pokémon tiene alguna Energía unida a él, no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Caprichoso",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674225,
+        "avg": 44.9,
+        "low": 19.5,
+        "trend": 31.8,
+        "avg1": 49,
+        "avg7": 37.2,
+        "avg30": 44.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG06",
+    "illustrator": "Akira Komayama",
+    "localId": "TG06",
+    "name": "Gengar",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674226,
+            "avg": 46.86,
+            "low": 14,
+            "trend": 31.69,
+            "avg1": 47.4,
+            "avg7": 37.26,
+            "avg30": 45.56,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      94
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Haunter",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Portal al Otro Mundo",
+        "effect": "Una vez durante tu turno, si este Pokémon está en tu pila de descartes, puedes ponerlo en tu Banca. Si lo haces, pon 3 contadores de daño en este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Círculo de Gritos",
+        "effect": "Pon 2 contadores de daño en el Pokémon Activo de tu rival por cada uno de los Pokémon en Banca de tu rival."
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674226,
+        "avg": 46.86,
+        "low": 14,
+        "trend": 31.69,
+        "avg1": 47.4,
+        "avg7": 37.26,
+        "avg30": 45.56,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG07",
+    "illustrator": "Tomomi Kaneko",
+    "localId": "TG07",
+    "name": "Banette",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674227,
+            "avg": 2.36,
+            "low": 0.8,
+            "trend": 2.4,
+            "avg1": 2.27,
+            "avg7": 2.41,
+            "avg30": 2.33,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      354
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Shuppet",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Rencor Audaz",
+        "effect": "Pon hasta 7 contadores de daño en este Pokémon. Este ataque hace 20 puntos de daño por cada contador de daño que hayas colocado de esta manera.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Luz Lúgubre",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674227,
+        "avg": 2.36,
+        "low": 0.8,
+        "trend": 2.4,
+        "avg1": 2.27,
+        "avg7": 2.41,
+        "avg30": 2.33,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG08",
+    "illustrator": "You Iribi",
+    "localId": "TG08",
+    "name": "Arcanine de Hisui",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674228,
+            "avg": 4.15,
+            "low": 1,
+            "trend": 3.85,
+            "avg1": 4.4,
+            "avg7": 3.96,
+            "avg30": 4.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      59
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Growlithe de Hisui",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "name": "Muy Vulnerable",
+        "effect": "Si no tienes ninguna carta en tu mano, este ataque hace 150 puntos de daño más.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colmillo Afilado",
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674228,
+        "avg": 4.15,
+        "low": 1,
+        "trend": 3.85,
+        "avg1": 4.4,
+        "avg7": 3.96,
+        "avg30": 4.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG09",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "TG09",
+    "name": "Spiritomb",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674229,
+            "avg": 2.03,
+            "low": 0.49,
+            "trend": 2.35,
+            "avg1": 2.37,
+            "avg7": 2.36,
+            "avg30": 2.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      442
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Mensaje Maldito",
+        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Cadena de Espíritus",
+        "effect": "Este ataque hace 60 puntos de daño más por cada Spiritomb en tu pila de descartes.",
+        "damage": "10+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674229,
+        "avg": 2.03,
+        "low": 0.49,
+        "trend": 2.35,
+        "avg1": 2.37,
+        "avg7": 2.36,
+        "avg30": 2.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG10",
+    "illustrator": "Kouki Saitou",
+    "localId": "TG10",
+    "name": "Snorlax",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 670829,
+            "avg": 13.22,
+            "low": 3.99,
+            "trend": 12.46,
+            "avg1": 11.46,
+            "avg7": 12.86,
+            "avg30": 13.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 150,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Grasa Impávida",
+        "effect": "Evita todos los efectos de los ataques de los Pokémon de tu rival infligidos a este Pokémon. (El daño no es un efecto)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ronquido Descomunal",
+        "effect": "Este Pokémon pasa a estar Dormido. Durante el Chequeo Pokémon, lanza 2 monedas en vez de 1. Si sale cruz en alguna de ellas, este Pokémon sigue Dormido.",
+        "damage": 180
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 670829,
+        "avg": 13.22,
+        "low": 3.99,
+        "trend": 12.46,
+        "avg1": 11.46,
+        "avg7": 12.86,
+        "avg30": 13.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG11",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "TG11",
+    "name": "Castform",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674230,
+            "avg": 1.73,
+            "low": 0.4,
+            "trend": 1.75,
+            "avg1": 1.25,
+            "avg7": 1.82,
+            "avg30": 1.77,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      351
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Interpretación del Tiempo",
+        "effect": "Si tienes 8 cartas de Estadio o más en tu pila de descartes, ignora todas las Energías en el coste de los ataques de este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Climática",
+        "effect": "Roba cartas hasta que tengas 6 cartas en tu mano.",
+        "damage": 80
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674230,
+        "avg": 1.73,
+        "low": 0.4,
+        "trend": 1.75,
+        "avg1": 1.25,
+        "avg7": 1.82,
+        "avg30": 1.77,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG12",
+    "illustrator": "Nisota Niso",
+    "localId": "TG12",
+    "name": "Orbeetle V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674231,
+            "avg": 7.44,
+            "low": 3.99,
+            "trend": 7.16,
+            "avg1": 6.32,
+            "avg7": 8.67,
+            "avg30": 7.86,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      826
+    ],
+    "hp": 180,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Pasada de Ataque",
+        "effect": "Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Onda Misteriosa",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674231,
+        "avg": 7.44,
+        "low": 3.99,
+        "trend": 7.16,
+        "avg1": 6.32,
+        "avg7": 8.67,
+        "avg30": 7.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG13",
+    "illustrator": "Teeziro",
+    "localId": "TG13",
+    "name": "Orbeetle VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674232,
+            "avg": 10.86,
+            "low": 3.7,
+            "trend": 7.38,
+            "avg1": 6.87,
+            "avg7": 7.71,
+            "avg30": 9.24,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      826
+    ],
+    "hp": 310,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Orbeetle V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rayo Espeluznante",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes poner 1 contador de daño en cada uno de los Pokémon de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Gigaonda",
+        "effect": "Este ataque hace 50 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674232,
+        "avg": 10.86,
+        "low": 3.7,
+        "trend": 7.38,
+        "avg1": 6.87,
+        "avg7": 7.71,
+        "avg30": 9.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG14",
+    "illustrator": "Yuya Oka",
+    "localId": "TG14",
+    "name": "Centiskorch V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 670830,
+            "avg": 5.97,
+            "low": 2.9,
+            "trend": 3.93,
+            "avg1": 5.33,
+            "avg7": 5.08,
+            "avg30": 5.79,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      851
+    ],
+    "hp": 210,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Calor Radiante",
+        "effect": "Puedes descartar 1 Energía de este Pokémon. Si lo haces, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Tren Ardiente",
+        "damage": 180
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 670830,
+        "avg": 5.97,
+        "low": 2.9,
+        "trend": 3.93,
+        "avg1": 5.33,
+        "avg7": 5.08,
+        "avg30": 5.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG15",
+    "illustrator": "Oswaldo KATO",
+    "localId": "TG15",
+    "name": "Centiskorch VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674233,
+            "avg": 7.36,
+            "low": 4,
+            "trend": 7.03,
+            "avg1": 7.95,
+            "avg7": 7.17,
+            "avg30": 7.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      851
+    ],
+    "hp": 320,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Centiskorch V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Gigacienfuegos",
+        "effect": "Este ataque hace 40 puntos de daño más por cada Energía Fire unida a este Pokémon. Si has infligido daño con este ataque, puedes unir 1 carta de Energía Fire de tu pila de descartes a este Pokémon.",
+        "damage": "40+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674233,
+        "avg": 7.36,
+        "low": 4,
+        "trend": 7.03,
+        "avg1": 7.95,
+        "avg7": 7.17,
+        "avg30": 7.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG16",
+    "illustrator": "Ryota Murayama",
+    "localId": "TG16",
+    "name": "Pikachu V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674234,
+            "avg": 149.4,
+            "low": 39.95,
+            "trend": 152.98,
+            "avg1": 150,
+            "avg7": 150.16,
+            "avg30": 155.43,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 190,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Carga",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Lightning y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Rayo",
+        "effect": "Descarta todas las Energías de este Pokémon.",
+        "damage": 200
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674234,
+        "avg": 149.4,
+        "low": 39.95,
+        "trend": 152.98,
+        "avg1": 150,
+        "avg7": 150.16,
+        "avg30": 155.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG17",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "TG17",
+    "name": "Pikachu VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674235,
+            "avg": 103.54,
+            "low": 30,
+            "trend": 102.67,
+            "avg1": 55,
+            "avg7": 89.57,
+            "avg30": 100.96,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Gigaplacaje Eléctrico",
+        "effect": "Puedes descartar todas las Energías de este Pokémon. Si lo haces, este ataque hace 150 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674235,
+        "avg": 103.54,
+        "low": 30,
+        "trend": 102.67,
+        "avg1": 55,
+        "avg7": 89.57,
+        "avg30": 100.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG18",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "TG18",
+    "name": "Enamorus V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674236,
+            "avg": 8.06,
+            "low": 6.49,
+            "trend": 9.42,
+            "avg1": 10.78,
+            "avg7": 8.89,
+            "avg30": 8.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      905
+    ],
+    "hp": 210,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Guardián del Amor",
+        "effect": "Evita todos los efectos de las habilidades de los Pokémon de tu rival infligidos a cada uno de tus Pokémon que tenga alguna Energía Psychic unida a él, excepto a los Enamorus V."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cola Floración",
+        "effect": "Une hasta 2 cartas de Energía Básica de tu pila de descartes a tus Pokémon en Banca de la manera que desees.",
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674236,
+        "avg": 8.06,
+        "low": 6.49,
+        "trend": 9.42,
+        "avg1": 10.78,
+        "avg7": 8.89,
+        "avg30": 8.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG19",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "TG19",
+    "name": "Gallade V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 670831,
+            "avg": 11.23,
+            "low": 3,
+            "trend": 9.08,
+            "avg1": 11.5,
+            "avg7": 9.96,
+            "avg30": 10.91,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      475
+    ],
+    "hp": 220,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Espada Ascendente",
+        "effect": "Este ataque hace 50 puntos de daño más por cada carta de Premio que hayas cogido.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Destructor",
+        "effect": "El daño de este ataque no se ve afectado por Resistencia.",
+        "damage": 130
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 670831,
+        "avg": 11.23,
+        "low": 3,
+        "trend": 9.08,
+        "avg1": 11.5,
+        "avg7": 9.96,
+        "avg30": 10.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG20",
+    "illustrator": "GOSSAN",
+    "localId": "TG20",
+    "name": "Crobat V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674237,
+            "avg": 11.43,
+            "low": 5,
+            "trend": 9.14,
+            "avg1": 11.25,
+            "avg7": 10.81,
+            "avg30": 12.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      169
+    ],
+    "hp": 180,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Recurso Oscuro",
+        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes robar cartas hasta que tengas 6 cartas en tu mano. No puedes usar más de 1 habilidad Recurso Oscuro en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Colmillo Nocivo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 70
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674237,
+        "avg": 11.43,
+        "low": 5,
+        "trend": 9.14,
+        "avg1": 11.25,
+        "avg7": 10.81,
+        "avg30": 12.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG21",
+    "illustrator": "kodama",
+    "localId": "TG21",
+    "name": "Eternatus V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.874Z",
+            "unit": "EUR",
+            "idProduct": 674238,
+            "avg": 5.9,
+            "low": 3,
+            "trend": 5.32,
+            "avg1": 5.95,
+            "avg7": 5.83,
+            "avg30": 6,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      890
+    ],
+    "hp": 220,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Acelerador de Potencia",
+        "effect": "Puedes unir 1 carta de Energía Darkness de tu mano a 1 de tus Pokémon en Banca.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cañón Dinamax",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon VMAX, este ataque hace 120 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.874Z",
+        "unit": "EUR",
+        "idProduct": 674238,
+        "avg": 5.9,
+        "low": 3,
+        "trend": 5.32,
+        "avg1": 5.95,
+        "avg7": 5.83,
+        "avg30": 6,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG22",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "TG22",
+    "name": "Eternatus VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674239,
+            "avg": 14.12,
+            "low": 5.75,
+            "trend": 10.53,
+            "avg1": 11.75,
+            "avg7": 11.55,
+            "avg30": 13.35,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      890
+    ],
+    "hp": 340,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Eternatus V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Zona Eterna",
+        "effect": "Si todos tus Pokémon en juego son de tipo Darkness, puedes tener hasta 8 Pokémon en tu Banca y no puedes poner Pokémon no Darkness en juego. (Si esta habilidad deja de funcionar, descarta Pokémon de tu Banca hasta que tengas 5)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Final Temido",
+        "effect": "Este ataque hace 30 puntos de daño por cada uno de tus Pokémon Darkness en juego.",
+        "damage": "30×"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674239,
+        "avg": 14.12,
+        "low": 5.75,
+        "trend": 10.53,
+        "avg1": 11.75,
+        "avg7": 11.55,
+        "avg30": 13.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG23",
+    "illustrator": "Taira Akitsu",
+    "localId": "TG23",
+    "name": "Descubrimiento de Aventurera",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674240,
+            "avg": 3.08,
+            "low": 0.89,
+            "trend": 3.46,
+            "avg1": 4.75,
+            "avg7": 3.33,
+            "avg30": 3.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Busca en tu baraja hasta 3 Pokémon V, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674240,
+        "avg": 3.08,
+        "low": 0.89,
+        "trend": 3.46,
+        "avg1": 4.75,
+        "avg7": 3.33,
+        "avg30": 3.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG24",
+    "illustrator": "NC Empire",
+    "localId": "TG24",
+    "name": "Órdenes de Jefes",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674241,
+            "avg": 5.95,
+            "low": 3.79,
+            "trend": 5.65,
+            "avg1": 7,
+            "avg7": 5.46,
+            "avg30": 5.78,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674241,
+        "avg": 5.95,
+        "low": 3.79,
+        "trend": 5.65,
+        "avg1": 7,
+        "avg7": 5.46,
+        "avg30": 5.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG25",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "TG25",
+    "name": "Chef",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 670832,
+            "avg": 2.09,
+            "low": 0.5,
+            "trend": 2.4,
+            "avg1": 2.2,
+            "avg7": 2.27,
+            "avg30": 2.18,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Cura 70 puntos de daño a tu Pokémon Activo.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 670832,
+        "avg": 2.09,
+        "low": 0.5,
+        "trend": 2.4,
+        "avg1": 2.2,
+        "avg7": 2.27,
+        "avg30": 2.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG26",
+    "illustrator": "Hideki Ishikawa",
+    "localId": "TG26",
+    "name": "Naboru",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674242,
+            "avg": 1.64,
+            "low": 0.5,
+            "trend": 1.99,
+            "avg1": 4,
+            "avg7": 2.3,
+            "avg30": 1.77,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 4 cartas. Si tu Pokémon Activo es tu único Pokémon en juego, roba 8 cartas en vez de 4.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674242,
+        "avg": 1.64,
+        "low": 0.5,
+        "trend": 1.99,
+        "avg1": 4,
+        "avg7": 2.3,
+        "avg30": 1.77,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG27",
+    "illustrator": "saino misaki",
+    "localId": "TG27",
+    "name": "Cathy",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 670833,
+            "avg": 11.16,
+            "low": 2.5,
+            "trend": 6.93,
+            "avg1": 5.63,
+            "avg7": 6.69,
+            "avg30": 10.69,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Pon hasta 4 cartas de Pokémon Water y de Energía Water, en cualquier combinación, de tu pila de descartes en tu mano.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 670833,
+        "avg": 11.16,
+        "low": 2.5,
+        "trend": 6.93,
+        "avg1": 5.63,
+        "avg7": 6.69,
+        "avg30": 10.69,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh11.5tg-TG28",
+    "illustrator": "Taira Akitsu",
+    "localId": "TG28",
+    "name": "Sally",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674243,
+            "avg": 1.78,
+            "low": 0.49,
+            "trend": 2,
+            "avg1": 1.7,
+            "avg7": 2.16,
+            "avg30": 1.88,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Lanza 2 monedas. Busca en tu baraja tantas cartas como veces haya salido cara, ponlas en tu mano y baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674243,
+        "avg": 1.78,
+        "low": 0.49,
+        "trend": 2,
+        "avg1": 1.7,
+        "avg7": 2.16,
+        "avg30": 1.88,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG29",
+    "illustrator": "aky CG Works",
+    "localId": "TG29",
+    "name": "Pikachu VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674244,
+            "avg": 21.45,
+            "low": 8,
+            "trend": 16.82,
+            "avg1": 13.99,
+            "avg7": 17.45,
+            "avg30": 18.91,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Gigaplacaje Eléctrico",
+        "effect": "Puedes descartar todas las Energías de este Pokémon. Si lo haces, este ataque hace 150 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674244,
+        "avg": 21.45,
+        "low": 8,
+        "trend": 16.82,
+        "avg1": 13.99,
+        "avg7": 17.45,
+        "avg30": 18.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh11.5tg-TG30",
+    "illustrator": "5ban Graphics",
+    "localId": "TG30",
+    "name": "Mew VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh11.5tg",
+      "name": "Origen Perdido Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-14T18:04:08.636Z",
+            "unit": "EUR",
+            "idProduct": 674245,
+            "avg": 26.28,
+            "low": 8.48,
+            "trend": 14.91,
+            "avg1": 15.95,
+            "avg7": 18.85,
+            "avg30": 24.3,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 310,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Mew V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Fusión Cruzado",
+        "effect": "Elige 1 de los ataques de tus Pokémon Golpe Fusión en Banca y úsalo para este ataque."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Maximilagro",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 130
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-05T10:54:50+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-14T18:04:08.636Z",
+        "unit": "EUR",
+        "idProduct": 674245,
+        "avg": 26.28,
+        "low": 8.48,
+        "trend": 14.91,
+        "avg1": 15.95,
+        "avg7": 18.85,
+        "avg30": 24.3,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]
