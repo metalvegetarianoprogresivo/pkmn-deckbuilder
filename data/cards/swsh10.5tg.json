@@ -1,18 +1,18 @@
 [
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG01",
-    "illustrator": "Oswaldo KATO",
+    "id": "swsh10.5tg-TG01",
+    "illustrator": "Mitsuhiro Arita",
     "localId": "TG01",
-    "name": "Parasect",
+    "name": "Abomasnow",
     "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -30,13 +30,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 670826,
-            "avg": 3.03,
-            "low": 1,
-            "trend": 3.3,
-            "avg1": 2.85,
-            "avg7": 3.12,
-            "avg30": 3.04,
+            "idProduct": 658878,
+            "avg": 2.85,
+            "low": 0.89,
+            "trend": 2.65,
+            "avg1": 1,
+            "avg7": 2.59,
+            "avg30": 2.82,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -49,362 +49,56 @@
       }
     ],
     "dexId": [
-      47
+      460
     ],
-    "hp": 120,
+    "hp": 140,
     "types": [
       "Planta"
     ],
-    "evolveFrom": "Paras",
+    "evolveFrom": "Snover",
     "stage": "Fase 1",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Esporas Letargo",
-        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes dejar a ambos Pokémon Activos Dormidos y Envenenados."
+        "name": "Impulso Vigorizante",
+        "effect": "Tus Pokémon Golpe Brusco en juego, excepto los Abomasnow, obtienen 50 PS más. No puedes aplicar más de 1 habilidad Impulso Vigorizante a la vez."
       }
     ],
     "attacks": [
       {
         "cost": [
           "Planta",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Tijera X",
-        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 50 puntos de daño más.",
-        "damage": "50+"
-      }
-    ],
-    "retreat": 2,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 670826,
-        "avg": 3.03,
-        "low": 1,
-        "trend": 3.3,
-        "avg1": 2.85,
-        "avg7": 3.12,
-        "avg30": 3.04,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG02",
-    "illustrator": "saino misaki",
-    "localId": "TG02",
-    "name": "Roserade",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 674224,
-            "avg": 2.55,
-            "low": 0.98,
-            "trend": 2.43,
-            "avg1": 1.97,
-            "avg7": 2.36,
-            "avg30": 2.52,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      407
-    ],
-    "hp": 120,
-    "types": [
-      "Planta"
-    ],
-    "evolveFrom": "Roselia",
-    "stage": "Fase 1",
-    "attacks": [
-      {
-        "cost": [
-          "Planta"
-        ],
-        "name": "Látigo Venenoso",
-        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
-        "damage": 30
-      },
-      {
-        "cost": [
-          "Planta",
-          "Incolora"
-        ],
-        "name": "Rosa Asesina",
-        "effect": "Si el Pokémon Activo de tu rival se ve afectado por una Condición Especial, este ataque también hace 60 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
-        "damage": 60
-      }
-    ],
-    "retreat": 1,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 674224,
-        "avg": 2.55,
-        "low": 0.98,
-        "trend": 2.43,
-        "avg1": 1.97,
-        "avg7": 2.36,
-        "avg30": 2.52,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG03",
-    "illustrator": "GIDORA",
-    "localId": "TG03",
-    "name": "Charizard",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 670827,
-            "avg": 32.24,
-            "low": 14.3,
-            "trend": 23.65,
-            "avg1": 27.75,
-            "avg7": 26.32,
-            "avg30": 31.11,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      6
-    ],
-    "hp": 170,
-    "types": [
-      "Fuego"
-    ],
-    "evolveFrom": "Charmeleon",
-    "stage": "Fase 2",
-    "abilities": [
-      {
-        "type": "Habilidad",
-        "name": "Instinto de Combate",
-        "effect": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y poner 1 de ellas en tu mano. Descarta el resto de las cartas."
-      }
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Fuego",
-          "Fuego"
-        ],
-        "name": "Ascuas Regias",
-        "effect": "Este ataque hace 50 puntos de daño más por cada carta de Lionel en tu pila de descartes.",
-        "damage": "100+"
-      }
-    ],
-    "retreat": 3,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 670827,
-        "avg": 32.24,
-        "low": 14.3,
-        "trend": 23.65,
-        "avg1": 27.75,
-        "avg7": 26.32,
-        "avg30": 31.11,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG04",
-    "illustrator": "chibi",
-    "localId": "TG04",
-    "name": "Chandelure",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 670828,
-            "avg": 2.28,
-            "low": 0.2,
-            "trend": 2.32,
-            "avg1": 2.57,
-            "avg7": 2.31,
-            "avg30": 2.3,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      609
-    ],
-    "hp": 150,
-    "types": [
-      "Fuego"
-    ],
-    "evolveFrom": "Lampent",
-    "stage": "Fase 2",
-    "abilities": [
-      {
-        "type": "Habilidad",
-        "name": "Abrasamontañas",
-        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes descartar las 3 primeras cartas de la baraja de tu rival."
-      }
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Fuego",
-          "Incolora"
-        ],
-        "name": "Explosión de Calor",
+        "name": "Megapuño",
         "damage": 90
       }
     ],
-    "retreat": 2,
-    "regulationMark": "F",
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 670828,
-        "avg": 2.28,
-        "low": 0.2,
-        "trend": 2.32,
-        "avg1": 2.57,
-        "avg7": 2.31,
-        "avg30": 2.3,
+        "idProduct": 658878,
+        "avg": 2.85,
+        "low": 0.89,
+        "trend": 2.65,
+        "avg1": 1,
+        "avg7": 2.59,
+        "avg30": 2.82,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -417,18 +111,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG05",
-    "illustrator": "Atsushi Furusawa",
-    "localId": "TG05",
-    "name": "Pikachu",
+    "id": "swsh10.5tg-TG02",
+    "illustrator": "Misaki Hashimoto",
+    "localId": "TG02",
+    "name": "Flapple",
     "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -446,13 +140,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674225,
-            "avg": 36.42,
-            "low": 14.99,
-            "trend": 37.07,
-            "avg1": 29.38,
-            "avg7": 36.55,
-            "avg30": 35.64,
+            "idProduct": 658879,
+            "avg": 2.37,
+            "low": 0.5,
+            "trend": 2.24,
+            "avg1": 1.3,
+            "avg7": 2.39,
+            "avg30": 2.38,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -465,50 +159,56 @@
       }
     ],
     "dexId": [
-      25
+      841
     ],
-    "hp": 60,
+    "hp": 80,
     "types": [
-      "Rayo"
+      "Planta"
     ],
-    "stage": "Básico",
+    "evolveFrom": "Applin",
+    "stage": "Fase 1",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Pika Carrera",
-        "effect": "Si este Pokémon tiene alguna Energía unida a él, no tiene ningún Coste de Retirada."
+        "name": "Caída de Manzanas",
+        "effect": "Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon de tu rival. Si has puesto algún contador de daño de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas."
       }
     ],
     "attacks": [
       {
         "cost": [
-          "Rayo",
           "Incolora",
           "Incolora"
         ],
-        "name": "Placaje Caprichoso",
-        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
-        "damage": 50
+        "name": "Bomba Ácida",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
       }
     ],
     "retreat": 1,
-    "regulationMark": "F",
+    "regulationMark": "D",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674225,
-        "avg": 36.42,
-        "low": 14.99,
-        "trend": 37.07,
-        "avg1": 29.38,
-        "avg7": 36.55,
-        "avg30": 35.64,
+        "idProduct": 658879,
+        "avg": 2.37,
+        "low": 0.5,
+        "trend": 2.24,
+        "avg1": 1.3,
+        "avg7": 2.39,
+        "avg30": 2.38,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -521,18 +221,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG06",
-    "illustrator": "Akira Komayama",
-    "localId": "TG06",
-    "name": "Gengar",
+    "id": "swsh10.5tg-TG03",
+    "illustrator": "Taira Akitsu",
+    "localId": "TG03",
+    "name": "Kingdra",
     "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -550,13 +250,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674226,
-            "avg": 36.46,
-            "low": 14,
-            "trend": 36.94,
-            "avg1": 36.65,
-            "avg7": 44.69,
-            "avg30": 38.22,
+            "idProduct": 658880,
+            "avg": 9.52,
+            "low": 3,
+            "trend": 10.02,
+            "avg1": 13.32,
+            "avg7": 9.85,
+            "avg30": 9.52,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -569,48 +269,55 @@
       }
     ],
     "dexId": [
-      94
+      230
     ],
-    "hp": 120,
+    "hp": 150,
     "types": [
-      "Psíquico"
+      "Agua"
     ],
-    "evolveFrom": "Haunter",
+    "evolveFrom": "Seadra",
     "stage": "Fase 2",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Portal al Otro Mundo",
-        "effect": "Una vez durante tu turno, si este Pokémon está en tu pila de descartes, puedes ponerlo en tu Banca. Si lo haces, pon 3 contadores de daño en este Pokémon."
+        "name": "Rey del Mar Profundo",
+        "effect": "Cuando tu Pokémon Activo queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover cualquier cantidad de Energías Water de ese Pokémon a este Pokémon."
       }
     ],
     "attacks": [
       {
         "cost": [
-          "Psíquico"
+          "Agua"
         ],
-        "name": "Círculo de Gritos",
-        "effect": "Pon 2 contadores de daño en el Pokémon Activo de tu rival por cada uno de los Pokémon en Banca de tu rival."
+        "name": "Estallido Acuático",
+        "effect": "Este ataque hace 40 puntos de daño por cada Energía Water unida a este Pokémon.",
+        "damage": "40×"
       }
     ],
-    "retreat": 2,
-    "regulationMark": "F",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674226,
-        "avg": 36.46,
-        "low": 14,
-        "trend": 36.94,
-        "avg1": 36.65,
-        "avg7": 44.69,
-        "avg30": 38.22,
+        "idProduct": 658880,
+        "avg": 9.52,
+        "low": 3,
+        "trend": 10.02,
+        "avg1": 13.32,
+        "avg7": 9.85,
+        "avg30": 9.52,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -623,18 +330,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG07",
-    "illustrator": "Tomomi Kaneko",
-    "localId": "TG07",
-    "name": "Banette",
+    "id": "swsh10.5tg-TG04",
+    "illustrator": "aoki",
+    "localId": "TG04",
+    "name": "Frosmoth",
     "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -652,13 +359,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674227,
-            "avg": 2.3,
-            "low": 0.8,
-            "trend": 2.3,
-            "avg1": 3.17,
-            "avg7": 2.22,
-            "avg30": 2.28,
+            "idProduct": 658881,
+            "avg": 3.45,
+            "low": 1,
+            "trend": 3.07,
+            "avg1": 2.65,
+            "avg7": 3.01,
+            "avg30": 3.33,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -671,51 +378,166 @@
       }
     ],
     "dexId": [
-      354
+      873
     ],
-    "hp": 80,
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Snom",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Danza Helada",
+        "effect": "Todas las veces que quieras durante tu turno, puedes unir 1 carta de Energía Water de tu mano a 1 de tus Pokémon Water en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Rayo Aurora",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658881,
+        "avg": 3.45,
+        "low": 1,
+        "trend": 3.07,
+        "avg1": 2.65,
+        "avg7": 3.01,
+        "avg30": 3.33,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG05",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "TG05",
+    "name": "Gardevoir",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658882,
+            "avg": 6.03,
+            "low": 2.34,
+            "trend": 5.6,
+            "avg1": 6,
+            "avg7": 6.19,
+            "avg30": 5.8,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 140,
     "types": [
       "Psíquico"
     ],
-    "evolveFrom": "Shuppet",
-    "stage": "Fase 1",
+    "evolveFrom": "Kirlia",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Arcano Radiante",
+        "effect": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas en tu mano."
+      }
+    ],
     "attacks": [
       {
         "cost": [
-          "Psíquico"
-        ],
-        "name": "Rencor Audaz",
-        "effect": "Pon hasta 7 contadores de daño en este Pokémon. Este ataque hace 20 puntos de daño por cada contador de daño que hayas colocado de esta manera.",
-        "damage": "20×"
-      },
-      {
-        "cost": [
-          "Psíquico",
+          "Incolora",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Luz Lúgubre",
-        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
-        "damage": 50
+        "name": "Onda Cerebral",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a este Pokémon.",
+        "damage": "60+"
       }
     ],
-    "retreat": 1,
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
     "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674227,
-        "avg": 2.3,
-        "low": 0.8,
-        "trend": 2.3,
-        "avg1": 3.17,
-        "avg7": 2.22,
-        "avg30": 2.28,
+        "idProduct": 658882,
+        "avg": 6.03,
+        "low": 2.34,
+        "trend": 5.6,
+        "avg1": 6,
+        "avg7": 6.19,
+        "avg30": 5.8,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -728,18 +550,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG08",
-    "illustrator": "You Iribi",
-    "localId": "TG08",
-    "name": "Arcanine de Hisui",
+    "id": "swsh10.5tg-TG06",
+    "illustrator": "kirisAki",
+    "localId": "TG06",
+    "name": "Wyrdeer",
     "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -757,322 +579,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674228,
-            "avg": 3.94,
-            "low": 1,
-            "trend": 3.64,
-            "avg1": 3.95,
-            "avg7": 3.86,
-            "avg30": 3.93,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      59
-    ],
-    "hp": 130,
-    "types": [
-      "Lucha"
-    ],
-    "evolveFrom": "Growlithe de Hisui",
-    "stage": "Fase 1",
-    "attacks": [
-      {
-        "name": "Muy Vulnerable",
-        "effect": "Si no tienes ninguna carta en tu mano, este ataque hace 150 puntos de daño más.",
-        "damage": "10+"
-      },
-      {
-        "cost": [
-          "Lucha",
-          "Incolora",
-          "Incolora"
-        ],
-        "name": "Colmillo Afilado",
-        "damage": 100
-      }
-    ],
-    "retreat": 2,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 674228,
-        "avg": 3.94,
-        "low": 1,
-        "trend": 3.64,
-        "avg1": 3.95,
-        "avg7": 3.86,
-        "avg30": 3.93,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG09",
-    "illustrator": "Hitoshi Ariga",
-    "localId": "TG09",
-    "name": "Spiritomb",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.107Z",
-            "unit": "EUR",
-            "idProduct": 674229,
-            "avg": 2.14,
-            "low": 0.49,
-            "trend": 2.18,
-            "avg1": 1.56,
-            "avg7": 2.08,
-            "avg30": 2.18,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      442
-    ],
-    "hp": 60,
-    "types": [
-      "Oscura"
-    ],
-    "stage": "Básico",
-    "abilities": [
-      {
-        "type": "Habilidad",
-        "name": "Mensaje Maldito",
-        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, busca en tu baraja 1 carta y ponla en tu mano. Después, baraja las cartas de tu baraja."
-      }
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Oscura",
-          "Oscura"
-        ],
-        "name": "Cadena de Espíritus",
-        "effect": "Este ataque hace 60 puntos de daño más por cada Spiritomb en tu pila de descartes.",
-        "damage": "10+"
-      }
-    ],
-    "retreat": 2,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.107Z",
-        "unit": "EUR",
-        "idProduct": 674229,
-        "avg": 2.14,
-        "low": 0.49,
-        "trend": 2.18,
-        "avg1": 1.56,
-        "avg7": 2.08,
-        "avg30": 2.18,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG10",
-    "illustrator": "Kouki Saitou",
-    "localId": "TG10",
-    "name": "Snorlax",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.137Z",
-            "unit": "EUR",
-            "idProduct": 670829,
-            "avg": 13.37,
-            "low": 4.5,
-            "trend": 12.57,
-            "avg1": 12.53,
-            "avg7": 11.99,
-            "avg30": 12.95,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      143
-    ],
-    "hp": 150,
-    "types": [
-      "Incolora"
-    ],
-    "stage": "Básico",
-    "abilities": [
-      {
-        "type": "Habilidad",
-        "name": "Grasa Impávida",
-        "effect": "Evita todos los efectos de los ataques de los Pokémon de tu rival infligidos a este Pokémon. (El daño no es un efecto)."
-      }
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Incolora",
-          "Incolora",
-          "Incolora"
-        ],
-        "name": "Ronquido Descomunal",
-        "effect": "Este Pokémon pasa a estar Dormido. Durante el Chequeo Pokémon, lanza 2 monedas en vez de 1. Si sale cruz en alguna de ellas, este Pokémon sigue Dormido.",
-        "damage": 180
-      }
-    ],
-    "retreat": 4,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
-        "unit": "EUR",
-        "idProduct": 670829,
-        "avg": 13.37,
-        "low": 4.5,
-        "trend": 12.57,
-        "avg1": 12.53,
-        "avg7": 11.99,
-        "avg30": 12.95,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG11",
-    "illustrator": "Atsushi Furusawa",
-    "localId": "TG11",
-    "name": "Castform",
-    "rarity": "Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 674230,
-            "avg": 1.84,
+            "idProduct": 658883,
+            "avg": 2.33,
             "low": 0.5,
-            "trend": 1.82,
-            "avg1": 1.74,
-            "avg7": 1.88,
-            "avg30": 1.86,
+            "trend": 2.53,
+            "avg1": 2.25,
+            "avg7": 2.53,
+            "avg30": 2.35,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1085,462 +598,62 @@
       }
     ],
     "dexId": [
-      351
+      899
     ],
-    "hp": 70,
+    "hp": 140,
     "types": [
-      "Incolora"
+      "Psíquico"
     ],
-    "stage": "Básico",
+    "evolveFrom": "Stantler",
+    "stage": "Fase 1",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Interpretación del Tiempo",
-        "effect": "Si tienes 8 cartas de Estadio o más en tu pila de descartes, ignora todas las Energías en el coste de los ataques de este Pokémon."
+        "name": "Marcha Apresurada",
+        "effect": "Una vez durante tu turno, puedes robar 1 carta."
       }
     ],
     "attacks": [
       {
         "cost": [
           "Incolora",
-          "Incolora",
           "Incolora"
         ],
-        "name": "Fuerza Climática",
-        "effect": "Roba cartas hasta que tengas 6 cartas en tu mano.",
-        "damage": 80
-      }
-    ],
-    "retreat": 0,
-    "regulationMark": "E",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 674230,
-        "avg": 1.84,
-        "low": 0.5,
-        "trend": 1.82,
-        "avg1": 1.74,
-        "avg7": 1.88,
-        "avg30": 1.86,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG12",
-    "illustrator": "Nisota Niso",
-    "localId": "TG12",
-    "name": "Orbeetle V",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 674231,
-            "avg": 7.03,
-            "low": 3.99,
-            "trend": 6.91,
-            "avg1": 6.94,
-            "avg7": 6.67,
-            "avg30": 7.02,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      826
-    ],
-    "hp": 180,
-    "types": [
-      "Planta"
-    ],
-    "stage": "Básico",
-    "suffix": "V",
-    "attacks": [
-      {
-        "cost": [
-          "Planta"
-        ],
-        "name": "Pasada de Ataque",
-        "effect": "Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca.",
-        "damage": 20
-      },
-      {
-        "cost": [
-          "Planta",
-          "Incolora"
-        ],
-        "name": "Onda Misteriosa",
-        "effect": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
-        "damage": "50+"
-      }
-    ],
-    "retreat": 1,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 674231,
-        "avg": 7.03,
-        "low": 3.99,
-        "trend": 6.91,
-        "avg1": 6.94,
-        "avg7": 6.67,
-        "avg30": 7.02,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG13",
-    "illustrator": "Teeziro",
-    "localId": "TG13",
-    "name": "Orbeetle VMAX",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 674232,
-            "avg": 7.72,
-            "low": 3.7,
-            "trend": 5.74,
-            "avg1": 9.25,
-            "avg7": 7.83,
-            "avg30": 8.95,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      826
-    ],
-    "hp": 310,
-    "types": [
-      "Planta"
-    ],
-    "evolveFrom": "Orbeetle V",
-    "stage": "VMAX",
-    "abilities": [
-      {
-        "type": "Habilidad",
-        "name": "Rayo Espeluznante",
-        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes poner 1 contador de daño en cada uno de los Pokémon de tu rival."
-      }
-    ],
-    "attacks": [
-      {
-        "cost": [
-          "Planta",
-          "Incolora"
-        ],
-        "name": "Gigaonda",
-        "effect": "Este ataque hace 50 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
-        "damage": "50+"
-      }
-    ],
-    "retreat": 1,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 674232,
-        "avg": 7.72,
-        "low": 3.7,
-        "trend": 5.74,
-        "avg1": 9.25,
-        "avg7": 7.83,
-        "avg30": 8.95,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG14",
-    "illustrator": "Yuya Oka",
-    "localId": "TG14",
-    "name": "Centiskorch V",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 670830,
-            "avg": 4.86,
-            "low": 2.9,
-            "trend": 5.26,
-            "avg1": 3.95,
-            "avg7": 5.58,
-            "avg30": 4.98,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      851
-    ],
-    "hp": 210,
-    "types": [
-      "Fuego"
-    ],
-    "stage": "Básico",
-    "suffix": "V",
-    "attacks": [
-      {
-        "cost": [
-          "Fuego"
-        ],
-        "name": "Calor Radiante",
-        "effect": "Puedes descartar 1 Energía de este Pokémon. Si lo haces, descarta 1 Energía del Pokémon Activo de tu rival.",
-        "damage": 20
-      },
-      {
-        "cost": [
-          "Fuego",
-          "Fuego",
-          "Fuego",
-          "Fuego"
-        ],
-        "name": "Tren Ardiente",
-        "damage": 180
-      }
-    ],
-    "retreat": 3,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:24.820Z",
-        "unit": "EUR",
-        "idProduct": 670830,
-        "avg": 4.86,
-        "low": 2.9,
-        "trend": 5.26,
-        "avg1": 3.95,
-        "avg7": 5.58,
-        "avg30": 4.98,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG15",
-    "illustrator": "Oswaldo KATO",
-    "localId": "TG15",
-    "name": "Centiskorch VMAX",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:24.820Z",
-            "unit": "EUR",
-            "idProduct": 674233,
-            "avg": 6.95,
-            "low": 4,
-            "trend": 7.16,
-            "avg1": 7.25,
-            "avg7": 6.74,
-            "avg30": 6.74,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      851
-    ],
-    "hp": 320,
-    "types": [
-      "Fuego"
-    ],
-    "evolveFrom": "Centiskorch V",
-    "stage": "VMAX",
-    "attacks": [
-      {
-        "cost": [
-          "Incolora",
-          "Incolora"
-        ],
-        "name": "Gigacienfuegos",
-        "effect": "Este ataque hace 40 puntos de daño más por cada Energía Fire unida a este Pokémon. Si has infligido daño con este ataque, puedes unir 1 carta de Energía Fire de tu pila de descartes a este Pokémon.",
+        "name": "Paranormal",
+        "effect": "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 80 puntos de daño más.",
         "damage": "40+"
       }
     ],
-    "retreat": 3,
-    "regulationMark": "D",
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674233,
-        "avg": 6.95,
-        "low": 4,
-        "trend": 7.16,
-        "avg1": 7.25,
-        "avg7": 6.74,
-        "avg30": 6.74,
+        "idProduct": 658883,
+        "avg": 2.33,
+        "low": 0.5,
+        "trend": 2.53,
+        "avg1": 2.25,
+        "avg7": 2.53,
+        "avg30": 2.35,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -1553,18 +666,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG16",
-    "illustrator": "Ryota Murayama",
-    "localId": "TG16",
-    "name": "Pikachu V",
-    "rarity": "Ultra Rara",
+    "id": "swsh10.5tg-TG07",
+    "illustrator": "Kinu Nishimura",
+    "localId": "TG07",
+    "name": "Falinks",
+    "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -1582,13 +695,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674234,
-            "avg": 151.11,
-            "low": 39.95,
-            "trend": 129.19,
-            "avg1": 111,
-            "avg7": 130.72,
-            "avg30": 150.14,
+            "idProduct": 658884,
+            "avg": 2.96,
+            "low": 0.65,
+            "trend": 3.17,
+            "avg1": 3.18,
+            "avg7": 3.03,
+            "avg30": 2.97,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1601,51 +714,48 @@
       }
     ],
     "dexId": [
-      25
+      870
     ],
-    "hp": 190,
+    "hp": 110,
     "types": [
-      "Rayo"
+      "Lucha"
     ],
     "stage": "Básico",
-    "suffix": "V",
     "attacks": [
       {
         "cost": [
-          "Rayo"
-        ],
-        "name": "Carga",
-        "effect": "Busca en tu baraja hasta 2 cartas de Energía Lightning y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
-      },
-      {
-        "cost": [
-          "Rayo",
-          "Rayo",
+          "Lucha",
           "Incolora"
         ],
-        "name": "Rayo",
-        "effect": "Descarta todas las Energías de este Pokémon.",
-        "damage": 200
+        "name": "Escuadrón Golpe Fluido",
+        "effect": "Este ataque hace 20 puntos de daño por cada uno de tus Pokémon Golpe Fluido en juego.",
+        "damage": "20×"
       }
     ],
-    "retreat": 1,
-    "regulationMark": "D",
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674234,
-        "avg": 151.11,
-        "low": 39.95,
-        "trend": 129.19,
-        "avg1": 111,
-        "avg7": 130.72,
-        "avg30": 150.14,
+        "idProduct": 658884,
+        "avg": 2.96,
+        "low": 0.65,
+        "trend": 3.17,
+        "avg1": 3.18,
+        "avg7": 3.03,
+        "avg30": 2.97,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -1658,18 +768,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG17",
+    "id": "swsh10.5tg-TG08",
     "illustrator": "Souichirou Gunjima",
-    "localId": "TG17",
-    "name": "Pikachu VMAX",
-    "rarity": "Ultra Rara",
+    "localId": "TG08",
+    "name": "Kleavor",
+    "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -1687,13 +797,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674235,
-            "avg": 110.33,
-            "low": 30,
-            "trend": 94.5,
-            "avg1": 72,
-            "avg7": 106.08,
-            "avg30": 113.85,
+            "idProduct": 658885,
+            "avg": 3.11,
+            "low": 1,
+            "trend": 3.02,
+            "avg1": 2.1,
+            "avg7": 3.25,
+            "avg30": 3.23,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1706,24 +816,258 @@
       }
     ],
     "dexId": [
-      25
+      900
     ],
-    "hp": 310,
+    "hp": 140,
     "types": [
-      "Rayo"
+      "Lucha"
     ],
-    "evolveFrom": "Pikachu V",
-    "stage": "VMAX",
+    "evolveFrom": "Scyther",
+    "stage": "Fase 1",
     "attacks": [
       {
         "cost": [
-          "Rayo",
-          "Rayo",
-          "Rayo"
+          "Incolora",
+          "Incolora"
         ],
-        "name": "Gigaplacaje Eléctrico",
-        "effect": "Puedes descartar todas las Energías de este Pokémon. Si lo haces, este ataque hace 150 puntos de daño más.",
-        "damage": "120+"
+        "name": "Cortamadera",
+        "effect": "Lanza 2 monedas. Si ambas son cara, el Pokémon Activo de tu rival queda Fuera de Combate."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Placaje Locura",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658885,
+        "avg": 3.11,
+        "low": 1,
+        "trend": 3.02,
+        "avg1": 2.1,
+        "avg7": 3.25,
+        "avg30": 3.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG09",
+    "illustrator": "GOSSAN",
+    "localId": "TG09",
+    "name": "Mightyena",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658886,
+            "avg": 3.27,
+            "low": 0.99,
+            "trend": 3.25,
+            "avg1": 2.9,
+            "avg7": 3.2,
+            "avg30": 3.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      262
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Poochyena",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ladrido Apremiante",
+        "effect": "Si tu rival tiene algún Pokémon VMAX en juego, los ataques de este Pokémon cuestan ColorlessColorlessColorless menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Salvaje",
+        "effect": "Este Pokémon también se hace 50 puntos de daño a sí mismo.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658886,
+        "avg": 3.27,
+        "low": 0.99,
+        "trend": 3.25,
+        "avg1": 2.9,
+        "avg7": 3.2,
+        "avg30": 3.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG10",
+    "illustrator": "GOSSAN",
+    "localId": "TG10",
+    "name": "Obstagoon de Galar",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658887,
+            "avg": 2.31,
+            "low": 0.5,
+            "trend": 2.09,
+            "avg1": 1.5,
+            "avg7": 2.01,
+            "avg30": 2.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      862
+    ],
+    "hp": 160,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Linoone de Galar",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Grito Salvaje",
+        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Obstrucción",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
       }
     ],
     "retreat": 2,
@@ -1732,18 +1076,18 @@
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674235,
-        "avg": 110.33,
-        "low": 30,
-        "trend": 94.5,
-        "avg1": 72,
-        "avg7": 106.08,
-        "avg30": 113.85,
+        "idProduct": 658887,
+        "avg": 2.31,
+        "low": 0.5,
+        "trend": 2.09,
+        "avg1": 1.5,
+        "avg7": 2.01,
+        "avg30": 2.26,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -1756,18 +1100,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG18",
-    "illustrator": "AKIRA EGAWA",
-    "localId": "TG18",
-    "name": "Enamorus V",
-    "rarity": "Ultra Rara",
+    "id": "swsh10.5tg-TG11",
+    "illustrator": "Hataya",
+    "localId": "TG11",
+    "name": "Bronzong",
+    "rarity": "Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -1785,13 +1129,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:24.820Z",
             "unit": "EUR",
-            "idProduct": 674236,
-            "avg": 8.69,
-            "low": 5.95,
-            "trend": 10.79,
-            "avg1": 9,
-            "avg7": 9.21,
-            "avg30": 8.99,
+            "idProduct": 658888,
+            "avg": 2.89,
+            "low": 0.9,
+            "trend": 2.88,
+            "avg1": 2.41,
+            "avg7": 2.6,
+            "avg30": 2.79,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1804,7 +1148,572 @@
       }
     ],
     "dexId": [
-      905
+      437
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Bronzor",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Traspaso Metálico",
+        "effect": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía Metal de 1 de tus Pokémon a otro de tus Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cabezazo Zen",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658888,
+        "avg": 2.89,
+        "low": 0.9,
+        "trend": 2.88,
+        "avg1": 2.41,
+        "avg7": 2.6,
+        "avg30": 2.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG12",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "TG12",
+    "name": "Hoothoot",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658889,
+            "avg": 5.83,
+            "low": 2.16,
+            "trend": 6.55,
+            "avg1": 6.2,
+            "avg7": 5.84,
+            "avg30": 6.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      163
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Posición Centinela",
+        "effect": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aleteo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658889,
+        "avg": 5.83,
+        "low": 2.16,
+        "trend": 6.55,
+        "avg1": 6.2,
+        "avg7": 5.84,
+        "avg30": 6.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG13",
+    "illustrator": "Akira Komayama",
+    "localId": "TG13",
+    "name": "Starmie V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658890,
+            "avg": 103.31,
+            "low": 40,
+            "trend": 91.63,
+            "avg1": 65,
+            "avg7": 102.89,
+            "avg30": 101.56,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      121
+    ],
+    "hp": 190,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rapidez",
+        "effect": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Espiral de Energía",
+        "effect": "Este ataque hace 50 puntos de daño por cada Energía unida a todos los Pokémon de tu rival.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658890,
+        "avg": 103.31,
+        "low": 40,
+        "trend": 91.63,
+        "avg1": 65,
+        "avg7": 102.89,
+        "avg30": 101.56,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG14",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "TG14",
+    "name": "Calyrex Jinete Glacial V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658891,
+            "avg": 10.14,
+            "low": 3.99,
+            "trend": 10.73,
+            "avg1": 9.5,
+            "avg7": 10.81,
+            "avg30": 10.33,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      898
+    ],
+    "hp": 210,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Perforar",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Lanza Glacial",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658891,
+        "avg": 10.14,
+        "low": 3.99,
+        "trend": 10.73,
+        "avg1": 9.5,
+        "avg7": 10.81,
+        "avg30": 10.33,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG15",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "TG15",
+    "name": "Calyrex Jinete Glacial VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658892,
+            "avg": 9.77,
+            "low": 5.5,
+            "trend": 9.97,
+            "avg1": 10,
+            "avg7": 9.43,
+            "avg30": 9.52,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      898
+    ],
+    "hp": 320,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Calyrex Jinete Glacial V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Paseo del Emperador",
+        "effect": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Maxilanza",
+        "effect": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658892,
+        "avg": 9.77,
+        "low": 5.5,
+        "trend": 9.97,
+        "avg1": 10,
+        "avg7": 9.43,
+        "avg30": 9.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG16",
+    "illustrator": "Kouki Saitou",
+    "localId": "TG16",
+    "name": "Articuno de Galar V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658893,
+            "avg": 15.68,
+            "low": 6.98,
+            "trend": 14.77,
+            "avg1": 16.9,
+            "avg7": 14.5,
+            "avg30": 14.95,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      144
     ],
     "hp": 210,
     "types": [
@@ -1815,8 +1724,8 @@
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Guardián del Amor",
-        "effect": "Evita todos los efectos de las habilidades de los Pokémon de tu rival infligidos a cada uno de tus Pokémon que tenga alguna Energía Psychic unida a él, excepto a los Enamorus V."
+        "name": "Reconstitución",
+        "effect": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."
       }
     ],
     "attacks": [
@@ -1826,29 +1735,41 @@
           "Incolora",
           "Incolora"
         ],
-        "name": "Cola Floración",
-        "effect": "Une hasta 2 cartas de Energía Básica de tu pila de descartes a tus Pokémon en Banca de la manera que desees.",
-        "damage": 100
+        "name": "Rayo Psíquico",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
       }
     ],
     "retreat": 2,
-    "regulationMark": "F",
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674236,
-        "avg": 8.69,
-        "low": 5.95,
-        "trend": 10.79,
-        "avg1": 9,
-        "avg7": 9.21,
-        "avg30": 8.99,
+        "idProduct": 658893,
+        "avg": 15.68,
+        "low": 6.98,
+        "trend": 14.77,
+        "avg1": 16.9,
+        "avg7": 14.5,
+        "avg30": 14.95,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -1861,18 +1782,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG19",
-    "illustrator": "Souichirou Gunjima",
-    "localId": "TG19",
-    "name": "Gallade V",
+    "id": "swsh10.5tg-TG17",
+    "illustrator": "Oswaldo KATO",
+    "localId": "TG17",
+    "name": "Calyrex Jinete Espectral V",
     "rarity": "Ultra Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -1890,13 +1811,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:25.103Z",
             "unit": "EUR",
-            "idProduct": 670831,
-            "avg": 9.38,
-            "low": 2.85,
-            "trend": 11.55,
-            "avg1": 16.88,
-            "avg7": 10.81,
-            "avg30": 9.6,
+            "idProduct": 658894,
+            "avg": 10.11,
+            "low": 3.33,
+            "trend": 9,
+            "avg1": 9.98,
+            "avg7": 9.34,
+            "avg30": 9.94,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1909,157 +1830,292 @@
       }
     ],
     "dexId": [
-      475
+      898
     ],
-    "hp": 220,
+    "hp": 210,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Neblina Espectral",
+        "effect": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Energía Especial o de Estadio de su mano.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Orbes Espectro",
+        "effect": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:25.103Z",
+        "unit": "EUR",
+        "idProduct": 658894,
+        "avg": 10.11,
+        "low": 3.33,
+        "trend": 9,
+        "avg1": 9.98,
+        "avg7": 9.34,
+        "avg30": 9.94,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG18",
+    "illustrator": "chibi",
+    "localId": "TG18",
+    "name": "Calyrex Jinete Espectral VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:25.103Z",
+            "unit": "EUR",
+            "idProduct": 658895,
+            "avg": 10.26,
+            "low": 5,
+            "trend": 11,
+            "avg1": 11,
+            "avg7": 11.5,
+            "avg30": 10.62,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      898
+    ],
+    "hp": 320,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Calyrex Jinete Espectral V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Puerta del Inframundo",
+        "effect": "Una vez durante tu turno, puedes unir 1 carta de Energía Psychic de tu mano a 1 de tus Pokémon Psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxiespíritu",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a todos tus Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:25.103Z",
+        "unit": "EUR",
+        "idProduct": 658895,
+        "avg": 10.26,
+        "low": 5,
+        "trend": 11,
+        "avg1": 11,
+        "avg7": 11.5,
+        "avg30": 10.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG19",
+    "illustrator": "kirisAki",
+    "localId": "TG19",
+    "name": "Zapdos de Galar V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:25.103Z",
+            "unit": "EUR",
+            "idProduct": 658896,
+            "avg": 16.05,
+            "low": 3.2,
+            "trend": 14.75,
+            "avg1": 12,
+            "avg7": 11.72,
+            "avg30": 14.6,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      145
+    ],
+    "hp": 200,
     "types": [
       "Lucha"
     ],
     "stage": "Básico",
     "suffix": "V",
-    "attacks": [
-      {
-        "cost": [
-          "Lucha",
-          "Incolora"
-        ],
-        "name": "Espada Ascendente",
-        "effect": "Este ataque hace 50 puntos de daño más por cada carta de Premio que hayas cogido.",
-        "damage": "20+"
-      },
-      {
-        "cost": [
-          "Lucha",
-          "Lucha",
-          "Incolora"
-        ],
-        "name": "Golpe Destructor",
-        "effect": "El daño de este ataque no se ve afectado por Resistencia.",
-        "damage": 130
-      }
-    ],
-    "retreat": 2,
-    "regulationMark": "F",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 670831,
-        "avg": 9.38,
-        "low": 2.85,
-        "trend": 11.55,
-        "avg1": 16.88,
-        "avg7": 10.81,
-        "avg30": 9.6,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG20",
-    "illustrator": "GOSSAN",
-    "localId": "TG20",
-    "name": "Crobat V",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674237,
-            "avg": 11.92,
-            "low": 6,
-            "trend": 13.91,
-            "avg1": 12.49,
-            "avg7": 11.67,
-            "avg30": 11.94,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      169
-    ],
-    "hp": 180,
-    "types": [
-      "Oscura"
-    ],
-    "stage": "Básico",
-    "suffix": "V",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Recurso Oscuro",
-        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes robar cartas hasta que tengas 6 cartas en tu mano. No puedes usar más de 1 habilidad Recurso Oscuro en cada turno."
+        "name": "Instinto de Lucha",
+        "effect": "Los ataques de este Pokémon cuestan Colorless menos por cada uno de los Pokémon V en juego de tu rival."
       }
     ],
     "attacks": [
       {
         "cost": [
-          "Oscura",
+          "Lucha",
+          "Incolora",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Colmillo Nocivo",
-        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
-        "damage": 70
+        "name": "Patada Relámpago",
+        "effect": "Antes de infligir daño, descarta 1 Energía Especial del Pokémon Activo de tu rival.",
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
       }
     ],
     "retreat": 1,
-    "regulationMark": "D",
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:25.103Z",
         "unit": "EUR",
-        "idProduct": 674237,
-        "avg": 11.92,
-        "low": 6,
-        "trend": 13.91,
-        "avg1": 12.49,
-        "avg7": 11.67,
-        "avg30": 11.94,
+        "idProduct": 658896,
+        "avg": 16.05,
+        "low": 3.2,
+        "trend": 14.75,
+        "avg1": 12,
+        "avg7": 11.72,
+        "avg30": 14.6,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -2072,18 +2128,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG21",
-    "illustrator": "kodama",
-    "localId": "TG21",
-    "name": "Eternatus V",
+    "id": "swsh10.5tg-TG20",
+    "illustrator": "Jiro Sasumo",
+    "localId": "TG20",
+    "name": "Moltres de Galar V",
     "rarity": "Ultra Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -2101,13 +2157,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:25.103Z",
             "unit": "EUR",
-            "idProduct": 674238,
-            "avg": 5.44,
-            "low": 3,
-            "trend": 5.85,
-            "avg1": 5.95,
-            "avg7": 5.73,
-            "avg30": 5.48,
+            "idProduct": 658897,
+            "avg": 25.34,
+            "low": 9.99,
+            "trend": 21.92,
+            "avg1": 23.9,
+            "avg7": 19.77,
+            "avg30": 23.94,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -2120,7 +2176,7 @@
       }
     ],
     "dexId": [
-      890
+      146
     ],
     "hp": 220,
     "types": [
@@ -2128,45 +2184,49 @@
     ],
     "stage": "Básico",
     "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Alas Incendiarias",
+        "effect": "Una vez durante tu turno, puedes unir 1 carta de Energía Darkness de tu pila de descartes a este Pokémon. No puedes usar más de 1 habilidad Alas Incendiarias en cada turno."
+      }
+    ],
     "attacks": [
       {
         "cost": [
-          "Incolora"
-        ],
-        "name": "Acelerador de Potencia",
-        "effect": "Puedes unir 1 carta de Energía Darkness de tu mano a 1 de tus Pokémon en Banca.",
-        "damage": 30
-      },
-      {
-        "cost": [
           "Oscura",
-          "Incolora",
-          "Incolora",
+          "Oscura",
           "Incolora"
         ],
-        "name": "Cañón Dinamax",
-        "effect": "Si el Pokémon Activo de tu rival es un Pokémon VMAX, este ataque hace 120 puntos de daño más.",
-        "damage": "120+"
+        "name": "Aura Abrasadora",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
       }
     ],
     "retreat": 2,
-    "regulationMark": "D",
+    "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
         "updated": "2026-07-28T08:02:25.103Z",
         "unit": "EUR",
-        "idProduct": 674238,
-        "avg": 5.44,
-        "low": 3,
-        "trend": 5.85,
-        "avg1": 5.95,
-        "avg7": 5.73,
-        "avg30": 5.48,
+        "idProduct": 658897,
+        "avg": 25.34,
+        "low": 9.99,
+        "trend": 21.92,
+        "avg1": 23.9,
+        "avg7": 19.77,
+        "avg30": 23.94,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
@@ -2179,18 +2239,18 @@
   },
   {
     "category": "Pokémon",
-    "id": "swsh11.5tg-TG22",
-    "illustrator": "Mitsuhiro Arita",
-    "localId": "TG22",
-    "name": "Eternatus VMAX",
+    "id": "swsh10.5tg-TG21",
+    "illustrator": "aoki",
+    "localId": "TG21",
+    "name": "Zacian V",
     "rarity": "Ultra Rara",
     "set": {
       "cardCount": {
         "official": 30,
         "total": 30
       },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
     },
     "variants": {
       "firstEdition": false,
@@ -2208,13 +2268,13 @@
           "cardmarket": {
             "updated": "2026-07-28T08:02:25.103Z",
             "unit": "EUR",
-            "idProduct": 674239,
-            "avg": 11.08,
-            "low": 4.5,
-            "trend": 11.85,
-            "avg1": 11.83,
-            "avg7": 12.19,
-            "avg30": 11.43,
+            "idProduct": 658898,
+            "avg": 25.04,
+            "low": 7.99,
+            "trend": 26.36,
+            "avg1": 20,
+            "avg7": 29.05,
+            "avg30": 25.67,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -2227,723 +2287,926 @@
       }
     ],
     "dexId": [
-      890
+      888
     ],
-    "hp": 340,
+    "hp": 220,
     "types": [
-      "Oscura"
+      "Metálica"
     ],
-    "evolveFrom": "Eternatus V",
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Espada Indómita",
+        "effect": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Cuchilla Osada",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 230
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:25.103Z",
+        "unit": "EUR",
+        "idProduct": 658898,
+        "avg": 25.04,
+        "low": 7.99,
+        "trend": 26.36,
+        "avg1": 20,
+        "avg7": 29.05,
+        "avg30": 25.67,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG22",
+    "illustrator": "Ryuta Fuse",
+    "localId": "TG22",
+    "name": "Zamazenta V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:25.103Z",
+            "unit": "EUR",
+            "idProduct": 658899,
+            "avg": 10.33,
+            "low": 3.45,
+            "trend": 10.94,
+            "avg1": 11,
+            "avg7": 10.7,
+            "avg30": 10.5,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      889
+    ],
+    "hp": 230,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Escudo Recio",
+        "effect": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon VMAX de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Placaje Asalto",
+        "effect": "Descarta 1 Energía Especial del Pokémon Activo de tu rival.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:25.103Z",
+        "unit": "EUR",
+        "idProduct": 658899,
+        "avg": 10.33,
+        "low": 3.45,
+        "trend": 10.94,
+        "avg1": 11,
+        "avg7": 10.7,
+        "avg30": 10.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG23",
+    "illustrator": "Taira Akitsu",
+    "localId": "TG23",
+    "name": "Garchomp V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658900,
+            "avg": 75.24,
+            "low": 20,
+            "trend": 79.44,
+            "avg1": 52.99,
+            "avg7": 81.7,
+            "avg30": 74.16,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      445
+    ],
+    "hp": 200,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Agua",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Sónico",
+        "effect": "Descarta 3 Energías de este Pokémon. Este ataque hace 220 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "F",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658900,
+        "avg": 75.24,
+        "low": 20,
+        "trend": 79.44,
+        "avg1": 52.99,
+        "avg7": 81.7,
+        "avg30": 74.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh10.5tg-TG24",
+    "illustrator": "Jiro Sasumo",
+    "localId": "TG24",
+    "name": "Alistair",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:25.103Z",
+            "unit": "EUR",
+            "idProduct": 658901,
+            "avg": 4.92,
+            "low": 1.98,
+            "trend": 4.94,
+            "avg1": 3.3,
+            "avg7": 4.89,
+            "avg30": 4.9,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Roba 3 cartas. Si has robado alguna carta de esta manera, descarta hasta 3 cartas de tu mano. (Debes descartar por lo menos 1 carta).",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:25.103Z",
+        "unit": "EUR",
+        "idProduct": 658901,
+        "avg": 4.92,
+        "low": 1.98,
+        "trend": 4.94,
+        "avg1": 3.3,
+        "avg7": 4.89,
+        "avg30": 4.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh10.5tg-TG25",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "TG25",
+    "name": "Judith",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658902,
+            "avg": 5.21,
+            "low": 1,
+            "trend": 4.72,
+            "avg1": 4,
+            "avg7": 4.11,
+            "avg30": 5.06,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Descarta las 5 primeras cartas de tu baraja y une cualquier carta de Energía que hayas descartado de esta manera a tus Pokémon Fighting en Banca de la manera que desees.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658902,
+        "avg": 5.21,
+        "low": 1,
+        "trend": 4.72,
+        "avg1": 4,
+        "avg7": 4.11,
+        "avg30": 5.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh10.5tg-TG26",
+    "illustrator": "nagimiso",
+    "localId": "TG26",
+    "name": "Mel",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658903,
+            "avg": 3.94,
+            "low": 1.85,
+            "trend": 3.73,
+            "avg1": 3.77,
+            "avg7": 3.7,
+            "avg30": 3.9,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Une 1 carta de Energía Water de tu pila de descartes a 1 de tus Pokémon V. Si lo haces, roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658903,
+        "avg": 3.94,
+        "low": 1.85,
+        "trend": 3.73,
+        "avg1": 3.77,
+        "avg7": 3.7,
+        "avg30": 3.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh10.5tg-TG27",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "TG27",
+    "name": "Percy",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658904,
+            "avg": 2.95,
+            "low": 0.95,
+            "trend": 2.7,
+            "avg1": 2.9,
+            "avg7": 2.55,
+            "avg30": 2.87,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Descarta hasta 2 cartas de tu mano y roba 2 cartas por cada carta que hayas descartado de esta manera.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658904,
+        "avg": 2.95,
+        "low": 0.95,
+        "trend": 2.7,
+        "avg1": 2.9,
+        "avg7": 2.55,
+        "avg30": 2.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh10.5tg-TG28",
+    "illustrator": "GOSSAN",
+    "localId": "TG28",
+    "name": "Nerio",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658905,
+            "avg": 3.37,
+            "low": 1.95,
+            "trend": 3.35,
+            "avg1": 4.39,
+            "avg7": 3.57,
+            "avg30": 3.49,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Busca en tu baraja 1 carta de Energía y 1 carta de Pokémon Darkness, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658905,
+        "avg": 3.37,
+        "low": 1.95,
+        "trend": 3.35,
+        "avg1": 4.39,
+        "avg7": 3.57,
+        "avg30": 3.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG29",
+    "illustrator": "5ban Graphics",
+    "localId": "TG29",
+    "name": "Calyrex Jinete Glacial VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658906,
+            "avg": 3.26,
+            "low": 0.99,
+            "trend": 2.58,
+            "avg1": 3.25,
+            "avg7": 2.64,
+            "avg30": 3.41,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      898
+    ],
+    "hp": 320,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Calyrex Jinete Glacial V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Paseo del Emperador",
+        "effect": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Maxilanza",
+        "effect": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-11T09:51:48+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-28T08:02:24.820Z",
+        "unit": "EUR",
+        "idProduct": 658906,
+        "avg": 3.26,
+        "low": 0.99,
+        "trend": 2.58,
+        "avg1": 3.25,
+        "avg7": 2.64,
+        "avg30": 3.41,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh10.5tg-TG30",
+    "illustrator": "5ban Graphics",
+    "localId": "TG30",
+    "name": "Calyrex Jinete Espectral VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh10.5tg",
+      "name": "Resplandor Astral Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "foil": "Oro",
+        "variantId": "8ebbnojbbdlcw08zyl",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-28T08:02:24.820Z",
+            "unit": "EUR",
+            "idProduct": 658907,
+            "avg": 3.38,
+            "low": 1,
+            "trend": 2.57,
+            "avg1": 2.88,
+            "avg7": 2.58,
+            "avg30": 3.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      898
+    ],
+    "hp": 320,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Calyrex Jinete Espectral V",
     "stage": "VMAX",
     "abilities": [
       {
         "type": "Habilidad",
-        "name": "Zona Eterna",
-        "effect": "Si todos tus Pokémon en juego son de tipo Darkness, puedes tener hasta 8 Pokémon en tu Banca y no puedes poner Pokémon no Darkness en juego. (Si esta habilidad deja de funcionar, descarta Pokémon de tu Banca hasta que tengas 5)."
+        "name": "Puerta del Inframundo",
+        "effect": "Una vez durante tu turno, puedes unir 1 carta de Energía Psychic de tu mano a 1 de tus Pokémon Psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
       }
     ],
-    "attacks": [
-      {
-        "cost": [
-          "Oscura",
-          "Incolora"
-        ],
-        "name": "Final Temido",
-        "effect": "Este ataque hace 30 puntos de daño por cada uno de tus Pokémon Darkness en juego.",
-        "damage": "30×"
-      }
-    ],
-    "retreat": 3,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674239,
-        "avg": 11.08,
-        "low": 4.5,
-        "trend": 11.85,
-        "avg1": 11.83,
-        "avg7": 12.19,
-        "avg30": 11.43,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG23",
-    "illustrator": "Taira Akitsu",
-    "localId": "TG23",
-    "name": "Descubrimiento de Aventurera",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674240,
-            "avg": 3.15,
-            "low": 0.89,
-            "trend": 2.82,
-            "avg1": 2.5,
-            "avg7": 2.8,
-            "avg30": 3.13,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Busca en tu baraja hasta 3 Pokémon V, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja.",
-    "trainerType": "Partidario",
-    "regulationMark": "E",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674240,
-        "avg": 3.15,
-        "low": 0.89,
-        "trend": 2.82,
-        "avg1": 2.5,
-        "avg7": 2.8,
-        "avg30": 3.13,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG24",
-    "illustrator": "NC Empire",
-    "localId": "TG24",
-    "name": "Órdenes de Jefes",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674241,
-            "avg": 5.71,
-            "low": 2.69,
-            "trend": 5.42,
-            "avg1": 4.83,
-            "avg7": 5.43,
-            "avg30": 5.74,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo.",
-    "trainerType": "Partidario",
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674241,
-        "avg": 5.71,
-        "low": 2.69,
-        "trend": 5.42,
-        "avg1": 4.83,
-        "avg7": 5.43,
-        "avg30": 5.74,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG25",
-    "illustrator": "Sanosuke Sakuma",
-    "localId": "TG25",
-    "name": "Chef",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 670832,
-            "avg": 2.21,
-            "low": 0.5,
-            "trend": 1.99,
-            "avg1": 1.5,
-            "avg7": 1.92,
-            "avg30": 2.17,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Cura 70 puntos de daño a tu Pokémon Activo.",
-    "trainerType": "Partidario",
-    "regulationMark": "E",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 670832,
-        "avg": 2.21,
-        "low": 0.5,
-        "trend": 1.99,
-        "avg1": 1.5,
-        "avg7": 1.92,
-        "avg30": 2.17,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG26",
-    "illustrator": "Hideki Ishikawa",
-    "localId": "TG26",
-    "name": "Naboru",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674242,
-            "avg": 1.71,
-            "low": 0.5,
-            "trend": 1.63,
-            "avg1": 2.23,
-            "avg7": 1.55,
-            "avg30": 1.72,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 4 cartas. Si tu Pokémon Activo es tu único Pokémon en juego, roba 8 cartas en vez de 4.",
-    "trainerType": "Partidario",
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674242,
-        "avg": 1.71,
-        "low": 0.5,
-        "trend": 1.63,
-        "avg1": 2.23,
-        "avg7": 1.55,
-        "avg30": 1.72,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG27",
-    "illustrator": "saino misaki",
-    "localId": "TG27",
-    "name": "Cathy",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 670833,
-            "avg": 9.63,
-            "low": 2.5,
-            "trend": 5.96,
-            "avg1": 6.28,
-            "avg7": 6.55,
-            "avg30": 9.21,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Pon hasta 4 cartas de Pokémon Water y de Energía Water, en cualquier combinación, de tu pila de descartes en tu mano.",
-    "trainerType": "Partidario",
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 670833,
-        "avg": 9.63,
-        "low": 2.5,
-        "trend": 5.96,
-        "avg1": 6.28,
-        "avg7": 6.55,
-        "avg30": 9.21,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Entrenador",
-    "id": "swsh11.5tg-TG28",
-    "illustrator": "Taira Akitsu",
-    "localId": "TG28",
-    "name": "Sally",
-    "rarity": "Ultra Rara",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "variantId": "jr7oetx1mqug9",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674243,
-            "avg": 1.89,
-            "low": 0.49,
-            "trend": 1.81,
-            "avg1": 1.4,
-            "avg7": 1.83,
-            "avg30": 1.85,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "effect": "Lanza 2 monedas. Busca en tu baraja tantas cartas como veces haya salido cara, ponlas en tu mano y baraja las cartas de tu baraja.",
-    "trainerType": "Partidario",
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674243,
-        "avg": 1.89,
-        "low": 0.49,
-        "trend": 1.81,
-        "avg1": 1.4,
-        "avg7": 1.83,
-        "avg30": 1.85,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG29",
-    "illustrator": "aky CG Works",
-    "localId": "TG29",
-    "name": "Pikachu VMAX",
-    "rarity": "Rara Secreta",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "foil": "Oro",
-        "variantId": "8ebbnojbbdlcw08zyl",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674244,
-            "avg": 17.44,
-            "low": 5,
-            "trend": 15.46,
-            "avg1": 18.73,
-            "avg7": 14.77,
-            "avg30": 16.74,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      25
-    ],
-    "hp": 310,
-    "types": [
-      "Rayo"
-    ],
-    "evolveFrom": "Pikachu V",
-    "stage": "VMAX",
-    "attacks": [
-      {
-        "cost": [
-          "Rayo",
-          "Rayo",
-          "Rayo"
-        ],
-        "name": "Gigaplacaje Eléctrico",
-        "effect": "Puedes descartar todas las Energías de este Pokémon. Si lo haces, este ataque hace 150 puntos de daño más.",
-        "damage": "120+"
-      }
-    ],
-    "retreat": 2,
-    "regulationMark": "D",
-    "legal": {
-      "standard": false,
-      "expanded": true
-    },
-    "updated": "2026-07-05T10:54:50+01:00",
-    "pricing": {
-      "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
-        "unit": "EUR",
-        "idProduct": 674244,
-        "avg": 17.44,
-        "low": 5,
-        "trend": 15.46,
-        "avg1": 18.73,
-        "avg7": 14.77,
-        "avg30": 16.74,
-        "avg-holo": null,
-        "low-holo": null,
-        "trend-holo": 0,
-        "avg1-holo": null,
-        "avg7-holo": null,
-        "avg30-holo": null
-      },
-      "tcgplayer": null
-    }
-  },
-  {
-    "category": "Pokémon",
-    "id": "swsh11.5tg-TG30",
-    "illustrator": "5ban Graphics",
-    "localId": "TG30",
-    "name": "Mew VMAX",
-    "rarity": "Rara Secreta",
-    "set": {
-      "cardCount": {
-        "official": 30,
-        "total": 30
-      },
-      "id": "swsh11.5tg",
-      "name": "Origen Perdido Galería de Entrenador"
-    },
-    "variants": {
-      "firstEdition": false,
-      "holo": true,
-      "normal": false,
-      "reverse": false,
-      "wPromo": false
-    },
-    "variants_detailed": [
-      {
-        "type": "holo",
-        "size": "estándar",
-        "foil": "Oro",
-        "variantId": "8ebbnojbbdlcw08zyl",
-        "pricing": {
-          "cardmarket": {
-            "updated": "2026-07-28T08:02:25.103Z",
-            "unit": "EUR",
-            "idProduct": 674245,
-            "avg": 18.56,
-            "low": 8.48,
-            "trend": 16.93,
-            "avg1": 15.4,
-            "avg7": 17.7,
-            "avg30": 18.56,
-            "avg-holo": null,
-            "low-holo": null,
-            "trend-holo": 0,
-            "avg1-holo": null,
-            "avg7-holo": null,
-            "avg30-holo": null
-          },
-          "tcgplayer": null
-        }
-      }
-    ],
-    "dexId": [
-      151
-    ],
-    "hp": 310,
-    "types": [
-      "Psíquico"
-    ],
-    "evolveFrom": "Mew V",
-    "stage": "VMAX",
     "attacks": [
       {
         "cost": [
           "Incolora",
+          "Incolora",
           "Incolora"
         ],
-        "name": "Golpe Fusión Cruzado",
-        "effect": "Elige 1 de los ataques de tus Pokémon Golpe Fusión en Banca y úsalo para este ataque."
-      },
-      {
-        "cost": [
-          "Psíquico",
-          "Psíquico"
-        ],
-        "name": "Maximilagro",
-        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
-        "damage": 130
+        "name": "Maxiespíritu",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a todos tus Pokémon.",
+        "damage": "10+"
       }
     ],
-    "retreat": 0,
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
     "regulationMark": "E",
     "legal": {
       "standard": false,
       "expanded": true
     },
-    "updated": "2026-07-05T10:54:50+01:00",
+    "updated": "2026-07-11T09:51:48+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-28T08:02:24.820Z",
         "unit": "EUR",
-        "idProduct": 674245,
-        "avg": 18.56,
-        "low": 8.48,
-        "trend": 16.93,
-        "avg1": 15.4,
-        "avg7": 17.7,
-        "avg30": 18.56,
+        "idProduct": 658907,
+        "avg": 3.38,
+        "low": 1,
+        "trend": 2.57,
+        "avg1": 2.88,
+        "avg7": 2.58,
+        "avg30": 3.32,
         "avg-holo": null,
         "low-holo": null,
         "trend-holo": 0,
