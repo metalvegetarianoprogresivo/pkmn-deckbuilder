@@ -60,15 +60,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280879,
         "avg": 0.16,
         "low": 0.02,
-        "trend": 0.16,
-        "avg1": 0.1,
-        "avg7": 0.16,
-        "avg30": 0.15,
+        "trend": 0.17,
+        "avg1": 0.25,
+        "avg7": 0.18,
+        "avg30": 0.16,
         "avg-holo": 1.28,
         "low-holo": 0.15,
         "trend-holo": 0.88,
@@ -78,7 +78,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90547,
           "lowPrice": 0.18,
@@ -90,7 +90,7 @@
         "reverse-holofoil": {
           "productId": 90547,
           "lowPrice": 0.5,
-          "midPrice": 1.47,
+          "midPrice": 1.51,
           "highPrice": 25,
           "marketPrice": 1.51,
           "directLowPrice": null
@@ -158,29 +158,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280880,
         "avg": 0.24,
         "low": 0.02,
-        "trend": 0.16,
+        "trend": 0.17,
         "avg1": 0.45,
         "avg7": 0.17,
         "avg30": 0.15,
         "avg-holo": 0.99,
         "low-holo": 0.2,
-        "trend-holo": 0.98,
-        "avg1-holo": 0.99,
-        "avg7-holo": 0.95,
+        "trend-holo": 0.94,
+        "avg1-holo": 0.49,
+        "avg7-holo": 0.88,
         "avg30-holo": 0.6
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86416,
           "lowPrice": 0.1,
-          "midPrice": 0.34,
+          "midPrice": 0.35,
           "highPrice": 23.49,
           "marketPrice": 0.35,
           "directLowPrice": null
@@ -190,7 +190,7 @@
           "lowPrice": 0.25,
           "midPrice": 0.49,
           "highPrice": 19.98,
-          "marketPrice": 0.5,
+          "marketPrice": 0.51,
           "directLowPrice": null
         }
       }
@@ -265,15 +265,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280881,
         "avg": 0.64,
         "low": 0.02,
-        "trend": 0.46,
-        "avg1": 0.48,
-        "avg7": 0.56,
-        "avg30": 0.61,
+        "trend": 0.49,
+        "avg1": 0.94,
+        "avg7": 0.6,
+        "avg30": 0.62,
         "avg-holo": null,
         "low-holo": 0.5,
         "trend-holo": 2.73,
@@ -283,19 +283,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 83773,
           "lowPrice": 0.35,
           "midPrice": 0.79,
           "highPrice": 19.99,
-          "marketPrice": 1,
+          "marketPrice": 0.98,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 83773,
           "lowPrice": 1,
-          "midPrice": 2.64,
+          "midPrice": 2.4,
           "highPrice": 29.5,
           "marketPrice": 2.95,
           "directLowPrice": null
@@ -378,17 +378,17 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280882,
         "avg": 2.61,
         "low": 0.05,
-        "trend": 2.93,
-        "avg1": 2.45,
+        "trend": 3.06,
+        "avg1": 3.12,
         "avg7": 2.95,
-        "avg30": 2.34,
+        "avg30": 2.43,
         "avg-holo": 7.5,
-        "low-holo": 2.98,
+        "low-holo": 4.99,
         "trend-holo": 6.33,
         "avg1-holo": 8.5,
         "avg7-holo": 6.61,
@@ -396,7 +396,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85350,
           "lowPrice": 2,
@@ -407,10 +407,10 @@
         },
         "reverse-holofoil": {
           "productId": 85350,
-          "lowPrice": 6.05,
-          "midPrice": 8.02,
+          "lowPrice": 6.15,
+          "midPrice": 8.03,
           "highPrice": 79.8,
-          "marketPrice": 7.01,
+          "marketPrice": 7.13,
           "directLowPrice": null
         }
       }
@@ -491,12 +491,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280883,
         "avg": 1.07,
         "low": 0.05,
-        "trend": 1.27,
+        "trend": 1.13,
         "avg1": 1.99,
         "avg7": 1.2,
         "avg30": 0.96,
@@ -509,21 +509,21 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85363,
-          "lowPrice": 4.94,
-          "midPrice": 11.99,
+          "lowPrice": 3.91,
+          "midPrice": 10.25,
           "highPrice": 35.6,
           "marketPrice": 5.34,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 85363,
-          "lowPrice": 10.79,
-          "midPrice": 36.45,
+          "lowPrice": 7.5,
+          "midPrice": 15,
           "highPrice": 90,
-          "marketPrice": 7.98,
+          "marketPrice": 8.29,
           "directLowPrice": null
         }
       }
@@ -603,13 +603,13 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280884,
         "avg": 0.16,
         "low": 0.02,
-        "trend": 0.12,
-        "avg1": 0.05,
+        "trend": 0.19,
+        "avg1": 0.1,
         "avg7": 0.15,
         "avg30": 0.17,
         "avg-holo": 1.98,
@@ -621,19 +621,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90043,
           "lowPrice": 0.2,
-          "midPrice": 0.51,
+          "midPrice": 0.5,
           "highPrice": 23.49,
-          "marketPrice": 0.63,
+          "marketPrice": 0.61,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90043,
           "lowPrice": 1.48,
-          "midPrice": 4.25,
+          "midPrice": 3.62,
           "highPrice": 31.8,
           "marketPrice": 2.81,
           "directLowPrice": null
@@ -715,12 +715,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280885,
         "avg": 0.46,
         "low": 0.02,
-        "trend": 0.47,
+        "trend": 0.4,
         "avg1": 0.2,
         "avg7": 0.51,
         "avg30": 0.36,
@@ -733,11 +733,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85945,
           "lowPrice": 0.21,
-          "midPrice": 0.52,
+          "midPrice": 0.53,
           "highPrice": 23.49,
           "marketPrice": 0.62,
           "directLowPrice": null
@@ -745,9 +745,9 @@
         "reverse-holofoil": {
           "productId": 85945,
           "lowPrice": 0.29,
-          "midPrice": 2.63,
+          "midPrice": 2.53,
           "highPrice": 33.1,
-          "marketPrice": 2.37,
+          "marketPrice": 2.39,
           "directLowPrice": null
         }
       }
@@ -829,7 +829,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280886,
         "avg": 2.99,
@@ -847,14 +847,14 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 88953,
-          "lowPrice": 6.4,
+          "lowPrice": 5.11,
           "midPrice": 8.75,
-          "highPrice": 73.45,
-          "marketPrice": 7.06,
-          "directLowPrice": 7.99
+          "highPrice": 73.37,
+          "marketPrice": 7.1,
+          "directLowPrice": 8
         },
         "reverse-holofoil": {
           "productId": 88953,
@@ -933,25 +933,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280887,
         "avg": 0.1,
         "low": 0.02,
-        "trend": 0.12,
+        "trend": 0.13,
         "avg1": 0.09,
         "avg7": 0.1,
         "avg30": 0.12,
         "avg-holo": 1.95,
         "low-holo": 0.15,
-        "trend-holo": 1.16,
-        "avg1-holo": 1.95,
-        "avg7-holo": 1.17,
+        "trend-holo": 1.14,
+        "avg1-holo": 0.75,
+        "avg7-holo": 1.15,
         "avg30-holo": 0.86
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84077,
           "lowPrice": 0.13,
@@ -1045,31 +1045,31 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280888,
         "avg": 0.46,
         "low": 0.14,
-        "trend": 0.6,
+        "trend": 0.59,
         "avg1": 0.99,
         "avg7": 0.54,
         "avg30": 0.58,
         "avg-holo": 0.85,
         "low-holo": 0.5,
-        "trend-holo": 2.03,
-        "avg1-holo": 0.85,
-        "avg7-holo": 2.12,
-        "avg30-holo": 1.73
+        "trend-holo": 1.95,
+        "avg1-holo": 0.99,
+        "avg7-holo": 1.62,
+        "avg30-holo": 1.7
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84082,
           "lowPrice": 0.25,
           "midPrice": 0.5,
           "highPrice": 23.49,
-          "marketPrice": 0.5,
+          "marketPrice": 0.51,
           "directLowPrice": 0.3
         },
         "reverse-holofoil": {
@@ -1158,28 +1158,28 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280889,
         "avg": 5.95,
         "low": 0.19,
-        "trend": 4.91,
-        "avg1": 2.63,
-        "avg7": 4.12,
-        "avg30": 6.39,
+        "trend": 4.95,
+        "avg1": 14.99,
+        "avg7": 5.12,
+        "avg30": 6.72,
         "avg-holo": 15.78,
         "low-holo": 0.99,
-        "trend-holo": 17.94,
-        "avg1-holo": 0.4,
-        "avg7-holo": 16.78,
-        "avg30-holo": 10.68
+        "trend-holo": 16.54,
+        "avg1-holo": 0.95,
+        "avg7-holo": 19.61,
+        "avg30-holo": 10.66
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86683,
-          "lowPrice": 7.47,
+          "lowPrice": 7.49,
           "midPrice": 10.38,
           "highPrice": 93,
           "marketPrice": 10.14,
@@ -1187,8 +1187,8 @@
         },
         "reverse-holofoil": {
           "productId": 86683,
-          "lowPrice": 37.49,
-          "midPrice": 44.98,
+          "lowPrice": 29.95,
+          "midPrice": 39.99,
           "highPrice": 553.1,
           "marketPrice": 43.11,
           "directLowPrice": null
@@ -1266,15 +1266,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280890,
         "avg": 3.61,
         "low": 0.05,
-        "trend": 4.34,
-        "avg1": 11.98,
-        "avg7": 3.26,
-        "avg30": 3.3,
+        "trend": 4.64,
+        "avg1": 2,
+        "avg7": 2.66,
+        "avg30": 3.32,
         "avg-holo": 21.67,
         "low-holo": 1.98,
         "trend-holo": 18.23,
@@ -1284,19 +1284,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85502,
           "lowPrice": 2,
-          "midPrice": 4.48,
-          "highPrice": 55.02,
-          "marketPrice": 4.97,
-          "directLowPrice": 4.46
+          "midPrice": 4.35,
+          "highPrice": 54.9,
+          "marketPrice": 4.93,
+          "directLowPrice": 9.98
         },
         "reverse-holofoil": {
           "productId": 85502,
           "lowPrice": 28.77,
-          "midPrice": 53.87,
+          "midPrice": 50.9,
           "highPrice": 639.9,
           "marketPrice": 36.62,
           "directLowPrice": null
@@ -1446,12 +1446,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280892,
         "avg": 0.18,
         "low": 0.02,
-        "trend": 0.23,
+        "trend": 0.22,
         "avg1": 0.05,
         "avg7": 0.18,
         "avg30": 0.18,
@@ -1464,21 +1464,21 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86813,
           "lowPrice": 0.05,
           "midPrice": 0.33,
           "highPrice": 1000,
-          "marketPrice": 0.35,
+          "marketPrice": 0.36,
           "directLowPrice": 0.19
         },
         "reverse-holofoil": {
           "productId": 86813,
           "lowPrice": 0.77,
-          "midPrice": 1.37,
+          "midPrice": 1.35,
           "highPrice": 19.98,
-          "marketPrice": 1.32,
+          "marketPrice": 1.23,
           "directLowPrice": null
         }
       }
@@ -1554,29 +1554,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280893,
         "avg": 0.23,
         "low": 0.02,
-        "trend": 0.25,
+        "trend": 0.27,
         "avg1": 0.15,
         "avg7": 0.26,
         "avg30": 0.27,
         "avg-holo": 0.58,
         "low-holo": 0.2,
-        "trend-holo": 0.88,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.73,
-        "avg30-holo": 0.75
+        "trend-holo": 0.87,
+        "avg1-holo": 0.49,
+        "avg7-holo": 0.82,
+        "avg30-holo": 0.76
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86590,
           "lowPrice": 0.15,
-          "midPrice": 0.29,
+          "midPrice": 0.3,
           "highPrice": 19.98,
           "marketPrice": 0.26,
           "directLowPrice": null
@@ -1662,39 +1662,39 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280894,
         "avg": 3,
         "low": 0.99,
-        "trend": 3.6,
+        "trend": 3.29,
         "avg1": 3.49,
         "avg7": 3.28,
         "avg30": 3.32,
         "avg-holo": 4,
         "low-holo": 1.19,
-        "trend-holo": 6.25,
+        "trend-holo": 8.04,
         "avg1-holo": 15,
         "avg7-holo": 5.57,
         "avg30-holo": 6.1
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 84167,
-          "lowPrice": 4.04,
-          "midPrice": 8.16,
+          "lowPrice": 4.1,
+          "midPrice": 8,
           "highPrice": 43,
-          "marketPrice": 6.1,
-          "directLowPrice": null
+          "marketPrice": 6.41,
+          "directLowPrice": 26.5
         },
         "reverse-holofoil": {
           "productId": 84167,
           "lowPrice": 4.82,
-          "midPrice": 6.9,
+          "midPrice": 6.55,
           "highPrice": 43.6,
-          "marketPrice": 9.92,
+          "marketPrice": 9.52,
           "directLowPrice": null
         }
       }
@@ -1772,12 +1772,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280895,
         "avg": 4.04,
         "low": 0.7,
-        "trend": 3.66,
+        "trend": 4.06,
         "avg1": 3.5,
         "avg7": 4.03,
         "avg30": 5.32,
@@ -1790,11 +1790,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 88708,
           "lowPrice": 4,
-          "midPrice": 9.98,
+          "midPrice": 10,
           "highPrice": 99.99,
           "marketPrice": 7.1,
           "directLowPrice": 14.37
@@ -1802,7 +1802,7 @@
         "reverse-holofoil": {
           "productId": 88708,
           "lowPrice": 4.18,
-          "midPrice": 10.24,
+          "midPrice": 12.48,
           "highPrice": 69.6,
           "marketPrice": 9.8,
           "directLowPrice": null
@@ -1871,14 +1871,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280896,
         "avg": 0.13,
         "low": 0.02,
-        "trend": 0.16,
+        "trend": 0.15,
         "avg1": 0.1,
-        "avg7": 0.15,
+        "avg7": 0.13,
         "avg30": 0.15,
         "avg-holo": 1.03,
         "low-holo": 0.2,
@@ -1889,7 +1889,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86193,
           "lowPrice": 0.1,
@@ -1901,7 +1901,7 @@
         "reverse-holofoil": {
           "productId": 86193,
           "lowPrice": 0.5,
-          "midPrice": 1.03,
+          "midPrice": 1,
           "highPrice": 19.99,
           "marketPrice": 1,
           "directLowPrice": null
@@ -1970,7 +1970,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280897,
         "avg": 0.38,
@@ -1988,11 +1988,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89017,
           "lowPrice": 0.2,
-          "midPrice": 0.38,
+          "midPrice": 0.37,
           "highPrice": 23.49,
           "marketPrice": 0.37,
           "directLowPrice": null
@@ -2000,7 +2000,7 @@
         "reverse-holofoil": {
           "productId": 89017,
           "lowPrice": 0.3,
-          "midPrice": 1.34,
+          "midPrice": 1.29,
           "highPrice": 19.98,
           "marketPrice": 1.28,
           "directLowPrice": null
@@ -2075,15 +2075,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280898,
         "avg": 2.05,
         "low": 0.04,
-        "trend": 1.44,
-        "avg1": 0.5,
-        "avg7": 1.66,
-        "avg30": 1.92,
+        "trend": 1.46,
+        "avg1": 2.75,
+        "avg7": 1.8,
+        "avg30": 1.86,
         "avg-holo": 20,
         "low-holo": 1.99,
         "trend-holo": 11.91,
@@ -2093,19 +2093,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90291,
           "lowPrice": 1.98,
           "midPrice": 4.26,
           "highPrice": 52.4,
-          "marketPrice": 4.29,
+          "marketPrice": 4.22,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90291,
           "lowPrice": 29.11,
-          "midPrice": 39.97,
+          "midPrice": 46,
           "highPrice": 374.9,
           "marketPrice": 49.3,
           "directLowPrice": 299.98
@@ -2175,15 +2175,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280899,
         "avg": 0.24,
         "low": 0.02,
-        "trend": 0.24,
-        "avg1": 0.24,
-        "avg7": 0.31,
-        "avg30": 0.24,
+        "trend": 0.31,
+        "avg1": 0.19,
+        "avg7": 0.28,
+        "avg30": 0.23,
         "avg-holo": 10.27,
         "low-holo": 0.1,
         "trend-holo": 7.32,
@@ -2193,19 +2193,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90638,
-          "lowPrice": 1.13,
-          "midPrice": 2.37,
+          "lowPrice": 0.99,
+          "midPrice": 2.3,
           "highPrice": 19.98,
           "marketPrice": 2.48,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90638,
-          "lowPrice": 18,
-          "midPrice": 31,
+          "lowPrice": 26.75,
+          "midPrice": 35.5,
           "highPrice": 379.4,
           "marketPrice": 24.15,
           "directLowPrice": null
@@ -2283,7 +2283,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280900,
         "avg": 1.22,
@@ -2301,19 +2301,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88474,
           "lowPrice": 4.8,
           "midPrice": 10.29,
-          "highPrice": 57.72,
-          "marketPrice": 4.86,
+          "highPrice": 45.9,
+          "marketPrice": 4.91,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 88474,
-          "lowPrice": 14.5,
-          "midPrice": 20.29,
+          "lowPrice": 13.99,
+          "midPrice": 15.23,
           "highPrice": 150,
           "marketPrice": 14.24,
           "directLowPrice": null
@@ -2391,15 +2391,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280901,
         "avg": 6.5,
         "low": 0.15,
-        "trend": 5.56,
-        "avg1": 3.2,
-        "avg7": 5.21,
-        "avg30": 5.31,
+        "trend": 5.4,
+        "avg1": 4,
+        "avg7": 5.22,
+        "avg30": 5.15,
         "avg-holo": 32,
         "low-holo": 1,
         "trend-holo": 22.27,
@@ -2409,11 +2409,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85749,
           "lowPrice": 2.75,
-          "midPrice": 5.75,
+          "midPrice": 5.62,
           "highPrice": 64.1,
           "marketPrice": 6.33,
           "directLowPrice": null
@@ -2421,10 +2421,10 @@
         "reverse-holofoil": {
           "productId": 85749,
           "lowPrice": 34.83,
-          "midPrice": 52.54,
-          "highPrice": 4319.83,
+          "midPrice": 44.71,
+          "highPrice": 4319.71,
           "marketPrice": 44.71,
-          "directLowPrice": 39.99
+          "directLowPrice": 39.98
         }
       }
     }
@@ -2490,25 +2490,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280902,
         "avg": 0.14,
         "low": 0.02,
-        "trend": 0.12,
+        "trend": 0.16,
         "avg1": 0.07,
         "avg7": 0.16,
         "avg30": 0.14,
         "avg-holo": 0.4,
         "low-holo": 0.2,
-        "trend-holo": 0.58,
+        "trend-holo": 0.53,
         "avg1-holo": 0.3,
         "avg7-holo": 0.76,
         "avg30-holo": 0.62
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90091,
           "lowPrice": 0.07,
@@ -2519,7 +2519,7 @@
         },
         "reverse-holofoil": {
           "productId": 90091,
-          "lowPrice": 0.32,
+          "lowPrice": 0.35,
           "midPrice": 0.75,
           "highPrice": 19.98,
           "marketPrice": 0.68,
@@ -2598,25 +2598,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280903,
         "avg": 0.19,
         "low": 0.02,
-        "trend": 0.27,
+        "trend": 0.29,
         "avg1": 0.25,
         "avg7": 0.2,
         "avg30": 0.2,
         "avg-holo": 0.29,
         "low-holo": 0.2,
-        "trend-holo": 0.97,
+        "trend-holo": 1.04,
         "avg1-holo": 0.29,
         "avg7-holo": 0.87,
         "avg30-holo": 0.63
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87925,
           "lowPrice": 0.09,
@@ -2628,7 +2628,7 @@
         "reverse-holofoil": {
           "productId": 87925,
           "lowPrice": 0.27,
-          "midPrice": 0.55,
+          "midPrice": 0.58,
           "highPrice": 4.99,
           "marketPrice": 0.59,
           "directLowPrice": 0.49
@@ -2707,12 +2707,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280904,
         "avg": 0.75,
         "low": 0.14,
-        "trend": 1.11,
+        "trend": 1.21,
         "avg1": 0.94,
         "avg7": 0.76,
         "avg30": 0.82,
@@ -2725,21 +2725,21 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89060,
           "lowPrice": 0.24,
-          "midPrice": 0.69,
-          "highPrice": 17.7,
+          "midPrice": 0.7,
+          "highPrice": 17.58,
           "marketPrice": 0.61,
           "directLowPrice": 0.62
         },
         "reverse-holofoil": {
           "productId": 89060,
-          "lowPrice": 2.43,
-          "midPrice": 4.21,
+          "lowPrice": 2,
+          "midPrice": 3.75,
           "highPrice": 60,
-          "marketPrice": 3.72,
+          "marketPrice": 3.88,
           "directLowPrice": null
         }
       }
@@ -2807,14 +2807,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280905,
         "avg": 0.15,
         "low": 0.02,
-        "trend": 0.16,
-        "avg1": 0.24,
-        "avg7": 0.19,
+        "trend": 0.14,
+        "avg1": 0.1,
+        "avg7": 0.18,
         "avg30": 0.16,
         "avg-holo": null,
         "low-holo": 0.08,
@@ -2825,7 +2825,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90272,
           "lowPrice": 0.03,
@@ -2907,12 +2907,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280906,
         "avg": 0.18,
         "low": 0.02,
-        "trend": 0.19,
+        "trend": 0.2,
         "avg1": 0.05,
         "avg7": 0.21,
         "avg30": 0.15,
@@ -2925,7 +2925,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90267,
           "lowPrice": 0.05,
@@ -2936,10 +2936,10 @@
         },
         "reverse-holofoil": {
           "productId": 90267,
-          "lowPrice": 0.25,
-          "midPrice": 0.64,
+          "lowPrice": 0.35,
+          "midPrice": 0.66,
           "highPrice": 19.98,
-          "marketPrice": 0.54,
+          "marketPrice": 0.51,
           "directLowPrice": null
         }
       }
@@ -3013,7 +3013,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280907,
         "avg": 0.48,
@@ -3031,7 +3031,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90276,
           "lowPrice": 0.25,
@@ -3043,7 +3043,7 @@
         "reverse-holofoil": {
           "productId": 90276,
           "lowPrice": 1.98,
-          "midPrice": 6,
+          "midPrice": 5.95,
           "highPrice": 59.61,
           "marketPrice": 5,
           "directLowPrice": 59.61
@@ -3117,13 +3117,13 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280908,
         "avg": 0.23,
         "low": 0.02,
-        "trend": 0.45,
-        "avg1": 0.69,
+        "trend": 0.38,
+        "avg1": 0.14,
         "avg7": 0.29,
         "avg30": 0.27,
         "avg-holo": 4.95,
@@ -3135,19 +3135,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84515,
           "lowPrice": 0.05,
-          "midPrice": 0.42,
+          "midPrice": 0.44,
           "highPrice": 19.98,
           "marketPrice": 0.47,
-          "directLowPrice": 0.18
+          "directLowPrice": 0.14
         },
         "reverse-holofoil": {
           "productId": 84515,
           "lowPrice": 0.81,
-          "midPrice": 2.37,
+          "midPrice": 2.19,
           "highPrice": 31.1,
           "marketPrice": 2.12,
           "directLowPrice": null
@@ -3225,15 +3225,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280909,
         "avg": 5.97,
         "low": 1,
-        "trend": 6.12,
-        "avg1": 3,
-        "avg7": 5.69,
-        "avg30": 4.58,
+        "trend": 6.06,
+        "avg1": 5,
+        "avg7": 5.41,
+        "avg30": 4.69,
         "avg-holo": 13.5,
         "low-holo": 1.2,
         "trend-holo": 8.78,
@@ -3243,19 +3243,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 86565,
-          "lowPrice": 5.5,
-          "midPrice": 9.99,
+          "lowPrice": 7,
+          "midPrice": 9.41,
           "highPrice": 96.95,
           "marketPrice": 7.36,
-          "directLowPrice": 19.73
+          "directLowPrice": 7.18
         },
         "reverse-holofoil": {
           "productId": 86565,
           "lowPrice": 15.9,
-          "midPrice": 32.18,
+          "midPrice": 38.58,
           "highPrice": 200,
           "marketPrice": 15.49,
           "directLowPrice": null
@@ -3325,14 +3325,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280910,
         "avg": 0.13,
         "low": 0.02,
-        "trend": 0.14,
-        "avg1": 0.1,
-        "avg7": 0.14,
+        "trend": 0.15,
+        "avg1": 0.15,
+        "avg7": 0.15,
         "avg30": 0.13,
         "avg-holo": 0.9,
         "low-holo": 0.1,
@@ -3343,19 +3343,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90424,
           "lowPrice": 0.02,
           "midPrice": 0.25,
           "highPrice": 1000,
-          "marketPrice": 0.24,
+          "marketPrice": 0.25,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90424,
           "lowPrice": 0.37,
-          "midPrice": 0.78,
+          "midPrice": 0.8,
           "highPrice": 23.49,
           "marketPrice": 1.03,
           "directLowPrice": null
@@ -3433,29 +3433,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280911,
         "avg": 1.29,
         "low": 0.03,
-        "trend": 1.14,
+        "trend": 1.04,
         "avg1": 1.5,
         "avg7": 1.29,
         "avg30": 0.89,
         "avg-holo": 1.79,
-        "low-holo": 0.5,
-        "trend-holo": 2.72,
+        "low-holo": 0.7,
+        "trend-holo": 2.71,
         "avg1-holo": 1.79,
         "avg7-holo": 2.77,
         "avg30-holo": 2.57
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 85162,
-          "lowPrice": 2.1,
-          "midPrice": 3,
+          "lowPrice": 2.31,
+          "midPrice": 2.99,
           "highPrice": 35.6,
           "marketPrice": 2.66,
           "directLowPrice": null
@@ -3463,7 +3463,7 @@
         "reverse-holofoil": {
           "productId": 85162,
           "lowPrice": 2.58,
-          "midPrice": 4.97,
+          "midPrice": 4.99,
           "highPrice": 53,
           "marketPrice": 3.82,
           "directLowPrice": null
@@ -3539,15 +3539,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280912,
         "avg": 2.12,
         "low": 0.05,
-        "trend": 2.21,
-        "avg1": 0.9,
-        "avg7": 1.31,
-        "avg30": 1.9,
+        "trend": 2.05,
+        "avg1": 2,
+        "avg7": 1.58,
+        "avg30": 1.92,
         "avg-holo": 37,
         "low-holo": 0.24,
         "trend-holo": 20.29,
@@ -3557,19 +3557,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86350,
-          "lowPrice": 1.45,
+          "lowPrice": 1.5,
           "midPrice": 3.7,
-          "highPrice": 29.16,
-          "marketPrice": 4.35,
-          "directLowPrice": 4.97
+          "highPrice": 29.08,
+          "marketPrice": 4.23,
+          "directLowPrice": 1.73
         },
         "reverse-holofoil": {
           "productId": 86350,
-          "lowPrice": 32,
-          "midPrice": 47,
+          "lowPrice": 29.99,
+          "midPrice": 46.79,
           "highPrice": 588.1,
           "marketPrice": 46.84,
           "directLowPrice": null
@@ -3639,12 +3639,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280913,
         "avg": 0.15,
         "low": 0.02,
-        "trend": 0.14,
+        "trend": 0.15,
         "avg1": 0.1,
         "avg7": 0.14,
         "avg30": 0.14,
@@ -3657,7 +3657,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84312,
           "lowPrice": 0.1,
@@ -3669,7 +3669,7 @@
         "reverse-holofoil": {
           "productId": 84312,
           "lowPrice": 0.26,
-          "midPrice": 0.61,
+          "midPrice": 0.62,
           "highPrice": 19.98,
           "marketPrice": 0.67,
           "directLowPrice": null
@@ -3746,7 +3746,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280914,
         "avg": 0.41,
@@ -3757,17 +3757,17 @@
         "avg30": 0.24,
         "avg-holo": null,
         "low-holo": 0.1,
-        "trend-holo": 0.98,
-        "avg1-holo": 0.49,
-        "avg7-holo": 1.2,
-        "avg30-holo": 0.82
+        "trend-holo": 0.93,
+        "avg1-holo": 0.39,
+        "avg7-holo": 1.21,
+        "avg30-holo": 0.8
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86612,
-          "lowPrice": 0.08,
+          "lowPrice": 0.09,
           "midPrice": 0.32,
           "highPrice": 23.49,
           "marketPrice": 0.33,
@@ -3778,7 +3778,7 @@
           "lowPrice": 0.43,
           "midPrice": 0.81,
           "highPrice": 19.98,
-          "marketPrice": 0.82,
+          "marketPrice": 0.87,
           "directLowPrice": null
         }
       }
@@ -3850,13 +3850,13 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280915,
         "avg": 0.23,
         "low": 0.02,
-        "trend": 0.24,
-        "avg1": 0.1,
+        "trend": 0.22,
+        "avg1": 0.2,
         "avg7": 0.25,
         "avg30": 0.18,
         "avg-holo": 1.67,
@@ -3868,7 +3868,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87905,
           "lowPrice": 0.18,
@@ -3880,7 +3880,7 @@
         "reverse-holofoil": {
           "productId": 87905,
           "lowPrice": 0.75,
-          "midPrice": 1.45,
+          "midPrice": 1.37,
           "highPrice": 19.98,
           "marketPrice": 1.37,
           "directLowPrice": null
@@ -4033,7 +4033,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280917,
         "avg": 3.67,
@@ -4051,14 +4051,14 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 90736,
           "lowPrice": 3,
-          "midPrice": 8.06,
+          "midPrice": 6.44,
           "highPrice": 54.95,
           "marketPrice": 5.44,
-          "directLowPrice": 16.54
+          "directLowPrice": 14.94
         },
         "reverse-holofoil": {
           "productId": 90736,
@@ -4206,37 +4206,37 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280919,
         "avg": 0.23,
         "low": 0.02,
-        "trend": 0.17,
-        "avg1": 0.2,
-        "avg7": 0.24,
-        "avg30": 0.24,
+        "trend": 0.18,
+        "avg1": 0.19,
+        "avg7": 0.23,
+        "avg30": 0.22,
         "avg-holo": 0.52,
         "low-holo": 0.25,
-        "trend-holo": 0.89,
-        "avg1-holo": 0.5,
-        "avg7-holo": 0.97,
-        "avg30-holo": 0.74
+        "trend-holo": 0.88,
+        "avg1-holo": 0.8,
+        "avg7-holo": 0.83,
+        "avg30-holo": 0.75
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87739,
           "lowPrice": 0.25,
-          "midPrice": 0.49,
+          "midPrice": 0.5,
           "highPrice": 19.98,
-          "marketPrice": 0.51,
-          "directLowPrice": 0.4
+          "marketPrice": 0.5,
+          "directLowPrice": 0.38
         },
         "reverse-holofoil": {
           "productId": 87739,
           "lowPrice": 0.75,
-          "midPrice": 1.5,
+          "midPrice": 1.34,
           "highPrice": 19.98,
           "marketPrice": 1.34,
           "directLowPrice": null
@@ -4314,7 +4314,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280920,
         "avg": 2.09,
@@ -4332,11 +4332,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87711,
           "lowPrice": 0.5,
-          "midPrice": 1.31,
+          "midPrice": 1.39,
           "highPrice": 19.99,
           "marketPrice": 1.3,
           "directLowPrice": null
@@ -4344,7 +4344,7 @@
         "reverse-holofoil": {
           "productId": 87711,
           "lowPrice": 0.89,
-          "midPrice": 2.89,
+          "midPrice": 3.89,
           "highPrice": 37,
           "marketPrice": 2.83,
           "directLowPrice": null
@@ -4486,14 +4486,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280922,
         "avg": 0.36,
         "low": 0.02,
-        "trend": 0.29,
-        "avg1": 0.1,
-        "avg7": 0.39,
+        "trend": 0.26,
+        "avg1": 0.36,
+        "avg7": 0.38,
         "avg30": 0.34,
         "avg-holo": 0.49,
         "low-holo": 0.2,
@@ -4504,19 +4504,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87748,
           "lowPrice": 0.05,
           "midPrice": 0.39,
           "highPrice": 23.49,
-          "marketPrice": 0.39,
+          "marketPrice": 0.4,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 87748,
           "lowPrice": 0.75,
-          "midPrice": 1.06,
+          "midPrice": 1,
           "highPrice": 19.98,
           "marketPrice": 1.37,
           "directLowPrice": null
@@ -4592,25 +4592,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280923,
         "avg": 0.16,
         "low": 0.02,
-        "trend": 0.16,
-        "avg1": 0.05,
-        "avg7": 0.16,
+        "trend": 0.14,
+        "avg1": 0.03,
+        "avg7": 0.13,
         "avg30": 0.18,
         "avg-holo": 1.33,
         "low-holo": 0.1,
-        "trend-holo": 0.78,
+        "trend-holo": 0.83,
         "avg1-holo": 1.99,
         "avg7-holo": 1.15,
         "avg30-holo": 0.81
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85915,
           "lowPrice": 0.13,
@@ -4702,12 +4702,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280924,
         "avg": 1.03,
         "low": 0.02,
-        "trend": 1.01,
+        "trend": 0.91,
         "avg1": 0.25,
         "avg7": 0.88,
         "avg30": 0.76,
@@ -4720,7 +4720,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87627,
           "lowPrice": 0.55,
@@ -4732,7 +4732,7 @@
         "reverse-holofoil": {
           "productId": 87627,
           "lowPrice": 7.55,
-          "midPrice": 22.14,
+          "midPrice": 19.8,
           "highPrice": 74.8,
           "marketPrice": 14.41,
           "directLowPrice": 22.99
@@ -4809,17 +4809,17 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280925,
         "avg": 9.44,
-        "low": 1.94,
+        "low": 1.49,
         "trend": 9.92,
         "avg1": 5,
         "avg7": 10.03,
         "avg30": 8,
         "avg-holo": 8.73,
-        "low-holo": 2.25,
+        "low-holo": 1.49,
         "trend-holo": 12.41,
         "avg1-holo": 2,
         "avg7-holo": 11.23,
@@ -4827,19 +4827,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87595,
           "lowPrice": 12,
-          "midPrice": 15.32,
+          "midPrice": 15.5,
           "highPrice": 134.36,
-          "marketPrice": 15.73,
+          "marketPrice": 15.79,
           "directLowPrice": 15.97
         },
         "reverse-holofoil": {
           "productId": 87595,
-          "lowPrice": 23.9,
-          "midPrice": 45.99,
+          "lowPrice": 24,
+          "midPrice": 43.49,
           "highPrice": 413.7,
           "marketPrice": 35.95,
           "directLowPrice": null
@@ -4913,15 +4913,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280926,
         "avg": 4.67,
         "low": 0.1,
-        "trend": 4.85,
-        "avg1": 1.99,
-        "avg7": 4.96,
-        "avg30": 3.03,
+        "trend": 4.47,
+        "avg1": 4.75,
+        "avg7": 4.61,
+        "avg30": 3.29,
         "avg-holo": 28.6,
         "low-holo": 2,
         "trend-holo": 30.46,
@@ -4931,13 +4931,13 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85328,
           "lowPrice": 2.99,
-          "midPrice": 4.85,
+          "midPrice": 4.94,
           "highPrice": 24.99,
-          "marketPrice": 6,
+          "marketPrice": 5.88,
           "directLowPrice": null
         },
         "reverse-holofoil": {
@@ -5013,12 +5013,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280927,
         "avg": 1.31,
-        "low": 0.15,
-        "trend": 1.34,
+        "low": 0.3,
+        "trend": 1.23,
         "avg1": 1.18,
         "avg7": 1.18,
         "avg30": 1.09,
@@ -5031,11 +5031,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88858,
           "lowPrice": 1.97,
-          "midPrice": 3.63,
+          "midPrice": 3.67,
           "highPrice": 44.99,
           "marketPrice": 3.63,
           "directLowPrice": null
@@ -5043,9 +5043,9 @@
         "reverse-holofoil": {
           "productId": 88858,
           "lowPrice": 10.27,
-          "midPrice": 14.74,
+          "midPrice": 14.5,
           "highPrice": 169.9,
-          "marketPrice": 11.01,
+          "marketPrice": 11.23,
           "directLowPrice": null
         }
       }
@@ -5118,29 +5118,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280928,
         "avg": 0.21,
         "low": 0.02,
-        "trend": 0.12,
+        "trend": 0.13,
         "avg1": 0.1,
         "avg7": 0.16,
         "avg30": 0.13,
         "avg-holo": 0.58,
         "low-holo": 0.1,
-        "trend-holo": 1,
-        "avg1-holo": 0.25,
-        "avg7-holo": 1.23,
-        "avg30-holo": 0.62
+        "trend-holo": 0.97,
+        "avg1-holo": 0.65,
+        "avg7-holo": 1.19,
+        "avg30-holo": 0.63
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 83793,
           "lowPrice": 0.09,
-          "midPrice": 0.31,
+          "midPrice": 0.32,
           "highPrice": 19.98,
           "marketPrice": 0.34,
           "directLowPrice": 0.25
@@ -5225,29 +5225,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280929,
         "avg": 0.29,
         "low": 0.02,
-        "trend": 0.21,
+        "trend": 0.22,
         "avg1": 0.02,
         "avg7": 0.23,
         "avg30": 0.19,
         "avg-holo": 0.75,
         "low-holo": 0.25,
-        "trend-holo": 0.65,
+        "trend-holo": 0.6,
         "avg1-holo": 1,
         "avg7-holo": 0.8,
         "avg30-holo": 1.01
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87383,
           "lowPrice": 0.05,
-          "midPrice": 0.28,
+          "midPrice": 0.27,
           "highPrice": 23.49,
           "marketPrice": 0.29,
           "directLowPrice": null
@@ -5255,7 +5255,7 @@
         "reverse-holofoil": {
           "productId": 87383,
           "lowPrice": 0.27,
-          "midPrice": 0.89,
+          "midPrice": 0.96,
           "highPrice": 19.88,
           "marketPrice": 1.07,
           "directLowPrice": 0.75
@@ -5334,12 +5334,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280930,
         "avg": 4.4,
         "low": 0.59,
-        "trend": 4.15,
+        "trend": 3.92,
         "avg1": 5,
         "avg7": 3.88,
         "avg30": 4.07,
@@ -5352,19 +5352,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 87343,
           "lowPrice": 5.5,
-          "midPrice": 13.56,
+          "midPrice": 12.64,
           "highPrice": 93.03,
-          "marketPrice": 10.78,
+          "marketPrice": 10.98,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 87343,
           "lowPrice": 9.99,
-          "midPrice": 21.06,
+          "midPrice": 13.01,
           "highPrice": 249.9,
           "marketPrice": 12.85,
           "directLowPrice": null
@@ -5504,7 +5504,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280932,
         "avg": 0.14,
@@ -5522,19 +5522,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90678,
           "lowPrice": 0.1,
           "midPrice": 0.3,
           "highPrice": 23.49,
-          "marketPrice": 0.35,
+          "marketPrice": 0.34,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90678,
           "lowPrice": 0.35,
-          "midPrice": 0.77,
+          "midPrice": 0.83,
           "highPrice": 19.98,
           "marketPrice": 0.87,
           "directLowPrice": null
@@ -5611,7 +5611,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280932,
         "avg": 0.14,
@@ -5629,7 +5629,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90679,
           "lowPrice": 0.05,
@@ -5719,15 +5719,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280934,
         "avg": 1.3,
         "low": 0.49,
-        "trend": 2.56,
-        "avg1": 2.5,
-        "avg7": 1.69,
-        "avg30": 2.32,
+        "trend": 2.75,
+        "avg1": 4.99,
+        "avg7": 1.97,
+        "avg30": 2.47,
         "avg-holo": 1.75,
         "low-holo": 0.5,
         "trend-holo": 2.53,
@@ -5737,13 +5737,13 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 84387,
           "lowPrice": 1.24,
-          "midPrice": 4.49,
+          "midPrice": 4.5,
           "highPrice": 43.1,
-          "marketPrice": 4.37,
+          "marketPrice": 4.45,
           "directLowPrice": null
         },
         "reverse-holofoil": {
@@ -5825,15 +5825,15 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280934,
         "avg": 1.3,
         "low": 0.49,
-        "trend": 2.56,
-        "avg1": 2.5,
-        "avg7": 1.69,
-        "avg30": 2.32,
+        "trend": 2.75,
+        "avg1": 4.99,
+        "avg7": 1.97,
+        "avg30": 2.47,
         "avg-holo": 1.75,
         "low-holo": 0.5,
         "trend-holo": 2.53,
@@ -5843,11 +5843,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84388,
           "lowPrice": 0.6,
-          "midPrice": 1.44,
+          "midPrice": 1.48,
           "highPrice": 27.99,
           "marketPrice": 1.48,
           "directLowPrice": null
@@ -5855,7 +5855,7 @@
         "reverse-holofoil": {
           "productId": 84388,
           "lowPrice": 3.26,
-          "midPrice": 10.65,
+          "midPrice": 10.5,
           "highPrice": 108.3,
           "marketPrice": 10,
           "directLowPrice": null
@@ -5940,7 +5940,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280936,
         "avg": 1.89,
@@ -5958,19 +5958,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87700,
           "lowPrice": 1.25,
           "midPrice": 3.8,
           "highPrice": 42,
-          "marketPrice": 3.36,
+          "marketPrice": 3.38,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 87700,
-          "lowPrice": 8.75,
-          "midPrice": 27,
+          "lowPrice": 15,
+          "midPrice": 26,
           "highPrice": 270,
           "marketPrice": 17.06,
           "directLowPrice": null
@@ -6039,7 +6039,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280937,
         "avg": 0.16,
@@ -6057,11 +6057,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87177,
           "lowPrice": 0.1,
-          "midPrice": 0.29,
+          "midPrice": 0.3,
           "highPrice": 23.49,
           "marketPrice": 0.34,
           "directLowPrice": 0.25
@@ -6069,7 +6069,7 @@
         "reverse-holofoil": {
           "productId": 87177,
           "lowPrice": 0.58,
-          "midPrice": 2.2,
+          "midPrice": 2.4,
           "highPrice": 31.9,
           "marketPrice": 2.41,
           "directLowPrice": null
@@ -6146,14 +6146,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280938,
         "avg": 0.2,
         "low": 0.02,
-        "trend": 0.13,
-        "avg1": 0.18,
-        "avg7": 0.22,
+        "trend": 0.11,
+        "avg1": 0.03,
+        "avg7": 0.21,
         "avg30": 0.16,
         "avg-holo": 1.39,
         "low-holo": 0.12,
@@ -6164,10 +6164,10 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88366,
-          "lowPrice": 0.1,
+          "lowPrice": 0.13,
           "midPrice": 0.38,
           "highPrice": 23.49,
           "marketPrice": 0.38,
@@ -6176,7 +6176,7 @@
         "reverse-holofoil": {
           "productId": 88366,
           "lowPrice": 0.5,
-          "midPrice": 1.45,
+          "midPrice": 1.61,
           "highPrice": 51,
           "marketPrice": 1.31,
           "directLowPrice": null
@@ -6256,25 +6256,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280939,
         "avg": 0.24,
         "low": 0.02,
-        "trend": 0.24,
-        "avg1": 0.25,
-        "avg7": 0.26,
-        "avg30": 0.28,
+        "trend": 0.2,
+        "avg1": 0.05,
+        "avg7": 0.29,
+        "avg30": 0.27,
         "avg-holo": 1.01,
         "low-holo": 0.25,
-        "trend-holo": 1.19,
-        "avg1-holo": 0.99,
-        "avg7-holo": 0.86,
-        "avg30-holo": 1.02
+        "trend-holo": 1.69,
+        "avg1-holo": 6,
+        "avg7-holo": 1.55,
+        "avg30-holo": 1.18
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87886,
           "lowPrice": 0.25,
@@ -6364,12 +6364,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280940,
         "avg": 0.11,
         "low": 0.02,
-        "trend": 0.13,
+        "trend": 0.15,
         "avg1": 0.1,
         "avg7": 0.13,
         "avg30": 0.16,
@@ -6382,7 +6382,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87135,
           "lowPrice": 0.05,
@@ -6472,7 +6472,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280941,
         "avg": 0.73,
@@ -6490,7 +6490,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86017,
           "lowPrice": 0.25,
@@ -6502,7 +6502,7 @@
         "reverse-holofoil": {
           "productId": 86017,
           "lowPrice": 0.81,
-          "midPrice": 1.5,
+          "midPrice": 1.55,
           "highPrice": 19.98,
           "marketPrice": 1.38,
           "directLowPrice": null
@@ -6586,12 +6586,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280942,
         "avg": 24.95,
         "low": 6,
-        "trend": 23.08,
+        "trend": 23.25,
         "avg1": 24.99,
         "avg7": 23.18,
         "avg30": 24.16,
@@ -6604,19 +6604,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 90152,
-          "lowPrice": 70.7,
-          "midPrice": 138.1,
+          "lowPrice": 74.48,
+          "midPrice": 135,
           "highPrice": 1139.8,
-          "marketPrice": 129.99,
+          "marketPrice": 130.93,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90152,
-          "lowPrice": 299.99,
-          "midPrice": 489.89,
+          "lowPrice": 91.5,
+          "midPrice": 299.99,
           "highPrice": 1000,
           "marketPrice": 99.94,
           "directLowPrice": null
@@ -6692,12 +6692,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280943,
         "avg": 0.11,
         "low": 0.02,
-        "trend": 0.22,
+        "trend": 0.21,
         "avg1": 0.67,
         "avg7": 0.22,
         "avg30": 0.15,
@@ -6710,10 +6710,10 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89373,
-          "lowPrice": 0.14,
+          "lowPrice": 0.13,
           "midPrice": 0.28,
           "highPrice": 1000,
           "marketPrice": 0.3,
@@ -6722,7 +6722,7 @@
         "reverse-holofoil": {
           "productId": 89373,
           "lowPrice": 0.43,
-          "midPrice": 0.6,
+          "midPrice": 0.59,
           "highPrice": 19.98,
           "marketPrice": 0.65,
           "directLowPrice": null
@@ -6803,7 +6803,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:25.163Z",
         "unit": "EUR",
         "idProduct": 280944,
         "avg": 1.43,
@@ -6821,19 +6821,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90535,
-          "lowPrice": 0.95,
-          "midPrice": 1.69,
+          "lowPrice": 0.99,
+          "midPrice": 1.75,
           "highPrice": 29.99,
           "marketPrice": 1.77,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 90535,
-          "lowPrice": 5,
-          "midPrice": 7.4,
+          "lowPrice": 4.9,
+          "midPrice": 7.35,
           "highPrice": 51.9,
           "marketPrice": 4.9,
           "directLowPrice": 24.99
@@ -6917,7 +6917,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.874Z",
         "unit": "EUR",
         "idProduct": 280945,
         "avg": 7.88,
@@ -6935,19 +6935,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 83455,
           "lowPrice": 12,
-          "midPrice": 27.67,
+          "midPrice": 25.65,
           "highPrice": 153.08,
           "marketPrice": 19.01,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 83455,
-          "lowPrice": 31.85,
-          "midPrice": 39.99,
+          "lowPrice": 33.5,
+          "midPrice": 44.64,
           "highPrice": 209.9,
           "marketPrice": 27.18,
           "directLowPrice": null
@@ -7023,12 +7023,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.874Z",
         "unit": "EUR",
         "idProduct": 280946,
         "avg": 0.13,
         "low": 0.02,
-        "trend": 0.31,
+        "trend": 0.3,
         "avg1": 1.1,
         "avg7": 0.33,
         "avg30": 0.19,
@@ -7041,11 +7041,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88916,
-          "lowPrice": 0.1,
-          "midPrice": 0.27,
+          "lowPrice": 0.14,
+          "midPrice": 0.26,
           "highPrice": 1000,
           "marketPrice": 0.26,
           "directLowPrice": null
@@ -7054,7 +7054,7 @@
           "productId": 88916,
           "lowPrice": 0.3,
           "midPrice": 0.55,
-          "highPrice": 19.6,
+          "highPrice": 19.48,
           "marketPrice": 0.5,
           "directLowPrice": 0.32
         }
@@ -7136,7 +7136,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.874Z",
         "unit": "EUR",
         "idProduct": 280947,
         "avg": 0.3,
@@ -7154,7 +7154,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86539,
           "lowPrice": 0.11,
@@ -7165,7 +7165,7 @@
         },
         "reverse-holofoil": {
           "productId": 86539,
-          "lowPrice": 0.32,
+          "lowPrice": 0.35,
           "midPrice": 0.75,
           "highPrice": 19.98,
           "marketPrice": 0.67,
@@ -7249,12 +7249,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.874Z",
         "unit": "EUR",
         "idProduct": 280948,
         "avg": 1.16,
         "low": 0.15,
-        "trend": 1.22,
+        "trend": 1.17,
         "avg1": 1.48,
         "avg7": 1.06,
         "avg30": 1.1,
@@ -7267,7 +7267,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86546,
           "lowPrice": 1.25,
@@ -7278,7 +7278,7 @@
         },
         "reverse-holofoil": {
           "productId": 86546,
-          "lowPrice": 3.08,
+          "lowPrice": 2.99,
           "midPrice": 8.5,
           "highPrice": 82.5,
           "marketPrice": 6.84,
@@ -7354,7 +7354,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280949,
         "avg": 0.17,
@@ -7365,14 +7365,14 @@
         "avg30": 0.17,
         "avg-holo": null,
         "low-holo": 0.15,
-        "trend-holo": 0.79,
-        "avg1-holo": 1,
-        "avg7-holo": 0.88,
-        "avg30-holo": 0.57
+        "trend-holo": 0.84,
+        "avg1-holo": 0.85,
+        "avg7-holo": 0.94,
+        "avg30-holo": 0.59
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87970,
           "lowPrice": 0.08,
@@ -7383,8 +7383,8 @@
         },
         "reverse-holofoil": {
           "productId": 87970,
-          "lowPrice": 0.3,
-          "midPrice": 0.62,
+          "lowPrice": 0.25,
+          "midPrice": 0.61,
           "highPrice": 19.99,
           "marketPrice": 0.54,
           "directLowPrice": 0.69
@@ -7460,7 +7460,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280949,
         "avg": 0.17,
@@ -7471,14 +7471,14 @@
         "avg30": 0.17,
         "avg-holo": null,
         "low-holo": 0.15,
-        "trend-holo": 0.79,
-        "avg1-holo": 1,
-        "avg7-holo": 0.88,
-        "avg30-holo": 0.57
+        "trend-holo": 0.84,
+        "avg1-holo": 0.85,
+        "avg7-holo": 0.94,
+        "avg30-holo": 0.59
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87971,
           "lowPrice": 0.08,
@@ -7490,7 +7490,7 @@
         "reverse-holofoil": {
           "productId": 87971,
           "lowPrice": 0.27,
-          "midPrice": 0.57,
+          "midPrice": 0.58,
           "highPrice": 19.98,
           "marketPrice": 0.58,
           "directLowPrice": 0.5
@@ -7573,7 +7573,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280951,
         "avg": 0.75,
@@ -7591,19 +7591,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 83848,
           "lowPrice": 0.35,
-          "midPrice": 0.99,
+          "midPrice": 1,
           "highPrice": 5,
           "marketPrice": 1.14,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 83848,
-          "lowPrice": 1.83,
-          "midPrice": 5.07,
+          "lowPrice": 2.23,
+          "midPrice": 5.2,
           "highPrice": 40.9,
           "marketPrice": 4.7,
           "directLowPrice": null
@@ -7687,7 +7687,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280951,
         "avg": 0.75,
@@ -7705,11 +7705,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 83849,
-          "lowPrice": 0.27,
-          "midPrice": 0.55,
+          "lowPrice": 0.25,
+          "midPrice": 0.58,
           "highPrice": 19.99,
           "marketPrice": 0.48,
           "directLowPrice": 0.55
@@ -7801,12 +7801,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280953,
         "avg": 0.19,
         "low": 0.02,
-        "trend": 0.14,
+        "trend": 0.17,
         "avg1": 0.1,
         "avg7": 0.12,
         "avg30": 0.15,
@@ -7819,13 +7819,13 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84731,
           "lowPrice": 0.19,
           "midPrice": 0.41,
           "highPrice": 19.98,
-          "marketPrice": 0.45,
+          "marketPrice": 0.46,
           "directLowPrice": null
         },
         "reverse-holofoil": {
@@ -7907,12 +7907,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280953,
         "avg": 0.19,
         "low": 0.02,
-        "trend": 0.14,
+        "trend": 0.17,
         "avg1": 0.1,
         "avg7": 0.12,
         "avg30": 0.15,
@@ -7925,7 +7925,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84732,
           "lowPrice": 0.1,
@@ -7937,7 +7937,7 @@
         "reverse-holofoil": {
           "productId": 84732,
           "lowPrice": 0.49,
-          "midPrice": 1,
+          "midPrice": 1.1,
           "highPrice": 19.98,
           "marketPrice": 1.11,
           "directLowPrice": 1
@@ -8021,25 +8021,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280955,
         "avg": 0.28,
         "low": 0.02,
-        "trend": 0.33,
-        "avg1": 0.69,
-        "avg7": 0.37,
+        "trend": 0.29,
+        "avg1": 0.04,
+        "avg7": 0.32,
         "avg30": 0.25,
         "avg-holo": null,
         "low-holo": 0.2,
-        "trend-holo": 0.96,
-        "avg1-holo": 0.99,
-        "avg7-holo": 1.06,
-        "avg30-holo": 0.86
+        "trend-holo": 0.94,
+        "avg1-holo": 0.85,
+        "avg7-holo": 1.04,
+        "avg30-holo": 0.88
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 90782,
           "lowPrice": 0.17,
@@ -8050,10 +8050,10 @@
         },
         "reverse-holofoil": {
           "productId": 90782,
-          "lowPrice": 0.62,
-          "midPrice": 1.02,
+          "lowPrice": 0.5,
+          "midPrice": 1.01,
           "highPrice": 19.98,
-          "marketPrice": 0.97,
+          "marketPrice": 0.98,
           "directLowPrice": null
         }
       }
@@ -8136,12 +8136,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280956,
         "avg": 3.35,
         "low": 0.3,
-        "trend": 4.31,
+        "trend": 4.63,
         "avg1": 2,
         "avg7": 3.35,
         "avg30": 3.9,
@@ -8154,11 +8154,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 86244,
           "lowPrice": 6.99,
-          "midPrice": 11,
+          "midPrice": 10.75,
           "highPrice": 64.9,
           "marketPrice": 7.31,
           "directLowPrice": null
@@ -8253,11 +8253,11 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280957,
         "avg": 1.29,
-        "low": 0.18,
+        "low": 0.16,
         "trend": 1.63,
         "avg1": 1.5,
         "avg7": 1.89,
@@ -8271,18 +8271,18 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89565,
           "lowPrice": 2.3,
-          "midPrice": 3.59,
+          "midPrice": 3.65,
           "highPrice": 38.1,
           "marketPrice": 3.74,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 89565,
-          "lowPrice": 10.36,
+          "lowPrice": 11.99,
           "midPrice": 17,
           "highPrice": 170.8,
           "marketPrice": 16.03,
@@ -8365,25 +8365,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280958,
         "avg": 0.48,
         "low": 0.02,
-        "trend": 0.52,
+        "trend": 0.51,
         "avg1": 0.25,
         "avg7": 0.57,
         "avg30": 0.37,
         "avg-holo": 0.05,
         "low-holo": 0.24,
-        "trend-holo": 3.35,
+        "trend-holo": 4.59,
         "avg1-holo": 0.05,
         "avg7-holo": 3.37,
         "avg30-holo": 1.78
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87265,
           "lowPrice": 0.22,
@@ -8470,14 +8470,14 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280959,
         "avg": 0.24,
         "low": 0.02,
-        "trend": 0.27,
-        "avg1": 0.35,
-        "avg7": 0.27,
+        "trend": 0.3,
+        "avg1": 0.49,
+        "avg7": 0.32,
         "avg30": 0.25,
         "avg-holo": 1.33,
         "low-holo": 0.2,
@@ -8488,19 +8488,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84939,
           "lowPrice": 0.2,
           "midPrice": 0.5,
           "highPrice": 23.49,
-          "marketPrice": 0.49,
+          "marketPrice": 0.5,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 84939,
           "lowPrice": 3.65,
-          "midPrice": 7.9,
+          "midPrice": 7.85,
           "highPrice": 59.8,
           "marketPrice": 6.93,
           "directLowPrice": null
@@ -8577,13 +8577,13 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.874Z",
         "unit": "EUR",
         "idProduct": 280960,
         "avg": 1.6,
         "low": 0.05,
-        "trend": 2.01,
-        "avg1": 0.33,
+        "trend": 2.09,
+        "avg1": 2.05,
         "avg7": 1.81,
         "avg30": 1.39,
         "avg-holo": 5.25,
@@ -8595,11 +8595,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 84904,
           "lowPrice": 1.24,
-          "midPrice": 1.91,
+          "midPrice": 1.9,
           "highPrice": 34.49,
           "marketPrice": 2.07,
           "directLowPrice": null
@@ -8607,7 +8607,7 @@
         "reverse-holofoil": {
           "productId": 84904,
           "lowPrice": 5.84,
-          "midPrice": 21.7,
+          "midPrice": 19.99,
           "highPrice": 170,
           "marketPrice": 14.31,
           "directLowPrice": null
@@ -8687,12 +8687,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280961,
         "avg": 7.96,
         "low": 2.35,
-        "trend": 18.55,
+        "trend": 19.16,
         "avg1": 4,
         "avg7": 6.74,
         "avg30": 15.11,
@@ -8705,20 +8705,20 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 84916,
           "lowPrice": 15,
-          "midPrice": 23.47,
+          "midPrice": 22.89,
           "highPrice": 99.99,
           "marketPrice": 21.78,
-          "directLowPrice": 99.99
+          "directLowPrice": 28.12
         },
         "reverse-holofoil": {
           "productId": 84916,
           "lowPrice": 26.73,
-          "midPrice": 49.99,
-          "highPrice": 297.82,
+          "midPrice": 49.95,
+          "highPrice": 297.7,
           "marketPrice": 40.25,
           "directLowPrice": 49.95
         }
@@ -8791,11 +8791,11 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280962,
         "avg": 3.96,
-        "low": 0.35,
+        "low": 0.43,
         "trend": 3.66,
         "avg1": 2.1,
         "avg7": 3.19,
@@ -8809,11 +8809,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 86449,
-          "lowPrice": 1.95,
-          "midPrice": 2.99,
+          "lowPrice": 1.99,
+          "midPrice": 3.29,
           "highPrice": 96.4,
           "marketPrice": 2.91,
           "directLowPrice": 96.4
@@ -8821,7 +8821,7 @@
         "reverse-holofoil": {
           "productId": 86449,
           "lowPrice": 4.26,
-          "midPrice": 7.9,
+          "midPrice": 8.08,
           "highPrice": 62.5,
           "marketPrice": 6.51,
           "directLowPrice": null
@@ -9037,29 +9037,29 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280965,
         "avg": 0.1,
         "low": 0.02,
         "trend": 0.1,
-        "avg1": 0.02,
-        "avg7": 0.13,
-        "avg30": 0.14,
+        "avg1": 0.18,
+        "avg7": 0.15,
+        "avg30": 0.15,
         "avg-holo": 0.78,
-        "low-holo": 0.22,
-        "trend-holo": 0.97,
-        "avg1-holo": 0.45,
-        "avg7-holo": 0.94,
-        "avg30-holo": 0.99
+        "low-holo": 0.1,
+        "trend-holo": 0.87,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.87,
+        "avg30-holo": 1
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88623,
           "lowPrice": 0.1,
-          "midPrice": 0.32,
+          "midPrice": 0.3,
           "highPrice": 23.49,
           "marketPrice": 0.32,
           "directLowPrice": null
@@ -9067,7 +9067,7 @@
         "reverse-holofoil": {
           "productId": 88623,
           "lowPrice": 0.8,
-          "midPrice": 1.81,
+          "midPrice": 1.8,
           "highPrice": 38.9,
           "marketPrice": 1.8,
           "directLowPrice": null
@@ -9142,7 +9142,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280966,
         "avg": 0.5,
@@ -9160,11 +9160,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88608,
           "lowPrice": 0.39,
-          "midPrice": 0.99,
+          "midPrice": 0.98,
           "highPrice": 19.98,
           "marketPrice": 0.92,
           "directLowPrice": null
@@ -9172,7 +9172,7 @@
         "reverse-holofoil": {
           "productId": 88608,
           "lowPrice": 1.3,
-          "midPrice": 5,
+          "midPrice": 6,
           "highPrice": 36,
           "marketPrice": 4.73,
           "directLowPrice": null
@@ -9247,12 +9247,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280967,
         "avg": 2.1,
         "low": 0.02,
-        "trend": 3.32,
+        "trend": 3.23,
         "avg1": 9.99,
         "avg7": 2.22,
         "avg30": 1.88,
@@ -9265,19 +9265,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85092,
           "lowPrice": 0.5,
-          "midPrice": 1.23,
+          "midPrice": 1.29,
           "highPrice": 22.63,
-          "marketPrice": 1.54,
+          "marketPrice": 1.52,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 85092,
-          "lowPrice": 8.99,
-          "midPrice": 20,
+          "lowPrice": 8.5,
+          "midPrice": 18.38,
           "highPrice": 179.83,
           "marketPrice": 16.68,
           "directLowPrice": 99.12
@@ -9353,12 +9353,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280967,
         "avg": 2.1,
         "low": 0.02,
-        "trend": 3.32,
+        "trend": 3.23,
         "avg1": 9.99,
         "avg7": 2.22,
         "avg30": 1.88,
@@ -9371,19 +9371,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85093,
           "lowPrice": 0.5,
-          "midPrice": 1.67,
+          "midPrice": 1.68,
           "highPrice": 40,
-          "marketPrice": 1.66,
+          "marketPrice": 1.64,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 85093,
-          "lowPrice": 12.01,
-          "midPrice": 27,
+          "lowPrice": 11.93,
+          "midPrice": 21.4,
           "highPrice": 192,
           "marketPrice": 17.31,
           "directLowPrice": null
@@ -9457,25 +9457,25 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280969,
         "avg": 0.18,
         "low": 0.02,
-        "trend": 0.25,
+        "trend": 0.24,
         "avg1": 0.1,
         "avg7": 0.2,
         "avg30": 0.15,
         "avg-holo": 1.9,
         "low-holo": 0.15,
-        "trend-holo": 1.05,
+        "trend-holo": 1.19,
         "avg1-holo": 1.9,
         "avg7-holo": 1.08,
         "avg30-holo": 0.71
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86175,
           "lowPrice": 0.09,
@@ -9487,7 +9487,7 @@
         "reverse-holofoil": {
           "productId": 86175,
           "lowPrice": 0.46,
-          "midPrice": 0.91,
+          "midPrice": 0.94,
           "highPrice": 19.98,
           "marketPrice": 0.91,
           "directLowPrice": null
@@ -9571,12 +9571,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280970,
         "avg": 0.19,
         "low": 0.02,
-        "trend": 0.24,
+        "trend": 0.25,
         "avg1": 0.1,
         "avg7": 0.19,
         "avg30": 0.17,
@@ -9589,19 +9589,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87796,
           "lowPrice": 0.05,
-          "midPrice": 0.31,
+          "midPrice": 0.3,
           "highPrice": 23.49,
-          "marketPrice": 0.31,
+          "marketPrice": 0.3,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 87796,
           "lowPrice": 0.49,
-          "midPrice": 0.87,
+          "midPrice": 0.86,
           "highPrice": 19.98,
           "marketPrice": 0.62,
           "directLowPrice": null
@@ -9677,12 +9677,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280971,
         "avg": 0.3,
         "low": 0.02,
-        "trend": 0.3,
+        "trend": 0.27,
         "avg1": 0.1,
         "avg7": 0.36,
         "avg30": 0.33,
@@ -9695,21 +9695,21 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 87467,
           "lowPrice": 0.25,
           "midPrice": 0.65,
-          "highPrice": 17.86,
-          "marketPrice": 0.66,
+          "highPrice": 17.74,
+          "marketPrice": 0.64,
           "directLowPrice": 0.5
         },
         "reverse-holofoil": {
           "productId": 87467,
-          "lowPrice": 1.8,
-          "midPrice": 3.99,
+          "lowPrice": 1.83,
+          "midPrice": 3.9,
           "highPrice": 48.7,
-          "marketPrice": 3.77,
+          "marketPrice": 3.91,
           "directLowPrice": null
         }
       }
@@ -9782,12 +9782,12 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280972,
         "avg": 0.94,
         "low": 0.12,
-        "trend": 0.79,
+        "trend": 0.74,
         "avg1": 0.05,
         "avg7": 0.62,
         "avg30": 1.06,
@@ -9800,7 +9800,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 86432,
           "lowPrice": 0.9,
@@ -9812,9 +9812,9 @@
         "reverse-holofoil": {
           "productId": 86432,
           "lowPrice": 1.44,
-          "midPrice": 3.69,
+          "midPrice": 3.62,
           "highPrice": 44.99,
-          "marketPrice": 3.48,
+          "marketPrice": 3.56,
           "directLowPrice": null
         }
       }
@@ -9887,7 +9887,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280973,
         "avg": 0.07,
@@ -9905,13 +9905,13 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89526,
           "lowPrice": 0.08,
           "midPrice": 0.25,
           "highPrice": 7.99,
-          "marketPrice": 0.25,
+          "marketPrice": 0.26,
           "directLowPrice": 0.17
         },
         "reverse-holofoil": {
@@ -9993,7 +9993,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280974,
         "avg": 0.24,
@@ -10011,7 +10011,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89518,
           "lowPrice": 0.09,
@@ -10023,7 +10023,7 @@
         "reverse-holofoil": {
           "productId": 89518,
           "lowPrice": 0.3,
-          "midPrice": 0.59,
+          "midPrice": 0.67,
           "highPrice": 19.98,
           "marketPrice": 0.51,
           "directLowPrice": null
@@ -10108,7 +10108,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280975,
         "avg": 0.64,
@@ -10126,19 +10126,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89510,
           "lowPrice": 0.39,
-          "midPrice": 0.73,
+          "midPrice": 0.75,
           "highPrice": 19.98,
-          "marketPrice": 0.73,
+          "marketPrice": 0.77,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 89510,
           "lowPrice": 1.97,
-          "midPrice": 4.09,
+          "midPrice": 4.25,
           "highPrice": 45.1,
           "marketPrice": 4.05,
           "directLowPrice": null
@@ -10264,15 +10264,15 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280977,
         "avg": 6.57,
         "low": 1.49,
-        "trend": 8.48,
-        "avg1": 4.3,
-        "avg7": 7.87,
-        "avg30": 5.72,
+        "trend": 8.09,
+        "avg1": 5,
+        "avg7": 7.54,
+        "avg30": 5.75,
         "avg-holo": 7,
         "low-holo": 5,
         "trend-holo": 5.96,
@@ -10282,19 +10282,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85510,
           "lowPrice": 5,
-          "midPrice": 7.07,
+          "midPrice": 7.5,
           "highPrice": 53.42,
-          "marketPrice": 6.54,
+          "marketPrice": 6.58,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 85510,
           "lowPrice": 7.83,
-          "midPrice": 9.78,
+          "midPrice": 9.35,
           "highPrice": 80.8,
           "marketPrice": 9.35,
           "directLowPrice": null
@@ -10342,12 +10342,12 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280978,
         "avg": 0.38,
         "low": 0.02,
-        "trend": 0.41,
+        "trend": 0.39,
         "avg1": 0.4,
         "avg7": 0.33,
         "avg30": 0.33,
@@ -10360,7 +10360,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 85577,
           "lowPrice": 0.4,
@@ -10372,7 +10372,7 @@
         "reverse-holofoil": {
           "productId": 85577,
           "lowPrice": 1.75,
-          "midPrice": 2.25,
+          "midPrice": 2.26,
           "highPrice": 33.49,
           "marketPrice": 2.26,
           "directLowPrice": 33.49
@@ -10420,7 +10420,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280979,
         "avg": 3.8,
@@ -10431,28 +10431,28 @@
         "avg30": 3.14,
         "avg-holo": 3.05,
         "low-holo": 0.39,
-        "trend-holo": 4,
+        "trend-holo": 3.65,
         "avg1-holo": 4.9,
         "avg7-holo": 3.91,
         "avg30-holo": 3.36
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 85694,
           "lowPrice": 1.09,
           "midPrice": 2,
           "highPrice": 33,
-          "marketPrice": 2.37,
+          "marketPrice": 2.47,
           "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 85694,
-          "lowPrice": 3.79,
+          "lowPrice": 3.86,
           "midPrice": 6.44,
           "highPrice": 48.2,
-          "marketPrice": 6.13,
+          "marketPrice": 6.29,
           "directLowPrice": null
         }
       }
@@ -10498,39 +10498,39 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280980,
         "avg": 0.19,
         "low": 0.02,
-        "trend": 0.23,
-        "avg1": 0.09,
-        "avg7": 0.19,
+        "trend": 0.2,
+        "avg1": 0.05,
+        "avg7": 0.18,
         "avg30": 0.2,
         "avg-holo": null,
         "low-holo": 0.29,
-        "trend-holo": 2.25,
-        "avg1-holo": 0.55,
-        "avg7-holo": 1.72,
-        "avg30-holo": 1.57
+        "trend-holo": 2.15,
+        "avg1-holo": 0.88,
+        "avg7-holo": 1.67,
+        "avg30-holo": 1.58
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89096,
           "lowPrice": 0.05,
           "midPrice": 0.31,
           "highPrice": 18.48,
           "marketPrice": 0.26,
-          "directLowPrice": 0.2
+          "directLowPrice": 0.25
         },
         "reverse-holofoil": {
           "productId": 89096,
           "lowPrice": 0.85,
-          "midPrice": 2.76,
+          "midPrice": 2.55,
           "highPrice": 33,
-          "marketPrice": 2.87,
+          "marketPrice": 2.86,
           "directLowPrice": null
         }
       }
@@ -10576,12 +10576,12 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280981,
         "avg": 0.67,
         "low": 0.02,
-        "trend": 0.74,
+        "trend": 0.68,
         "avg1": 0.5,
         "avg7": 1.02,
         "avg30": 1.02,
@@ -10594,19 +10594,19 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89642,
-          "lowPrice": 0.51,
-          "midPrice": 1.43,
+          "lowPrice": 0.25,
+          "midPrice": 1.41,
           "highPrice": 14.99,
           "marketPrice": 1.41,
-          "directLowPrice": 1.37
+          "directLowPrice": 1.55
         },
         "reverse-holofoil": {
           "productId": 89642,
-          "lowPrice": 3.99,
-          "midPrice": 8.62,
+          "lowPrice": 3.95,
+          "midPrice": 8.5,
           "highPrice": 107.5,
           "marketPrice": 7.24,
           "directLowPrice": null
@@ -10654,14 +10654,14 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280982,
         "avg": 0.26,
         "low": 0.02,
-        "trend": 0.32,
-        "avg1": 0.2,
-        "avg7": 0.31,
+        "trend": 0.29,
+        "avg1": 0.15,
+        "avg7": 0.25,
         "avg30": 0.24,
         "avg-holo": 15,
         "low-holo": 0.2,
@@ -10672,7 +10672,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89847,
           "lowPrice": 0.1,
@@ -10684,9 +10684,9 @@
         "reverse-holofoil": {
           "productId": 89847,
           "lowPrice": 0.5,
-          "midPrice": 1.55,
+          "midPrice": 1.48,
           "highPrice": 19.98,
-          "marketPrice": 1.58,
+          "marketPrice": 1.57,
           "directLowPrice": null
         }
       }
@@ -10732,13 +10732,13 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280983,
         "avg": 0.17,
         "low": 0.02,
-        "trend": 0.16,
-        "avg1": 0.48,
+        "trend": 0.13,
+        "avg1": 0.15,
         "avg7": 0.18,
         "avg30": 0.2,
         "avg-holo": 1.4,
@@ -10750,7 +10750,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 89848,
           "lowPrice": 0.08,
@@ -10763,9 +10763,9 @@
           "productId": 89848,
           "lowPrice": 1.75,
           "midPrice": 5,
-          "highPrice": 89.53,
+          "highPrice": 89.51,
           "marketPrice": 5.15,
-          "directLowPrice": 89.52
+          "directLowPrice": 89.5
         }
       }
     }
@@ -10810,7 +10810,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280984,
         "avg": 0.41,
@@ -10828,18 +10828,18 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "normal": {
           "productId": 88156,
           "lowPrice": 0.2,
           "midPrice": 0.39,
           "highPrice": 1000,
           "marketPrice": 0.35,
-          "directLowPrice": 0.29
+          "directLowPrice": null
         },
         "reverse-holofoil": {
           "productId": 88156,
-          "lowPrice": 1.99,
+          "lowPrice": 1.5,
           "midPrice": 3,
           "highPrice": 37.49,
           "marketPrice": 3.04,
@@ -10888,7 +10888,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280985,
         "avg": 3.5,
@@ -10906,14 +10906,14 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 86729,
           "lowPrice": 3.75,
-          "midPrice": 5.55,
+          "midPrice": 5.69,
           "highPrice": 54.9,
           "marketPrice": 4.67,
-          "directLowPrice": 9.94
+          "directLowPrice": 6.02
         }
       }
     }
@@ -10958,7 +10958,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280986,
         "avg": 2.32,
@@ -10976,14 +10976,14 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 88766,
           "lowPrice": 1.75,
           "midPrice": 3.01,
           "highPrice": 39.98,
           "marketPrice": 3.02,
-          "directLowPrice": 2.56
+          "directLowPrice": 4.54
         }
       }
     }
@@ -11472,7 +11472,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280979,
         "avg": 3.8,
@@ -11483,18 +11483,18 @@
         "avg30": 3.14,
         "avg-holo": 3.05,
         "low-holo": 0.39,
-        "trend-holo": 4,
+        "trend-holo": 3.65,
         "avg1-holo": 4.9,
         "avg7-holo": 3.91,
         "avg30-holo": 3.36
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 85695,
           "lowPrice": 62,
-          "midPrice": 84.99,
+          "midPrice": 105.33,
           "highPrice": 812.52,
           "marketPrice": 85.44,
           "directLowPrice": 812.52
@@ -11542,7 +11542,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280994,
         "avg": 23.99,
@@ -11560,11 +11560,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 88398,
           "lowPrice": 67.5,
-          "midPrice": 92.07,
+          "midPrice": 93.57,
           "highPrice": 1009.38,
           "marketPrice": 103.32,
           "directLowPrice": 84.99
@@ -11640,7 +11640,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280995,
         "avg": 29.97,
@@ -11658,7 +11658,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 85203,
           "lowPrice": 275,
@@ -11740,7 +11740,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280996,
         "avg": 45,
@@ -11758,11 +11758,11 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 89207,
-          "lowPrice": 90,
-          "midPrice": 132.19,
+          "lowPrice": 49.99,
+          "midPrice": 90,
           "highPrice": 174.38,
           "marketPrice": 118.58,
           "directLowPrice": null
@@ -11840,7 +11840,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280997,
         "avg": 34.95,
@@ -11858,7 +11858,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 85617,
           "lowPrice": 200,
@@ -11938,7 +11938,7 @@
     "updated": "2026-05-27T21:25:40+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280998,
         "avg": 129.95,
@@ -12008,7 +12008,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.103Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 280999,
         "avg": 44.75,
@@ -12026,13 +12026,13 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 87267,
           "lowPrice": 20,
           "midPrice": 32,
           "highPrice": 428.6,
-          "marketPrice": 38.61,
+          "marketPrice": 39.02,
           "directLowPrice": null
         }
       }
@@ -12078,7 +12078,7 @@
     "updated": "2025-08-16T20:39:55Z",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-07-28T08:02:25.137Z",
+        "updated": "2026-07-31T08:02:24.942Z",
         "unit": "EUR",
         "idProduct": 281000,
         "avg": 95.9,
@@ -12096,7 +12096,7 @@
       },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-07-28T08:03:08.098Z",
+        "updated": "2026-07-31T08:02:32.629Z",
         "holofoil": {
           "productId": 90135,
           "lowPrice": 1099.99,
