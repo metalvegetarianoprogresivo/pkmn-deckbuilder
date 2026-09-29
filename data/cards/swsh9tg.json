@@ -1,0 +1,3610 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG01",
+    "illustrator": "You Iribi",
+    "localId": "TG01",
+    "name": "Flareon",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608733,
+          "tcgplayer": 264210
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608733,
+            "avg": 21.36,
+            "low": 4,
+            "trend": 17.25,
+            "avg1": 18.96,
+            "avg7": 17.97,
+            "avg30": 21.67,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 110,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Despertar Incandescente",
+        "effect": "Si este Pokémon tiene 1 Cápsula de Memoria unida a él, los Pokémon Grass en juego (tanto tuyos como de tu rival) no tienen ninguna habilidad."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Crin de Fuego",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608733,
+        "avg": 21.36,
+        "low": 4,
+        "trend": 17.25,
+        "avg1": 18.96,
+        "avg7": 17.97,
+        "avg30": 21.67,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG02",
+    "illustrator": "Jiro Sasumo",
+    "localId": "TG02",
+    "name": "Vaporeon",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608734,
+          "tcgplayer": 264211
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608734,
+            "avg": 19.42,
+            "low": 7,
+            "trend": 18.53,
+            "avg1": 20.65,
+            "avg7": 18.57,
+            "avg30": 20.03,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 110,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Despertar Torrencial",
+        "effect": "Si este Pokémon tiene 1 Cápsula de Memoria unida a él, los Pokémon Fire en juego (tanto tuyos como de tu rival) no tienen ninguna habilidad."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Rayo Aurora",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608734,
+        "avg": 19.42,
+        "low": 7,
+        "trend": 18.53,
+        "avg1": 20.65,
+        "avg7": 18.57,
+        "avg30": 20.03,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG03",
+    "illustrator": "Shinya Komatsu",
+    "localId": "TG03",
+    "name": "Octillery",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608735,
+          "tcgplayer": 264212
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608735,
+            "avg": 2.62,
+            "low": 0.5,
+            "trend": 2.58,
+            "avg1": 2.75,
+            "avg7": 2.53,
+            "avg30": 2.65,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      224
+    ],
+    "hp": 110,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Remoraid",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Búsqueda de Golpe Fluido",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Golpe Fluido, enseñarla y ponerla en tu mano. Después, baraja las cartas de tu baraja. No puedes usar más de 1 habilidad Búsqueda de Golpe Fluido en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cascada",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608735,
+        "avg": 2.62,
+        "low": 0.5,
+        "trend": 2.58,
+        "avg1": 2.75,
+        "avg7": 2.53,
+        "avg30": 2.65,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG04",
+    "illustrator": "DOM",
+    "localId": "TG04",
+    "name": "Jolteon",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608736,
+          "tcgplayer": 264213
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608736,
+            "avg": 15.31,
+            "low": 5,
+            "trend": 14.92,
+            "avg1": 13.64,
+            "avg7": 14.76,
+            "avg30": 15.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 100,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Despertar Atronador",
+        "effect": "Si este Pokémon tiene 1 Cápsula de Memoria unida a él, los Pokémon Water en juego (tanto tuyos como de tu rival) no tienen ninguna habilidad."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bola Eléctrica",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608736,
+        "avg": 15.31,
+        "low": 5,
+        "trend": 14.92,
+        "avg1": 13.64,
+        "avg7": 14.76,
+        "avg30": 15.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG05",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "TG05",
+    "name": "Zekrom",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608737,
+          "tcgplayer": 264205
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608737,
+            "avg": 13.05,
+            "low": 1.99,
+            "trend": 12.38,
+            "avg1": 12.91,
+            "avg7": 13.04,
+            "avg30": 13.39,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuchillada",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Voltio Salvaje",
+        "effect": "Este Pokémon también se hace 60 puntos de daño a sí mismo. El Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608737,
+        "avg": 13.05,
+        "low": 1.99,
+        "trend": 12.38,
+        "avg1": 12.91,
+        "avg7": 13.04,
+        "avg30": 13.39,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG06",
+    "illustrator": "Megumi Higuchi",
+    "localId": "TG06",
+    "name": "Dusknoir",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608738,
+          "tcgplayer": 263778
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 608738,
+            "avg": 2.59,
+            "low": 0.85,
+            "trend": 2.56,
+            "avg1": 2.34,
+            "avg7": 2.38,
+            "avg30": 2.52,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "reverse-holofoil": {
+              "productId": 263778,
+              "lowPrice": 0.07,
+              "midPrice": 0.25,
+              "highPrice": 19.84,
+              "marketPrice": 0.22,
+              "directLowPrice": null
+            },
+            "holofoil": {
+              "productId": 263778,
+              "lowPrice": 0.03,
+              "midPrice": 0.24,
+              "highPrice": 19.84,
+              "marketPrice": 0.18,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      477
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Dusclops",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Brecha Espectral",
+        "effect": "Todas las Energías Especiales unidas a los Pokémon (tanto tuyos como de tu rival) proporcionan 1 Energía Colorless y no tienen ningún otro efecto."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Disparo Embrujado",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 608738,
+        "avg": 2.59,
+        "low": 0.85,
+        "trend": 2.56,
+        "avg1": 2.34,
+        "avg7": 2.38,
+        "avg30": 2.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "reverse-holofoil": {
+          "productId": 263778,
+          "lowPrice": 0.07,
+          "midPrice": 0.25,
+          "highPrice": 19.84,
+          "marketPrice": 0.22,
+          "directLowPrice": null
+        },
+        "holofoil": {
+          "productId": 263778,
+          "lowPrice": 0.03,
+          "midPrice": 0.24,
+          "highPrice": 19.84,
+          "marketPrice": 0.18,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG07",
+    "illustrator": "kurumitsu",
+    "localId": "TG07",
+    "name": "Dedenne",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608739,
+          "tcgplayer": 263783
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608739,
+            "avg": 4.66,
+            "low": 1,
+            "trend": 4.38,
+            "avg1": 4.14,
+            "avg7": 4.5,
+            "avg30": 4.56,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "reverse-holofoil": {
+              "productId": 263783,
+              "lowPrice": 0.05,
+              "midPrice": 0.35,
+              "highPrice": 19.84,
+              "marketPrice": 0.37,
+              "directLowPrice": null
+            },
+            "normal": {
+              "productId": 263783,
+              "lowPrice": 0.01,
+              "midPrice": 0.22,
+              "highPrice": 19.84,
+              "marketPrice": 0.23,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      702
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Dede-Flash",
+        "effect": "Si a tu rival le queda exactamente 1 carta de Premio, este ataque hace 60 puntos de daño más, y el Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608739,
+        "avg": 4.66,
+        "low": 1,
+        "trend": 4.38,
+        "avg1": 4.14,
+        "avg7": 4.5,
+        "avg30": 4.56,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "reverse-holofoil": {
+          "productId": 263783,
+          "lowPrice": 0.05,
+          "midPrice": 0.35,
+          "highPrice": 19.84,
+          "marketPrice": 0.37,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 263783,
+          "lowPrice": 0.01,
+          "midPrice": 0.22,
+          "highPrice": 19.84,
+          "marketPrice": 0.23,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG08",
+    "illustrator": "OKACHEKE",
+    "localId": "TG08",
+    "name": "Alcremie",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608740,
+          "tcgplayer": 263787
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608740,
+            "avg": 2.36,
+            "low": 0.3,
+            "trend": 2.35,
+            "avg1": 2.37,
+            "avg7": 2.19,
+            "avg30": 2.36,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "normal": {
+              "productId": 263787,
+              "lowPrice": 0.01,
+              "midPrice": 0.27,
+              "highPrice": 18.84,
+              "marketPrice": 0.24,
+              "directLowPrice": null
+            },
+            "reverse-holofoil": {
+              "productId": 263787,
+              "lowPrice": 0.1,
+              "midPrice": 0.4,
+              "highPrice": 19.84,
+              "marketPrice": 0.4,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      869
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Milcery",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pedido Adicional",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, tu turno no termina cuando uses Barista."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Sabor Arcoíris",
+        "effect": "Este ataque hace 40 puntos de daño más por cada tipo de Energía Básica unida a todos tus Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608740,
+        "avg": 2.36,
+        "low": 0.3,
+        "trend": 2.35,
+        "avg1": 2.37,
+        "avg7": 2.19,
+        "avg30": 2.36,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "normal": {
+          "productId": 263787,
+          "lowPrice": 0.01,
+          "midPrice": 0.27,
+          "highPrice": 18.84,
+          "marketPrice": 0.24,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 263787,
+          "lowPrice": 0.1,
+          "midPrice": 0.4,
+          "highPrice": 19.84,
+          "marketPrice": 0.4,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG09",
+    "illustrator": "Shiburingaru",
+    "localId": "TG09",
+    "name": "Ariados",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608741,
+          "tcgplayer": 264204
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608741,
+            "avg": 2.28,
+            "low": 0.55,
+            "trend": 2.24,
+            "avg1": 2,
+            "avg7": 2.33,
+            "avg30": 2.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      168
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Spinarak",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Red de Araña",
+        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes cambiar 1 de los Pokémon Evolución en Banca de tu rival por su Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Picotazo Veneno",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608741,
+        "avg": 2.28,
+        "low": 0.55,
+        "trend": 2.24,
+        "avg1": 2,
+        "avg7": 2.33,
+        "avg30": 2.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG10",
+    "illustrator": "NC Empire",
+    "localId": "TG10",
+    "name": "Houndoom",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608742,
+          "tcgplayer": 264217
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:34.109Z",
+            "unit": "EUR",
+            "idProduct": 608742,
+            "avg": 3.46,
+            "low": 0.5,
+            "trend": 2.24,
+            "avg1": 1.87,
+            "avg7": 3,
+            "avg30": 3.48,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      229
+    ],
+    "hp": 130,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Houndour",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rugido Golpe Brusco",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Energía Golpe Brusco y unirla a 1 de tus Pokémon Golpe Brusco. Después, baraja las cartas de tu baraja. Si has unido Energía a un Pokémon de esta manera, pon 2 contadores de daño en ese Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Colmillo de Oscuridad",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:34.109Z",
+        "unit": "EUR",
+        "idProduct": 608742,
+        "avg": 3.46,
+        "low": 0.5,
+        "trend": 2.24,
+        "avg1": 1.87,
+        "avg7": 3,
+        "avg30": 3.48,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG11",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "TG11",
+    "name": "Eevee",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608743,
+          "tcgplayer": 264218
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608743,
+            "avg": 14.66,
+            "low": 5,
+            "trend": 13.29,
+            "avg1": 13.79,
+            "avg7": 13.78,
+            "avg30": 15.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Vee por V",
+        "effect": "Busca en tu baraja hasta 3 Pokémon V, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estampida",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608743,
+        "avg": 14.66,
+        "low": 5,
+        "trend": 13.29,
+        "avg1": 13.79,
+        "avg7": 13.78,
+        "avg30": 15.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG12",
+    "illustrator": "Akira Komayama",
+    "localId": "TG12",
+    "name": "Oranguru",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608744,
+          "tcgplayer": 264219
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:34.109Z",
+            "unit": "EUR",
+            "idProduct": 608744,
+            "avg": 2.32,
+            "low": 0.5,
+            "trend": 2.37,
+            "avg1": 2.06,
+            "avg7": 2.35,
+            "avg30": 2.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      765
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Sabiduría Primate",
+        "effect": "Una vez durante tu turno, puedes cambiar 1 carta de tu mano por la primera carta de tu baraja."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Zurrar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:34.109Z",
+        "unit": "EUR",
+        "idProduct": 608744,
+        "avg": 2.32,
+        "low": 0.5,
+        "trend": 2.37,
+        "avg1": 2.06,
+        "avg7": 2.35,
+        "avg30": 2.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG13",
+    "illustrator": "GIDORA",
+    "localId": "TG13",
+    "name": "Boltund V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608745,
+          "tcgplayer": 264202
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608745,
+            "avg": 10.92,
+            "low": 4,
+            "trend": 10.94,
+            "avg1": 10.99,
+            "avg7": 10.6,
+            "avg30": 10.59,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      836
+    ],
+    "hp": 200,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Electrificación",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Lightning y únelas a tus Pokémon en Banca de la manera que desees. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Tormenta de Relámpagos",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Lightning unida a todos tus Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608745,
+        "avg": 10.92,
+        "low": 4,
+        "trend": 10.94,
+        "avg1": 10.99,
+        "avg7": 10.6,
+        "avg30": 10.59,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG14",
+    "illustrator": "Megumi Mizutani",
+    "localId": "TG14",
+    "name": "Sylveon V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608746,
+          "tcgplayer": 264209
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608746,
+            "avg": 44.42,
+            "low": 15,
+            "trend": 42.38,
+            "avg1": 31.34,
+            "avg7": 42.95,
+            "avg30": 44.99,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 200,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Regalo de Ensueño",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Objeto, enseñarla y ponerla en tu mano. Después, baraja las cartas de tu baraja. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608746,
+        "avg": 44.42,
+        "low": 15,
+        "trend": 42.38,
+        "avg1": 31.34,
+        "avg7": 42.95,
+        "avg30": 44.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG15",
+    "illustrator": "sui",
+    "localId": "TG15",
+    "name": "Sylveon VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608747,
+          "tcgplayer": 264208
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608747,
+            "avg": 50.94,
+            "low": 19,
+            "trend": 50.91,
+            "avg1": 50,
+            "avg7": 51.31,
+            "avg30": 53.83,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 310,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Sylveon V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Toque Precioso",
+        "effect": "Une 1 carta de Energía de tu mano a 1 de tus Pokémon en Banca. Si lo haces, cura 120 puntos de daño a ese Pokémon."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxiarmonía",
+        "effect": "Este ataque hace 30 puntos de daño más por cada tipo de Pokémon diferente en tu Banca.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608747,
+        "avg": 50.94,
+        "low": 19,
+        "trend": 50.91,
+        "avg1": 50,
+        "avg7": 51.31,
+        "avg30": 53.83,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG16",
+    "illustrator": "saino misaki",
+    "localId": "TG16",
+    "name": "Mimikyu V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608748,
+          "tcgplayer": 263784
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608748,
+            "avg": 86.42,
+            "low": 25,
+            "trend": 69.02,
+            "avg1": 65,
+            "avg7": 68.81,
+            "avg30": 80.44,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "holofoil": {
+              "productId": 263784,
+              "lowPrice": 1.79,
+              "midPrice": 3.81,
+              "highPrice": 96.95,
+              "marketPrice": 3.66,
+              "directLowPrice": 3.6
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      778
+    ],
+    "hp": 160,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Muñeco Ficticio",
+        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes evitar todo el daño infligido a este Mimikyu V por ataques de los Pokémon de tu rival hasta el final del próximo turno de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Ojos Celosos",
+        "effect": "Pon 3 contadores de daño en el Pokémon Activo de tu rival por cada carta de Premio que haya cogido tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608748,
+        "avg": 86.42,
+        "low": 25,
+        "trend": 69.02,
+        "avg1": 65,
+        "avg7": 68.81,
+        "avg30": 80.44,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "holofoil": {
+          "productId": 263784,
+          "lowPrice": 1.79,
+          "midPrice": 3.81,
+          "highPrice": 96.95,
+          "marketPrice": 3.66,
+          "directLowPrice": 3.6
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG17",
+    "illustrator": "Naoki Saito",
+    "localId": "TG17",
+    "name": "Mimikyu VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608749,
+          "tcgplayer": 263785
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608749,
+            "avg": 45.8,
+            "low": 15.98,
+            "trend": 43.63,
+            "avg1": 42.83,
+            "avg7": 46.69,
+            "avg30": 43.05,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "holofoil": {
+              "productId": 263785,
+              "lowPrice": 10.42,
+              "midPrice": 14.28,
+              "highPrice": 262.8,
+              "marketPrice": 14.23,
+              "directLowPrice": 13.99
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      778
+    ],
+    "hp": 300,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Mimikyu V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Números de Mal Agüero",
+        "effect": "Pon 4 contadores de daño en los Pokémon de tu rival de la manera que desees. Si has jugado Presentimiento de Zarala de tu mano durante este turno, pon 13 contadores de daño en vez de 4."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Maxipenumbra",
+        "effect": "Descarta 1 carta aleatoria de la mano de tu rival.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608749,
+        "avg": 45.8,
+        "low": 15.98,
+        "trend": 43.63,
+        "avg1": 42.83,
+        "avg7": 46.69,
+        "avg30": 43.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "holofoil": {
+          "productId": 263785,
+          "lowPrice": 10.42,
+          "midPrice": 14.28,
+          "highPrice": 262.8,
+          "marketPrice": 14.23,
+          "directLowPrice": 13.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG18",
+    "illustrator": "Yuu Nishida",
+    "localId": "TG18",
+    "name": "Urshifu Golpe Brusco V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608750,
+          "tcgplayer": 264224
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608750,
+            "avg": 5.33,
+            "low": 1.99,
+            "trend": 4.56,
+            "avg1": 5,
+            "avg7": 5.58,
+            "avg30": 5.15,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 220,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Aguzar",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía Fighting y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Impactante",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Golpe Impactante.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608750,
+        "avg": 5.33,
+        "low": 1.99,
+        "trend": 4.56,
+        "avg1": 5,
+        "avg7": 5.58,
+        "avg30": 5.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG19",
+    "illustrator": "kodama",
+    "localId": "TG19",
+    "name": "Urshifu Golpe Brusco VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608751,
+          "tcgplayer": 264225
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 608751,
+            "avg": 7.95,
+            "low": 3,
+            "trend": 7.35,
+            "avg1": 7.62,
+            "avg7": 7.27,
+            "avg30": 7.88,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 330,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Urshifu Golpe Brusco V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Derrumbar",
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Brusco",
+        "effect": "Descarta todas las Energías de este Pokémon. El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 270
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 608751,
+        "avg": 7.95,
+        "low": 3,
+        "trend": 7.35,
+        "avg1": 7.62,
+        "avg7": 7.27,
+        "avg30": 7.88,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG20",
+    "illustrator": "takuyoa",
+    "localId": "TG20",
+    "name": "Urshifu Golpe Fluido V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608752,
+          "tcgplayer": 264226
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.256Z",
+            "unit": "EUR",
+            "idProduct": 608752,
+            "avg": 5.26,
+            "low": 2.5,
+            "trend": 5.34,
+            "avg1": 5.95,
+            "avg7": 5.83,
+            "avg30": 5.32,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 220,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Pasada de Ataque",
+        "effect": "Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Cien Golpes Furiosos",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.256Z",
+        "unit": "EUR",
+        "idProduct": 608752,
+        "avg": 5.26,
+        "low": 2.5,
+        "trend": 5.34,
+        "avg1": 5.95,
+        "avg7": 5.83,
+        "avg30": 5.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG21",
+    "illustrator": "Scav",
+    "localId": "TG21",
+    "name": "Urshifu Golpe Fluido VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608753,
+          "tcgplayer": 264227
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608753,
+            "avg": 10.68,
+            "low": 5.39,
+            "trend": 10.93,
+            "avg1": 9.98,
+            "avg7": 11.06,
+            "avg30": 10.85,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 330,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Urshifu Golpe Fluido V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Impulso Vendaval",
+        "effect": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 120 puntos de daño más.",
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Fluido",
+        "effect": "Descarta todas las Energías de este Pokémon. Este ataque hace 120 puntos de daño a 2 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608753,
+        "avg": 10.68,
+        "low": 5.39,
+        "trend": 10.93,
+        "avg1": 9.98,
+        "avg7": 11.06,
+        "avg30": 10.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG22",
+    "illustrator": "Ligton",
+    "localId": "TG22",
+    "name": "Umbreon V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608754,
+          "tcgplayer": 264207
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.301Z",
+            "unit": "EUR",
+            "idProduct": 608754,
+            "avg": 70.29,
+            "low": 23.5,
+            "trend": 63.23,
+            "avg1": 63,
+            "avg7": 54.81,
+            "avg30": 73.17,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 200,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Mal de Ojo",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Tajo Luz Lunar",
+        "effect": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.301Z",
+        "unit": "EUR",
+        "idProduct": 608754,
+        "avg": 70.29,
+        "low": 23.5,
+        "trend": 63.23,
+        "avg1": 63,
+        "avg7": 54.81,
+        "avg30": 73.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG23",
+    "illustrator": "kawayoo",
+    "localId": "TG23",
+    "name": "Umbreon VMAX",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608755,
+          "tcgplayer": 264206
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608755,
+            "avg": 86.27,
+            "low": 20,
+            "trend": 100.85,
+            "avg1": 87.48,
+            "avg7": 94.63,
+            "avg30": 78.85,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 310,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Umbreon V",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Señal Oscura",
+        "effect": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes cambiar 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxisombra",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608755,
+        "avg": 86.27,
+        "low": 20,
+        "trend": 100.85,
+        "avg1": 87.48,
+        "avg7": 94.63,
+        "avg30": 78.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh9tg-TG24",
+    "illustrator": "yuu",
+    "localId": "TG24",
+    "name": "Presentimiento de Zarala",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608756,
+          "tcgplayer": 263852
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608756,
+            "avg": 7.67,
+            "low": 2.95,
+            "trend": 13.42,
+            "avg1": 4.98,
+            "avg7": 5.85,
+            "avg30": 6.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "reverse-holofoil": {
+              "productId": 263852,
+              "lowPrice": 0.04,
+              "midPrice": 0.25,
+              "highPrice": 6.6,
+              "marketPrice": 0.23,
+              "directLowPrice": 0.2
+            },
+            "normal": {
+              "productId": 263852,
+              "lowPrice": 0.01,
+              "midPrice": 0.18,
+              "highPrice": 14.14,
+              "marketPrice": 0.14,
+              "directLowPrice": 0.01
+            }
+          }
+        }
+      },
+      {
+        "type": "reversa",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608756,
+          "tcgplayer": 263852
+        },
+        "variantId": "cm4kqul3x1bwlz1f",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608756,
+            "avg": 7.67,
+            "low": 2.95,
+            "trend": 13.42,
+            "avg1": 4.98,
+            "avg7": 5.85,
+            "avg30": 6.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "reverse-holofoil": {
+              "productId": 263852,
+              "lowPrice": 0.04,
+              "midPrice": 0.25,
+              "highPrice": 6.6,
+              "marketPrice": 0.23,
+              "directLowPrice": 0.2
+            },
+            "normal": {
+              "productId": 263852,
+              "lowPrice": 0.01,
+              "midPrice": 0.18,
+              "highPrice": 14.14,
+              "marketPrice": 0.14,
+              "directLowPrice": 0.01
+            }
+          }
+        }
+      }
+    ],
+    "effect": "Tu rival enseña las cartas de su mano, y tú robas 1 carta por cada carta de Entrenador que encuentres entre ellas.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608756,
+        "avg": 7.67,
+        "low": 2.95,
+        "trend": 13.42,
+        "avg1": 4.98,
+        "avg7": 5.85,
+        "avg30": 6.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "reverse-holofoil": {
+          "productId": 263852,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 6.6,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.2
+        },
+        "normal": {
+          "productId": 263852,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 14.14,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.01
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh9tg-TG25",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "TG25",
+    "name": "Barista",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608757,
+          "tcgplayer": 264203
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608757,
+            "avg": 2.07,
+            "low": 0.45,
+            "trend": 2.14,
+            "avg1": 1.95,
+            "avg7": 1.92,
+            "avg30": 2.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "Elige hasta 3 de tus Pokémon en Banca. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía Básica de tipo diferente y únela a ese Pokémon. Después, baraja las cartas de tu baraja. Tu turno termina.",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608757,
+        "avg": 2.07,
+        "low": 0.45,
+        "trend": 2.14,
+        "avg1": 1.95,
+        "avg7": 1.92,
+        "avg30": 2.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh9tg-TG26",
+    "illustrator": "Naoki Saito",
+    "localId": "TG26",
+    "name": "Gloria",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608758,
+          "tcgplayer": 263863
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608758,
+            "avg": 4.5,
+            "low": 1.81,
+            "trend": 3.66,
+            "avg1": 5.3,
+            "avg7": 4.47,
+            "avg30": 4.73,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "normal": {
+              "productId": 263863,
+              "lowPrice": 0.01,
+              "midPrice": 0.18,
+              "highPrice": 14.17,
+              "marketPrice": 0.17,
+              "directLowPrice": 0.01
+            },
+            "reverse-holofoil": {
+              "productId": 263863,
+              "lowPrice": 0.03,
+              "midPrice": 0.21,
+              "highPrice": 17.38,
+              "marketPrice": 0.17,
+              "directLowPrice": 0.08
+            }
+          }
+        }
+      },
+      {
+        "type": "reversa",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608758,
+          "tcgplayer": 263863
+        },
+        "variantId": "cm4kqul3x1bwlz1f",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608758,
+            "avg": 4.5,
+            "low": 1.81,
+            "trend": 3.66,
+            "avg1": 5.3,
+            "avg7": 4.47,
+            "avg30": 4.73,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:55:07.101Z",
+            "normal": {
+              "productId": 263863,
+              "lowPrice": 0.01,
+              "midPrice": 0.18,
+              "highPrice": 14.17,
+              "marketPrice": 0.17,
+              "directLowPrice": 0.01
+            },
+            "reverse-holofoil": {
+              "productId": 263863,
+              "lowPrice": 0.03,
+              "midPrice": 0.21,
+              "highPrice": 17.38,
+              "marketPrice": 0.17,
+              "directLowPrice": 0.08
+            }
+          }
+        }
+      }
+    ],
+    "effect": "Busca en tu baraja hasta 3 Pokémon Básicos que no tengan un recuadro de regla y ponlos en tu Banca. Después, baraja las cartas de tu baraja. (Pokémon V, Pokémon-GX, etc. tienen recuadros de regla).",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608758,
+        "avg": 4.5,
+        "low": 1.81,
+        "trend": 3.66,
+        "avg1": 5.3,
+        "avg7": 4.47,
+        "avg30": 4.73,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-09-28T22:55:07.101Z",
+        "normal": {
+          "productId": 263863,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 14.17,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.01
+        },
+        "reverse-holofoil": {
+          "productId": 263863,
+          "lowPrice": 0.03,
+          "midPrice": 0.21,
+          "highPrice": 17.38,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.08
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh9tg-TG27",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "TG27",
+    "name": "Mostaz Estilo Fluido",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608759,
+          "tcgplayer": 264230
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608759,
+            "avg": 1.87,
+            "low": 0.2,
+            "trend": 1.68,
+            "avg1": 1.57,
+            "avg7": 1.79,
+            "avg30": 1.89,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "$$$CARD.RULES.MISSING.TOKEN$$$",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608759,
+        "avg": 1.87,
+        "low": 0.2,
+        "trend": 1.68,
+        "avg1": 1.57,
+        "avg7": 1.79,
+        "avg30": 1.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh9tg-TG28",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "TG28",
+    "name": "Mostaz Estilo Brusco",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608760,
+          "tcgplayer": 264231
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608760,
+            "avg": 1.76,
+            "low": 0.7,
+            "trend": 1.91,
+            "avg1": 1.42,
+            "avg7": 1.66,
+            "avg30": 1.73,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "effect": "$$$CARD.RULES.MISSING.TOKEN$$$",
+    "trainerType": "Partidario",
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-08-20T01:40:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608760,
+        "avg": 1.76,
+        "low": 0.7,
+        "trend": 1.91,
+        "avg1": 1.42,
+        "avg7": 1.66,
+        "avg30": 1.73,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG29",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "TG29",
+    "name": "Urshifu Golpe Brusco VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608761,
+          "tcgplayer": 264232
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608761,
+            "avg": 3.17,
+            "low": 1,
+            "trend": 3.79,
+            "avg1": 2.78,
+            "avg7": 2.97,
+            "avg30": 3.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 330,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Urshifu Golpe Brusco V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Derrumbar",
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Brusco",
+        "effect": "Descarta todas las Energías de este Pokémon. El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 270
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608761,
+        "avg": 3.17,
+        "low": 1,
+        "trend": 3.79,
+        "avg1": 2.78,
+        "avg7": 2.97,
+        "avg30": 3.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh9tg-TG30",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "TG30",
+    "name": "Urshifu Golpe Fluido VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "swsh9tg",
+      "name": "Astros Brillantes Galería de Entrenador"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 608762,
+          "tcgplayer": 264234
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.289Z",
+            "unit": "EUR",
+            "idProduct": 608762,
+            "avg": 2.97,
+            "low": 1,
+            "trend": 2.94,
+            "avg1": 3.21,
+            "avg7": 3.01,
+            "avg30": 2.87,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      892
+    ],
+    "hp": 330,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Urshifu Golpe Fluido V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Impulso Vendaval",
+        "effect": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 120 puntos de daño más.",
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Fluido",
+        "effect": "Descarta todas las Energías de este Pokémon. Este ataque hace 120 puntos de daño a 2 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-07-06T13:59:47Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.289Z",
+        "unit": "EUR",
+        "idProduct": 608762,
+        "avg": 2.97,
+        "low": 1,
+        "trend": 2.94,
+        "avg1": 3.21,
+        "avg7": 3.01,
+        "avg30": 2.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

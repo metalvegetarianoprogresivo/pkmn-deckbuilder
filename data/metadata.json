@@ -1,11 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T07:17:36.947Z",
+  "lastUpdated": "2026-09-29T07:48:20.374Z",
   "lang": "es",
   "source": "https://api.tcgdex.net/v2",
-  "buildDurationMin": 49.3,
-  "totalSets": 154,
-  "totalCards": 15292,
-  "standardLegalCards": 3200,
-  "expandedLegalCards": 13743,
-  "errors": 0
+  "buildDurationMin": 61.9,
+  "totalSets": 156,
+  "totalCards": 15508,
+  "standardLegalCards": 3227,
+  "expandedLegalCards": 13959,
+  "errors": 2,
+  "errorDetails": [
+    "xy1-38: HTTP 503: Service Unavailable",
+    "xy10-84: HTTP 503: Service Unavailable"
+  ]
 }

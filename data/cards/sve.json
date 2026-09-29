@@ -24,24 +24,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689750,
+          "tcgplayer": 475425
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:24.862Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689750,
-            "avg": 0.03,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.05,
-            "avg7": 0.04,
-            "avg30": 0.03,
-            "avg-holo": 0.11,
+            "trend": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "avg-holo": 0.16,
             "low-holo": 0.02,
-            "trend-holo": 0.13,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.16,
-            "avg30-holo": 0.34
+            "trend-holo": 0.17,
+            "avg1-holo": 0.1,
+            "avg7-holo": 0.14,
+            "avg30-holo": 0.31
           },
           "tcgplayer": null
         }
@@ -52,6 +56,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515640
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -62,18 +69,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735364,
+          "tcgplayer": 517177
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:24.862Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735364,
-            "avg": 0.4,
+            "avg": 0.38,
             "low": 0.02,
-            "trend": 0.37,
-            "avg1": 0.68,
-            "avg7": 0.51,
-            "avg30": 0.45,
+            "trend": 0.48,
+            "avg1": 0.3,
+            "avg7": 0.44,
+            "avg30": 0.39,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -91,6 +102,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622935
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -101,10 +115,14 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780803,
+          "tcgplayer": 562155
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:24.862Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780803,
             "avg": null,
@@ -113,23 +131,23 @@
             "avg1": null,
             "avg7": null,
             "avg30": null,
-            "avg-holo": 0.27,
+            "avg-holo": 0.41,
             "low-holo": 0.02,
-            "trend-holo": 0.18,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.2,
-            "avg30-holo": 0.26
+            "trend-holo": 0.35,
+            "avg1-holo": 0.25,
+            "avg7-holo": 0.25,
+            "avg30-holo": 0.25
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562155,
-              "lowPrice": 0.01,
-              "midPrice": 0.5,
+              "lowPrice": 0.2,
+              "midPrice": 0.45,
               "highPrice": 999,
-              "marketPrice": 0.51,
-              "directLowPrice": 0.5
+              "marketPrice": 0.41,
+              "directLowPrice": 0.73
             }
           }
         }
@@ -141,6 +159,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599455
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -156,21 +177,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:24.862Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689750,
-        "avg": 0.03,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "avg-holo": 0.11,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.16,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.34
+        "trend-holo": 0.17,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.31
       },
       "tcgplayer": null
     }
@@ -200,24 +221,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689751,
+          "tcgplayer": 475426
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689751,
-            "avg": 0.03,
+            "avg": 0.05,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.05,
-            "avg7": 0.03,
-            "avg30": 0.03,
-            "avg-holo": 0.18,
+            "trend": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "avg-holo": 0.73,
             "low-holo": 0.02,
-            "trend-holo": 0.18,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.25,
-            "avg30-holo": 0.26
+            "trend-holo": 0.37,
+            "avg1-holo": 0.53,
+            "avg7-holo": 0.34,
+            "avg30-holo": 0.45
           },
           "tcgplayer": null
         }
@@ -228,6 +253,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515639
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -238,18 +266,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735366,
+          "tcgplayer": 517178
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735366,
-            "avg": 0.45,
+            "avg": 0.53,
             "low": 0.02,
-            "trend": 0.32,
-            "avg1": 0.56,
-            "avg7": 0.49,
-            "avg30": 0.45,
+            "trend": 0.33,
+            "avg1": 0.6,
+            "avg7": 0.35,
+            "avg30": 0.54,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -267,6 +299,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651037
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -277,10 +312,14 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780804,
+          "tcgplayer": 562160
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780804,
             "avg": null,
@@ -289,23 +328,23 @@
             "avg1": null,
             "avg7": null,
             "avg30": null,
-            "avg-holo": 0.3,
+            "avg-holo": 0.25,
             "low-holo": 0.02,
-            "trend-holo": 0.29,
-            "avg1-holo": 0.18,
-            "avg7-holo": 0.23,
-            "avg30-holo": 0.27
+            "trend-holo": 0.17,
+            "avg1-holo": 0.08,
+            "avg7-holo": 0.22,
+            "avg30-holo": 0.24
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562160,
-              "lowPrice": 0.14,
-              "midPrice": 0.36,
+              "lowPrice": 0.19,
+              "midPrice": 0.39,
               "highPrice": 999,
-              "marketPrice": 0.36,
-              "directLowPrice": 0.35
+              "marketPrice": 0.38,
+              "directLowPrice": 0.39
             }
           }
         }
@@ -317,6 +356,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599454
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -332,21 +374,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.368Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689751,
-        "avg": 0.03,
+        "avg": 0.05,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "avg-holo": 0.18,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.73,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.25,
-        "avg30-holo": 0.26
+        "trend-holo": 0.37,
+        "avg1-holo": 0.53,
+        "avg7-holo": 0.34,
+        "avg30-holo": 0.45
       },
       "tcgplayer": null
     }
@@ -376,24 +418,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689753,
+          "tcgplayer": 475427
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689753,
-            "avg": 0.02,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.04,
-            "avg1": 0.05,
+            "trend": 0.03,
+            "avg1": 0.02,
             "avg7": 0.02,
-            "avg30": 0.02,
-            "avg-holo": 0.14,
+            "avg30": 0.03,
+            "avg-holo": 0.17,
             "low-holo": 0.02,
-            "trend-holo": 0.14,
-            "avg1-holo": 0.02,
-            "avg7-holo": 0.22,
-            "avg30-holo": 0.25
+            "trend-holo": 0.16,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.16,
+            "avg30-holo": 0.22
           },
           "tcgplayer": null
         }
@@ -402,18 +448,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735367,
+          "tcgplayer": 517179
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735367,
-            "avg": 0.53,
+            "avg": 0.37,
             "low": 0.02,
-            "trend": 0.32,
-            "avg1": 0.58,
-            "avg7": 0.58,
-            "avg30": 0.51,
+            "trend": 0.52,
+            "avg1": 0.25,
+            "avg7": 0.4,
+            "avg30": 0.37,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -430,6 +480,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515644
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -443,6 +496,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622937
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -453,13 +509,17 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780805,
+          "tcgplayer": 563014
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780805,
-            "avg": 0.15,
+            "avg": null,
             "low": 0.02,
             "trend": 0.15,
             "avg1": 0.15,
@@ -467,21 +527,21 @@
             "avg30": 0.15,
             "avg-holo": 0.25,
             "low-holo": 0.02,
-            "trend-holo": 0.19,
-            "avg1-holo": 0.1,
-            "avg7-holo": 0.19,
-            "avg30-holo": 0.22
+            "trend-holo": 0.31,
+            "avg1-holo": 0.09,
+            "avg7-holo": 0.3,
+            "avg30-holo": 0.21
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 563014,
               "lowPrice": 0.1,
-              "midPrice": 0.37,
+              "midPrice": 0.38,
               "highPrice": 999,
-              "marketPrice": 0.37,
-              "directLowPrice": 0.74
+              "marketPrice": 0.38,
+              "directLowPrice": 0.3
             }
           }
         }
@@ -493,6 +553,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599458
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -508,21 +571,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.401Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689753,
-        "avg": 0.02,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.05,
+        "trend": 0.03,
+        "avg1": 0.02,
         "avg7": 0.02,
-        "avg30": 0.02,
-        "avg-holo": 0.14,
+        "avg30": 0.03,
+        "avg-holo": 0.17,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.22,
-        "avg30-holo": 0.25
+        "trend-holo": 0.16,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.22
       },
       "tcgplayer": null
     }
@@ -552,24 +615,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689755,
+          "tcgplayer": 475428
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689755,
-            "avg": 0.02,
+            "avg": 0.06,
             "low": 0.02,
-            "trend": 0.04,
+            "trend": 0.03,
             "avg1": 0.02,
-            "avg7": 0.04,
-            "avg30": 0.03,
-            "avg-holo": 0.18,
+            "avg7": 0.03,
+            "avg30": 0.05,
+            "avg-holo": 0.33,
             "low-holo": 0.02,
-            "trend-holo": 0.14,
-            "avg1-holo": 0.02,
-            "avg7-holo": 0.18,
-            "avg30-holo": 0.28
+            "trend-holo": 0.24,
+            "avg1-holo": 0.04,
+            "avg7-holo": 0.28,
+            "avg30-holo": 0.24
           },
           "tcgplayer": null
         }
@@ -578,18 +645,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735368,
+          "tcgplayer": 517180
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735368,
-            "avg": 0.43,
+            "avg": 0.36,
             "low": 0.02,
-            "trend": 0.35,
-            "avg1": 0.21,
-            "avg7": 0.3,
-            "avg30": 0.39,
+            "trend": 0.42,
+            "avg1": 0.23,
+            "avg7": 0.39,
+            "avg30": 0.33,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -606,6 +677,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515641
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -619,6 +693,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622938
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -629,35 +706,39 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780808,
+          "tcgplayer": 562152
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780808,
-            "avg": 0.15,
+            "avg": null,
             "low": 0.02,
             "trend": 0.15,
             "avg1": 0.15,
             "avg7": 0.15,
             "avg30": 0.15,
-            "avg-holo": 0.28,
+            "avg-holo": 0.29,
             "low-holo": 0.02,
-            "trend-holo": 0.23,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.27,
-            "avg30-holo": 0.24
+            "trend-holo": 0.25,
+            "avg1-holo": 0.49,
+            "avg7-holo": 0.26,
+            "avg30-holo": 0.27
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562152,
               "lowPrice": 0.1,
-              "midPrice": 0.33,
+              "midPrice": 0.34,
               "highPrice": 999,
-              "marketPrice": 0.32,
-              "directLowPrice": 0.35
+              "marketPrice": 0.33,
+              "directLowPrice": 0.4
             }
           }
         }
@@ -669,6 +750,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599456
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -684,21 +768,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.401Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689755,
-        "avg": 0.02,
+        "avg": 0.06,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "avg-holo": 0.18,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "avg-holo": 0.33,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.18,
-        "avg30-holo": 0.28
+        "trend-holo": 0.24,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.24
       },
       "tcgplayer": null
     }
@@ -728,24 +812,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689757,
+          "tcgplayer": 475429
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689757,
-            "avg": 0.02,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.05,
+            "trend": 0.03,
+            "avg1": 0.02,
             "avg7": 0.02,
             "avg30": 0.03,
-            "avg-holo": 0.09,
+            "avg-holo": 0.38,
             "low-holo": 0.02,
-            "trend-holo": 0.16,
-            "avg1-holo": 0.1,
-            "avg7-holo": 0.17,
-            "avg30-holo": 0.21
+            "trend-holo": 0.3,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.42,
+            "avg30-holo": 0.24
           },
           "tcgplayer": null
         }
@@ -754,18 +842,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735370,
+          "tcgplayer": 517181
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735370,
-            "avg": 0.58,
+            "avg": 0.37,
             "low": 0.02,
-            "trend": 0.35,
-            "avg1": 0.35,
-            "avg7": 0.53,
-            "avg30": 0.58,
+            "trend": 0.4,
+            "avg1": 0.3,
+            "avg7": 0.38,
+            "avg30": 0.36,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -782,6 +874,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515643
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -795,6 +890,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622939
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -805,10 +903,14 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780806,
+          "tcgplayer": 562157
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780806,
             "avg": null,
@@ -817,23 +919,23 @@
             "avg1": null,
             "avg7": null,
             "avg30": null,
-            "avg-holo": 0.32,
+            "avg-holo": 0.28,
             "low-holo": 0.02,
-            "trend-holo": 0.18,
-            "avg1-holo": 0.03,
-            "avg7-holo": 0.21,
-            "avg30-holo": 0.28
+            "trend-holo": 0.34,
+            "avg1-holo": 0.75,
+            "avg7-holo": 0.3,
+            "avg30-holo": 0.22
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562157,
               "lowPrice": 0.04,
-              "midPrice": 0.42,
+              "midPrice": 0.4,
               "highPrice": 999,
-              "marketPrice": 0.42,
-              "directLowPrice": 0.4
+              "marketPrice": 0.39,
+              "directLowPrice": 0.43
             }
           }
         }
@@ -845,6 +947,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599457
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -860,21 +965,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.401Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689757,
-        "avg": 0.02,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.05,
+        "trend": 0.03,
+        "avg1": 0.02,
         "avg7": 0.02,
         "avg30": 0.03,
-        "avg-holo": 0.09,
+        "avg-holo": 0.38,
         "low-holo": 0.02,
-        "trend-holo": 0.16,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.17,
-        "avg30-holo": 0.21
+        "trend-holo": 0.3,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.42,
+        "avg30-holo": 0.24
       },
       "tcgplayer": null
     }
@@ -904,24 +1009,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689758,
+          "tcgplayer": 475430
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689758,
-            "avg": 0.02,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.04,
-            "avg1": 0.05,
+            "trend": 0.66,
+            "avg1": 0.02,
             "avg7": 0.02,
-            "avg30": 0.02,
-            "avg-holo": 0.21,
+            "avg30": 0.03,
+            "avg-holo": 0.23,
             "low-holo": 0.02,
-            "trend-holo": 0.2,
+            "trend-holo": 0.24,
             "avg1-holo": 0.05,
-            "avg7-holo": 0.21,
-            "avg30-holo": 0.22
+            "avg7-holo": 0.27,
+            "avg30-holo": 0.21
           },
           "tcgplayer": null
         }
@@ -930,18 +1039,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735371,
+          "tcgplayer": 517182
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735371,
             "avg": 0.42,
             "low": 0.02,
-            "trend": 0.33,
-            "avg1": 0.31,
-            "avg7": 0.42,
-            "avg30": 0.4,
+            "trend": 0.49,
+            "avg1": 0.23,
+            "avg7": 0.47,
+            "avg30": 0.42,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -958,6 +1071,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515638
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -971,6 +1087,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622940
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -981,10 +1100,14 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780807,
+          "tcgplayer": 562158
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.368Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780807,
             "avg": null,
@@ -993,23 +1116,23 @@
             "avg1": null,
             "avg7": null,
             "avg30": null,
-            "avg-holo": 0.23,
+            "avg-holo": 0.21,
             "low-holo": 0.02,
-            "trend-holo": 0.2,
-            "avg1-holo": 0.1,
-            "avg7-holo": 0.26,
-            "avg30-holo": 0.21
+            "trend-holo": 0.21,
+            "avg1-holo": 0.49,
+            "avg7-holo": 0.19,
+            "avg30-holo": 0.2
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562158,
               "lowPrice": 0.11,
-              "midPrice": 0.35,
+              "midPrice": 0.37,
               "highPrice": 999,
-              "marketPrice": 0.35,
-              "directLowPrice": 0.4
+              "marketPrice": 0.37,
+              "directLowPrice": 0.49
             }
           }
         }
@@ -1021,6 +1144,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599453
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -1036,21 +1162,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.368Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689758,
-        "avg": 0.02,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.05,
+        "trend": 0.66,
+        "avg1": 0.02,
         "avg7": 0.02,
-        "avg30": 0.02,
-        "avg-holo": 0.21,
+        "avg30": 0.03,
+        "avg-holo": 0.23,
         "low-holo": 0.02,
-        "trend-holo": 0.2,
+        "trend-holo": 0.24,
         "avg1-holo": 0.05,
-        "avg7-holo": 0.21,
-        "avg30-holo": 0.22
+        "avg7-holo": 0.27,
+        "avg30-holo": 0.21
       },
       "tcgplayer": null
     }
@@ -1080,24 +1206,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689760,
+          "tcgplayer": 475431
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 689760,
-            "avg": 0.03,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.04,
-            "avg1": 0.02,
+            "trend": 0.03,
+            "avg1": 0.03,
             "avg7": 0.03,
             "avg30": 0.03,
-            "avg-holo": 0.16,
+            "avg-holo": 0.62,
             "low-holo": 0.02,
-            "trend-holo": 0.34,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.17,
-            "avg30-holo": 0.42
+            "trend-holo": 0.24,
+            "avg1-holo": 0.03,
+            "avg7-holo": 0.33,
+            "avg30-holo": 0.44
           },
           "tcgplayer": null
         }
@@ -1106,18 +1236,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735372,
+          "tcgplayer": 517183
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 735372,
-            "avg": 0.65,
+            "avg": 0.63,
             "low": 0.02,
-            "trend": 0.75,
-            "avg1": 1.69,
-            "avg7": 1.14,
-            "avg30": 0.74,
+            "trend": 0.53,
+            "avg1": 0.53,
+            "avg7": 0.7,
+            "avg30": 0.62,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1134,6 +1268,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515635
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1147,6 +1284,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622941
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1157,13 +1297,17 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780809,
+          "tcgplayer": 562154
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 780809,
-            "avg": 0.15,
+            "avg": null,
             "low": 0.02,
             "trend": 0.15,
             "avg1": 0.15,
@@ -1171,21 +1315,21 @@
             "avg30": 0.58,
             "avg-holo": 0.25,
             "low-holo": 0.02,
-            "trend-holo": 0.25,
-            "avg1-holo": 0.39,
-            "avg7-holo": 0.33,
+            "trend-holo": 0.2,
+            "avg1-holo": 0.34,
+            "avg7-holo": 0.27,
             "avg30-holo": 0.26
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562154,
               "lowPrice": 0.2,
-              "midPrice": 0.48,
+              "midPrice": 0.59,
               "highPrice": 999,
-              "marketPrice": 0.46,
-              "directLowPrice": 0.46
+              "marketPrice": 0.58,
+              "directLowPrice": null
             }
           }
         }
@@ -1197,6 +1341,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599460
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -1212,21 +1359,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.401Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 689760,
-        "avg": 0.03,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
         "avg7": 0.03,
         "avg30": 0.03,
-        "avg-holo": 0.16,
+        "avg-holo": 0.62,
         "low-holo": 0.02,
-        "trend-holo": 0.34,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.17,
-        "avg30-holo": 0.42
+        "trend-holo": 0.24,
+        "avg1-holo": 0.03,
+        "avg7-holo": 0.33,
+        "avg30-holo": 0.44
       },
       "tcgplayer": null
     }
@@ -1256,24 +1403,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 689762,
+          "tcgplayer": 475432
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.281Z",
             "unit": "EUR",
             "idProduct": 689762,
             "avg": 0.03,
             "low": 0.02,
-            "trend": 0.03,
-            "avg1": 0.04,
-            "avg7": 0.03,
-            "avg30": 0.02,
-            "avg-holo": 0.16,
+            "trend": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "avg-holo": 0.21,
             "low-holo": 0.02,
-            "trend-holo": 0.25,
-            "avg1-holo": 0.15,
-            "avg7-holo": 0.15,
-            "avg30-holo": 0.22
+            "trend-holo": 0.17,
+            "avg1-holo": 0.04,
+            "avg7-holo": 0.31,
+            "avg30-holo": 0.2
           },
           "tcgplayer": null
         }
@@ -1282,18 +1433,22 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Cosmos",
+        "thirdParty": {
+          "cardmarket": 735373,
+          "tcgplayer": 517184
+        },
         "variantId": "3ts5hd5swdcuwzv63t639rp",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.281Z",
             "unit": "EUR",
             "idProduct": 735373,
-            "avg": 0.52,
+            "avg": 0.41,
             "low": 0.02,
-            "trend": 0.36,
-            "avg1": 0.13,
-            "avg7": 0.47,
-            "avg30": 0.53,
+            "trend": 0.35,
+            "avg1": 0.25,
+            "avg7": 0.39,
+            "avg30": 0.41,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -1310,6 +1465,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 515642
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1323,6 +1481,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 622942
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1333,35 +1494,39 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "Pokéball",
+        "thirdParty": {
+          "cardmarket": 780810,
+          "tcgplayer": 562159
+        },
         "variantId": "3739bbtj3i910y5ynn9xc6ryf",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.401Z",
+            "updated": "2026-09-28T22:54:33.281Z",
             "unit": "EUR",
             "idProduct": 780810,
-            "avg": 0.15,
+            "avg": null,
             "low": 0.02,
             "trend": 0.15,
             "avg1": 0.15,
             "avg7": 0.15,
             "avg30": 0.15,
-            "avg-holo": 0.29,
+            "avg-holo": 0.25,
             "low-holo": 0.02,
-            "trend-holo": 0.2,
-            "avg1-holo": 0.04,
-            "avg7-holo": 0.19,
-            "avg30-holo": 0.23
+            "trend-holo": 0.25,
+            "avg1-holo": 0.49,
+            "avg7-holo": 0.26,
+            "avg30-holo": 0.32
           },
           "tcgplayer": {
             "unit": "USD",
-            "updated": "2026-08-14T08:02:45.366Z",
+            "updated": "2026-09-28T22:55:10.827Z",
             "reverse-holofoil": {
               "productId": 562159,
               "lowPrice": 0.1,
-              "midPrice": 0.35,
+              "midPrice": 0.39,
               "highPrice": 999,
-              "marketPrice": 0.35,
-              "directLowPrice": 0.38
+              "marketPrice": 0.37,
+              "directLowPrice": 0.39
             }
           }
         }
@@ -1373,6 +1538,9 @@
           "Programa de Profesor"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 599459
+        },
         "variantId": "9c65uu02o61jw39cfwj25zehzm7vtmrthwuo6xen",
         "pricing": {
           "cardmarket": null,
@@ -1388,21 +1556,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.401Z",
+        "updated": "2026-09-28T22:54:33.281Z",
         "unit": "EUR",
         "idProduct": 689762,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.04,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "avg-holo": 0.16,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.21,
         "low-holo": 0.02,
-        "trend-holo": 0.25,
-        "avg1-holo": 0.15,
-        "avg7-holo": 0.15,
-        "avg30-holo": 0.22
+        "trend-holo": 0.17,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -1432,24 +1600,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786113,
+          "tcgplayer": 578864
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:24.862Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 786113,
             "avg": 0.03,
             "low": 0.02,
-            "trend": 0.06,
-            "avg1": 0.14,
-            "avg7": 0.05,
+            "trend": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.03,
             "avg30": 0.03,
-            "avg-holo": 0.17,
+            "avg-holo": 0.2,
             "low-holo": 0.02,
-            "trend-holo": 0.21,
-            "avg1-holo": 0.28,
-            "avg7-holo": 0.21,
-            "avg30-holo": 0.18
+            "trend-holo": 0.16,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.23,
+            "avg30-holo": 0.2
           },
           "tcgplayer": null
         }
@@ -1463,24 +1635,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809704,
+          "tcgplayer": 599740
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:24.862Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 809704,
-            "avg": 1.62,
+            "avg": 1.26,
             "low": 0.2,
-            "trend": 1.43,
-            "avg1": 1.96,
-            "avg7": 1.21,
-            "avg30": 1.18,
-            "avg-holo": 1.19,
+            "trend": 1.27,
+            "avg1": 0.97,
+            "avg7": 1.31,
+            "avg30": 1.19,
+            "avg-holo": 1.37,
             "low-holo": 0.2,
-            "trend-holo": 1.16,
-            "avg1-holo": 1.78,
-            "avg7-holo": 1.35,
-            "avg30-holo": 1.25
+            "trend-holo": 1.13,
+            "avg1-holo": 0.86,
+            "avg7-holo": 1.18,
+            "avg30-holo": 1.35
           },
           "tcgplayer": null
         }
@@ -1491,6 +1667,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623649
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1504,6 +1683,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651098
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1528,21 +1710,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:24.862Z",
+        "updated": "2026-09-28T22:54:33.208Z",
         "unit": "EUR",
         "idProduct": 786113,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.06,
-        "avg1": 0.14,
-        "avg7": 0.05,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.03,
         "avg30": 0.03,
-        "avg-holo": 0.17,
+        "avg-holo": 0.2,
         "low-holo": 0.02,
-        "trend-holo": 0.21,
-        "avg1-holo": 0.28,
-        "avg7-holo": 0.21,
-        "avg30-holo": 0.18
+        "trend-holo": 0.16,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -1572,24 +1754,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786114,
+          "tcgplayer": 578863
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786114,
-            "avg": 0.03,
+            "avg": 0.02,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.07,
-            "avg7": 0.03,
-            "avg30": 0.03,
-            "avg-holo": 0.17,
+            "trend": 0.03,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "avg-holo": 0.14,
             "low-holo": 0.02,
-            "trend-holo": 0.23,
-            "avg1-holo": 0.09,
-            "avg7-holo": 0.19,
-            "avg30-holo": 0.18
+            "trend-holo": 0.13,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.13,
+            "avg30-holo": 0.15
           },
           "tcgplayer": null
         }
@@ -1598,24 +1784,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809705,
+          "tcgplayer": 599738
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809705,
-            "avg": 1.05,
+            "avg": 1.17,
             "low": 0.5,
-            "trend": 1.06,
-            "avg1": 0.99,
-            "avg7": 1.16,
+            "trend": 1.05,
+            "avg1": 0.97,
+            "avg7": 1.12,
             "avg30": 1.11,
-            "avg-holo": 1.13,
+            "avg-holo": 1.02,
             "low-holo": 0.5,
-            "trend-holo": 1.26,
-            "avg1-holo": 1.75,
-            "avg7-holo": 1.27,
-            "avg30-holo": 1.13
+            "trend-holo": 1.09,
+            "avg1-holo": 0.78,
+            "avg7-holo": 1.11,
+            "avg30-holo": 1.06
           },
           "tcgplayer": null
         }
@@ -1631,6 +1821,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623650
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1644,6 +1837,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651037
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1668,21 +1864,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786114,
-        "avg": 0.03,
+        "avg": 0.02,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.07,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "avg-holo": 0.17,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.02,
+        "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.23,
-        "avg1-holo": 0.09,
-        "avg7-holo": 0.19,
-        "avg30-holo": 0.18
+        "trend-holo": 0.13,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.15
       },
       "tcgplayer": null
     }
@@ -1712,24 +1908,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786115,
+          "tcgplayer": 578862
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786115,
-            "avg": 0.04,
+            "avg": 0.02,
             "low": 0.02,
-            "trend": 0.04,
+            "trend": 0.03,
             "avg1": 0.02,
-            "avg7": 0.04,
-            "avg30": 0.03,
-            "avg-holo": 0.16,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "avg-holo": 0.14,
             "low-holo": 0.02,
-            "trend-holo": 0.19,
-            "avg1-holo": 0.18,
+            "trend-holo": 0.09,
+            "avg1-holo": 0.15,
             "avg7-holo": 0.15,
-            "avg30-holo": 0.15
+            "avg30-holo": 0.14
           },
           "tcgplayer": null
         }
@@ -1738,24 +1938,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809706,
+          "tcgplayer": 599745
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809706,
-            "avg": 1.06,
-            "low": 0.03,
-            "trend": 1.18,
-            "avg1": 0.99,
-            "avg7": 1.22,
+            "avg": 1.28,
+            "low": 0.5,
+            "trend": 1.22,
+            "avg1": 1.28,
+            "avg7": 1.2,
             "avg30": 1.17,
-            "avg-holo": 1.16,
-            "low-holo": 0.03,
-            "trend-holo": 1.24,
-            "avg1-holo": 1.75,
-            "avg7-holo": 1.39,
-            "avg30-holo": 1.17
+            "avg-holo": 1.01,
+            "low-holo": 0.5,
+            "trend-holo": 0.85,
+            "avg1-holo": 0.92,
+            "avg7-holo": 0.94,
+            "avg30-holo": 1.05
           },
           "tcgplayer": null
         }
@@ -1771,6 +1975,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623651
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1784,6 +1991,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651115
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1808,21 +2018,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786115,
-        "avg": 0.04,
+        "avg": 0.02,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "avg-holo": 0.16,
+        "avg7": 0.02,
+        "avg30": 0.02,
+        "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.19,
-        "avg1-holo": 0.18,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.15,
         "avg7-holo": 0.15,
-        "avg30-holo": 0.15
+        "avg30-holo": 0.14
       },
       "tcgplayer": null
     }
@@ -1852,24 +2062,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786116,
+          "tcgplayer": 578866
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786116,
-            "avg": 0.03,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.03,
-            "avg1": 0.03,
-            "avg7": 0.03,
-            "avg30": 0.03,
-            "avg-holo": 0.15,
+            "trend": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "avg-holo": 0.09,
             "low-holo": 0.02,
-            "trend-holo": 0.2,
-            "avg1-holo": 0.25,
-            "avg7-holo": 0.16,
-            "avg30-holo": 0.15
+            "trend-holo": 0.12,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.15,
+            "avg30-holo": 0.12
           },
           "tcgplayer": null
         }
@@ -1878,24 +2092,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809707,
+          "tcgplayer": 599741
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809707,
-            "avg": 1.2,
-            "low": 0.5,
-            "trend": 1.35,
-            "avg1": 0.99,
-            "avg7": 1.18,
-            "avg30": 1.18,
-            "avg-holo": 1.07,
-            "low-holo": 0.5,
-            "trend-holo": 1.13,
-            "avg1-holo": 1.5,
-            "avg7-holo": 1.15,
-            "avg30-holo": 1.13
+            "avg": null,
+            "low": 0.02,
+            "trend": 1.22,
+            "avg1": 0.98,
+            "avg7": 1.23,
+            "avg30": 1.17,
+            "avg-holo": 0.96,
+            "low-holo": 0.02,
+            "trend-holo": 0.85,
+            "avg1-holo": 0.94,
+            "avg7-holo": 1.04,
+            "avg30-holo": 1.02
           },
           "tcgplayer": null
         }
@@ -1911,6 +2129,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623652
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -1924,6 +2145,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651100
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -1948,21 +2172,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786116,
-        "avg": 0.03,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.03,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "avg-holo": 0.15,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.09,
         "low-holo": 0.02,
-        "trend-holo": 0.2,
-        "avg1-holo": 0.25,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.15
+        "trend-holo": 0.12,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.12
       },
       "tcgplayer": null
     }
@@ -1992,23 +2216,27 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786117,
+          "tcgplayer": 578865
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786117,
             "avg": 0.03,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.05,
-            "avg7": 0.04,
+            "trend": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
             "avg30": 0.03,
-            "avg-holo": 0.17,
+            "avg-holo": 0.14,
             "low-holo": 0.02,
-            "trend-holo": 0.13,
-            "avg1-holo": 0.02,
-            "avg7-holo": 0.18,
+            "trend-holo": 0.18,
+            "avg1-holo": 0.75,
+            "avg7-holo": 0.26,
             "avg30-holo": 0.17
           },
           "tcgplayer": null
@@ -2018,24 +2246,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809708,
+          "tcgplayer": 599743
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809708,
-            "avg": 1.84,
+            "avg": 0.95,
             "low": 0.5,
-            "trend": 1.82,
-            "avg1": 2.99,
-            "avg7": 1.55,
-            "avg30": 1.29,
-            "avg-holo": 1.21,
+            "trend": 1.52,
+            "avg1": 0.95,
+            "avg7": 1.5,
+            "avg30": 1.25,
+            "avg-holo": 1.05,
             "low-holo": 0.5,
-            "trend-holo": 1.34,
-            "avg1-holo": 1.74,
-            "avg7-holo": 1.38,
-            "avg30-holo": 1.14
+            "trend-holo": 1.05,
+            "avg1-holo": 0.66,
+            "avg7-holo": 1.09,
+            "avg30-holo": 1.11
           },
           "tcgplayer": null
         }
@@ -2051,6 +2283,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623653
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -2064,6 +2299,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651109
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -2088,20 +2326,20 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786117,
         "avg": 0.03,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.04,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
         "avg30": 0.03,
-        "avg-holo": 0.17,
+        "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.13,
-        "avg1-holo": 0.02,
-        "avg7-holo": 0.18,
+        "trend-holo": 0.18,
+        "avg1-holo": 0.75,
+        "avg7-holo": 0.26,
         "avg30-holo": 0.17
       },
       "tcgplayer": null
@@ -2132,24 +2370,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786118,
+          "tcgplayer": 578867
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786118,
             "avg": 0.02,
             "low": 0.02,
-            "trend": 0.04,
+            "trend": 0.03,
             "avg1": 0.02,
-            "avg7": 0.06,
-            "avg30": 0.03,
-            "avg-holo": 0.15,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "avg-holo": 0.22,
             "low-holo": 0.02,
-            "trend-holo": 0.18,
-            "avg1-holo": 0.19,
-            "avg7-holo": 0.16,
-            "avg30-holo": 0.14
+            "trend-holo": 0.09,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.11,
+            "avg30-holo": 0.2
           },
           "tcgplayer": null
         }
@@ -2158,24 +2400,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809709,
+          "tcgplayer": 599746
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809709,
-            "avg": 1.46,
-            "low": 0.49,
-            "trend": 1.43,
-            "avg1": 2.09,
-            "avg7": 1.27,
-            "avg30": 1.19,
-            "avg-holo": 1.03,
-            "low-holo": 0.49,
-            "trend-holo": 1.08,
-            "avg1-holo": 1.75,
-            "avg7-holo": 1.11,
-            "avg30-holo": 1.06
+            "avg": 0.94,
+            "low": 0.02,
+            "trend": 1.21,
+            "avg1": 0.94,
+            "avg7": 1.2,
+            "avg30": 1.16,
+            "avg-holo": 1.02,
+            "low-holo": 0.02,
+            "trend-holo": 0.88,
+            "avg1-holo": 0.57,
+            "avg7-holo": 1.02,
+            "avg30-holo": 1.04
           },
           "tcgplayer": null
         }
@@ -2191,6 +2437,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623654
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -2204,6 +2453,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651096
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -2228,21 +2480,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786118,
         "avg": 0.02,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.03,
-        "avg-holo": 0.15,
+        "avg7": 0.02,
+        "avg30": 0.02,
+        "avg-holo": 0.22,
         "low-holo": 0.02,
-        "trend-holo": 0.18,
-        "avg1-holo": 0.19,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.14
+        "trend-holo": 0.09,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.2
       },
       "tcgplayer": null
     }
@@ -2272,24 +2524,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786119,
+          "tcgplayer": 578868
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 786119,
-            "avg": 0.04,
+            "avg": 0.03,
             "low": 0.02,
             "trend": 0.04,
-            "avg1": 0.03,
-            "avg7": 0.03,
+            "avg1": 0.02,
+            "avg7": 0.02,
             "avg30": 0.03,
-            "avg-holo": 0.19,
+            "avg-holo": 0.13,
             "low-holo": 0.02,
-            "trend-holo": 0.19,
-            "avg1-holo": 0.1,
-            "avg7-holo": 0.2,
-            "avg30-holo": 0.2
+            "trend-holo": 0.13,
+            "avg1-holo": 0.12,
+            "avg7-holo": 0.14,
+            "avg30-holo": 0.17
           },
           "tcgplayer": null
         }
@@ -2298,24 +2554,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809710,
+          "tcgplayer": 599747
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.301Z",
             "unit": "EUR",
             "idProduct": 809710,
-            "avg": 2.01,
-            "low": 0.49,
+            "avg": null,
+            "low": 0.5,
             "trend": 1.72,
             "avg1": 2.01,
             "avg7": 1.35,
             "avg30": 1.33,
-            "avg-holo": 1.05,
-            "low-holo": 0.49,
-            "trend-holo": 1.12,
-            "avg1-holo": 1.49,
-            "avg7-holo": 1.12,
-            "avg30-holo": 1.14
+            "avg-holo": 1.28,
+            "low-holo": 0.5,
+            "trend-holo": 1.74,
+            "avg1-holo": 1.9,
+            "avg7-holo": 1.68,
+            "avg30-holo": 1.26
           },
           "tcgplayer": null
         }
@@ -2331,6 +2591,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 623655
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -2344,6 +2607,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651036
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -2368,21 +2634,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.301Z",
         "unit": "EUR",
         "idProduct": 786119,
-        "avg": 0.04,
+        "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.03,
-        "avg7": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
         "avg30": 0.03,
-        "avg-holo": 0.19,
+        "avg-holo": 0.13,
         "low-holo": 0.02,
-        "trend-holo": 0.19,
-        "avg1-holo": 0.1,
-        "avg7-holo": 0.2,
-        "avg30-holo": 0.2
+        "trend-holo": 0.13,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.17
       },
       "tcgplayer": null
     }
@@ -2412,24 +2678,28 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 786120,
+          "tcgplayer": 578869
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.299Z",
             "unit": "EUR",
             "idProduct": 786120,
-            "avg": 0.04,
+            "avg": 0.03,
             "low": 0.02,
             "trend": 0.03,
-            "avg1": 0.07,
+            "avg1": 0.02,
             "avg7": 0.03,
             "avg30": 0.03,
-            "avg-holo": 0.19,
+            "avg-holo": 0.14,
             "low-holo": 0.02,
-            "trend-holo": 0.14,
-            "avg1-holo": 0.05,
-            "avg7-holo": 0.16,
-            "avg30-holo": 0.18
+            "trend-holo": 0.13,
+            "avg1-holo": 0.03,
+            "avg7-holo": 0.14,
+            "avg30-holo": 0.12
           },
           "tcgplayer": null
         }
@@ -2438,24 +2708,28 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "cracked-ice",
+        "thirdParty": {
+          "cardmarket": 809711,
+          "tcgplayer": 599742
+        },
         "variantId": "1taa1mtxbb835v7njr48v6y8eq20",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.299Z",
             "unit": "EUR",
             "idProduct": 809711,
-            "avg": 1,
+            "avg": 0.95,
             "low": 0.5,
-            "trend": 1.16,
-            "avg1": 1,
-            "avg7": 1.13,
-            "avg30": 1.13,
-            "avg-holo": 1.27,
+            "trend": 1,
+            "avg1": 0.95,
+            "avg7": 1.14,
+            "avg30": 1.11,
+            "avg-holo": 1.01,
             "low-holo": 0.5,
-            "trend-holo": 1.23,
-            "avg1-holo": 1.5,
-            "avg7-holo": 1.21,
-            "avg30-holo": 1.16
+            "trend-holo": 1.12,
+            "avg1-holo": 0.89,
+            "avg7-holo": 1.05,
+            "avg30-holo": 1.02
           },
           "tcgplayer": null
         }
@@ -2471,6 +2745,9 @@
         "stamp": [
           "player-rewards-program"
         ],
+        "thirdParty": {
+          "tcgplayer": 627701
+        },
         "variantId": "gx8bq2hegum3q6irsxlvqxm955ikw9gd1h311",
         "pricing": {
           "cardmarket": null,
@@ -2484,6 +2761,9 @@
           "player-rewards-program"
         ],
         "foil": "Cosmos",
+        "thirdParty": {
+          "tcgplayer": 651102
+        },
         "variantId": "4f6221d6q70q1pd5gz5mpleqajtabtd6nalq8mg91zztu",
         "pricing": {
           "cardmarket": null,
@@ -2508,21 +2788,21 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.299Z",
         "unit": "EUR",
         "idProduct": 786120,
-        "avg": 0.04,
+        "avg": 0.03,
         "low": 0.02,
         "trend": 0.03,
-        "avg1": 0.07,
+        "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
-        "avg-holo": 0.19,
+        "avg-holo": 0.14,
         "low-holo": 0.02,
-        "trend-holo": 0.14,
-        "avg1-holo": 0.05,
-        "avg7-holo": 0.16,
-        "avg30-holo": 0.18
+        "trend-holo": 0.13,
+        "avg1-holo": 0.03,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.12
       },
       "tcgplayer": null
     }
@@ -2552,17 +2832,21 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836249,
+          "tcgplayer": 645286
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.302Z",
             "unit": "EUR",
             "idProduct": 836249,
-            "avg": 0.07,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.04,
-            "avg1": 0.03,
-            "avg7": 0.02,
+            "trend": 0.03,
+            "avg1": 0.02,
+            "avg7": 0.03,
             "avg30": 0.03,
             "avg-holo": 0.99,
             "low-holo": 0.1,
@@ -2578,18 +2862,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836972
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.302Z",
             "unit": "EUR",
             "idProduct": 836972,
-            "avg": 0.24,
+            "avg": 0.22,
             "low": 0.02,
-            "trend": 0.23,
-            "avg1": 0.98,
-            "avg7": 0.33,
-            "avg30": 0.26,
+            "trend": 0.14,
+            "avg1": 0.08,
+            "avg7": 0.12,
+            "avg30": 0.21,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0,
@@ -2609,14 +2896,14 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.302Z",
         "unit": "EUR",
         "idProduct": 836249,
-        "avg": 0.07,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.03,
-        "avg7": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.03,
         "avg30": 0.03,
         "avg-holo": 0.99,
         "low-holo": 0.1,
@@ -2653,18 +2940,22 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836250,
+          "tcgplayer": 645287
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836250,
-            "avg": 0.09,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.05,
-            "avg1": 0.02,
-            "avg7": 0.04,
-            "avg30": 0.04,
+            "trend": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.03,
             "avg-holo": 0.88,
             "low-holo": 0.08,
             "trend-holo": 0.19,
@@ -2679,18 +2970,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836973
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836973,
-            "avg": 0.2,
+            "avg": 0.24,
             "low": 0.02,
             "trend": 0.15,
-            "avg1": 0.02,
-            "avg7": 0.18,
-            "avg30": 0.19,
+            "avg1": 0.95,
+            "avg7": 0.21,
+            "avg30": 0.25,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.1,
@@ -2710,15 +3004,15 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.277Z",
         "unit": "EUR",
         "idProduct": 836250,
-        "avg": 0.09,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.05,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.04,
+        "trend": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
         "avg-holo": 0.88,
         "low-holo": 0.08,
         "trend-holo": 0.19,
@@ -2754,18 +3048,22 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836251,
+          "tcgplayer": 645288
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836251,
-            "avg": 0.05,
+            "avg": 0.03,
             "low": 0.02,
             "trend": 0.04,
-            "avg1": 0.03,
+            "avg1": 0.02,
             "avg7": 0.03,
-            "avg30": 0.04,
+            "avg30": 0.03,
             "avg-holo": 0.88,
             "low-holo": 0.06,
             "trend-holo": 0.15,
@@ -2780,18 +3078,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836974
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836974,
-            "avg": 0.16,
+            "avg": 0.18,
             "low": 0.02,
-            "trend": 0.11,
-            "avg1": 0.05,
-            "avg7": 0.12,
-            "avg30": 0.16,
+            "trend": 0.15,
+            "avg1": 0.14,
+            "avg7": 0.2,
+            "avg30": 0.18,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.1,
@@ -2811,15 +3112,15 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.277Z",
         "unit": "EUR",
         "idProduct": 836251,
-        "avg": 0.05,
+        "avg": 0.03,
         "low": 0.02,
         "trend": 0.04,
-        "avg1": 0.03,
+        "avg1": 0.02,
         "avg7": 0.03,
-        "avg30": 0.04,
+        "avg30": 0.03,
         "avg-holo": 0.88,
         "low-holo": 0.06,
         "trend-holo": 0.15,
@@ -2855,15 +3156,19 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836252,
+          "tcgplayer": 645289
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836252,
-            "avg": 0.06,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.04,
+            "trend": 0.03,
             "avg1": 0.02,
             "avg7": 0.03,
             "avg30": 0.03,
@@ -2881,18 +3186,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836975
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836975,
-            "avg": 0.18,
+            "avg": 0.21,
             "low": 0.02,
-            "trend": 0.14,
-            "avg1": 0.07,
-            "avg7": 0.11,
-            "avg30": 0.18,
+            "trend": 0.11,
+            "avg1": 0.13,
+            "avg7": 0.16,
+            "avg30": 0.2,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.1,
@@ -2912,12 +3220,12 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.208Z",
         "unit": "EUR",
         "idProduct": 836252,
-        "avg": 0.06,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.04,
+        "trend": 0.03,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,
@@ -2956,17 +3264,21 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836253,
+          "tcgplayer": 645301
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836253,
-            "avg": 0.06,
+            "avg": 0.03,
             "low": 0.02,
             "trend": 0.05,
             "avg1": 0.03,
-            "avg7": 0.04,
+            "avg7": 0.03,
             "avg30": 0.04,
             "avg-holo": 0.99,
             "low-holo": 0.09,
@@ -2982,18 +3294,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836976
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836976,
-            "avg": 0.18,
+            "avg": 0.17,
             "low": 0.02,
-            "trend": 0.18,
-            "avg1": 0.8,
-            "avg7": 0.22,
-            "avg30": 0.18,
+            "trend": 0.23,
+            "avg1": 0.54,
+            "avg7": 0.19,
+            "avg30": 0.16,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.1,
@@ -3013,14 +3328,14 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.208Z",
         "unit": "EUR",
         "idProduct": 836253,
-        "avg": 0.06,
+        "avg": 0.03,
         "low": 0.02,
         "trend": 0.05,
         "avg1": 0.03,
-        "avg7": 0.04,
+        "avg7": 0.03,
         "avg30": 0.04,
         "avg-holo": 0.99,
         "low-holo": 0.09,
@@ -3057,17 +3372,21 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836254,
+          "tcgplayer": 645302
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836254,
-            "avg": 0.11,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.07,
+            "trend": 0.05,
             "avg1": 0.02,
-            "avg7": 0.04,
+            "avg7": 0.05,
             "avg30": 0.04,
             "avg-holo": 0.99,
             "low-holo": 0.02,
@@ -3083,18 +3402,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836977
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836977,
             "avg": 0.21,
             "low": 0.02,
             "trend": 0.13,
-            "avg1": 0.03,
-            "avg7": 0.22,
-            "avg30": 0.2,
+            "avg1": 0.02,
+            "avg7": 0.15,
+            "avg30": 0.22,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.1,
@@ -3114,14 +3436,14 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.208Z",
         "unit": "EUR",
         "idProduct": 836254,
-        "avg": 0.11,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.07,
+        "trend": 0.05,
         "avg1": 0.02,
-        "avg7": 0.04,
+        "avg7": 0.05,
         "avg30": 0.04,
         "avg-holo": 0.99,
         "low-holo": 0.02,
@@ -3158,17 +3480,21 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836255,
+          "tcgplayer": 645303
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836255,
-            "avg": 0.05,
+            "avg": 0.04,
             "low": 0.02,
-            "trend": 0.04,
-            "avg1": 0.03,
-            "avg7": 0.04,
+            "trend": 0.03,
+            "avg1": 0.02,
+            "avg7": 0.03,
             "avg30": 0.04,
             "avg-holo": 0.64,
             "low-holo": 0.02,
@@ -3184,18 +3510,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836978
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.277Z",
             "unit": "EUR",
             "idProduct": 836978,
-            "avg": 0.23,
+            "avg": 0.28,
             "low": 0.02,
-            "trend": 0.17,
-            "avg1": 0.08,
-            "avg7": 0.17,
-            "avg30": 0.23,
+            "trend": 0.2,
+            "avg1": 0.2,
+            "avg7": 0.18,
+            "avg30": 0.27,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.3,
@@ -3215,14 +3544,14 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.277Z",
         "unit": "EUR",
         "idProduct": 836255,
-        "avg": 0.05,
+        "avg": 0.04,
         "low": 0.02,
-        "trend": 0.04,
-        "avg1": 0.03,
-        "avg7": 0.04,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.03,
         "avg30": 0.04,
         "avg-holo": 0.64,
         "low-holo": 0.02,
@@ -3259,15 +3588,19 @@
       {
         "type": "básico",
         "size": "estándar",
+        "thirdParty": {
+          "cardmarket": 836256,
+          "tcgplayer": 645304
+        },
         "variantId": "endfynwn4n10gzq",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836256,
-            "avg": 0.06,
+            "avg": 0.03,
             "low": 0.02,
-            "trend": 0.05,
+            "trend": 0.04,
             "avg1": 0.02,
             "avg7": 0.03,
             "avg30": 0.03,
@@ -3285,18 +3618,21 @@
         "type": "reversa",
         "size": "estándar",
         "foil": "tinsel",
+        "thirdParty": {
+          "cardmarket": 836979
+        },
         "variantId": "4gbl53whsjw1y7o4q5scl5q",
         "pricing": {
           "cardmarket": {
-            "updated": "2026-08-14T08:02:25.855Z",
+            "updated": "2026-09-28T22:54:33.208Z",
             "unit": "EUR",
             "idProduct": 836979,
-            "avg": 0.21,
+            "avg": 0.24,
             "low": 0.02,
-            "trend": 0.21,
-            "avg1": 0.34,
-            "avg7": 0.27,
-            "avg30": 0.23,
+            "trend": 0.25,
+            "avg1": 0.23,
+            "avg7": 0.38,
+            "avg30": 0.27,
             "avg-holo": null,
             "low-holo": null,
             "trend-holo": 0.3,
@@ -3316,12 +3652,12 @@
     "updated": "2026-06-18T14:32:08+01:00",
     "pricing": {
       "cardmarket": {
-        "updated": "2026-08-14T08:02:25.855Z",
+        "updated": "2026-09-28T22:54:33.208Z",
         "unit": "EUR",
         "idProduct": 836256,
-        "avg": 0.06,
+        "avg": 0.03,
         "low": 0.02,
-        "trend": 0.05,
+        "trend": 0.04,
         "avg1": 0.02,
         "avg7": 0.03,
         "avg30": 0.03,

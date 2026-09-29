@@ -2,6 +2,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-1",
+    "illustrator": "Kanako Eo",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/1",
     "localId": "1",
     "name": "Caterpie",
@@ -24,9 +25,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297232,
+          "tcgplayer": 152816
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297232,
+            "avg": 0.37,
+            "low": 0.02,
+            "trend": 0.3,
+            "avg1": 0.08,
+            "avg7": 0.43,
+            "avg30": 0.28,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.07,
+            "avg1-holo": 0.1,
+            "avg7-holo": 0.05,
+            "avg30-holo": 0.05
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152816,
+              "lowPrice": 0.09,
+              "midPrice": 0.23,
+              "highPrice": 19.84,
+              "marketPrice": 0.22,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -37,6 +73,20 @@
       "Planta"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
     "weaknesses": [
       {
         "type": "Fuego",
@@ -48,18 +98,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-07-11T09:58:17+01:00",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297232,
+        "avg": 0.37,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.08,
+        "avg7": 0.43,
+        "avg30": 0.28,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.07,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.05,
+        "avg30-holo": 0.05
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152816,
           "lowPrice": 0.09,
-          "midPrice": 0.24,
-          "highPrice": 19.98,
-          "marketPrice": 0.2,
+          "midPrice": 0.23,
+          "highPrice": 19.84,
+          "marketPrice": 0.22,
           "directLowPrice": null
         }
       }
@@ -68,6 +134,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-4",
+    "illustrator": "Kouki Saitou",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/4",
     "localId": "4",
     "name": "Trumbeak",
@@ -90,9 +157,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297241,
+          "tcgplayer": 152830
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297241,
+            "avg": 0.02,
+            "low": 0.02,
+            "trend": 0.22,
+            "avg1": 0.1,
+            "avg7": 0.13,
+            "avg30": 0.15,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.05,
+            "avg1-holo": 0.05,
+            "avg7-holo": 0.04,
+            "avg30-holo": 0.04
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152830,
+              "lowPrice": 0.05,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.17,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -104,6 +206,14 @@
     ],
     "evolveFrom": "Pikipek",
     "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "20×"
+      }
+    ],
     "weaknesses": [
       {
         "type": "Rayo",
@@ -121,17 +231,33 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297241,
+        "avg": 0.02,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.1,
+        "avg7": 0.13,
+        "avg30": 0.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.05,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.04,
+        "avg30-holo": 0.04
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152830,
           "lowPrice": 0.05,
           "midPrice": 0.2,
-          "highPrice": 19.98,
+          "highPrice": 19.84,
           "marketPrice": 0.17,
           "directLowPrice": null
         }
@@ -163,9 +289,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297235,
+          "tcgplayer": 152819
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297235,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.14,
+            "avg1": 0.03,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.02,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.02,
+            "avg30-holo": 0.02
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152819,
+              "lowPrice": 0.05,
+              "midPrice": 0.21,
+              "highPrice": 19.84,
+              "marketPrice": 0.1,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "energyType": "Básico",
@@ -173,18 +334,34 @@
       "standard": true,
       "expanded": true
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-03T19:17:46+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297235,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.14,
+        "avg1": 0.03,
+        "avg7": 0.07,
+        "avg30": 0.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.02,
+        "avg30-holo": 0.02
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152819,
           "lowPrice": 0.05,
-          "midPrice": 0.24,
-          "highPrice": 19.98,
-          "marketPrice": 0.11,
+          "midPrice": 0.21,
+          "highPrice": 19.84,
+          "marketPrice": 0.1,
           "directLowPrice": null
         }
       }
@@ -193,6 +370,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-11",
+    "illustrator": "You Iribi",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/11",
     "localId": "11",
     "name": "Fletchling",
@@ -215,9 +393,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297242,
+          "tcgplayer": 152831
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 297242,
+            "avg": 0.12,
+            "low": 0.02,
+            "trend": 0.15,
+            "avg1": 0.15,
+            "avg7": 0.15,
+            "avg30": 0.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.02,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.11,
+            "avg30-holo": 0.11
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152831,
+              "lowPrice": 0.04,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.17,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -228,6 +441,20 @@
       "Incolora"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
     "weaknesses": [
       {
         "type": "Rayo",
@@ -245,18 +472,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 297242,
+        "avg": 0.12,
+        "low": 0.02,
+        "trend": 0.15,
+        "avg1": 0.15,
+        "avg7": 0.15,
+        "avg30": 0.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.11
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152831,
           "lowPrice": 0.04,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.13,
+          "highPrice": 19.84,
+          "marketPrice": 0.17,
           "directLowPrice": null
         }
       }
@@ -265,6 +508,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-12",
+    "illustrator": "match",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/12",
     "localId": "12",
     "name": "Yungoos",
@@ -287,9 +531,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297243,
+          "tcgplayer": 152832
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 297243,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.02,
+            "avg7": 0.12,
+            "avg30": 0.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.02,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.02,
+            "avg30-holo": 0.02
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152832,
+              "lowPrice": 0.01,
+              "midPrice": 0.19,
+              "highPrice": 19.84,
+              "marketPrice": 0.11,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -300,6 +579,21 @@
       "Incolora"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
     "weaknesses": [
       {
         "type": "Lucha",
@@ -311,18 +605,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 297243,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.12,
+        "avg30": 0.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.02,
+        "avg30-holo": 0.02
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152832,
           "lowPrice": 0.01,
-          "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.07,
+          "midPrice": 0.19,
+          "highPrice": 19.84,
+          "marketPrice": 0.11,
           "directLowPrice": null
         }
       }
@@ -331,6 +641,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-13",
+    "illustrator": "kawayoo",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/13",
     "localId": "13",
     "name": "Fletchinder",
@@ -353,9 +664,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297244,
+          "tcgplayer": 152833
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297244,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.16,
+            "avg1": 0.12,
+            "avg7": 0.11,
+            "avg30": 0.17,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.02,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.06,
+            "avg30-holo": 0.06
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152833,
+              "lowPrice": 0.04,
+              "midPrice": 0.22,
+              "highPrice": 19.84,
+              "marketPrice": 0.23,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -367,6 +713,21 @@
     ],
     "evolveFrom": "Fletchling",
     "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 40
+      }
+    ],
     "weaknesses": [
       {
         "type": "Rayo",
@@ -384,18 +745,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297244,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.16,
+        "avg1": 0.12,
+        "avg7": 0.11,
+        "avg30": 0.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.06,
+        "avg30-holo": 0.06
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152833,
           "lowPrice": 0.04,
-          "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.17,
+          "midPrice": 0.22,
+          "highPrice": 19.84,
+          "marketPrice": 0.23,
           "directLowPrice": null
         }
       }
@@ -404,6 +781,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-14",
+    "illustrator": "match",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/14",
     "localId": "14",
     "name": "Rockruff",
@@ -426,9 +804,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297245,
+          "tcgplayer": 152834
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297245,
+            "avg": 1.4,
+            "low": 0.02,
+            "trend": 0.32,
+            "avg1": 1.4,
+            "avg7": 0.36,
+            "avg30": 0.24,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.11,
+            "avg1-holo": 0.1,
+            "avg7-holo": 0.43,
+            "avg30-holo": 0.43
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152834,
+              "lowPrice": 0.09,
+              "midPrice": 0.23,
+              "highPrice": 19.84,
+              "marketPrice": 0.22,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -439,6 +852,21 @@
       "Lucha"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
     "weaknesses": [
       {
         "type": "Planta",
@@ -450,18 +878,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297245,
+        "avg": 1.4,
+        "low": 0.02,
+        "trend": 0.32,
+        "avg1": 1.4,
+        "avg7": 0.36,
+        "avg30": 0.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.43
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152834,
           "lowPrice": 0.09,
           "midPrice": 0.23,
-          "highPrice": 19.98,
-          "marketPrice": 0.21,
+          "highPrice": 19.84,
+          "marketPrice": 0.22,
           "directLowPrice": null
         }
       }
@@ -470,6 +914,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-15",
+    "illustrator": "Shin Nagasawa",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/15",
     "localId": "15",
     "name": "Pikipek",
@@ -492,9 +937,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297246,
+          "tcgplayer": 152836
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 297246,
+            "avg": 0.15,
+            "low": 0.02,
+            "trend": 0.13,
+            "avg1": 0.08,
+            "avg7": 0.15,
+            "avg30": 0.16,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.02,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.06,
+            "avg30-holo": 0.06
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152836,
+              "lowPrice": 0.05,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.1,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -505,6 +985,14 @@
       "Incolora"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "10+"
+      }
+    ],
     "weaknesses": [
       {
         "type": "Rayo",
@@ -522,18 +1010,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 297246,
+        "avg": 0.15,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.08,
+        "avg7": 0.15,
+        "avg30": 0.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.06,
+        "avg30-holo": 0.06
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152836,
           "lowPrice": 0.05,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.12,
+          "highPrice": 19.84,
+          "marketPrice": 0.1,
           "directLowPrice": null
         }
       }
@@ -565,9 +1069,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297247,
+          "tcgplayer": 152837
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297247,
+            "avg": 1.26,
+            "low": 0.02,
+            "trend": 0.78,
+            "avg1": 1,
+            "avg7": 0.98,
+            "avg30": 0.61,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.37,
+            "avg1-holo": 0.3,
+            "avg7-holo": 0.39,
+            "avg30-holo": 0.48
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152837,
+              "lowPrice": 0.05,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.14,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -598,18 +1137,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-01-07T20:36:31+01:00",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297247,
+        "avg": 1.26,
+        "low": 0.02,
+        "trend": 0.78,
+        "avg1": 1,
+        "avg7": 0.98,
+        "avg30": 0.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.37,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.48
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152837,
           "lowPrice": 0.05,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.13,
+          "highPrice": 19.84,
+          "marketPrice": 0.14,
           "directLowPrice": null
         }
       }
@@ -618,6 +1173,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-18",
+    "illustrator": "Mina Nakai",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/18",
     "localId": "18",
     "name": "Makuhita",
@@ -640,9 +1196,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297253,
+          "tcgplayer": 152839
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297253,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.18,
+            "avg1": 0.18,
+            "avg7": 0.14,
+            "avg30": 0.17,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.2,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.11,
+            "avg30-holo": 0.11
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152839,
+              "lowPrice": 0.05,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.09,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -653,6 +1244,21 @@
       "Lucha"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "damage": 40
+      }
+    ],
     "weaknesses": [
       {
         "type": "Psíquico",
@@ -664,18 +1270,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297253,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.18,
+        "avg7": 0.14,
+        "avg30": 0.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.11
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152839,
           "lowPrice": 0.05,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.12,
+          "highPrice": 19.84,
+          "marketPrice": 0.09,
           "directLowPrice": null
         }
       }
@@ -684,6 +1306,7 @@
   {
     "category": "Entrenador",
     "id": "tk-sm-l-19",
+    "illustrator": "Ken Sugimori",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/19",
     "localId": "19",
     "name": "Tilo",
@@ -706,9 +1329,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297254,
+          "tcgplayer": 152842
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297254,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.18,
+            "avg1": 0.2,
+            "avg7": 0.18,
+            "avg30": 0.15,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.15,
+            "avg1-holo": 0.15,
+            "avg7-holo": 0.12,
+            "avg30-holo": 0.12
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152842,
+              "lowPrice": 0.02,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.18,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "effect": "Roba 3 cartas.",
@@ -717,18 +1375,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297254,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.2,
+        "avg7": 0.18,
+        "avg30": 0.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.12
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
-          "productId": 152840,
-          "lowPrice": 0.01,
+          "productId": 152842,
+          "lowPrice": 0.02,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.1,
+          "highPrice": 19.84,
+          "marketPrice": 0.18,
           "directLowPrice": null
         }
       }
@@ -737,6 +1411,7 @@
   {
     "category": "Entrenador",
     "id": "tk-sm-l-21",
+    "illustrator": "Ryo Ueda",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/21",
     "localId": "21",
     "name": "Super Ball",
@@ -759,9 +1434,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297255,
+          "tcgplayer": 152846
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 297255,
+            "avg": 0.04,
+            "low": 0.02,
+            "trend": 0.06,
+            "avg1": 0.05,
+            "avg7": 0.07,
+            "avg30": 0.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.2,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.12,
+            "avg30-holo": 0.12
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152846,
+              "lowPrice": 0.02,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.14,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
@@ -770,18 +1480,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-03T19:17:46+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 297255,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.12
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
-          "productId": 152844,
-          "lowPrice": 0.01,
+          "productId": 152846,
+          "lowPrice": 0.02,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.11,
+          "highPrice": 19.84,
+          "marketPrice": 0.14,
           "directLowPrice": null
         }
       }
@@ -790,6 +1516,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-22",
+    "illustrator": "Megumi Mizutani",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/22",
     "localId": "22",
     "name": "Toucannon",
@@ -812,9 +1539,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297256,
+          "tcgplayer": 152848
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.238Z",
+            "unit": "EUR",
+            "idProduct": 297256,
+            "avg": 0.5,
+            "low": 0.02,
+            "trend": 0.39,
+            "avg1": 0.1,
+            "avg7": 0.36,
+            "avg30": 0.3,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.29,
+            "avg1-holo": 0.29,
+            "avg7-holo": 0.15,
+            "avg30-holo": 0.15
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152848,
+              "lowPrice": 0.1,
+              "midPrice": 0.35,
+              "highPrice": 19.84,
+              "marketPrice": 0.36,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -826,6 +1588,23 @@
     ],
     "evolveFrom": "Trumbeak",
     "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 100
+      }
+    ],
     "weaknesses": [
       {
         "type": "Rayo",
@@ -843,18 +1622,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.238Z",
+        "unit": "EUR",
+        "idProduct": 297256,
+        "avg": 0.5,
+        "low": 0.02,
+        "trend": 0.39,
+        "avg1": 0.1,
+        "avg7": 0.36,
+        "avg30": 0.3,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.29,
+        "avg7-holo": 0.15,
+        "avg30-holo": 0.15
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152848,
           "lowPrice": 0.1,
-          "midPrice": 0.24,
-          "highPrice": 19.98,
-          "marketPrice": 0.22,
+          "midPrice": 0.35,
+          "highPrice": 19.84,
+          "marketPrice": 0.36,
           "directLowPrice": null
         }
       }
@@ -863,6 +1658,7 @@
   {
     "category": "Entrenador",
     "id": "tk-sm-l-23",
+    "illustrator": "Ken Sugimori",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/23",
     "localId": "23",
     "name": "Tilo",
@@ -885,9 +1681,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297257,
+          "tcgplayer": 152843
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297257,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.08,
+            "avg1": 0.05,
+            "avg7": 0.1,
+            "avg30": 0.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.15,
+            "avg1-holo": 0.15,
+            "avg7-holo": 0.09,
+            "avg30-holo": 0.09
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152843,
+              "lowPrice": 0.01,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.07,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "effect": "Roba 3 cartas.",
@@ -896,18 +1727,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297257,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.05,
+        "avg7": 0.1,
+        "avg30": 0.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.09
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
-          "productId": 152841,
+          "productId": 152843,
           "lowPrice": 0.01,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.14,
+          "highPrice": 19.84,
+          "marketPrice": 0.07,
           "directLowPrice": null
         }
       }
@@ -916,6 +1763,7 @@
   {
     "category": "Entrenador",
     "id": "tk-sm-l-25",
+    "illustrator": "Ryo Ueda",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/25",
     "localId": "25",
     "name": "Super Ball",
@@ -938,9 +1786,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297258,
+          "tcgplayer": 152847
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297258,
+            "avg": 0.05,
+            "low": 0.02,
+            "trend": 0.14,
+            "avg1": 0.15,
+            "avg7": 0.11,
+            "avg30": 0.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.15,
+            "avg1-holo": 0.15,
+            "avg7-holo": 0.09,
+            "avg30-holo": 0.09
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152847,
+              "lowPrice": 0.02,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.08,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
@@ -949,18 +1832,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-03T19:17:46+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297258,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.14,
+        "avg1": 0.15,
+        "avg7": 0.11,
+        "avg30": 0.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.09
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
-          "productId": 152845,
-          "lowPrice": 0.01,
-          "midPrice": 0.26,
-          "highPrice": 19.98,
-          "marketPrice": 0.3,
+          "productId": 152847,
+          "lowPrice": 0.02,
+          "midPrice": 0.2,
+          "highPrice": 19.84,
+          "marketPrice": 0.08,
           "directLowPrice": null
         }
       }
@@ -969,6 +1868,7 @@
   {
     "category": "Entrenador",
     "id": "tk-sm-l-27",
+    "illustrator": "5ban Graphics",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/27",
     "localId": "27",
     "name": "Malasada Maxi",
@@ -991,9 +1891,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297259,
+          "tcgplayer": 152849
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297259,
+            "avg": null,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.11,
+            "avg7": 0.11,
+            "avg30": 0.12,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.09,
+            "avg1-holo": 0.15,
+            "avg7-holo": 0.09,
+            "avg30-holo": 0.09
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152849,
+              "lowPrice": 0.01,
+              "midPrice": 0.2,
+              "highPrice": 19.84,
+              "marketPrice": 0.1,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "effect": "Cura 20 puntos de daño y elimina 1 Condición Especial de tu Pokémon Activo.",
@@ -1002,18 +1937,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297259,
+        "avg": null,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.11,
+        "avg7": 0.11,
+        "avg30": 0.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.09
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152849,
           "lowPrice": 0.01,
           "midPrice": 0.2,
-          "highPrice": 19.98,
-          "marketPrice": 0.14,
+          "highPrice": 19.84,
+          "marketPrice": 0.1,
           "directLowPrice": null
         }
       }
@@ -1022,6 +1973,7 @@
   {
     "category": "Pokémon",
     "id": "tk-sm-l-29",
+    "illustrator": "match",
     "image": "https://assets.tcgdex.net/es/tk/tk-sm-l/29",
     "localId": "29",
     "name": "Rockruff",
@@ -1044,9 +1996,44 @@
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "básico",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297260,
+          "tcgplayer": 152835
+        },
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297260,
+            "avg": 0.1,
+            "low": 0.02,
+            "trend": 0.28,
+            "avg1": 0.1,
+            "avg7": 0.14,
+            "avg30": 0.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.03,
+            "avg1-holo": 0.02,
+            "avg7-holo": 0.24,
+            "avg30-holo": 0.24
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "normal": {
+              "productId": 152835,
+              "lowPrice": 0.15,
+              "midPrice": 0.29,
+              "highPrice": 19.84,
+              "marketPrice": 0.28,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -1057,6 +2044,21 @@
       "Lucha"
     ],
     "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
     "weaknesses": [
       {
         "type": "Planta",
@@ -1068,18 +2070,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2025-08-16T20:39:55Z",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297260,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.28,
+        "avg1": 0.1,
+        "avg7": 0.14,
+        "avg30": 0.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.03,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.24
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "normal": {
           "productId": 152835,
           "lowPrice": 0.15,
-          "midPrice": 0.28,
-          "highPrice": 19.98,
-          "marketPrice": 0.27,
+          "midPrice": 0.29,
+          "highPrice": 19.84,
+          "marketPrice": 0.28,
           "directLowPrice": null
         }
       }
@@ -1104,16 +2122,51 @@
     },
     "variants": {
       "firstEdition": false,
-      "holo": false,
-      "normal": true,
+      "holo": true,
+      "normal": false,
       "reverse": false,
       "wPromo": false
     },
     "variants_detailed": [
       {
-        "type": "normal",
+        "type": "holo",
         "size": "estándar",
-        "variantId": "generated"
+        "thirdParty": {
+          "cardmarket": 297261,
+          "tcgplayer": 152838
+        },
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-09-28T22:54:33.277Z",
+            "unit": "EUR",
+            "idProduct": 297261,
+            "avg": 0.3,
+            "low": 0.05,
+            "trend": 0.36,
+            "avg1": 0.2,
+            "avg7": 0.31,
+            "avg30": 0.37,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.06,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.28,
+            "avg30-holo": 0.61
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-09-28T22:54:58.337Z",
+            "holofoil": {
+              "productId": 152838,
+              "lowPrice": 0.2,
+              "midPrice": 0.5,
+              "highPrice": 19.84,
+              "marketPrice": 0.51,
+              "directLowPrice": null
+            }
+          }
+        }
       }
     ],
     "dexId": [
@@ -1144,18 +2197,34 @@
       "standard": false,
       "expanded": false
     },
-    "updated": "2026-01-07T20:36:31+01:00",
+    "updated": "2026-08-16T21:14:47+01:00",
     "pricing": {
-      "cardmarket": null,
+      "cardmarket": {
+        "updated": "2026-09-28T22:54:33.277Z",
+        "unit": "EUR",
+        "idProduct": 297261,
+        "avg": 0.3,
+        "low": 0.05,
+        "trend": 0.36,
+        "avg1": 0.2,
+        "avg7": 0.31,
+        "avg30": 0.37,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.06,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.61
+      },
       "tcgplayer": {
         "unit": "USD",
-        "updated": "2026-08-14T08:02:38.181Z",
+        "updated": "2026-09-28T22:54:58.337Z",
         "holofoil": {
           "productId": 152838,
-          "lowPrice": 0.15,
-          "midPrice": 0.49,
-          "highPrice": 19.98,
-          "marketPrice": 0.49,
+          "lowPrice": 0.2,
+          "midPrice": 0.5,
+          "highPrice": 19.84,
+          "marketPrice": 0.51,
           "directLowPrice": null
         }
       }

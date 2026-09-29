@@ -238,20 +238,6 @@
     }
   },
   {
-    "id": "tk-bw-e",
-    "name": "Kit de Entrenador BW (Excadrill)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-bw-z",
     "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
     "serie": {
@@ -266,14 +252,14 @@
     }
   },
   {
-    "id": "tk-xy-n",
-    "name": "Kit de Entrenador XY (Noivern)",
+    "id": "tk-bw-e",
+    "name": "Kit de Entrenador BW (Excadrill)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+    "symbol": null,
     "cardCount": {
       "official": 30,
       "total": 30
@@ -288,6 +274,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-n",
+    "name": "Kit de Entrenador XY (Noivern)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": "tk-xy-latio",
-    "name": "Kit de Entrenador XY (Latios)",
-    "serie": {
-      "id": "tk",
-      "name": "Kits de Entrenador"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "tk-xy-latia",
     "name": "Kit de Entrenador XY (Latias)",
     "serie": {
@@ -350,14 +336,14 @@
     }
   },
   {
-    "id": "tk-xy-p",
-    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+    "id": "tk-xy-latio",
+    "name": "Kit de Entrenador XY (Latios)",
     "serie": {
       "id": "tk",
       "name": "Kits de Entrenador"
     },
     "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -372,6 +358,20 @@
     },
     "logo": null,
     "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol",
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
+    "id": "tk-xy-p",
+    "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+    "serie": {
+      "id": "tk",
+      "name": "Kits de Entrenador"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol",
     "cardCount": {
       "official": 30,
       "total": 30
@@ -840,20 +840,6 @@
     }
   },
   {
-    "id": "xy1",
-    "name": "XY",
-    "serie": {
-      "id": "xy",
-      "name": "XY"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol",
-    "cardCount": {
-      "official": 146,
-      "total": 146
-    }
-  },
-  {
     "id": "xya",
     "name": "Cartas alternativas",
     "serie": {
@@ -865,6 +851,20 @@
     "cardCount": {
       "official": 6,
       "total": 6
+    }
+  },
+  {
+    "id": "xy1",
+    "name": "XY",
+    "serie": {
+      "id": "xy",
+      "name": "XY"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol",
+    "cardCount": {
+      "official": 146,
+      "total": 146
     }
   },
   {
@@ -1036,20 +1036,6 @@
     }
   },
   {
-    "id": "sm1",
-    "name": "Sol y Luna",
-    "serie": {
-      "id": "sm",
-      "name": "Sol y Luna"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol",
-    "cardCount": {
-      "official": 149,
-      "total": 163
-    }
-  },
-  {
     "id": "smp",
     "name": "SL Cartas de promoción",
     "serie": {
@@ -1061,6 +1047,20 @@
     "cardCount": {
       "official": 248,
       "total": 248
+    }
+  },
+  {
+    "id": "sm1",
+    "name": "Sol y Luna",
+    "serie": {
+      "id": "sm",
+      "name": "Sol y Luna"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol",
+    "cardCount": {
+      "official": 149,
+      "total": 163
     }
   },
   {
@@ -1372,20 +1372,6 @@
     }
   },
   {
-    "id": "swsh4.5",
-    "name": "Destinos Brillantes",
-    "serie": {
-      "id": "swsh",
-      "name": "Espada y Escudo"
-    },
-    "logo": "https://assets.tcgdex.net/es/swsh/swsh4.5/logo",
-    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol",
-    "cardCount": {
-      "official": 72,
-      "total": 73
-    }
-  },
-  {
     "id": "swsh4.5sv",
     "name": "Destinos Brillantes Tesoro Brillante",
     "serie": {
@@ -1397,6 +1383,20 @@
     "cardCount": {
       "official": 122,
       "total": 122
+    }
+  },
+  {
+    "id": "swsh4.5",
+    "name": "Destinos Brillantes",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": "https://assets.tcgdex.net/es/swsh/swsh4.5/logo",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol",
+    "cardCount": {
+      "official": 72,
+      "total": 73
     }
   },
   {
@@ -1484,7 +1484,21 @@
     }
   },
   {
-    "id": "swsh9.5tg",
+    "id": "swsh9",
+    "name": "Astros Brillantes",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": "https://assets.tcgdex.net/es/swsh/swsh9/logo",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol",
+    "cardCount": {
+      "official": 172,
+      "total": 186
+    }
+  },
+  {
+    "id": "swsh9tg",
     "name": "Astros Brillantes Galería de Entrenador",
     "serie": {
       "id": "swsh",
@@ -1498,17 +1512,17 @@
     }
   },
   {
-    "id": "swsh9",
-    "name": "Astros Brillantes",
+    "id": "swsh10tg",
+    "name": "Resplandor Astral Galería de Entrenador",
     "serie": {
       "id": "swsh",
       "name": "Espada y Escudo"
     },
-    "logo": "https://assets.tcgdex.net/es/swsh/swsh9/logo",
-    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol",
+    "logo": null,
+    "symbol": null,
     "cardCount": {
-      "official": 172,
-      "total": 186
+      "official": 30,
+      "total": 30
     }
   },
   {
@@ -1526,20 +1540,6 @@
     }
   },
   {
-    "id": "swsh10.5tg",
-    "name": "Resplandor Astral Galería de Entrenador",
-    "serie": {
-      "id": "swsh",
-      "name": "Espada y Escudo"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 30,
-      "total": 30
-    }
-  },
-  {
     "id": "swsh10.5",
     "name": "Pokémon GO",
     "serie": {
@@ -1554,7 +1554,7 @@
     }
   },
   {
-    "id": "swsh11.5tg",
+    "id": "swsh11tg",
     "name": "Origen Perdido Galería de Entrenador",
     "serie": {
       "id": "swsh",
@@ -1582,6 +1582,20 @@
     }
   },
   {
+    "id": "swsh12tg",
+    "name": "Tempestad Plateada Galería de Entrenador",
+    "serie": {
+      "id": "swsh",
+      "name": "Espada y Escudo"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 30,
+      "total": 30
+    }
+  },
+  {
     "id": "swsh12",
     "name": "Tempestad Plateada",
     "serie": {
@@ -1593,20 +1607,6 @@
     "cardCount": {
       "official": 195,
       "total": 215
-    }
-  },
-  {
-    "id": "swsh12.5tg",
-    "name": "Tempestad Plateada Galería de Entrenador",
-    "serie": {
-      "id": "swsh",
-      "name": "Espada y Escudo"
-    },
-    "logo": null,
-    "symbol": null,
-    "cardCount": {
-      "official": 30,
-      "total": 30
     }
   },
   {
@@ -1638,17 +1638,17 @@
     }
   },
   {
-    "id": "sv01",
-    "name": "Escarlata y Púrpura",
+    "id": "svp",
+    "name": "SVP Black Star Promos",
     "serie": {
       "id": "sv",
       "name": "Escarlata y Púrpura"
     },
-    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
+    "logo": null,
+    "symbol": null,
     "cardCount": {
-      "official": 198,
-      "total": 258
+      "official": 225,
+      "total": 225
     }
   },
   {
@@ -1666,17 +1666,17 @@
     }
   },
   {
-    "id": "svp",
-    "name": "SVP Black Star Promos",
+    "id": "sv01",
+    "name": "Escarlata y Púrpura",
     "serie": {
       "id": "sv",
       "name": "Escarlata y Púrpura"
     },
-    "logo": null,
-    "symbol": null,
+    "logo": "https://assets.tcgdex.net/es/sv/sv01/logo",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol",
     "cardCount": {
-      "official": 225,
-      "total": 225
+      "official": 198,
+      "total": 258
     }
   },
   {
@@ -1862,20 +1862,6 @@
     }
   },
   {
-    "id": "sv10.5b",
-    "name": "Fulgor Negro",
-    "serie": {
-      "id": "sv",
-      "name": "Escarlata y Púrpura"
-    },
-    "logo": null,
-    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
-    "cardCount": {
-      "official": 86,
-      "total": 172
-    }
-  },
-  {
     "id": "sv10.5w",
     "name": "Llama Blanca",
     "serie": {
@@ -1887,6 +1873,20 @@
     "cardCount": {
       "official": 86,
       "total": 173
+    }
+  },
+  {
+    "id": "sv10.5b",
+    "name": "Fulgor Negro",
+    "serie": {
+      "id": "sv",
+      "name": "Escarlata y Púrpura"
+    },
+    "logo": null,
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol",
+    "cardCount": {
+      "official": 86,
+      "total": 172
     }
   },
   {
@@ -2068,7 +2068,7 @@
     "symbol": null,
     "cardCount": {
       "official": 0,
-      "total": 60
+      "total": 88
     }
   },
   {
@@ -2153,6 +2153,34 @@
     "cardCount": {
       "official": 84,
       "total": 120
+    }
+  },
+  {
+    "id": "30th-c",
+    "name": "Colección Clásica del 30.º Aniversario",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "30th",
+    "name": "Celebración 30.º Aniversario",
+    "serie": {
+      "id": "me",
+      "name": "Megaevolución"
+    },
+    "logo": null,
+    "symbol": null,
+    "cardCount": {
+      "official": 128,
+      "total": 158
     }
   }
 ]

@@ -1,0 +1,2050 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "30th-c-001",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "001",
+    "name": "Charizard",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Pokémon Power",
+        "name": "Quema de Energía",
+        "effect": "Tantas veces como quieras durante tu turno (antes de tu ataque), puedes transformar toda la Energía unida a Charizard en Energía Fire por el resto de tu turno. Este poder no puede ser usado si Charizard está Confundido, Dormido o Paralizado."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Giro Fuego",
+        "effect": "Descarta 2 cartas de Energía unidas a Charizard para poder usar este ataque.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-002",
+    "illustrator": "Atsuko Nishida",
+    "localId": "002",
+    "name": "Delcatty",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Máxima fuente energética",
+        "effect": "Hace 10 puntos de daño por cada carta de Energía unida a tu Pokémon activo.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-003",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "003",
+    "name": "Metagross",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 100,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Metálica"
+        ],
+        "name": "Arrasar y quemar",
+        "effect": "Puedes descartar tantas cartas de Energía unidas a tus Pokémon en juego como quieras. Si lo haces, este ataque hace 30 puntos de daño más otros 20 puntos de daño adicionales por cada carta de Energía que descartaste.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-004",
+    "illustrator": "Eske Yoshinob",
+    "localId": "004",
+    "name": "Genesect EX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 170,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Señal Roja",
+        "effect": "Cuando unas una Energía Plasma de tu mano a este Pokémon, puedes cambiar a 1 de los Pokémon en Banca de tu rival por su Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Megalocañón",
+        "effect": "Hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. <em>(No apliques Debilidad y Resistencia para los Pokémon en Banca.)</em>",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "30th-c-005",
+    "illustrator": "Ken Sugimori",
+    "localId": "005",
+    "name": "Misty",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-006",
+    "illustrator": "Nakaoka",
+    "localId": "006",
+    "name": "Tyranitar Oscuro",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Moler",
+        "effect": "Hace 10 puntos de daño más otros 10 puntos de daño adicionales por cada Energía unida a Tyranitar Oscuro.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cola giratoria",
+        "effect": "Hace 20 puntos de daño a los Pokémon de tu oponente. <em>(No apliques Debilidad y Resistencia para los Pokémon en la Banca.)</em>"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Despedazar",
+        "effect": "Si el Pokémon defensor es un Pokémon-<em>ex</em>, este ataque hace 70 puntos de daño más 50 puntos de daño adicional.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-007",
+    "illustrator": "Ken Sugimori",
+    "localId": "007",
+    "name": "Sneasel",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Echa 3 monedas a cara o cruz. Este ataque hace 10 puntos de daño multiplicado por la cantidad de caras que hayan salido.",
+        "damage": "10×"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Paliza",
+        "effect": "Echa una moneda a cara o cruz por cada uno de los Pokémon que tengas en juego <em>(incluyendo éste)</em>. Este ataque hace 20 puntos de daño multiplicado por la cantidad de caras que hayan salido.",
+        "damage": "20×"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-008",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "008",
+    "name": "Pikachu y Zekrom GX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 240,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Envite Total",
+        "effect": "Busca en tu baraja hasta 3 cartas de Energía <span class=\"energy-symbol Lightning\" title=\"Rayo\">Lightning</span> y únelas a 1 de tus Pokémon. Después, baraja las cartas de tu baraja.",
+        "damage": 150
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Rayo Relevo {GX}",
+        "effect": "Si este Pokémon tiene por lo menos 3 Energías <span class=\"energy-symbol Lightning\" title=\"Rayo\">Lightning</span> adicionales unidas a él <em>(además de las del coste de este ataque)</em>, este ataque hace 170 puntos de daño a 1 de los Pokémon en Banca de tu rival. <em>(No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque <em>GX</em> en una partida).</em>",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-009",
+    "illustrator": "5ban Graphics",
+    "localId": "009",
+    "name": "Greninja TURBO",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 170,
+    "types": [
+      "Agua"
+    ],
+    "stage": "TURBO",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Shuriken de Agua Gigante",
+        "effect": "Una vez durante tu turno (antes de tu ataque), si este Pokémon es tu Pokémon Activo, puedes descartar 1 carta de Energía Water de tu mano. Si lo haces, pon 6 contadores de daño en 1 de los Pokémon de tu rival."
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-010",
+    "illustrator": "Ken Sugimori",
+    "localId": "010",
+    "name": "Uxie",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Restablecimiento psíquico",
+        "effect": "Puedes poner a Uxie y todas las cartas unidas a él al fondo de tu mazo, en cualquier orden.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-011",
+    "illustrator": "Makoto Imai",
+    "localId": "011",
+    "name": "Crobat G",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "SP",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Colmillo tóxico",
+        "effect": "El Pokémon Defensor pasa a estar Envenenado. Pon 2 contadores de daño en vez de 1 sobre el Pokémon Defensor entre turno y turno."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-012",
+    "illustrator": "Hideki Ishikawa",
+    "localId": "012",
+    "name": "Raikou",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 110,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Rayo",
+          "Metálica"
+        ],
+        "name": "Disparo Increíble",
+        "effect": "Este ataque también hace 120 puntos de daño a 1 de los Pokémon en Banca de tu rival. <em>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</em>",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-013",
+    "illustrator": "5ban Graphics",
+    "localId": "013",
+    "name": "Buzzwole GX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 190,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puño Propulsión",
+        "effect": "Este ataque hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival. <em>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</em>",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Impacto Nudillo",
+        "effect": "Este Pokémon no puede atacar durante tu próximo turno.",
+        "damage": 160
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Expansión {GX}",
+        "effect": "Este ataque hace 40 puntos de daño por cada carta de Premio que te quede. <em>(No puedes usar más de 1 ataque <em>GX</em> en una partida).</em>",
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-014",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "014",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 40,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Golpe de trueno",
+        "effect": "Echa la moneda a cara o cruz. Si sale cruz, Pikachu se hace 10 puntos de daño a sí mismo.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-015",
+    "illustrator": "Ken Sugimori",
+    "localId": "015",
+    "name": "Jigglypuff de Erika",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Terapia de Grupo",
+        "effect": "Tu rival y tú quitáis 1 contador de daño de cada Pokémon que tenga contadores de daño."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Retenido",
+        "effect": "Si el Pokémon a la defensa no tiene contadores de daño, este ataque hace 40 puntos de daño. Si tiene algún contador de daño, este ataque hace 10 puntos de daño.",
+        "damage": "40-"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-016",
+    "illustrator": "Eske Yoshinob",
+    "localId": "016",
+    "name": "Rayquaza EX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 170,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Rugido Celestial",
+        "effect": "Descarta las 3 primeras cartas de tu baraja. Si entre esas cartas hay cartas de Energía, únelas a este Pokémon."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Rayo"
+        ],
+        "name": "Explosión Dragón",
+        "effect": "Descarta todas las Energías Básicas <span class=\"energy-symbol Fire\" title=\"Fuego\">Fire</span> o todas las Energías Básicas <span class=\"energy-symbol Lightning\" title=\"Rayo\">Lightning</span> unidas a este Pokémon. Este ataque hace 60 puntos de daño por cada carta de Energía que hayas descartado.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragón",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-017",
+    "illustrator": "PLANETA",
+    "localId": "017",
+    "name": "Solgaleo GX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 250,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "GX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Camino Ultra",
+        "effect": "Una vez durante tu turno (antes de tu ataque), puedes cambiar tu Pokémon Activo por 1 de tus Pokémon en Banca."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Meteoimpacto",
+        "effect": "Descarta todas las Energías de este Pokémon.",
+        "damage": 230
+      },
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Explosión Sol {GX}",
+        "effect": "Busca en tu baraja hasta 5 cartas de Energía y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja. <em>(No puedes usar más de 1 ataque <em>GX</em> en una partida)</em>."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-018",
+    "illustrator": "Takashi Yamaguchi",
+    "localId": "018",
+    "name": "Gengar",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Empujón en la Oscuridad",
+        "effect": "Mira la mano de tu rival y elige Pokémon que encuentres allí hasta un máximo igual al número de Energías <span class=\"energy-symbol Psychic\" title=\"Psíquico\">Psychic</span> unidas a Gengar. Pon los Pokémon que hayas elegido en la Zona Perdida."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Caída Maldita",
+        "effect": "Pon 4 contadores de daño en los Pokémon de tu rival de la manera que desees."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Incolora",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-019",
+    "illustrator": "Shinji Higuchi + Noriko Takaya 樋口 真嗣 + 高屋 法子",
+    "localId": "019",
+    "name": "Darkrai & Cresselia LEYENDA",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "Leyenda",
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-020",
+    "illustrator": "Shinji Higuchi",
+    "localId": "020",
+    "name": "Darkrai & Cresselia LEYENDA",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "Leyenda",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Crisis Perdida",
+        "effect": "Elige 2 Energías unidas a Darkrai & Cresselia LEYENDA y ponlas en la Zona Perdida. Si alguno de los Pokémon de tu rival fuese a quedar Fuera de Combate por daño de este ataque, pon ese Pokémon y todas las cartas unidas a él en la Zona Perdida en vez de descartarlo.",
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Invitación Lunar",
+        "effect": "Mueve tantos contadores de daño de los Pokémon de tu rival como quieras a cualquiera de los otros Pokémon de tu rival de la manera que desees."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "30th-c-021",
+    "illustrator": "Ken Sugimori",
+    "localId": "021",
+    "name": "N",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-022",
+    "illustrator": "Ryo Ueda",
+    "localId": "022",
+    "name": "Palkia",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Hidrorreflejo",
+        "effect": "Puedes mover todas las cartas de Energía unidas a Palkia a tus Pokémon en Banca de cualquier modo que quieras. (Ignora este efecto si no tienes Pokémon en Banca.)",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-023",
+    "illustrator": "5ban Graphics",
+    "localId": "023",
+    "name": "M Gardevoir EX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 210,
+    "types": [
+      "Hada"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Hada",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Flecha Brillante",
+        "effect": "Este ataque hace 30 puntos de daño por cada Energía <span class=\"energy-symbol Fairy\" title=\"Hada\">Fairy</span> unida a todos tus Pokémon.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-024",
+    "illustrator": "Hironobu Yoshida",
+    "localId": "024",
+    "name": "Celebi Luminoso",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Agua Sanadora",
+        "effect": "Quita de 1 de tus Pokémon en Banca una cantidad de contadores de daño igual al número de cartas de Energía <span class=\"energy-symbol Water\" title=\"Agua\">Water</span> unidas a Celebi Luminoso. Si el Pokémon tiene menos contadores de daño que esa cantidad, quítalos todos."
+      },
+      {
+        "cost": [
+          "Planta",
+          "Psíquico"
+        ],
+        "name": "Hoja Milagrosa",
+        "effect": "Echa a cara o cruz una cantidad de monedas igual al número de Energías unidas al Pokémon a la defensa. Si sale al menos 1 cara, el Pokémon a la defensa pasa a estar Dormido, Confundido o Envenenado (a tu elección).",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-025",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "025",
+    "name": "Scizor ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Ala de acero",
+        "effect": "Durante el siguiente turno de tu rival, cualquier daño hecho a Scizor-<em>ex</em> por ataques es reducido en 20 <em>(después de aplicar Debilidad y Resistencia)</em>.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Atajar",
+        "effect": "Si el Pokémon Defensor es un Pokémon Evolucionado, este ataque hace 50 puntos de daño más 30 puntos de daño adicional.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-026",
+    "illustrator": "5ban Graphics",
+    "localId": "026",
+    "name": "Mew VMAX",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 310,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Fusión Cruzado",
+        "effect": "Elige 1 de los ataques de tus Pokémon Golpe Fusión en Banca y úsalo para este ataque."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Maximilagro",
+        "effect": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-027",
+    "illustrator": "5ban Graphics",
+    "localId": "027",
+    "name": "Arceus V-ASTRO",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 280,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Astroalbor",
+        "effect": "Durante tu turno, puedes buscar en tu baraja hasta 2 cartas y ponerlas en tu mano. Después, baraja las cartas de tu baraja. (No puedes usar más de 1 Poder V-ASTRO en una partida)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Lucero Trinidad",
+        "effect": "Busca en tu baraja hasta 3 cartas de Energía Básica y únelas a tus Pokémon V de la manera que desees. Después, baraja las cartas de tu baraja.",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-028",
+    "illustrator": "5ban Graphics",
+    "localId": "028",
+    "name": "Zacian V",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 220,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Espada Indómita",
+        "effect": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Cuchilla Osada",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 230
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-029",
+    "illustrator": "Naoyo Kimura",
+    "localId": "029",
+    "name": "Lugia",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Psíquico"
+        ],
+        "name": "Psíquico",
+        "effect": "Hace 10 puntos de daño multiplicado por la cantidad de cartas de Energía unidas al Pokémon a la defensa.",
+        "damage": "10×"
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Explosión Vapor",
+        "effect": "Descarta 1 carta de Energía unida a Lugia.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "30th-c-030",
+    "illustrator": "Shinji Kanda",
+    "localId": "030",
+    "name": "Magikarp",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 30
+      },
+      "id": "30th-c",
+      "name": "Colección Clásica del 30.º Aniversario"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "As del Chapoteo",
+        "effect": "Lanza 2 monedas. Si sale cara en ambas, este ataque hace 20 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-09-17T00:45:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]
