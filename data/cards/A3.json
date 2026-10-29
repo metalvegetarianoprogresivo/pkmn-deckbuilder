@@ -15510,6 +15510,77 @@
   },
   {
     "category": "Pokémon",
+    "id": "A3-219",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tcgp/A3/219",
+    "localId": "219",
+    "name": "Starmie",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 155,
+        "total": 239
+      },
+      "id": "A3",
+      "name": "Guardianes Celestiales"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      121
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "description": "Su órgano central, conocido como núcleo, brilla\ncon los colores del arcoíris cuando se dispone\na liberar sus potentes poderes psíquicos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Chapoteo Ondulante",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_A3-solgaleo",
+        "name": "Solgaleo"
+      }
+    ],
+    "updated": "2026-08-17T21:05:47Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
     "id": "A3-220",
     "illustrator": "kurumitsu",
     "image": "https://assets.tcgdex.net/es/tcgp/A3/220",

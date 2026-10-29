@@ -1,18 +1,16 @@
 {
-  "lastUpdated": "2026-10-15T07:29:49.272Z",
+  "lastUpdated": "2026-10-29T07:36:06.280Z",
   "lang": "es",
   "source": "https://api.tcgdex.net/v2",
-  "buildDurationMin": 46,
+  "buildDurationMin": 62.8,
   "totalSets": 156,
-  "totalCards": 15505,
-  "standardLegalCards": 3227,
-  "expandedLegalCards": 13957,
-  "errors": 5,
+  "totalCards": 15507,
+  "standardLegalCards": 3226,
+  "expandedLegalCards": 13958,
+  "errors": 3,
   "errorDetails": [
-    "smp-SM101: HTTP 503: Service Unavailable",
-    "swsh8-261: HTTP 503: Service Unavailable",
-    "swsh10-204: HTTP 503: Service Unavailable",
-    "swsh10-205: HTTP 503: Service Unavailable",
-    "A3-219: HTTP 503: Service Unavailable"
+    "swsh10-043: HTTP 503: Service Unavailable",
+    "swsh10-115: HTTP 503: Service Unavailable",
+    "sv08.5-014: HTTP 503: Service Unavailable"
   ]
 }
